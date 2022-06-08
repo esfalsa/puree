@@ -4,7 +4,7 @@ on:
     - cron: '0 8 * * *'
   workflow_dispatch:
 jobs:
-  download-daily-dump:
+  find-detags:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

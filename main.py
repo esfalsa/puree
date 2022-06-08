@@ -5,6 +5,9 @@ root = tree.getroot()
 
 regions = []
 
+update_start = int(root.find("REGION").find("LASTUPDATE").text)
+update_length = int(root.find("REGION[last()]").find("LASTUPDATE").text) - update_start
+
 
 def find_issues(region):
     issues = []
@@ -60,8 +63,12 @@ for region in root.findall("REGION"):
     issues = find_issues(region)
     if len(issues) > 0:
         name = region.find("NAME").text
+        progress = (int(region.find("LASTUPDATE").text) - update_start) / update_length
+        minor_progress = progress * 3600
+        major_progress = progress * 5400
+
         regions.append(
-            f"<li><a href='//www.nationstates.net/region={name}' target='_blank'>{name}</a> ({', '.join(issues)})</li>\n"
+            f"<tr>\n  <td><a href='//www.nationstates.net/region={name}' target='_blank'>{name}</a></td>\n  <td>{', '.join(issues)}</td>\n  <td>+{int(minor_progress // 60)}:{round(minor_progress % 60):02d}</td>\n  <td>+{int(major_progress // 60)}:{round(major_progress % 60):02d}</td>\n</tr>\n"
         )
 
 with open("_includes/detags.html", "w") as outfile:

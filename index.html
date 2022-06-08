@@ -5,6 +5,16 @@ title: Home
 
 <p><strong>Last updated:</strong> {% include lastupdate.html %}</p>
 
-<ul>
-  {% include detags.html %}
-</ul>
+<table class="table table-sm table-hover">
+  <thead>
+    <tr>
+      <th scope="col">Region</th>
+      <th scope="col">Issues</th>
+      <th scope="col">Minor</th>
+      <th scope="col">Major</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% include detags.html %}
+  </tbody>
+</table>
