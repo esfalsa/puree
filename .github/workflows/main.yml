@@ -1,0 +1,39 @@
+name: Find Detags
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+jobs:
+  download-daily-dump:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Save Date
+        run: echo "DATE=$(date --date="yesterday" +"%Y-%m-%d")" >> ${GITHUB_ENV}
+
+      - name: Download Daily Dump
+        run: curl -A "Purée by Esfalsa (esfalsa.github.io)" https://www.nationstates.net/pages/regions.xml.gz --output "$DATE-regions.xml.gz"
+
+      - name: Unzip Daily Dump
+        run: gzip -d "$DATE-regions.xml.gz"
+
+      - name: Copy Daily Dump
+        run: cp -f "$DATE-regions.xml" "regions.xml"
+
+      - name: Setup Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      
+      - name: Run Detag Finder
+        run: python main.py
+      
+      - name: Record Update Time
+        run: echo "$(date)" > _includes/lastupdate.html
+
+      - name: Commit Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Purée ${{ env.DATE }}

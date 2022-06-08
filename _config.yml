@@ -1,0 +1,13 @@
+url: "https://esfalsa.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/puree" # the subpath of your site, e.g. /blog
+title: "Purée" # the name of your site, e.g. ACME Corp.
+
+sass:
+    load_paths:
+        - _sass
+        - node_modules
+
+exclude: []
+
+plugins:
+    - jekyll-seo-tag
