@@ -32,6 +32,7 @@ jobs:
       
       - name: Record Update Time
         run: echo "$(date)" > _includes/lastupdate.html
+        run: echo $DATE > _includes/lastdump.html
 
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v4

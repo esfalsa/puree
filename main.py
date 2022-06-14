@@ -72,3 +72,6 @@ for region in root.findall("REGION"):
 
 with open("_includes/detags.html", "w") as outfile:
     outfile.writelines(regions)
+
+with open("_includes/count.html", "w") as outfile:
+    outfile.write(str(len(regions)))

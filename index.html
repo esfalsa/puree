@@ -3,7 +3,13 @@ layout: default
 title: Home
 ---
 
-<p><strong>Last updated:</strong> {% include lastupdate.html %}</p>
+<div class="card my-2">
+  <div class="card-body">
+    <p class="mb-1"><strong>Last updated:</strong> {% include lastupdate.html %}</p>
+    <p class="mb-1"><strong>Last daily dump:</strong> {% include lastdump.html %}</p>
+    <p class="m-0"><strong>Regions found:</strong> {% include count.html %}</p>
+  </div>
+</div>
 
 <table class="table table-sm table-hover" style="font-variant-numeric: tabular-nums;">
   <thead>
