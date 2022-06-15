@@ -31,8 +31,9 @@ jobs:
         run: python main.py
       
       - name: Record Update Time
-        run: echo "$(date)" > _includes/lastupdate.html
-        run: echo $DATE > _includes/lastdump.html
+        run: |
+          echo "$(date)" > _includes/lastupdate.html
+          echo $DATE > _includes/lastdump.html
 
       - name: Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v4
