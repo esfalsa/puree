@@ -1,6 +1,10 @@
 from datetime import timedelta
 import xml.etree.ElementTree as ElementTree
 
+passworded = (
+    ElementTree.parse("passworded.xml").getroot().find("REGIONS").text.split(",")
+)
+
 tree = ElementTree.parse("regions.xml")
 root = tree.getroot()
 
@@ -61,6 +65,8 @@ def find_issues(region):
 
 
 for region in root.findall("REGION"):
+    if region.find("NAME").text in passworded:
+        continue
     issues = find_issues(region)
     if len(issues) > 0:
         name = region.find("NAME").text
