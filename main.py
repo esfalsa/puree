@@ -33,6 +33,13 @@ def find_issues(region):
         issues.append("WFE")
 
     if any(
+        officer.find("OFFICE").text
+        in ["Raider Unity", "Thorn1000", "JOIN TBH", "Join %%Lily%%"]
+        for officer in region.find("OFFICERS").findall("OFFICER")
+    ):
+        issues.append("RO")
+
+    if any(
         region.findall(f"./EMBASSIES/EMBASSY[.='{substring}']")
         for substring in [
             "The Black Hawks",
