@@ -11,16 +11,27 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Save Date
-        run: echo "DATE=$(date --date="yesterday" +"%Y-%m-%d")" >> ${GITHUB_ENV}
+        run: |
+          echo "YEAR=$(date --date="yesterday" +"%Y")" >> ${GITHUB_ENV}
+          echo "MONTH=$(date --date="yesterday" +"%m")" >> ${GITHUB_ENV}
+          echo "DAY=$(date --date="yesterday" +"%d")" >> ${GITHUB_ENV}
+          echo "DATE=$(date --date="yesterday" +"%Y-%m-%d")" >> ${GITHUB_ENV}
+          echo "DATEPATH=$(date --date="yesterday" +"%Y/%m/%d")" >> ${GITHUB_ENV}
+
+      - name: Create Output Directories
+        run: |
+          [[ -d "$YEAR" ]] || mkdir "$YEAR"
+          [[ -d "$YEAR/$MONTH" ]] || mkdir "$YEAR/$MONTH"
+          [[ -d "$YEAR/$MONTH/$DAY" ]] || mkdir "$YEAR/$MONTH/$DAY"
 
       - name: Download Daily Dump
-        run: curl -A "Purée by Esfalsa (esfalsa.github.io)" https://www.nationstates.net/pages/regions.xml.gz --output "$DATE-regions.xml.gz"
+        run: curl -A "Purée by Esfalsa (esfalsa.github.io)" https://www.nationstates.net/pages/regions.xml.gz --output "$DATEPATH/regions.xml.gz"
 
       - name: Unzip Daily Dump
-        run: gzip -d "$DATE-regions.xml.gz"
+        run: gzip -d "$DATEPATH/regions.xml.gz"
 
       - name: Copy Daily Dump
-        run: cp -f "$DATE-regions.xml" "regions.xml"
+        run: cp -f "$DATEPATH/regions.xml" "regions.xml"
 
       - name: Get Passworded Regions
         run: curl -A "Purée by Esfalsa (esfalsa.github.io)" https://www.nationstates.net/cgi-bin/api.cgi\?q\=regionsbytag\;tags\=password --output "passworded.xml"
