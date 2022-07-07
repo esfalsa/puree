@@ -1,4 +1,4 @@
-from datetime import timedelta
+from datetime import timedelta, datetime
 import xml.etree.ElementTree as ElementTree
 
 passworded = (
@@ -88,3 +88,13 @@ with open("_includes/detags.html", "w") as outfile:
 
 with open("_includes/count.html", "w") as outfile:
     outfile.write(str(len(regions)))
+
+with open("_data/history.csv", "a") as outfile:
+    outfile.write(
+        f"{(datetime.fromtimestamp(update_start)).strftime('%d %B %Y')},{str(len(regions))}\n"
+    )
+
+with open("history.csv", "a") as outfile:
+    outfile.write(
+        f"{(datetime.fromtimestamp(update_start)).strftime('%d %B %Y')},{str(len(regions))}\n"
+    )
