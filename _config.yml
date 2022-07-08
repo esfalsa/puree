@@ -3,11 +3,13 @@ baseurl: "/puree" # the subpath of your site, e.g. /blog
 title: "Purée" # the name of your site, e.g. ACME Corp.
 
 sass:
-    load_paths:
-        - _sass
-        - node_modules
+  load_paths:
+    - _sass
+    - node_modules
 
 exclude: []
 
 plugins:
-    - jekyll-seo-tag
+  - jekyll-seo-tag
+
+permalink: /:categories/:year/:month/:day/:title
