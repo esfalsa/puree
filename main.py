@@ -91,10 +91,10 @@ with open("_includes/count.html", "w") as outfile:
 
 with open("_data/history.csv", "a") as outfile:
     outfile.write(
-        f"{(datetime.fromtimestamp(update_start)).strftime('%d %B %Y')},{str(len(regions))}\n"
+        f"{(datetime.utcfromtimestamp(update_start) - timedelta(1)).strftime('%d %B %Y')},{str(len(regions))}\n"
     )
 
 with open("history.csv", "a") as outfile:
     outfile.write(
-        f"{(datetime.fromtimestamp(update_start)).strftime('%d %B %Y')},{str(len(regions))}\n"
+        f"{(datetime.utcfromtimestamp(update_start) - timedelta(1)).strftime('%d %B %Y')},{str(len(regions))}\n"
     )
