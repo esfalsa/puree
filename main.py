@@ -78,9 +78,11 @@ for region in root.findall("REGION"):
     if len(issues) > 0:
         name = region.find("NAME").text
         progress = (int(region.find("LASTUPDATE").text) - update_start) / update_length
+        minor_progress = timedelta(seconds=round(progress * 3600))
+        major_progress = timedelta(seconds=round(progress * 5400))
 
         regions.append(
-            f"<tr>\n  <td><a href='//www.nationstates.net/region={name}' target='_blank'>{name}</a></td>\n  <td>{', '.join(issues)}</td>\n  <td>+{timedelta(seconds=round(progress * 3600))}</td>\n  <td>+{timedelta(seconds=round(progress * 5400))}</td>\n</tr>\n"
+            f"""<tr>\n  <td><a href='//www.nationstates.net/region={name}' target='_blank'>{name}</a></td>\n  <td>{', '.join(issues)}</td>\n  <td><span seconds='{minor_progress.total_seconds()}' minor>+{str(minor_progress)}</span></td>\n  <td><span seconds='{major_progress.total_seconds()}' major>+{str(major_progress)}</span></td>\n</tr>\n"""
         )
 
 with open("_includes/detags.html", "w") as outfile:

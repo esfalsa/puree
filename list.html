@@ -1,0 +1,100 @@
+---
+layout: default
+title: List Generator
+---
+
+<div class="card my-2">
+  <div class="card-body">
+    <form id="generate-list-form">
+      <div class="row mb-3">
+        <div class="col">
+          <label for="update" class="form-label">Update</label>
+          <select class="form-select" name="update" id="update" required>
+            <option disabled selected value>Select an update…</option>
+            <option value="major">Major</option>
+            <option value="minor">Minor</option>
+          </select>
+        </div>
+        <div class="col">
+          <label for="switch-length" class="form-label"
+            >Minimum Switch Length (seconds)</label
+          >
+          <input
+            type="number"
+            class="form-control"
+            id="switch-length"
+            min="1"
+            placeholder="30"
+            required
+          />
+        </div>
+      </div>
+      <button type="submit" class="btn btn-primary">Generate List</button>
+    </form>
+  </div>
+</div>
+
+<div class="overflow-scroll">
+  <table
+    class="table table-sm table-hover"
+    style="font-variant-numeric: tabular-nums"
+    id="detag-table"
+    hidden
+  >
+    <thead>
+      <tr>
+        <th scope="col">Region</th>
+        <th scope="col">Issues</th>
+        <th scope="col">Minor</th>
+        <th scope="col">Major</th>
+      </tr>
+    </thead>
+    <tbody id="detag-tbody">
+      {% include detags.html %}
+    </tbody>
+  </table>
+</div>
+
+<script>
+  let regions = document.querySelectorAll("#detag-tbody > tr");
+
+  document.addEventListener("DOMContentLoaded", () => {
+    regions.forEach((region) => {
+      region.hidden = true;
+    });
+  });
+
+  document
+    .querySelector("#generate-list-form")
+    .addEventListener("submit", (e) => {
+      e.preventDefault();
+
+      let update = document.querySelector("#update").value;
+      let switchLength = parseInt(
+        document.querySelector("#switch-length").value
+      );
+
+      regions[0].hidden = false;
+
+      let progress = parseFloat(
+        regions[0]
+          .querySelector(`span[seconds][${update}]`)
+          .getAttribute("seconds")
+      );
+
+      for (let i = 1; i < regions.length; i++) {
+        let regionProgress = parseFloat(
+          regions[i]
+            .querySelector(`span[seconds][${update}]`)
+            .getAttribute("seconds")
+        );
+
+        if (regionProgress >= progress + switchLength) {
+          regions[i].hidden = false;
+          progress = regionProgress;
+        }
+      }
+
+      document.querySelector("#detag-table").hidden = false;
+    });
+</script>
