@@ -1,6 +1,6 @@
-url: "https://esfalsa.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/puree" # the subpath of your site, e.g. /blog
-title: "Purée" # the name of your site, e.g. ACME Corp.
+url: "https://esfalsa.github.io/"
+baseurl: "/puree"
+title: "Purée"
 
 sass:
   load_paths:
