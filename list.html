@@ -76,17 +76,13 @@ title: List Generator
 
       regions[0].hidden = false;
 
-      let progress = parseFloat(
-        regions[0]
-          .querySelector(`span[seconds][${update}]`)
-          .getAttribute("seconds")
+      let progress = parseInt(
+        regions[0].querySelector(`td[${update}]`).getAttribute(update)
       );
 
       for (let i = 1; i < regions.length; i++) {
-        let regionProgress = parseFloat(
-          regions[i]
-            .querySelector(`span[seconds][${update}]`)
-            .getAttribute("seconds")
+        let regionProgress = parseInt(
+          regions[i].querySelector(`td[${update}]`).getAttribute(update)
         );
 
         if (regionProgress >= progress + switchLength) {
