@@ -1,0 +1,6 @@
+---
+---
+
+Region,Issues,Minor,MinorTimestamp,Major,MajorTimestamp
+{% for region in site.data.detags %}"{{region.Region}}","{{region.Issues}}",{{region.Minor}},{{region.MinorTimestamp}},{{region.Major}},{{region.MajorTimestamp}}
+{% endfor %}
