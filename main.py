@@ -34,7 +34,7 @@ def find_issues(region):
 
     if any(
         officer.find("OFFICE").text
-        in ["Raider Unity", "Thorn1000", "JOIN TBH", "Join %%Lily%%"]
+        in ["Raider Unity", "Thorn1000", "JOIN TBH", "Join %%Lily%%", "Lily"]
         for officer in region.find("OFFICERS").findall("OFFICER")
     ):
         issues.append("RO")
@@ -82,21 +82,31 @@ for region in root.findall("REGION"):
         major_progress = round(progress * 5400)
 
         regions.append(
-            f"""<tr>\n  <td><a href='//www.nationstates.net/region={name}' target='_blank'>{name}</a></td>\n  <td>{', '.join(issues)}</td>\n  <td minor='{minor_progress}'>+{timedelta(seconds=minor_progress)}</td>\n  <td major='{major_progress}'>+{timedelta(seconds=major_progress)}</td>\n</tr>\n"""
+            {
+                "region": f'"{name}"',
+                "issues": f"\"{', '.join(issues)}\"",
+                "minor": str(minor_progress),
+                "minor_timestamp": str(timedelta(seconds=minor_progress)),
+                "major": str(major_progress),
+                "major_timestamp": str(timedelta(seconds=major_progress)),
+            }
         )
 
-with open("_includes/detags.html", "w") as outfile:
-    outfile.writelines(regions)
+with open("_data/detags.csv", "w") as outfile:
+    outfile.writelines(
+        ["Region,Issues,Minor,MinorTimestamp,Major,MajorTimestamp\n"]
+        + [(",".join(list(region.values())) + "\n") for region in regions]
+    )
+
+    # for region in regions:
+    #     outfile.write(
+    #         f"""<tr>\n  <td><a href='//www.nationstates.net/region={region["name"]}' target='_blank'>{region["name"]}</a></td>\n  <td>{', '.join(issues)}</td>\n  <td minor='{minor_progress}'>+{timedelta(seconds=minor_progress)}</td>\n  <td major='{major_progress}'>+{timedelta(seconds=major_progress)}</td>\n</tr>\n"""
+    #     )
 
 with open("_includes/count.html", "w") as outfile:
     outfile.write(str(len(regions)))
 
 with open("_data/history.csv", "a") as outfile:
-    outfile.write(
-        f"{(datetime.utcfromtimestamp(update_start) - timedelta(1)).strftime('%d %B %Y')},{str(len(regions))}\n"
-    )
-
-with open("history.csv", "a") as outfile:
     outfile.write(
         f"{(datetime.utcfromtimestamp(update_start) - timedelta(1)).strftime('%d %B %Y')},{str(len(regions))}\n"
     )

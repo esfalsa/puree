@@ -88,6 +88,8 @@ title: List Generator
         if (regionProgress >= progress + switchLength) {
           regions[i].hidden = false;
           progress = regionProgress;
+        } else {
+          regions[i].hidden = true;
         }
       }
 
