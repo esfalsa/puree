@@ -7,10 +7,13 @@ sass:
     - _sass
     - node_modules
 
+include: [node_modules]
+
 exclude:
+  - package.json
+  - package-lock.json
   - Gemfile
   - Gemfile.lock
-  - node_modules
 
 plugins:
   - jekyll-seo-tag

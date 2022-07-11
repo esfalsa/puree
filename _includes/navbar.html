@@ -1,39 +1,51 @@
-<nav class="container-lg border-bottom mb-3">
-  <div class="col-lg-10 mx-auto d-flex py-3">
-    <a
-      href="{{site.baseurl}}/"
-      class="d-flex align-items-center me-auto text-dark text-decoration-none"
-    >
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        width="1.5em"
-        height="1.5em"
-        fill="currentColor"
-        class="bi bi-droplet-fill me-2"
-        viewBox="0 0 16 16"
-      >
-        <path
-          d="M8 16a6 6 0 0 0 6-6c0-1.655-1.122-2.904-2.432-4.362C10.254 4.176 8.75 2.503 8 0c0 0-6 5.686-6 10a6 6 0 0 0 6 6ZM6.646 4.646l.708.708c-.29.29-1.128 1.311-1.907 2.87l-.894-.448c.82-1.641 1.717-2.753 2.093-3.13Z"
-        />
-      </svg>
-      <span class="fs-4 fw-bold">Purée</span>
-    </a>
+<nav class="navbar navbar-expand-sm border-bottom mb-3">
+  <div class="container-lg">
+    <div class="col-12 col-lg-10 mx-auto navbar">
+      <div class="container-fluid px-0">
+        <a
+          href="{{site.baseurl}}/"
+          class="d-flex align-items-center me-auto text-dark text-decoration-none"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="1.5em"
+            height="1.5em"
+            fill="currentColor"
+            class="bi bi-droplet-fill me-2"
+            viewBox="0 0 16 16"
+          >
+            <path
+              d="M8 16a6 6 0 0 0 6-6c0-1.655-1.122-2.904-2.432-4.362C10.254 4.176 8.75 2.503 8 0c0 0-6 5.686-6 10a6 6 0 0 0 6 6ZM6.646 4.646l.708.708c-.29.29-1.128 1.311-1.907 2.87l-.894-.448c.82-1.641 1.717-2.753 2.093-3.13Z"
+            />
+          </svg>
+          <span class="fs-4 fw-bold">Purée</span>
+        </a>
+        <button
+          class="navbar-toggler collapsed"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbar"
+          aria-controls="navbar"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
 
-    <ul class="nav nav-pills">
-      {% for node in site.html_pages %} {% if node.title != "Home" %} {% if
-      page.url == node.url %}
-      <li class="nav-item">
-        <a href="{{site.baseurl}}{{node.url}}" class="nav-link active"
-          >{{node.title}}</a
-        >
-      </li>
-      {% else %}
-      <li class="nav-item">
-        <a href="{{site.baseurl}}{{node.url}}" class="nav-link"
-          >{{node.title}}</a
-        >
-      </li>
-      {% endif %} {% endif %} {% endfor %}
-    </ul>
+        <div class="navbar-collapse collapse mt-3 mt-sm-0" id="navbar">
+          <div class="me-auto"></div>
+          <div class="navbar-nav gap-sm-3">
+            {% for node in site.html_pages %} {% unless node.title == "Home" %}
+              <a
+                href="{{site.baseurl}}{{node.url}}"
+                class="nav-link px-0{% if page.url == node.url %} active{% endif %}"
+                {% if page.url == node.url %}aria-current="page"{% endif %}
+                >{{node.title}}</a
+              >
+            {% endunless %} {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </nav>
