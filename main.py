@@ -98,11 +98,6 @@ with open("_data/detags.csv", "w") as outfile:
         + [(",".join(list(region.values())) + "\n") for region in regions]
     )
 
-    # for region in regions:
-    #     outfile.write(
-    #         f"""<tr>\n  <td><a href='//www.nationstates.net/region={region["name"]}' target='_blank'>{region["name"]}</a></td>\n  <td>{', '.join(issues)}</td>\n  <td minor='{minor_progress}'>+{timedelta(seconds=minor_progress)}</td>\n  <td major='{major_progress}'>+{timedelta(seconds=major_progress)}</td>\n</tr>\n"""
-    #     )
-
 with open("_includes/count.html", "w") as outfile:
     outfile.write(str(len(regions)))
 

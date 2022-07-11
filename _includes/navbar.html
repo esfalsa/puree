@@ -35,7 +35,7 @@
         <div class="navbar-collapse collapse mt-3 mt-sm-0" id="navbar">
           <div class="me-auto"></div>
           <div class="navbar-nav gap-sm-3">
-            {% for node in site.html_pages %} {% unless node.title == "Home" %}
+            {% for node in site.html_pages %} {% unless node.title == "Home" or node.dir contains "node_modules" %}
               <a
                 href="{{site.baseurl}}{{node.url}}"
                 class="nav-link px-0{% if page.url == node.url %} active{% endif %}"
