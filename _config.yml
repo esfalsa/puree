@@ -7,7 +7,7 @@ sass:
     - _sass
     - node_modules
 
-include: [node_modules]
+include: [_data]
 
 exclude:
   - package.json

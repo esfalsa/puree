@@ -5,7 +5,7 @@ title: History
 
 <div class="card my-2">
   <div class="card-body">
-    <a href="history.csv" class="text-decoration-none">
+    <a href="_data/history.csv" class="text-decoration-none">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 20 20"
@@ -24,7 +24,9 @@ title: History
   </div>
 </div>
 
-<canvas id="history" width="800" height="400"></canvas>
+<div class="mh-100">
+  <canvas id="history" width="800" height="400"></canvas>
+</div>
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js@latest"></script>
 <script>
@@ -48,6 +50,7 @@ title: History
     },
     options: {
       responsive: true,
+      // maintainAspectRatio: false,
       plugins: {
         legend: {
             display: false,
