@@ -15,6 +15,21 @@ update_length = int(root.find("REGION[last()]").find("LASTUPDATE").text) - updat
 
 
 def find_issues(region):
+    if (
+        region.find("NAME").text
+        in [
+            "Suspicious",
+            "The Black Hawks",
+            "The Brotherhood of Malice",
+            "Lily",
+            "Osiris",
+        ]
+        or "X" not in region.find("DELEGATEAUTH").text
+        or region.findall("./EMBASSIES/EMBASSY[.='Antifa']")
+        or region.find("DELEGATE").text != "0"
+    ):
+        return []
+
     issues = []
 
     if (wfe := region.find("FACTBOOK").text) is not None and any(
@@ -53,20 +68,6 @@ def find_issues(region):
         not in ["closing", "rejected"]
     ):
         issues.append("Embassies")
-
-    if (
-        region.find("NAME").text
-        in [
-            "Suspicious",
-            "The Black Hawks",
-            "The Brotherhood of Malice",
-            "Lily",
-            "Osiris",
-        ]
-        or "X" not in region.find("DELEGATEAUTH").text
-        or region.findall("./EMBASSIES/EMBASSY[.='Antifa']")
-    ):
-        issues = []
 
     return issues
 
