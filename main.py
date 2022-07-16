@@ -86,9 +86,9 @@ for region in root.findall("REGION"):
                 "region": f'"{name}"',
                 "issues": f"\"{', '.join(issues)}\"",
                 "minor": str(minor_progress),
-                "minor_timestamp": str(timedelta(seconds=minor_progress)),
+                "minor_timestamp": f'"{str(timedelta(seconds=minor_progress))}"',
                 "major": str(major_progress),
-                "major_timestamp": str(timedelta(seconds=major_progress)),
+                "major_timestamp": f'"{str(timedelta(seconds=major_progress))}"',
             }
         )
 
