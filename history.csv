@@ -1,6 +1,0 @@
----
----
-
-Date,Count
-{% for day in site.data.history %}{{day.Date}},{{day.Count}}
-{% endfor %}
