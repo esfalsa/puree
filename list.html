@@ -11,88 +11,320 @@ title: List Generator
           <label for="update" class="form-label">Update</label>
           <select class="form-select" name="update" id="update" required>
             <option disabled selected value>Select an update…</option>
-            <option value="major">Major</option>
-            <option value="minor">Minor</option>
+            <option value="Major">Major</option>
+            <option value="Minor">Minor</option>
           </select>
         </div>
         <div class="col">
-          <label for="switch-length" class="form-label"
-            >Minimum Switch Length (seconds)</label
-          >
+          <label for="teams" class="form-label">Number of Teams</label>
           <input
             type="number"
             class="form-control"
-            id="switch-length"
+            id="teams"
             min="1"
-            placeholder="30"
+            value="1"
+            placeholder="1"
             required
           />
         </div>
       </div>
-      <button type="submit" class="btn btn-primary">Generate List</button>
+      <div class="row mb-1">
+        <div class="col h6">Minimum Switch Lengths (seconds)</div>
+      </div>
+      <div id="teams-container">
+        <div class="row">
+          <div class="col-auto col-sm-2 col-form-label">
+            <label for="switch-length-1" class="form-label">Team 1</label>
+          </div>
+          <div class="col col-sm-10">
+            <input
+              type="number"
+              class="form-control"
+              id="switch-length-1"
+              min="1"
+              placeholder="30"
+              required
+            />
+          </div>
+        </div>
+      </div>
+      <div class="row mt-3 gx-3">
+        <div class="col-auto">
+          <button type="submit" class="btn btn-primary">Generate List</button>
+        </div>
+        <div class="col-auto">
+          <a
+            class="btn btn-link text-decoration-none disabled"
+            id="download-all"
+            download="detag_list.zip"
+          >
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+              width="1em"
+              height="1em"
+            >
+              <path
+                fill-rule="evenodd"
+                d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z"
+                clip-rule="evenodd"
+              />
+            </svg>
+            Download All
+          </a>
+        </div>
+      </div>
     </form>
   </div>
 </div>
 
-<div class="overflow-scroll">
-  <table
-    class="table table-sm table-hover"
-    style="font-variant-numeric: tabular-nums"
-    id="detag-table"
-    hidden
-  >
-    <thead>
-      <tr>
-        <th scope="col">Region</th>
-        <th scope="col">Issues</th>
-        <th scope="col">Minor</th>
-        <th scope="col">Major</th>
-      </tr>
-    </thead>
-    <tbody id="detag-tbody">
-      {% include detags.html %}
-    </tbody>
+<div class="accordion mt-3" id="lists-container" hidden></div>
+
+<div hidden>
+  <div class="row" id="team-template">
+    <div class="col-auto col-sm-2 col-form-label">
+      <label for="template-switch-length" class="form-label">Team #</label>
+    </div>
+    <div class="col col-sm-10">
+      <input
+        type="number"
+        class="form-control"
+        id="template-switch-length"
+        min="1"
+        placeholder="30"
+        required
+      />
+    </div>
+  </div>
+  <div class="accordion-item" id="list-template">
+    <h2 class="accordion-header" id="template-list-header">
+      <button
+        class="accordion-button collapsed"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#template-list-collapse"
+        aria-expanded="false"
+        aria-controls="template-list-collapse"
+      >
+        Team #
+      </button>
+    </h2>
+    <div
+      id="template-list-collapse"
+      class="accordion-collapse collapse"
+      aria-labelledby="list-header"
+      data-bs-parent="#lists-container"
+    >
+      <div class="accordion-body">
+        <a class="d-inline-block mb-3 text-decoration-none" href="#" download
+          ><svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 20 20"
+            fill="currentColor"
+            width="1em"
+            height="1em"
+          >
+            <path
+              fill-rule="evenodd"
+              d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z"
+              clip-rule="evenodd"
+            />
+          </svg>
+          Download</a
+        >
+      </div>
+    </div>
+  </div>
+  <div class="overflow-scroll" id="table-template">
+    <table
+      class="table table-sm table-hover"
+      style="font-variant-numeric: tabular-nums"
+    >
+      <thead>
+        <tr>
+          <th scope="col">Region</th>
+          <th scope="col">Issues</th>
+          <th scope="col">Minor</th>
+          <th scope="col">Major</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+  <table>
+    <tr id="tr-template">
+      <td>
+        <a href="//www.nationstates.net/region=Region" target="_blank"
+          >Region
+        </a>
+      </td>
+      <td>Issues</td>
+      <td minor="Minor">+MinorTimestamp</td>
+      <td major="Major">+MajorTimestamp</td>
+    </tr>
   </table>
 </div>
 
-<script>
-  let regions = document.querySelectorAll("#detag-tbody > tr");
+<script src="{{ '/node_modules/jszip/dist/jszip.min.js' | prepend: site.baseurl }}"></script>
 
-  document.addEventListener("DOMContentLoaded", () => {
-    regions.forEach((region) => {
-      region.hidden = true;
-    });
+<script>
+  let zip = new JSZip();
+
+  document.querySelector("#teams").addEventListener("change", () => {
+    const numTeams = parseInt(document.querySelector("#teams").value);
+    const teamsContainer = document.querySelector("#teams-container");
+
+    while (teamsContainer.childElementCount < numTeams) {
+      teamsContainer.appendChild(
+        generateTeam(teamsContainer.childElementCount + 1)
+      );
+    }
+
+    while (teamsContainer.childElementCount > numTeams) {
+      teamsContainer.lastChild.remove();
+    }
   });
+
+  const regions = {{ site.data.detags | jsonify }};
 
   document
     .querySelector("#generate-list-form")
     .addEventListener("submit", (e) => {
       e.preventDefault();
 
-      let update = document.querySelector("#update").value;
-      let switchLength = parseInt(
-        document.querySelector("#switch-length").value
-      );
+      const update = document.querySelector("#update").value;
+      const teams = Array.from(
+        document.querySelectorAll("[id^='switch-length-']")
+      ).map((switchLength, index) => {
+        return {
+          index: index,
+          switchLength: parseInt(switchLength.value),
+        };
+      });
 
-      regions[0].hidden = false;
+      let found = [];
 
-      let progress = parseInt(
-        regions[0].querySelector(`td[${update}]`).getAttribute(update)
-      );
+      teams.forEach((team) => {
+        let progress = -team.switchLength;
+        let teamRegions = [];
 
-      for (let i = 1; i < regions.length; i++) {
-        let regionProgress = parseInt(
-          regions[i].querySelector(`td[${update}]`).getAttribute(update)
-        );
-
-        if (regionProgress >= progress + switchLength) {
-          regions[i].hidden = false;
-          progress = regionProgress;
-        } else {
-          regions[i].hidden = true;
+        for (const region of regions) {
+          if (
+            parseInt(region[update]) >= progress + team.switchLength &&
+            !found.includes(region.Region)
+          ) {
+            found.push(region.Region);
+            teamRegions.push(region);
+            progress = parseInt(region[update]);
+          }
         }
-      }
 
-      document.querySelector("#detag-table").hidden = false;
+        team.list = generateList(
+          team.index + 1,
+          teamRegions,
+          teams.length > 1 ? false : true
+        );
+      });
+
+      const listsContainer = document.querySelector("#lists-container");
+
+      listsContainer.replaceChildren(...teams.map((team) => team.list));
+      listsContainer.hidden = false;
+
+      zip.generateAsync({ type: "base64" }).then((data) => {
+        document.querySelector(
+          "#download-all"
+        ).href = `data:application/zip;base64,${data}`;
+        document.querySelector("#download-all").classList.remove("disabled");
+      });
     });
+
+  function generateTeam(index) {
+    let team = document.querySelector("#team-template").cloneNode(true);
+    team.removeAttribute("id");
+    team
+      .querySelector(".form-label")
+      .setAttribute("for", `switch-length-${index}`);
+    team.querySelector(".form-label").textContent = `Team ${index}`;
+    team.querySelector(".form-control").id = `switch-length-${index}`;
+
+    return team;
+  }
+
+  function generateList(index, regions, open = false) {
+    let list = document.querySelector("#list-template").cloneNode(true);
+    list.removeAttribute("id");
+    list.querySelector(".accordion-header").id = `list-header-${index}`;
+    list.querySelector(".accordion-button").textContent = `Team ${index}`;
+    list
+      .querySelector(".accordion-button")
+      .setAttribute("data-bs-target", `#list-collapse-${index}`);
+    list
+      .querySelector(".accordion-button")
+      .setAttribute("aria-controls", `list-collapse-${index}`);
+    list.querySelector(
+      ".accordion-collapse.collapse"
+    ).id = `list-collapse-${index}`;
+    list
+      .querySelector(".accordion-collapse.collapse")
+      .setAttribute("aria-labelledby", `list-header-${index}`);
+
+    let csv =
+      "Region,Issues,Minor,MinorTimestamp,Major,MajorTimestamp\n" +
+      regions
+        .map(
+          (region) =>
+            `"${region.Region}","${region.Issues}",${region.Minor},"${region.MinorTimestamp}",${region.Major},"${region.MajorTimestamp}"`
+        )
+        .join("\n");
+
+    list.querySelector("a[download]").download = `team${index}.csv`;
+    list.querySelector(
+      "a[download]"
+    ).href = `data:text/csv,${encodeURIComponent(csv)}`;
+
+    zip.file(`team${index}.csv`, csv);
+
+    list.querySelector("a[download]").after(generateTable(regions));
+
+    if (open) {
+      list.querySelector(".accordion-button").classList.remove("collapsed");
+      list.querySelector(".accordion-collapse").classList.add("show");
+    }
+
+    return list;
+  }
+
+  function generateTable(regions) {
+    let table = document.querySelector("#table-template").cloneNode(true);
+    table.removeAttribute("id");
+
+    let regionRows = [];
+
+    for (const region of regions) {
+      let regionRow = document.querySelector("#tr-template").cloneNode(true);
+      regionRow.removeAttribute("id");
+
+      let link = regionRow.querySelector("a");
+      link.href = `//www.nationstates.net/region=${region.Region}`;
+      link.textContent = region.Region;
+
+      regionRow.querySelector("td[minor]").setAttribute("minor", region.Minor);
+      regionRow.querySelector(
+        "td[minor]"
+      ).textContent = `+${region.MinorTimestamp}`;
+
+      regionRow.querySelector("td[major]").setAttribute("major", region.Major);
+      regionRow.querySelector(
+        "td[major]"
+      ).textContent = `+${region.MajorTimestamp}`;
+
+      regionRows.push(regionRow);
+    }
+
+    table.querySelector("tbody").replaceChildren(...regionRows);
+
+    return table;
+  }
 </script>
