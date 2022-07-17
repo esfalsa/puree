@@ -11,10 +11,13 @@ $h6-font-size: $font-size-base;
 
 @import "bootstrap/scss/bootstrap";
 
-h1,
-.h1,
-h2,
-.h2 {
-  padding-bottom: $headings-margin-bottom * 0.5;
-  border-bottom: $border-width $border-style $border-color;
+.markdown-body {
+
+  h1,
+  .h1,
+  h2,
+  .h2 {
+    padding-bottom: $headings-margin-bottom * 0.5;
+    border-bottom: $border-width $border-style $border-color;
+  }
 }

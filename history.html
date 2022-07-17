@@ -37,39 +37,42 @@ title: History
 <script>
   const data = {{ site.data.history | jsonify }};
 
-  Chart.defaults.font.family = 'system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"';
+  Chart.defaults.font.family =
+    'system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"';
 
-  const historyContext = document.getElementById('history').getContext('2d');
+  const historyContext = document.getElementById("history").getContext("2d");
   const historyChart = new Chart(historyContext, {
-    type: 'line',
+    type: "line",
     data: {
       labels: data.map((day) => day.Date),
-      datasets: [{
-        label: 'Tagged Regions',
-        data: data.map((day) => day.Count),
-        fill: false,
-        borderColor: '#0d6efd',
-        pointBackgroundColor: '#0d6efd',
-        tension: 0.1
-      }]
+      datasets: [
+        {
+          label: "Tagged Regions",
+          data: data.map((day) => day.Count),
+          fill: false,
+          borderColor: "#0d6efd",
+          pointBackgroundColor: "#0d6efd",
+          tension: 0.1,
+        },
+      ],
     },
     options: {
       responsive: true,
       maintainAspectRatio: false,
       plugins: {
         legend: {
-            display: false,
+          display: false,
         },
         title: {
           display: true,
-          text: "Tagged Regions Found by Day"
-        }
+          text: "Tagged Regions Found by Day",
+        },
       },
       interaction: {
-        mode: 'nearest',
+        mode: "nearest",
         intersect: false,
-        axis: "x"
-      }
-    }
+        axis: "x",
+      },
+    },
   });
 </script>
