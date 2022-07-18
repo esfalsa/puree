@@ -55,7 +55,7 @@ document
         }
       }
 
-      team.list = generateList(team.index + 1, teamRegions);
+      team.list = generateList(team.index + 1, teamRegions, teams.length == 1);
     });
 
     if (teams.length > 1) {
