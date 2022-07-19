@@ -3,6 +3,17 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+node_modules/*
+!node_modules/bootstrap/
+!node_modules/jszip/
+
+node_modules/bootstrap/*
+!node_modules/bootstrap/dist/
+!node_modules/bootstrap/scss/
+
+node_modules/jszip/*
+!node_modules/jszip/dist/
+
 **/.DS_Store
 
 .vscode/
