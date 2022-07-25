@@ -1,5 +1,5 @@
 {% for region in site.data.detags %}
-<tr>
+<tr {% if region.ClosingEmbassies == "True" %} closing-embassies={{region.ClosingEmbassies}} {% endif %}>
   <td>
     <a href="//www.nationstates.net/region={{region.Region}}" target="_blank"
       >{{region.Region}}
