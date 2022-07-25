@@ -1,909 +1,818 @@
 Region,Issues,Minor,MinorTimestamp,Major,MajorTimestamp,ClosingEmbassies
-"Oppression","RO",5,"0:00:05",7,"0:00:07",False
 "Ferrari","WFE, Embassies",7,"0:00:07",10,"0:00:10",False
-"Oracle of His Ashes","WFE, Embassies",32,"0:00:32",48,"0:00:48",False
-"Bongregion","RO, Embassies",32,"0:00:32",48,"0:00:48",False
-"Organization of Moscow Pact","RO, Embassies",32,"0:00:32",48,"0:00:48",False
-"Card Defenders Alliance","WFE, RO, Embassies",32,"0:00:32",49,"0:00:49",False
-"The Empire of Thedas","WFE, Embassies",33,"0:00:33",50,"0:00:50",False
-"Union of Republic States","WFE, RO, Embassies",33,"0:00:33",50,"0:00:50",False
-"The Allied Federation","WFE, RO, Embassies",33,"0:00:33",50,"0:00:50",False
-"Jade Was Here","RO, Embassies",34,"0:00:34",51,"0:00:51",False
-"abrupt","RO",34,"0:00:34",51,"0:00:51",False
-"Commonwealth Of United Kingdom","WFE, Embassies",34,"0:00:34",52,"0:00:52",False
-"The United Meritocrats","WFE, RO, Embassies",34,"0:00:34",52,"0:00:52",False
-"acceptable","WFE, RO, Embassies",43,"0:00:43",65,"0:01:05",False
-"Riverhide","RO, Embassies",43,"0:00:43",65,"0:01:05",False
-"Racoonist Confederation","Embassies",45,"0:00:45",68,"0:01:08",False
-"The Collective Nations of Chungus","RO",45,"0:00:45",68,"0:01:08",False
-"diomnlark","WFE, RO, Embassies",46,"0:00:46",69,"0:01:09",False
-"the dictorship of covenant","Embassies",48,"0:00:48",72,"0:01:12",False
+"Kentucky Fried Chicken","RO",24,"0:00:24",36,"0:00:36",False
+"Bongregion","RO, Embassies",30,"0:00:30",46,"0:00:46",False
+"Organization of Moscow Pact","RO, Embassies",30,"0:00:30",46,"0:00:46",False
+"Card Defenders Alliance","WFE, RO, Embassies",31,"0:00:31",47,"0:00:47",False
+"The Empire of Thedas","WFE, Embassies",32,"0:00:32",48,"0:00:48",False
+"Union of Republic States","WFE, RO, Embassies",32,"0:00:32",48,"0:00:48",False
+"The Allied Federation","WFE, RO, Embassies",32,"0:00:32",48,"0:00:48",False
+"Jade Was Here","RO, Embassies",32,"0:00:32",49,"0:00:49",False
+"abrupt","RO",32,"0:00:32",49,"0:00:49",False
+"Commonwealth Of United Kingdom","WFE, Embassies",33,"0:00:33",50,"0:00:50",False
+"The United Meritocrats","WFE, RO, Embassies",33,"0:00:33",50,"0:00:50",False
+"acceptable","WFE, RO, Embassies",40,"0:00:40",61,"0:01:01",False
+"Les Rouge Mann","WFE, Embassies",40,"0:00:40",61,"0:01:01",False
+"Riverhide","RO, Embassies",41,"0:00:41",62,"0:01:02",False
+"Racoonist Confederation","Embassies",42,"0:00:42",64,"0:01:04",False
+"The Collective Nations of Chungus","RO",43,"0:00:43",65,"0:01:05",False
+"diomnlark","WFE, RO, Embassies",44,"0:00:44",66,"0:01:06",False
+"the dictorship of covenant","Embassies",47,"0:00:47",71,"0:01:11",False
 "Raspuland","RO",48,"0:00:48",72,"0:01:12",False
 "Yamstan Invasioxz","WFE, Embassies",49,"0:00:49",73,"0:01:13",False
-"The Mythic Isles","WFE, RO, Embassies",53,"0:00:53",79,"0:01:19",False
-"United Conservative Alliance","RO",53,"0:00:53",80,"0:01:20",False
-"The NationStates Commonwealth","WFE, RO, Embassies",54,"0:00:54",81,"0:01:21",False
-"Der Deutsche Staatenbund","WFE, Embassies",55,"0:00:55",83,"0:01:23",False
-"Warzone AOAN","WFE, RO, Embassies",55,"0:00:55",83,"0:01:23",False
-"Open Ocean 7","RO, Embassies",56,"0:00:56",84,"0:01:24",False
-"eeeeeeeeee","WFE, RO, Embassies",61,"0:01:01",91,"0:01:31",False
-"Elite Warriors","Embassies",61,"0:01:01",91,"0:01:31",False
-"God clan","RO, Embassies",62,"0:01:02",93,"0:01:33",False
-"CORPORATE SECTOR AUTHORITY","WFE, Embassies",62,"0:01:02",93,"0:01:33",False
-"Gelre","WFE",63,"0:01:03",94,"0:01:34",False
-"Progressive Unionis Socialas","Embassies",68,"0:01:08",102,"0:01:42",False
-"PINK","RO",68,"0:01:08",102,"0:01:42",False
-"The South Intermediate Lands","WFE, Embassies",73,"0:01:13",109,"0:01:49",False
-"Bongo","RO, Embassies",75,"0:01:15",112,"0:01:52",False
-"The Concord of Nations","WFE",76,"0:01:16",113,"0:01:53",False
-"BJKB","WFE, RO, Embassies",80,"0:01:20",120,"0:02:00",False
-"Sinic States","WFE, RO, Embassies",80,"0:01:20",120,"0:02:00",False
-"Aorda","WFE, RO, Embassies",80,"0:01:20",120,"0:02:00",False
-"Beneficialist Coalition","RO, Embassies",81,"0:01:21",122,"0:02:02",False
-"The Ancient Realm","Embassies",81,"0:01:21",122,"0:02:02",False
-"Behind M4","RO, Embassies",84,"0:01:24",127,"0:02:07",False
-"The 501st Legion","WFE",84,"0:01:24",127,"0:02:07",False
-"The Great Commune TGC","RO",86,"0:01:26",129,"0:02:09",False
-"Kingdom of Mathematics","RO, Embassies",86,"0:01:26",130,"0:02:10",False
-"sad","RO",88,"0:01:28",132,"0:02:12",False
-"Czerchov","WFE, RO, Embassies",88,"0:01:28",133,"0:02:13",False
-"The Tundra Archipelago States","RO, Embassies",89,"0:01:29",134,"0:02:14",False
-"Hexalia","WFE, RO, Embassies",89,"0:01:29",134,"0:02:14",False
-"Dragonborn Confederate","WFE, RO, Embassies",90,"0:01:30",135,"0:02:15",False
-"The Yeetlands","WFE",91,"0:01:31",137,"0:02:17",False
-"Abayan Reigon","Embassies",93,"0:01:33",140,"0:02:20",False
-"Darkhaven","RO",94,"0:01:34",141,"0:02:21",False
-"Shizei","RO",94,"0:01:34",141,"0:02:21",False
-"Umesh","RO",95,"0:01:35",142,"0:02:22",False
-"The Roleplay Chessboard","WFE, RO, Embassies",95,"0:01:35",143,"0:02:23",False
-"Better Lands Of The Oooga Booga","WFE, Embassies",97,"0:01:37",145,"0:02:25",False
-"Coral Reef 10","RO",101,"0:01:41",151,"0:02:31",False
-"United Soviet Federation","WFE, RO, Embassies",101,"0:01:41",151,"0:02:31",False
-"The New State of Germani Prussia","RO, Embassies",103,"0:01:43",155,"0:02:35",False
-"Combine world","WFE, RO, Embassies",104,"0:01:44",156,"0:02:36",False
-"hugy wugy escapa roblox fortnite juego p","WFE",104,"0:01:44",156,"0:02:36",False
-"National Republic Of Pugnator","RO",104,"0:01:44",156,"0:02:36",False
-"Le Royaume de France","WFE, Embassies",107,"0:01:47",161,"0:02:41",False
-"Realm ov Autistik Ordenstaats","WFE, Embassies",109,"0:01:49",164,"0:02:44",False
-"Erruwon","RO, Embassies",109,"0:01:49",164,"0:02:44",False
-"Ascensionsen","RO",114,"0:01:54",171,"0:02:51",False
-"Owls","WFE, Embassies",115,"0:01:55",173,"0:02:53",False
-"Sovishire farmboys","RO",117,"0:01:57",175,"0:02:55",False
-"The Lands Wayyyyy Down Under","WFE, RO, Embassies",118,"0:01:58",176,"0:02:56",False
-"Grand Forks Central Political Alliance","WFE, RO, Embassies",118,"0:01:58",177,"0:02:57",False
-"academy","WFE, RO, Embassies",118,"0:01:58",177,"0:02:57",False
-"Jack Daniels","WFE, RO, Embassies",119,"0:01:59",178,"0:02:58",False
-"abounded","RO, Embassies",119,"0:01:59",178,"0:02:58",False
-"Happy Valley","WFE, Embassies",119,"0:01:59",178,"0:02:58",False
-"Federation of Nation and Freedom","WFE, RO, Embassies",121,"0:02:01",181,"0:03:01",False
-"Contumacious","RO",122,"0:02:02",182,"0:03:02",False
-"The Holy Federation of Dunkeld","RO",124,"0:02:04",185,"0:03:05",False
-"Qwertyuiopasdfghjklzxcvbnm","RO, Embassies",124,"0:02:04",186,"0:03:06",False
-"Disasters","RO",125,"0:02:05",187,"0:03:07",False
-"acceptance","WFE, Embassies",126,"0:02:06",188,"0:03:08",False
-"Epic Gamers","WFE, RO, Embassies",127,"0:02:07",190,"0:03:10",False
-"Union for Social Democracy","RO, Embassies",129,"0:02:09",194,"0:03:14",False
-"The paradise land","RO, Embassies",130,"0:02:10",195,"0:03:15",False
-"Mutually Assured Posting","WFE, Embassies",132,"0:02:12",198,"0:03:18",False
-"Kiansia Continent","RO, Embassies",134,"0:02:14",202,"0:03:22",False
-"Sokial","WFE",134,"0:02:14",202,"0:03:22",False
-"The United Entente","Embassies",134,"0:02:14",202,"0:03:22",False
-"SEPERATIST ONLY","RO",134,"0:02:14",202,"0:03:22",False
-"The Rushianian Commonwelth","WFE, Embassies",136,"0:02:16",205,"0:03:25",False
-"Freeland Republic","WFE, Embassies",138,"0:02:18",207,"0:03:27",False
-"Southern United Peoples","WFE, RO, Embassies",138,"0:02:18",208,"0:03:28",False
-"The Empire of Gilderon","Embassies",143,"0:02:23",214,"0:03:34",False
-"Communist and Socialist Faction","RO, Embassies",143,"0:02:23",214,"0:03:34",False
-"Dorito Juice","RO, Embassies",144,"0:02:24",216,"0:03:36",False
-"abolitionary","RO, Embassies",146,"0:02:26",219,"0:03:39",False
-"Pilgrimags Region","WFE, RO, Embassies",151,"0:02:31",227,"0:03:47",False
-"The Land of Dweebs","Embassies",152,"0:02:32",228,"0:03:48",False
-"The Kindly Barracks of the Soup Legion","RO",152,"0:02:32",228,"0:03:48",False
-"Yisrael","RO, Embassies",152,"0:02:32",228,"0:03:48",False
-"Commonwealth Federation","RO, Embassies",155,"0:02:35",233,"0:03:53",False
-"Northern Atlantic Ocean","RO, Embassies",158,"0:02:38",237,"0:03:57",False
-"The Democracy Pact","WFE, Embassies",159,"0:02:39",239,"0:03:59",False
-"Water Water Everywhere But Not a Drop To","RO",159,"0:02:39",239,"0:03:59",False
-"The ULN","RO",165,"0:02:45",248,"0:04:08",False
-"Piglandpoop","RO, Embassies",165,"0:02:45",248,"0:04:08",False
-"Zawdisian Union","RO, Embassies",165,"0:02:45",248,"0:04:08",False
-"The Koprulu Sector","WFE, Embassies",165,"0:02:45",248,"0:04:08",False
-"The Collective States Of Utopia","WFE, RO, Embassies",166,"0:02:46",249,"0:04:09",False
-"Pandoran States","WFE, RO, Embassies",166,"0:02:46",249,"0:04:09",False
-"Western warzone advance","WFE, RO, Embassies",166,"0:02:46",249,"0:04:09",False
-"Unitarian Union","Embassies",181,"0:03:01",272,"0:04:32",False
-"Federation East Legendary","Embassies",181,"0:03:01",272,"0:04:32",False
-"Deep Sea 4","RO, Embassies",182,"0:03:02",273,"0:04:33",False
-"Commonwealth of Geopolitics","Embassies",182,"0:03:02",273,"0:04:33",False
-"Empire of British Embassies","RO, Embassies",184,"0:03:04",277,"0:04:37",False
-"West Nuhien ASF","WFE, Embassies",184,"0:03:04",277,"0:04:37",False
-"Gentlemen Club","WFE, RO, Embassies",187,"0:03:07",281,"0:04:41",False
-"Sea slavs","RO",187,"0:03:07",281,"0:04:41",False
-"The Holy Church of Roads","RO",188,"0:03:08",282,"0:04:42",False
-"The Family","WFE, Embassies",190,"0:03:10",285,"0:04:45",False
-"Europa uni 4th congregation","WFE, RO, Embassies",190,"0:03:10",285,"0:04:45",False
-"Dunanskian Union","WFE, Embassies",190,"0:03:10",286,"0:04:46",False
-"academically","RO, Embassies",192,"0:03:12",288,"0:04:48",False
-"The world of nation","Embassies",192,"0:03:12",289,"0:04:49",False
-"Dixies land","RO",193,"0:03:13",290,"0:04:50",False
-"Ravioli","WFE, Embassies",198,"0:03:18",297,"0:04:57",False
-"accommodation","WFE, Embassies",203,"0:03:23",304,"0:05:04",False
-"Duuloc","RO, Embassies",203,"0:03:23",304,"0:05:04",False
-"South india","RO",205,"0:03:25",307,"0:05:07",False
-"Crandallian","RO",205,"0:03:25",307,"0:05:07",False
-"Union of Libertarian States","Embassies",205,"0:03:25",307,"0:05:07",False
-"Swapania","RO",209,"0:03:29",313,"0:05:13",False
-"New Tahiti","WFE, Embassies",211,"0:03:31",317,"0:05:17",False
-"Corleone","RO, Embassies",211,"0:03:31",317,"0:05:17",False
-"The Wrong Neighborhood","WFE, Embassies",213,"0:03:33",319,"0:05:19",False
-"International Space Station","WFE, Embassies",215,"0:03:35",322,"0:05:22",False
-"The Very Free Land Of Surrin Shales","RO, Embassies",215,"0:03:35",323,"0:05:23",False
-"Groovy","Embassies",216,"0:03:36",324,"0:05:24",False
-"Beljiotena","RO, Embassies",216,"0:03:36",324,"0:05:24",False
-"FEDERATION OF AMERICA EUROPE AND SOUTH A","Embassies",226,"0:03:46",339,"0:05:39",False
-"Seashore 3","WFE, RO, Embassies",231,"0:03:51",346,"0:05:46",False
-"Uniao da Cracolandia","RO, Embassies",232,"0:03:52",348,"0:05:48",False
-"Veurrfold","WFE, RO, Embassies",232,"0:03:52",348,"0:05:48",False
-"NationState Monarchists","RO",232,"0:03:52",348,"0:05:48",False
-"Irrelia","RO",232,"0:03:52",348,"0:05:48",False
-"Tabarian Union","RO, Embassies",232,"0:03:52",348,"0:05:48",False
-"Alternio","RO, Embassies",232,"0:03:52",348,"0:05:48",False
-"The Tavern","RO",239,"0:03:59",359,"0:05:59",False
-"becn","RO",240,"0:04:00",361,"0:06:01",False
-"5th Alabama War of Rights Nationstates","Embassies",243,"0:04:03",365,"0:06:05",False
-"The United Democratic Republics","RO, Embassies",243,"0:04:03",365,"0:06:05",False
-"Unified Countries Democratic Assembly","RO",243,"0:04:03",365,"0:06:05",False
-"NFT","WFE, RO, Embassies",244,"0:04:04",366,"0:06:06",False
-"The Solar System","WFE, RO",245,"0:04:05",367,"0:06:07",False
-"region with the word Tractor in it","RO, Embassies",247,"0:04:07",371,"0:06:11",True
-"Confederacy of Pretentious Douchebags","WFE, RO",247,"0:04:07",371,"0:06:11",False
-"Duthel Pact","WFE, RO, Embassies",247,"0:04:07",371,"0:06:11",False
-"Mytholandtis","RO, Embassies",255,"0:04:15",382,"0:06:22",False
-"0527 spoonbilled sandpiper","RO, Embassies",255,"0:04:15",382,"0:06:22",False
-"Black Sea Islands","Embassies",266,"0:04:26",399,"0:06:39",False
-"Oddness","RO, Embassies",266,"0:04:26",399,"0:06:39",False
-"Apulie","WFE, RO, Embassies",266,"0:04:26",399,"0:06:39",False
-"Jackos Twisted Pretzel arena","WFE, Embassies",266,"0:04:26",399,"0:06:39",False
-"Catharsis","RO, Embassies",267,"0:04:27",400,"0:06:40",False
-"Continente perdido","RO, Embassies",267,"0:04:27",400,"0:06:40",False
-"Shattered Plans","RO, Embassies",267,"0:04:27",401,"0:06:41",False
-"The Lone Wolves United","WFE, RO, Embassies",268,"0:04:28",402,"0:06:42",False
-"Iron Clad Union","RO, Embassies",268,"0:04:28",402,"0:06:42",False
-"Meme","Embassies",272,"0:04:32",408,"0:06:48",False
-"Aurora Union","RO",272,"0:04:32",408,"0:06:48",False
-"Pikachu","RO",273,"0:04:33",409,"0:06:49",False
-"Cafe","RO",273,"0:04:33",409,"0:06:49",False
-"Shirika","WFE, RO, Embassies",278,"0:04:38",417,"0:06:57",False
+"The Mythic Isles","WFE, RO, Embassies",49,"0:00:49",73,"0:01:13",False
+"United Conservative Alliance","RO",49,"0:00:49",74,"0:01:14",False
+"The NationStates Commonwealth","WFE, RO, Embassies",51,"0:00:51",76,"0:01:16",False
+"Warzone AOAN","WFE, RO, Embassies",52,"0:00:52",78,"0:01:18",False
+"Open Ocean 7","RO, Embassies",53,"0:00:53",79,"0:01:19",False
+"Protective Realm","WFE",55,"0:00:55",82,"0:01:22",False
+"eeeeeeeeee","WFE, RO, Embassies",57,"0:00:57",85,"0:01:25",False
+"Elite Warriors","Embassies",57,"0:00:57",85,"0:01:25",False
+"God clan","RO, Embassies",58,"0:00:58",87,"0:01:27",False
+"CORPORATE SECTOR AUTHORITY","WFE, Embassies",58,"0:00:58",87,"0:01:27",False
+"Gelre","WFE",59,"0:00:59",89,"0:01:29",False
+"United Federation of Peace and Freedom","WFE",66,"0:01:06",99,"0:01:39",False
+"The South Intermediate Lands","WFE, Embassies",67,"0:01:07",100,"0:01:40",False
+"Bongo","RO, Embassies",69,"0:01:09",103,"0:01:43",False
+"The Concord of Nations","WFE",69,"0:01:09",104,"0:01:44",False
+"BJKB","WFE, RO, Embassies",74,"0:01:14",110,"0:01:50",False
+"Sinic States","WFE, RO, Embassies",75,"0:01:15",112,"0:01:52",False
+"Aorda","WFE, RO, Embassies",75,"0:01:15",112,"0:01:52",False
+"Beneficialist Coalition","RO, Embassies",76,"0:01:16",114,"0:01:54",False
+"The Ancient Realm","Embassies",76,"0:01:16",114,"0:01:54",False
+"The 501st Legion","WFE",78,"0:01:18",117,"0:01:57",False
+"The Great Commune TGC","RO",80,"0:01:20",119,"0:01:59",False
+"Kingdom of Mathematics","RO, Embassies",80,"0:01:20",120,"0:02:00",False
+"sad","RO",82,"0:01:22",123,"0:02:03",False
+"Czerchov","WFE, RO, Embassies",83,"0:01:23",124,"0:02:04",False
+"The Tundra Archipelago States","RO, Embassies",84,"0:01:24",125,"0:02:05",False
+"Hexalia","WFE, RO, Embassies",84,"0:01:24",126,"0:02:06",False
+"Dragonborn Confederate","WFE, RO, Embassies",85,"0:01:25",127,"0:02:07",False
+"The Yeetlands","WFE",86,"0:01:26",129,"0:02:09",False
+"Abayan Reigon","Embassies",90,"0:01:30",135,"0:02:15",False
+"Darkhaven","RO",90,"0:01:30",135,"0:02:15",False
+"Shizei","RO",90,"0:01:30",136,"0:02:16",False
+"Umesh","RO",91,"0:01:31",137,"0:02:17",False
+"Better Lands Of The Oooga Booga","WFE, Embassies",94,"0:01:34",141,"0:02:21",False
+"Coral Reef 10","RO",97,"0:01:37",146,"0:02:26",False
+"United Soviet Federation","WFE, RO, Embassies",97,"0:01:37",146,"0:02:26",False
+"The New State of Germani Prussia","RO, Embassies",98,"0:01:38",147,"0:02:27",False
+"Combine world","WFE, RO, Embassies",98,"0:01:38",148,"0:02:28",False
+"hugy wugy escapa roblox fortnite juego p","WFE",98,"0:01:38",148,"0:02:28",False
+"National Republic Of Pugnator","RO",99,"0:01:39",149,"0:02:29",False
+"Le Royaume de France","WFE, Embassies",99,"0:01:39",149,"0:02:29",False
+"Realm ov Autistik Ordenstaats","WFE, Embassies",106,"0:01:46",159,"0:02:39",False
+"Erruwon","RO, Embassies",106,"0:01:46",159,"0:02:39",False
+"Ascensionsen","RO",107,"0:01:47",160,"0:02:40",False
+"Owls","WFE, Embassies",107,"0:01:47",161,"0:02:41",False
+"Sovishire farmboys","RO",108,"0:01:48",162,"0:02:42",False
+"The Lands Wayyyyy Down Under","WFE, RO, Embassies",109,"0:01:49",163,"0:02:43",False
+"Grand Forks Central Political Alliance","WFE, RO, Embassies",109,"0:01:49",164,"0:02:44",False
+"academy","WFE, RO, Embassies",109,"0:01:49",164,"0:02:44",False
+"Jack Daniels","WFE, RO, Embassies",110,"0:01:50",165,"0:02:45",False
+"abounded","RO, Embassies",110,"0:01:50",165,"0:02:45",False
+"Happy Valley","WFE, Embassies",110,"0:01:50",165,"0:02:45",False
+"Federation of Nation and Freedom","WFE, RO, Embassies",111,"0:01:51",167,"0:02:47",False
+"Contumacious","RO",113,"0:01:53",169,"0:02:49",False
+"The Holy Federation of Dunkeld","RO",115,"0:01:55",172,"0:02:52",False
+"Disasters","RO",115,"0:01:55",173,"0:02:53",False
+"acceptance","WFE, Embassies",117,"0:01:57",175,"0:02:55",False
+"Epic Gamers","WFE, RO, Embassies",118,"0:01:58",177,"0:02:57",False
+"Mutually Assured Posting","WFE, Embassies",121,"0:02:01",181,"0:03:01",False
+"Kiansia Continent","RO, Embassies",125,"0:02:05",188,"0:03:08",False
+"Sokial","WFE",125,"0:02:05",188,"0:03:08",False
+"The United Entente","Embassies",125,"0:02:05",188,"0:03:08",False
+"SEPERATIST ONLY","RO",125,"0:02:05",188,"0:03:08",False
+"The Rushianian Commonwelth","WFE, Embassies",127,"0:02:07",191,"0:03:11",False
+"Freeland Republic","WFE, Embassies",128,"0:02:08",192,"0:03:12",False
+"Southern United Peoples","WFE, RO, Embassies",129,"0:02:09",194,"0:03:14",False
+"The Empire of Gilderon","Embassies",138,"0:02:18",207,"0:03:27",False
+"Communist and Socialist Faction","RO, Embassies",139,"0:02:19",208,"0:03:28",False
+"Dorito Juice","RO, Embassies",140,"0:02:20",210,"0:03:30",False
+"Pilgrimags Region","WFE, RO, Embassies",145,"0:02:25",217,"0:03:37",False
+"The Land of Dweebs","Embassies",145,"0:02:25",217,"0:03:37",False
+"The Kindly Barracks of the Soup Legion","RO",146,"0:02:26",219,"0:03:39",False
+"Yisrael","RO, Embassies",146,"0:02:26",219,"0:03:39",False
+"Commonwealth Federation","RO, Embassies",147,"0:02:27",221,"0:03:41",False
+"Northern Atlantic Ocean","RO, Embassies",150,"0:02:30",225,"0:03:45",False
+"The Democracy Pact","WFE, Embassies",151,"0:02:31",227,"0:03:47",False
+"Water Water Everywhere But Not a Drop To","RO",152,"0:02:32",229,"0:03:49",False
+"The ULN","RO",160,"0:02:40",240,"0:04:00",False
+"Piglandpoop","RO, Embassies",160,"0:02:40",240,"0:04:00",False
+"Zawdisian Union","RO, Embassies",160,"0:02:40",240,"0:04:00",False
+"The Koprulu Sector","WFE, Embassies",161,"0:02:41",241,"0:04:01",False
+"Pandoran States","WFE, RO, Embassies",161,"0:02:41",242,"0:04:02",False
+"Western warzone advance","WFE, RO, Embassies",161,"0:02:41",242,"0:04:02",False
+"Unitarian Union","Embassies",175,"0:02:55",263,"0:04:23",False
+"South Asian Association for Cooperation","WFE",176,"0:02:56",264,"0:04:24",False
+"Deep Sea 4","RO, Embassies",177,"0:02:57",265,"0:04:25",False
+"Commonwealth of Geopolitics","Embassies",177,"0:02:57",265,"0:04:25",False
+"West Nuhien ASF","WFE, Embassies",179,"0:02:59",269,"0:04:29",False
+"Gentlemen Club","WFE, RO, Embassies",182,"0:03:02",273,"0:04:33",False
+"Sea slavs","RO",183,"0:03:03",274,"0:04:34",False
+"The Holy Church of Roads","RO",183,"0:03:03",275,"0:04:35",False
+"The Family","WFE, Embassies",186,"0:03:06",279,"0:04:39",False
+"Dunanskian Union","WFE, Embassies",187,"0:03:07",280,"0:04:40",False
+"academically","RO, Embassies",188,"0:03:08",282,"0:04:42",False
+"The world of nation","Embassies",190,"0:03:10",284,"0:04:44",False
+"Dixies land","RO",192,"0:03:12",288,"0:04:48",False
+"accommodation","WFE, Embassies",204,"0:03:24",306,"0:05:06",False
+"Duuloc","RO, Embassies",204,"0:03:24",306,"0:05:06",False
+"South india","RO",205,"0:03:25",308,"0:05:08",False
+"Crandallian","RO",205,"0:03:25",308,"0:05:08",False
+"Union of Libertarian States","Embassies",205,"0:03:25",308,"0:05:08",False
+"Swapania","RO",206,"0:03:26",310,"0:05:10",False
+"New Tahiti","WFE, Embassies",208,"0:03:28",313,"0:05:13",False
+"Corleone","RO, Embassies",208,"0:03:28",313,"0:05:13",False
+"The Wrong Neighborhood","WFE, Embassies",210,"0:03:30",316,"0:05:16",False
+"International Space Station","WFE, Embassies",211,"0:03:31",317,"0:05:17",False
+"The Very Free Land Of Surrin Shales","RO, Embassies",212,"0:03:32",318,"0:05:18",False
+"Groovy","Embassies",212,"0:03:32",318,"0:05:18",False
+"Beljiotena","RO, Embassies",212,"0:03:32",318,"0:05:18",False
+"Seashore 3","WFE, RO, Embassies",221,"0:03:41",332,"0:05:32",False
+"Uniao da Cracolandia","RO, Embassies",222,"0:03:42",333,"0:05:33",False
+"Veurrfold","WFE, RO, Embassies",222,"0:03:42",333,"0:05:33",False
+"NationState Monarchists","RO",223,"0:03:43",334,"0:05:34",False
+"Irrelia","RO",223,"0:03:43",334,"0:05:34",False
+"Tabarian Union","RO, Embassies",223,"0:03:43",334,"0:05:34",False
+"Alternio","RO, Embassies",223,"0:03:43",334,"0:05:34",False
+"The Tavern","RO",231,"0:03:51",346,"0:05:46",False
+"becn","RO",232,"0:03:52",348,"0:05:48",False
+"The United Democratic Republics","RO, Embassies",234,"0:03:54",351,"0:05:51",False
+"Unified Countries Democratic Assembly","RO",234,"0:03:54",351,"0:05:51",False
+"NFT","WFE, RO, Embassies",235,"0:03:55",352,"0:05:52",False
+"The Solar System","WFE, RO",245,"0:04:05",368,"0:06:08",False
+"region with the word Tractor in it","RO, Embassies",251,"0:04:11",376,"0:06:16",True
+"Confederacy of Pretentious Douchebags","WFE, RO",252,"0:04:12",377,"0:06:17",False
+"Duthel Pact","WFE, RO, Embassies",252,"0:04:12",377,"0:06:17",False
+"Mytholandtis","Embassies",252,"0:04:12",378,"0:06:18",False
+"Oddness","RO, Embassies",262,"0:04:22",394,"0:06:34",False
+"Apulie","WFE, RO, Embassies",262,"0:04:22",394,"0:06:34",False
+"Jackos Twisted Pretzel arena","WFE, Embassies",262,"0:04:22",394,"0:06:34",False
+"Catharsis","RO, Embassies",263,"0:04:23",395,"0:06:35",False
+"Continente perdido","RO, Embassies",263,"0:04:23",395,"0:06:35",False
+"Shattered Plans","RO, Embassies",264,"0:04:24",396,"0:06:36",False
+"The Lone Wolves United","WFE, RO, Embassies",264,"0:04:24",397,"0:06:37",False
+"Iron Clad Union","RO, Embassies",264,"0:04:24",397,"0:06:37",False
+"Meme","Embassies",268,"0:04:28",403,"0:06:43",False
+"Aurora Union","RO",268,"0:04:28",403,"0:06:43",False
+"Pikachu","RO",268,"0:04:28",403,"0:06:43",False
+"Cafe","RO",269,"0:04:29",404,"0:06:44",False
+"Shirika","WFE, RO, Embassies",279,"0:04:39",418,"0:06:58",False
 "The Cegedian Isles","WFE, RO, Embassies",279,"0:04:39",418,"0:06:58",False
-"New yonder","WFE, Embassies",279,"0:04:39",418,"0:06:58",False
-"The Federation of Independent States","WFE, RO, Embassies",286,"0:04:46",429,"0:07:09",False
-"Confederation Of Great Nations","Embassies",286,"0:04:46",430,"0:07:10",False
-"Mars Command","WFE, Embassies",288,"0:04:48",432,"0:07:12",False
-"Coalition of Water","WFE, RO, Embassies",291,"0:04:51",437,"0:07:17",False
-"Chebureks Paradise","RO, Embassies",291,"0:04:51",437,"0:07:17",False
-"Shurhands Alliance","Embassies",291,"0:04:51",437,"0:07:17",False
-"The Grand Citadel","WFE, RO, Embassies",292,"0:04:52",438,"0:07:18",False
-"Greater Spain","RO, Embassies",292,"0:04:52",438,"0:07:18",False
-"abated","Embassies",293,"0:04:53",440,"0:07:20",False
-"Nevil region","RO, Embassies",293,"0:04:53",440,"0:07:20",False
-"Mtcat101","WFE, RO, Embassies",295,"0:04:55",443,"0:07:23",True
-"The Boys LLC","WFE, Embassies",296,"0:04:56",444,"0:07:24",False
-"Centang","RO, Embassies",314,"0:05:14",471,"0:07:51",False
-"The Steppes","RO",315,"0:05:15",473,"0:07:53",False
-"The Grand Federation Of Hiigara","WFE, Embassies",317,"0:05:17",475,"0:07:55",False
-"Basaintco","RO",317,"0:05:17",475,"0:07:55",False
-"Warzone TMC","RO",317,"0:05:17",476,"0:07:56",False
-"Timoristan","RO",318,"0:05:18",477,"0:07:57",False
-"Fornsigtuna","WFE, Embassies",319,"0:05:19",479,"0:07:59",False
-"Union of Slavic Socialist States","WFE, Embassies",321,"0:05:21",481,"0:08:01",False
-"Pilipinas","RO, Embassies",321,"0:05:21",481,"0:08:01",False
-"The Realm of Kaiser","WFE, RO, Embassies",324,"0:05:24",486,"0:08:06",False
-"LNF Beach","WFE, RO, Embassies",324,"0:05:24",486,"0:08:06",False
-"4th International Socialist Union","WFE, RO, Embassies",324,"0:05:24",486,"0:08:06",False
-"Coal kingdom the 7th","WFE, Embassies",324,"0:05:24",486,"0:08:06",False
-"abstrusely","WFE, RO, Embassies",332,"0:05:32",497,"0:08:17",False
-"Irpland","RO, Embassies",332,"0:05:32",497,"0:08:17",False
-"The forbidden kingdom","Embassies",348,"0:05:48",522,"0:08:42",False
-"Orlando Florida","RO, Embassies",349,"0:05:49",524,"0:08:44",False
-"The Eurovision Region","WFE, RO, Embassies",349,"0:05:49",524,"0:08:44",False
-"Scawtia","WFE, Embassies",350,"0:05:50",525,"0:08:45",False
-"The Confederacy of Unified States","WFE, RO, Embassies",351,"0:05:51",526,"0:08:46",False
-"The Outer Rim","RO",351,"0:05:51",526,"0:08:46",False
-"The North Pacific rebellion","RO, Embassies",355,"0:05:55",533,"0:08:53",False
-"Dixian Archipelago","RO, Embassies",355,"0:05:55",533,"0:08:53",False
-"The Revenger Federation","WFE, Embassies",356,"0:05:56",534,"0:08:54",False
-"Euros","WFE, RO, Embassies",359,"0:05:59",538,"0:08:58",False
-"Union of Pagan Nations","WFE, RO, Embassies",359,"0:05:59",539,"0:08:59",False
-"Greater Nova York","RO",361,"0:06:01",541,"0:09:01",False
-"Democratic Republic","RO",361,"0:06:01",542,"0:09:02",False
-"Real boy archipelago","RO",362,"0:06:02",543,"0:09:03",False
-"Glory Universalis","Embassies",363,"0:06:03",545,"0:09:05",False
-"UCO","Embassies",364,"0:06:04",546,"0:09:06",False
-"NationStates Fanfics","RO, Embassies",365,"0:06:05",547,"0:09:07",False
-"The United Confederacy","RO",367,"0:06:07",551,"0:09:11",False
-"Plush United","RO, Embassies",371,"0:06:11",557,"0:09:17",False
-"Ostia","RO, Embassies",373,"0:06:13",559,"0:09:19",False
-"accelerate","WFE, Embassies",373,"0:06:13",559,"0:09:19",False
-"Feminist Frontier","WFE, Embassies",379,"0:06:19",568,"0:09:28",False
-"rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr","WFE",380,"0:06:20",569,"0:09:29",False
-"Corona Australis","Embassies",386,"0:06:26",578,"0:09:38",False
-"Sentosa","RO",387,"0:06:27",581,"0:09:41",False
-"The commonwealth of Comradeship","RO",398,"0:06:38",597,"0:09:57",False
-"The United Nations of the Atlantic","WFE, Embassies",399,"0:06:39",599,"0:09:59",False
-"Belvalian Union","RO",430,"0:07:10",644,"0:10:44",False
-"Superiorem Merionem Region","RO",430,"0:07:10",645,"0:10:45",False
-"Planet of Allpa","RO",430,"0:07:10",645,"0:10:45",False
-"European Union of Romanian Communists","RO",433,"0:07:13",649,"0:10:49",False
-"Confederation of Outlying Nations","RO",433,"0:07:13",649,"0:10:49",False
-"Global Oceanic Treaty Organization","RO, Embassies",433,"0:07:13",649,"0:10:49",False
-"United States of Glizzys","WFE, Embassies",434,"0:07:14",650,"0:10:50",False
-"Duhmerican Alliance","WFE, Embassies",434,"0:07:14",651,"0:10:51",False
-"Indilore World Trade Center","Embassies",435,"0:07:15",652,"0:10:52",False
-"Alternate earth","RO",443,"0:07:23",665,"0:11:05",False
-"Tv Valley","RO, Embassies",443,"0:07:23",665,"0:11:05",False
-"The Instrumental Alliance","RO, Embassies",444,"0:07:24",666,"0:11:06",False
-"Organization of free nations","Embassies",445,"0:07:25",668,"0:11:08",False
-"Communism4life","WFE, RO, Embassies",447,"0:07:27",671,"0:11:11",False
-"Brand New World","WFE, Embassies",452,"0:07:32",678,"0:11:18",False
-"Warzone South America","WFE, RO, Embassies",452,"0:07:32",678,"0:11:18",False
-"Deep Sea 8","RO, Embassies",452,"0:07:32",678,"0:11:18",False
-"New SHIELD","RO, Embassies",453,"0:07:33",680,"0:11:20",False
-"The Triad","WFE, Embassies",455,"0:07:35",682,"0:11:22",False
-"Deziat","WFE, RO, Embassies",457,"0:07:37",685,"0:11:25",False
-"ez ur bad","RO, Embassies",457,"0:07:37",685,"0:11:25",False
-"Nations of the Orion Arm","WFE, Embassies",457,"0:07:37",686,"0:11:26",False
-"The Royal Sovereign Alliance","WFE, RO, Embassies",457,"0:07:37",686,"0:11:26",False
-"Silver Edge","RO, Embassies",457,"0:07:37",686,"0:11:26",False
-"The League of Free Nations","RO",458,"0:07:38",687,"0:11:27",False
-"The Mediterrannean","RO, Embassies",462,"0:07:42",693,"0:11:33",False
-"Pro democracy coalition","Embassies",463,"0:07:43",695,"0:11:35",False
-"Hemmes Alliance","RO, Embassies",463,"0:07:43",695,"0:11:35",False
-"Infinite Zachisian Multiversal Lounge","Embassies",464,"0:07:44",696,"0:11:36",False
-"The Great States of Fascist Nudists","RO, Embassies",468,"0:07:48",702,"0:11:42",False
-"The Holy See of Vagen","WFE, RO, Embassies",471,"0:07:51",706,"0:11:46",False
-"Octavia Group","RO",471,"0:07:51",706,"0:11:46",False
-"abolishes","Embassies",474,"0:07:54",711,"0:11:51",False
-"The Democratic Union","RO",475,"0:07:55",712,"0:11:52",True
-"The Average Confederacy","RO",475,"0:07:55",713,"0:11:53",False
-"The Southern Alliance","RO",476,"0:07:56",714,"0:11:54",False
-"The Swedish Kingdom","WFE, RO, Embassies",479,"0:07:59",718,"0:11:58",False
-"Alliance of Puppet Nations","Embassies",479,"0:07:59",718,"0:11:58",False
-"Marleyean continent","Embassies",480,"0:08:00",719,"0:11:59",False
-"The Userite Menace","WFE, RO, Embassies",480,"0:08:00",719,"0:11:59",False
-"Smol Bean Paradise","RO, Embassies",480,"0:08:00",720,"0:12:00",False
-"Kasterborous","RO",480,"0:08:00",720,"0:12:00",False
-"The Irish underwater","RO, Embassies",488,"0:08:08",732,"0:12:12",False
-"The Dragon Alliance","RO",488,"0:08:08",732,"0:12:12",False
-"The Popptart Empire","RO, Embassies",489,"0:08:09",734,"0:12:14",False
-"Ros Empire","WFE, Embassies",490,"0:08:10",735,"0:12:15",False
-"Federation of sovereign nations","Embassies",497,"0:08:17",746,"0:12:26",False
-"Theocratic States","RO, Embassies",499,"0:08:19",749,"0:12:29",False
-"The Javinian Union","RO, Embassies",499,"0:08:19",749,"0:12:29",False
-"West East North South Central Pacific","RO",500,"0:08:20",750,"0:12:30",False
-"N Land","WFE, Embassies",500,"0:08:20",751,"0:12:31",False
-"The Great Hermit Kingdom","RO",501,"0:08:21",752,"0:12:32",False
-"Coral Reef 4","WFE, RO, Embassies",501,"0:08:21",752,"0:12:32",False
-"absolutist","RO",502,"0:08:22",753,"0:12:33",False
-"Global Industrial Federation","RO, Embassies",503,"0:08:23",755,"0:12:35",False
-"Concordat of the Pacific","WFE, Embassies",503,"0:08:23",755,"0:12:35",False
-"New Jahkku","WFE, RO",504,"0:08:24",756,"0:12:36",False
-"best people","RO",506,"0:08:26",759,"0:12:39",False
-"the AnCap Empire","RO, Embassies",673,"0:11:13",1010,"0:16:50",False
-"Realm of the Dragon","Embassies",674,"0:11:14",1011,"0:16:51",False
-"The Golden Triangle","WFE, Embassies",675,"0:11:15",1012,"0:16:52",False
-"The Union Of Gato","Embassies",675,"0:11:15",1012,"0:16:52",False
-"Famous People","RO",675,"0:11:15",1012,"0:16:52",False
-"United Communist Coalition","WFE, Embassies",675,"0:11:15",1013,"0:16:53",False
-"The Lemurian Alliance","WFE, RO, Embassies",677,"0:11:17",1016,"0:16:56",False
-"Federation Of Andom","Embassies",687,"0:11:27",1030,"0:17:10",False
-"Futa Paradise","Embassies",688,"0:11:28",1031,"0:17:11",False
-"Indo Pacific Treaty Organization","RO, Embassies",688,"0:11:28",1031,"0:17:11",False
-"The International Puppet Storge","WFE, Embassies",690,"0:11:30",1034,"0:17:14",False
-"Quarks","RO",690,"0:11:30",1034,"0:17:14",False
-"Chick Fil A","WFE, Embassies",690,"0:11:30",1035,"0:17:15",False
-"Mario time","RO",692,"0:11:32",1037,"0:17:17",False
-"Ijakaland","WFE",692,"0:11:32",1038,"0:17:18",False
-"West Coast Federation Pact","WFE, RO, Embassies",704,"0:11:44",1057,"0:17:37",False
-"The Islands of the Great Wrath","WFE, Embassies",704,"0:11:44",1057,"0:17:37",False
-"absence","WFE, RO, Embassies",704,"0:11:44",1057,"0:17:37",False
-"International Socialist Assembly","RO",704,"0:11:44",1057,"0:17:37",False
-"The King Isle","Embassies",704,"0:11:44",1057,"0:17:37",False
-"The End Of The World","RO",728,"0:12:08",1092,"0:18:12",False
-"zoom vroom","RO",730,"0:12:10",1095,"0:18:15",False
-"Freedom Peninsula","WFE, Embassies",730,"0:12:10",1095,"0:18:15",False
-"The Unknown Expanse","Embassies",732,"0:12:12",1098,"0:18:18",False
-"socialist unions","RO, Embassies",732,"0:12:12",1098,"0:18:18",False
-"Proto Axialists of the Southern Atlantic","WFE, Embassies",733,"0:12:13",1099,"0:18:19",False
-"Starry Nations","RO",735,"0:12:15",1102,"0:18:22",False
-"Trans Atlantic Trade Company","RO",738,"0:12:18",1107,"0:18:27",False
-"THE HEBREW ALLIANCE","RO",738,"0:12:18",1107,"0:18:27",False
-"fURRIES 4 NATIONSTATES XD","RO, Embassies",739,"0:12:19",1108,"0:18:28",False
-"about","WFE, RO, Embassies",739,"0:12:19",1108,"0:18:28",False
-"0527 yellow wattled lapwing","WFE, RO, Embassies",740,"0:12:20",1109,"0:18:29",False
-"accidental","RO, Embassies",743,"0:12:23",1114,"0:18:34",False
-"The Federal States of America","RO",743,"0:12:23",1114,"0:18:34",False
-"mhanahstan","WFE, RO, Embassies",745,"0:12:25",1117,"0:18:37",False
-"Catz in the Hood","WFE, Embassies",745,"0:12:25",1117,"0:18:37",False
-"abating","RO",746,"0:12:26",1118,"0:18:38",False
-"The Diamond Alliance","RO, Embassies",746,"0:12:26",1118,"0:18:38",False
-"Religious Peoples Democracy","RO",746,"0:12:26",1120,"0:18:40",False
-"The Great Region Of Flurp Flurp Land","RO, Embassies",746,"0:12:26",1120,"0:18:40",False
-"The german lands","RO",748,"0:12:28",1122,"0:18:42",False
-"North Newtown","WFE, Embassies",748,"0:12:28",1122,"0:18:42",False
-"Confederate Nations of TomFoolery","WFE, RO, Embassies",748,"0:12:28",1123,"0:18:43",False
-"The Shiny Place","RO, Embassies",749,"0:12:29",1124,"0:18:44",False
-"absorber","RO, Embassies",750,"0:12:30",1125,"0:18:45",False
-"The Orient League","RO, Embassies",750,"0:12:30",1125,"0:18:45",False
-"The Luxan Empire","WFE, Embassies",751,"0:12:31",1127,"0:18:47",False
-"Republic of balls","RO",756,"0:12:36",1134,"0:18:54",False
-"New Allies Of Seasons","RO, Embassies",758,"0:12:38",1137,"0:18:57",False
-"Abe","WFE, RO, Embassies",759,"0:12:39",1139,"0:18:59",False
-"The Dictator","WFE, RO, Embassies",759,"0:12:39",1139,"0:18:59",False
-"Terram Mentis","Embassies",762,"0:12:42",1143,"0:19:03",False
-"Jupiterian Moon Colononies","RO, Embassies",762,"0:12:42",1143,"0:19:03",False
-"Union of United Penguins","Embassies",762,"0:12:42",1143,"0:19:03",False
-"New Polar Order","Embassies",762,"0:12:42",1143,"0:19:03",False
-"THICCEST THANGZ","WFE, Embassies",775,"0:12:55",1163,"0:19:23",False
-"Grand kingdom free region","RO",776,"0:12:56",1164,"0:19:24",False
-"Confederacy of Dictators","WFE, RO, Embassies",797,"0:13:17",1195,"0:19:55",False
-"The fakistanian empire","Embassies",798,"0:13:18",1198,"0:19:58",False
-"Bhutanese World Order","WFE, Embassies",798,"0:13:18",1198,"0:19:58",False
-"Pinkusuta Noniwa","WFE, RO, Embassies",824,"0:13:44",1236,"0:20:36",False
-"Walsingford","RO",827,"0:13:47",1240,"0:20:40",False
-"NANI","WFE",827,"0:13:47",1241,"0:20:41",False
-"Neo Orbis","WFE, Embassies",828,"0:13:48",1242,"0:20:42",False
-"atlantiantic","RO, Embassies",829,"0:13:49",1243,"0:20:43",False
-"the Crubish States","WFE, RO, Embassies",830,"0:13:50",1245,"0:20:45",False
-"The Monke Hangout","WFE, RO, Embassies",830,"0:13:50",1245,"0:20:45",False
-"The United Antarctic People","WFE, RO, Embassies",835,"0:13:55",1253,"0:20:53",False
-"Dubian Conference","WFE, RO, Embassies",838,"0:13:58",1257,"0:20:57",False
-"Bengalistan","RO, Embassies",846,"0:14:06",1268,"0:21:08",False
-"West African Islands","WFE, RO, Embassies",846,"0:14:06",1268,"0:21:08",False
-"Lodia","WFE, RO, Embassies",846,"0:14:06",1269,"0:21:09",False
-"The Incorporated states of power","WFE, Embassies",847,"0:14:07",1270,"0:21:10",False
-"Jojos bizarre reigon","Embassies",850,"0:14:10",1275,"0:21:15",False
-"The WBR Union","WFE, Embassies",860,"0:14:20",1290,"0:21:30",False
-"EACS Regional Board","RO, Embassies",863,"0:14:23",1294,"0:21:34",False
-"abnegating","RO",863,"0:14:23",1294,"0:21:34",False
-"Sierra","RO",866,"0:14:26",1299,"0:21:39",False
-"Open Ocean 9","RO",867,"0:14:27",1300,"0:21:40",False
-"Sand Dune","RO, Embassies",868,"0:14:28",1302,"0:21:42",False
-"the region of evil nations","RO",868,"0:14:28",1302,"0:21:42",False
-"Dogecoin League","RO, Embassies",869,"0:14:29",1304,"0:21:44",False
-"The Small Islands","RO, Embassies",869,"0:14:29",1304,"0:21:44",False
-"NBF","Embassies",871,"0:14:31",1307,"0:21:47",False
-"WesternAmerica","RO",873,"0:14:33",1309,"0:21:49",False
-"Polar Bear Land","WFE, Embassies",873,"0:14:33",1310,"0:21:50",False
-"KINGS","RO, Embassies",873,"0:14:33",1310,"0:21:50",False
-"BackRub","RO, Embassies",877,"0:14:37",1316,"0:21:56",False
-"The Terrarian World","RO",877,"0:14:37",1316,"0:21:56",False
-"Order of the Phoenix","WFE, RO, Embassies",878,"0:14:38",1317,"0:21:57",False
-"BOTs","RO",880,"0:14:40",1320,"0:22:00",False
-"accommodated","WFE, Embassies",884,"0:14:44",1326,"0:22:06",False
-"Dictator Paradise","WFE, Embassies",884,"0:14:44",1326,"0:22:06",False
-"abbacy","WFE, RO, Embassies",888,"0:14:48",1332,"0:22:12",False
-"abridged","RO",891,"0:14:51",1336,"0:22:16",False
-"Leppburg Islands","WFE, RO, Embassies",991,"0:16:31",1486,"0:24:46",False
-"House of Raith","RO",995,"0:16:35",1492,"0:24:52",False
-"Old World","RO, Embassies",998,"0:16:38",1497,"0:24:57",False
-"Bruhkarcia","WFE, Embassies",1013,"0:16:53",1520,"0:25:20",False
-"abstains","RO",1022,"0:17:02",1533,"0:25:33",False
-"The Orcas","WFE, Embassies",1025,"0:17:05",1538,"0:25:38",False
-"Alesya","WFE, RO, Embassies",1025,"0:17:05",1538,"0:25:38",False
-"The Maxim Pact","RO, Embassies",1026,"0:17:06",1539,"0:25:39",False
-"The United Coalition of Nations","WFE, Embassies",1026,"0:17:06",1539,"0:25:39",False
-"The United Religious nations of earth","WFE, RO, Embassies",1026,"0:17:06",1539,"0:25:39",False
-"Worlds Region","RO",1027,"0:17:07",1540,"0:25:40",False
-"Jashax","RO, Embassies",1027,"0:17:07",1540,"0:25:40",False
-"Ernaarav Caldrake","WFE, RO, Embassies",1028,"0:17:08",1542,"0:25:42",False
-"The British Commonwealth","RO, Embassies",1028,"0:17:08",1542,"0:25:42",False
-"The Lords of Polaris","RO, Embassies",1028,"0:17:08",1542,"0:25:42",False
-"Pingaz For Muteke","WFE, RO",1028,"0:17:08",1542,"0:25:42",False
-"Free Thought","Embassies",1032,"0:17:12",1548,"0:25:48",False
-"Germanic Region","WFE, RO, Embassies",1039,"0:17:19",1558,"0:25:58",False
-"Great Atorksubland","WFE, Embassies",1042,"0:17:22",1562,"0:26:02",False
-"The Fowler Force","RO",1042,"0:17:22",1562,"0:26:02",False
-"World Assembly Security Council","RO, Embassies",1042,"0:17:22",1563,"0:26:03",False
-"New Hamsland","WFE, Embassies",1043,"0:17:23",1564,"0:26:04",False
-"The Good Place","Embassies",1045,"0:17:25",1567,"0:26:07",False
-"Federation of Yale","WFE, RO, Embassies",1045,"0:17:25",1567,"0:26:07",False
-"The Death Empire","WFE, RO, Embassies",1046,"0:17:26",1568,"0:26:08",False
-"Neon City Dreams","WFE, Embassies",1046,"0:17:26",1569,"0:26:09",False
-"The North Atlantic Commonwealth","WFE, Embassies",1059,"0:17:39",1589,"0:26:29",False
-"Shattered states","RO, Embassies",1059,"0:17:39",1589,"0:26:29",False
-"Allied States for the Freedom Of Tibet","Embassies",1064,"0:17:44",1596,"0:26:36",False
-"The Land of Bird and Honey","Embassies",1066,"0:17:46",1600,"0:26:40",False
-"Abercrombie","RO, Embassies",1067,"0:17:47",1601,"0:26:41",False
-"Silka","WFE, RO, Embassies",1067,"0:17:47",1601,"0:26:41",False
-"New Phoenix","WFE, RO, Embassies",1068,"0:17:48",1602,"0:26:42",False
-"Official Soviet Union","Embassies",1068,"0:17:48",1602,"0:26:42",False
-"UnionofSoviet Socialist Republics","WFE, RO, Embassies",1068,"0:17:48",1602,"0:26:42",False
-"Betmet","WFE, Embassies",1069,"0:17:49",1603,"0:26:43",False
-"CTSN","RO, Embassies",1070,"0:17:50",1605,"0:26:45",False
-"United Nations of Jerusalem","Embassies",1071,"0:17:51",1607,"0:26:47",False
-"Europa Allance","RO",1073,"0:17:53",1610,"0:26:50",False
-"Cannis Majoris","RO",1075,"0:17:55",1612,"0:26:52",False
-"The Commonwealth of United Front","RO, Embassies",1081,"0:18:01",1622,"0:27:02",False
-"The Guild of Nations","RO, Embassies",1081,"0:18:01",1622,"0:27:02",False
-"The Diplomatic Committee Of Nations","WFE, Embassies",1082,"0:18:02",1623,"0:27:03",False
-"Forbidden islands","RO, Embassies",1082,"0:18:02",1623,"0:27:03",False
-"East Phirod Islands","WFE, RO",1083,"0:18:03",1625,"0:27:05",False
-"Mesopotamia","RO",1084,"0:18:04",1626,"0:27:06",False
-"the region of holy memes","Embassies",1084,"0:18:04",1626,"0:27:06",False
-"Sira Inclusive Research Alliance","RO, Embassies",1085,"0:18:05",1627,"0:27:07",False
-"Antisocial League","WFE, Embassies",1088,"0:18:08",1632,"0:27:12",False
-"Look at that tree","RO",1090,"0:18:10",1635,"0:27:15",False
-"Anomaly","WFE, Embassies",1091,"0:18:11",1636,"0:27:16",False
-"qwacc","WFE, RO, Embassies",1091,"0:18:11",1636,"0:27:16",False
-"United NationStates","WFE, RO, Embassies",1091,"0:18:11",1636,"0:27:16",False
-"abhorringly","RO",1092,"0:18:12",1638,"0:27:18",False
-"Nord Kaukasus","RO, Embassies",1092,"0:18:12",1638,"0:27:18",False
-"Skaro","WFE, RO",1093,"0:18:13",1639,"0:27:19",False
-"Jregoria","WFE, RO, Embassies",1094,"0:18:14",1640,"0:27:20",False
-"Elcor","Embassies",1106,"0:18:26",1658,"0:27:38",False
-"The Union of Peace","Embassies",1106,"0:18:26",1660,"0:27:40",False
-"Honeycuttland the Best","WFE, Embassies",1106,"0:18:26",1660,"0:27:40",False
-"The Kingdom of Netherlands","RO",1107,"0:18:27",1661,"0:27:41",False
-"Mars Congressional Republic","RO",1108,"0:18:28",1663,"0:27:43",False
-"Socialist Confederation","WFE, RO, Embassies",1135,"0:18:55",1702,"0:28:22",False
-"CurtomLandia","RO",1152,"0:19:12",1727,"0:28:47",False
-"accent","WFE, RO, Embassies",1153,"0:19:13",1729,"0:28:49",False
-"The Dictatorship Society","WFE, Embassies",1153,"0:19:13",1729,"0:28:49",False
-"Bumiputra","RO",1162,"0:19:22",1744,"0:29:04",False
-"Gayland","Embassies",1165,"0:19:25",1748,"0:29:08",False
-"The Mappers Union","RO",1165,"0:19:25",1748,"0:29:08",False
-"Kerala","RO, Embassies",1166,"0:19:26",1749,"0:29:09",False
-"Fredlandia","RO, Embassies",1166,"0:19:26",1750,"0:29:10",False
-"The Doomsday Legion","WFE, RO, Embassies",1169,"0:19:29",1754,"0:29:14",False
-"Kaorska","RO, Embassies",1169,"0:19:29",1754,"0:29:14",False
-"The United Powers Of Kreios","RO",1169,"0:19:29",1754,"0:29:14",False
-"Trebuchet Storage","RO",1170,"0:19:30",1755,"0:29:15",False
-"Holor","WFE, RO, Embassies",1171,"0:19:31",1756,"0:29:16",False
-"Onionistlands","RO, Embassies",1179,"0:19:39",1768,"0:29:28",False
-"Taylor Swift","Embassies",1188,"0:19:48",1782,"0:29:42",False
-"The Gaddafist League","RO",1189,"0:19:49",1783,"0:29:43",False
-"Fruit Factions","RO",1191,"0:19:51",1787,"0:29:47",False
-"Baby","RO, Embassies",1206,"0:20:06",1809,"0:30:09",False
-"Novis Vandium","WFE, RO, Embassies",1207,"0:20:07",1810,"0:30:10",False
-"Atlantic Alliance","WFE, RO, Embassies",1207,"0:20:07",1810,"0:30:10",False
-"The Minutemen","WFE, RO, Embassies",1207,"0:20:07",1810,"0:30:10",False
-"Unirea Popoarelor Marii","RO, Embassies",1215,"0:20:15",1823,"0:30:23",False
-"Palos","RO, Embassies",1216,"0:20:16",1824,"0:30:24",False
-"BallsMoment","RO, Embassies",1216,"0:20:16",1825,"0:30:25",False
-"Allied Nations of Glioca","RO, Embassies",1218,"0:20:18",1827,"0:30:27",False
-"The Consolidation","WFE, RO, Embassies",1218,"0:20:18",1827,"0:30:27",False
-"Kyorgia puppet storage","Embassies",1218,"0:20:18",1827,"0:30:27",False
-"Alliance of Monke and Gandhi Nations","WFE, RO, Embassies",1220,"0:20:20",1830,"0:30:30",False
-"Combine overworld","RO, Embassies",1220,"0:20:20",1830,"0:30:30",False
-"Zadlanovskiv","Embassies",1220,"0:20:20",1831,"0:30:31",False
-"Arkio","RO",1221,"0:20:21",1832,"0:30:32",False
-"Virfaht","WFE, Embassies",1221,"0:20:21",1832,"0:30:32",False
-"Dragon Isles","WFE, RO, Embassies",1221,"0:20:21",1832,"0:30:32",False
-"accompaniment","WFE, RO, Embassies",1223,"0:20:23",1834,"0:30:34",False
-"Aynia","WFE, RO, Embassies",1223,"0:20:23",1834,"0:30:34",False
-"The Remnants","RO, Embassies",1224,"0:20:24",1836,"0:30:36",False
-"Bandonia","WFE, RO, Embassies",1224,"0:20:24",1836,"0:30:36",False
-"abscissas","RO",1227,"0:20:27",1840,"0:30:40",False
-"Communist independent China","Embassies",1227,"0:20:27",1841,"0:30:41",False
-"Conservative Club","WFE, Embassies",1229,"0:20:29",1844,"0:30:44",False
-"Left handed","RO",1252,"0:20:52",1878,"0:31:18",False
-"Planet Oriya","WFE, RO, Embassies",1275,"0:21:15",1913,"0:31:53",False
-"National people rights","WFE, RO, Embassies",1279,"0:21:19",1918,"0:31:58",False
-"Areda Muiri","RO, Embassies",1279,"0:21:19",1918,"0:31:58",False
-"Eternal Peace","WFE, Embassies",1279,"0:21:19",1919,"0:31:59",False
-"Global Union Consortium","RO",1280,"0:21:20",1920,"0:32:00",False
-"Realm of Ravenpeak","Embassies",1280,"0:21:20",1920,"0:32:00",False
-"The Land Of The Lawlessly Little Isles","RO, Embassies",1281,"0:21:21",1921,"0:32:01",False
-"United Front of Dionastain","WFE, Embassies",1281,"0:21:21",1922,"0:32:02",False
-"Communist Alliance Of Mosncun","WFE, RO, Embassies",1285,"0:21:25",1927,"0:32:07",False
-"Yubrikean Union YU","WFE, Embassies",1285,"0:21:25",1928,"0:32:08",False
-"abiding","WFE, Embassies",1286,"0:21:26",1929,"0:32:09",False
-"Brasil PT BR","Embassies",1287,"0:21:27",1930,"0:32:10",False
-"The United Sizeronian Continent","WFE, RO, Embassies",1287,"0:21:27",1930,"0:32:10",False
-"The Great Jingo Rainforest","Embassies",1289,"0:21:29",1933,"0:32:13",False
-"Region X","RO",1303,"0:21:43",1954,"0:32:34",False
-"Greater Loggia","Embassies",1304,"0:21:44",1956,"0:32:36",False
-"Mists of History","WFE, Embassies",1305,"0:21:45",1957,"0:32:37",False
-"Ur MoM","Embassies",1306,"0:21:46",1958,"0:32:38",False
-"Korinka","RO, Embassies",1306,"0:21:46",1959,"0:32:39",False
-"Canastralian Union","WFE, Embassies",1306,"0:21:46",1959,"0:32:39",False
-"Aberdare","WFE, RO, Embassies",1310,"0:21:50",1964,"0:32:44",False
-"Season3 Cards Awaiters","RO",1310,"0:21:50",1964,"0:32:44",False
-"abdomen","RO",1310,"0:21:50",1965,"0:32:45",False
-"The Gayish Economic Zone","RO",1310,"0:21:50",1965,"0:32:45",False
-"Medinet Habu","RO",1312,"0:21:52",1968,"0:32:48",False
-"HubbaTelys Card Farmers","WFE, Embassies",1312,"0:21:52",1968,"0:32:48",False
-"Union Of JeremianFive Nationalists","Embassies",1314,"0:21:54",1972,"0:32:52",False
-"Paradoxika","WFE, Embassies",1328,"0:22:08",1992,"0:33:12",False
-"unite the nations","WFE, RO, Embassies",1329,"0:22:09",1993,"0:33:13",False
-"Testtttt","RO, Embassies",1329,"0:22:09",1994,"0:33:14",False
-"The Federation of the FA","RO",1330,"0:22:10",1995,"0:33:15",True
-"Skateboards","RO",1331,"0:22:11",1996,"0:33:16",False
-"Mane Upod Nos","WFE, RO, Embassies",1331,"0:22:11",1996,"0:33:16",False
-"TheCultOfCabbage","RO, Embassies",1335,"0:22:15",2003,"0:33:23",False
-"Scumland","RO, Embassies",1336,"0:22:16",2004,"0:33:24",False
-"abrades","RO, Embassies",1336,"0:22:16",2004,"0:33:24",False
-"Amazonas","WFE, RO, Embassies",1344,"0:22:24",2016,"0:33:36",False
-"The Land of the Geezers and space people","RO, Embassies",1344,"0:22:24",2016,"0:33:36",False
-"Greater Triland","WFE, Embassies",1345,"0:22:25",2017,"0:33:37",False
-"Naantali","RO",1345,"0:22:25",2018,"0:33:38",False
-"Supernatural Gryffindor Poptarts","WFE, RO, Embassies",1345,"0:22:25",2018,"0:33:38",False
-"Lezzie","Embassies",1349,"0:22:29",2024,"0:33:44",False
-"The United Independent States","RO",1350,"0:22:30",2025,"0:33:45",False
-"United Commonwealth","RO",1352,"0:22:32",2028,"0:33:48",False
-"The Unified Study Group","WFE, RO, Embassies",1356,"0:22:36",2033,"0:33:53",False
-"The City of Ba Sing Se","RO, Embassies",1356,"0:22:36",2034,"0:33:54",False
-"Duolingo airport","WFE, Embassies",1357,"0:22:37",2035,"0:33:55",False
-"absorbing","RO",1357,"0:22:37",2035,"0:33:55",False
-"Happy Tree World","WFE, Embassies",1358,"0:22:38",2036,"0:33:56",False
-"Femisphere","RO, Embassies",1358,"0:22:38",2037,"0:33:57",False
-"academics","RO, Embassies",1358,"0:22:38",2037,"0:33:57",False
-"abuser","WFE, Embassies",1358,"0:22:38",2037,"0:33:57",False
-"Federation of Earth","RO, Embassies",1362,"0:22:42",2043,"0:34:03",False
-"Connecticut","WFE, RO, Embassies",1366,"0:22:46",2049,"0:34:09",False
-"Anti Communist Liberation Front","WFE, RO, Embassies",1366,"0:22:46",2049,"0:34:09",False
-"Hussaria","WFE, Embassies",1386,"0:23:06",2079,"0:34:39",False
-"Federal Empire of Memovka","RO",1389,"0:23:09",2083,"0:34:43",False
-"Galicia Island","WFE, Embassies",1389,"0:23:09",2083,"0:34:43",False
-"The Great Pacific","WFE, Embassies",1389,"0:23:09",2083,"0:34:43",False
-"The Populace of Overachieving Peoples","RO",1389,"0:23:09",2083,"0:34:43",False
-"Latter Day Saints","RO, Embassies",1393,"0:23:13",2090,"0:34:50",False
-"Yeet McSkeet","RO",1393,"0:23:13",2090,"0:34:50",False
-"acclamatory","RO",1395,"0:23:15",2092,"0:34:52",False
-"United Faction of Nations","WFE, RO",1396,"0:23:16",2094,"0:34:54",False
-"Nowhere","Embassies",1404,"0:23:24",2105,"0:35:05",False
-"The 1st Option","WFE, Embassies",1405,"0:23:25",2107,"0:35:07",False
-"ComradeLand","WFE, RO, Embassies",1405,"0:23:25",2107,"0:35:07",False
-"Earth Sovereign Colonies","RO",1405,"0:23:25",2107,"0:35:07",False
-"Industrial Region","RO",1408,"0:23:28",2111,"0:35:11",False
-"The Consumable Sustenance Coalition","WFE, RO, Embassies",1408,"0:23:28",2111,"0:35:11",False
-"Verthandi","RO, Embassies",1410,"0:23:30",2114,"0:35:14",False
-"Hyperworld","RO, Embassies",1410,"0:23:30",2115,"0:35:15",False
-"Holy Continent of Non Religious Nations","Embassies",1430,"0:23:50",2145,"0:35:45",False
-"abet","RO",1431,"0:23:51",2147,"0:35:47",False
-"Bhutan","RO",1432,"0:23:52",2148,"0:35:48",True
-"Raidersville","WFE, Embassies",1497,"0:24:57",2246,"0:37:26",False
-"Sea of Frens","RO",1499,"0:24:59",2249,"0:37:29",False
-"Bud","RO",1508,"0:25:08",2261,"0:37:41",False
-"Astellar Treaty Organization","RO",1508,"0:25:08",2261,"0:37:41",False
-"The Insulam Confederacy","RO, Embassies",1510,"0:25:10",2264,"0:37:44",False
-"Vales Cabin","WFE, Embassies",1635,"0:27:15",2452,"0:40:52",False
-"Union of Green Socialist Nations","WFE, Embassies",1637,"0:27:17",2456,"0:40:56",False
-"JACOB SAGITAGIS WORSPHIPERS","WFE, RO, Embassies",1639,"0:27:19",2458,"0:40:58",False
-"Union of Dutch Communities","WFE, Embassies",1758,"0:29:18",2637,"0:43:57",False
-"BCN","RO",1776,"0:29:36",2664,"0:44:24",False
-"Bernieland","WFE, RO, Embassies",1780,"0:29:40",2670,"0:44:30",False
-"The Planet Of Erresia","WFE, Embassies",1782,"0:29:42",2674,"0:44:34",False
-"rectica backup 2","RO, Embassies",1783,"0:29:43",2675,"0:44:35",False
-"Open Ocean 1","WFE, RO, Embassies",1784,"0:29:44",2676,"0:44:36",False
-"Russian Empire l","RO, Embassies",1784,"0:29:44",2677,"0:44:37",False
-"The Enclave","RO",1784,"0:29:44",2677,"0:44:37",False
-"Machtpolitik","WFE, RO, Embassies",1785,"0:29:45",2678,"0:44:38",False
-"Hyrulian Nations League","WFE, Embassies",1790,"0:29:50",2685,"0:44:45",False
-"Anti LGBTQ","WFE, Embassies",1791,"0:29:51",2686,"0:44:46",False
-"Ruuussiya","WFE, RO, Embassies",1791,"0:29:51",2686,"0:44:46",False
-"Old World Union","WFE, RO, Embassies",1791,"0:29:51",2686,"0:44:46",False
-"Republican Action","WFE, Embassies",1791,"0:29:51",2687,"0:44:47",False
-"abundantly","RO",1794,"0:29:54",2691,"0:44:51",False
-"Wallastan","WFE, RO, Embassies",1795,"0:29:55",2692,"0:44:52",False
-"EMPIRESES","RO, Embassies",1795,"0:29:55",2692,"0:44:52",False
-"Sus Island","RO",1801,"0:30:01",2702,"0:45:02",False
-"ImpLand","RO, Embassies",1803,"0:30:03",2705,"0:45:05",False
-"Historium of the Recordkeeper","WFE, Embassies",1805,"0:30:05",2707,"0:45:07",False
-"Spammystan","WFE, Embassies",1818,"0:30:18",2727,"0:45:27",False
-"Reihkossan","RO, Embassies",1821,"0:30:21",2731,"0:45:31",False
-"The Grand Imperial Regime of Nantuvia","WFE, RO, Embassies",1821,"0:30:21",2731,"0:45:31",False
-"Zhof Taralea","Embassies",1828,"0:30:28",2743,"0:45:43",False
-"Axis Powers 3","Embassies",1830,"0:30:30",2746,"0:45:46",False
-"Citadel Animos","RO",1832,"0:30:32",2748,"0:45:48",False
-"The Scattered Isles","WFE, RO, Embassies",1833,"0:30:33",2750,"0:45:50",False
-"United Syndicalist Workers Front","WFE, Embassies",1834,"0:30:34",2752,"0:45:52",False
-"ISP Front","Embassies",1834,"0:30:34",2752,"0:45:52",False
-"Gemuhabu","WFE, RO, Embassies",1841,"0:30:41",2761,"0:46:01",False
-"Oceanosphere","WFE, RO, Embassies",1842,"0:30:42",2763,"0:46:03",False
-"The Jungle","RO, Embassies",1842,"0:30:42",2763,"0:46:03",False
-"The 10th Crusade","WFE, Embassies",1842,"0:30:42",2763,"0:46:03",False
-"The Peoples Communist Union","Embassies",1842,"0:30:42",2763,"0:46:03",False
-"Continent of Europia","WFE, RO, Embassies",1844,"0:30:44",2766,"0:46:06",False
-"NE northern eire","WFE, RO, Embassies",1844,"0:30:44",2766,"0:46:06",False
-"United Nations of Commonwealth","WFE, Embassies",1844,"0:30:44",2766,"0:46:06",False
-"McDonalds Lovefest","WFE, RO, Embassies",1844,"0:30:44",2766,"0:46:06",False
-"Ferrish Archipelago","WFE, RO, Embassies",1845,"0:30:45",2768,"0:46:08",False
-"Hanaraxia","WFE, Embassies",1846,"0:30:46",2769,"0:46:09",False
-"Puppet Storage","RO, Embassies",1846,"0:30:46",2769,"0:46:09",False
-"United Countries","RO, Embassies",1847,"0:30:47",2770,"0:46:10",False
-"Pogromville","RO, Embassies",1851,"0:30:51",2776,"0:46:16",False
-"peavilia","WFE, RO",1856,"0:30:56",2784,"0:46:24",False
-"Gay liberation front","WFE, RO, Embassies",1858,"0:30:58",2787,"0:46:27",False
-"The tea","RO",1859,"0:30:59",2789,"0:46:29",False
-"Trophy Thieves","WFE, RO, Embassies",1868,"0:31:08",2802,"0:46:42",False
-"MONK EE","WFE, Embassies",1870,"0:31:10",2805,"0:46:45",False
-"Libertasia","RO, Embassies",1871,"0:31:11",2806,"0:46:46",False
-"0000000000 Soviet Union","WFE, Embassies",1872,"0:31:12",2807,"0:46:47",False
-"accentuates","WFE, Embassies",1872,"0:31:12",2808,"0:46:48",False
-"Gamer Paradise","WFE, RO",1874,"0:31:14",2810,"0:46:50",False
-"Pokemon Land","Embassies",1876,"0:31:16",2813,"0:46:53",False
-"Warzone Arkansas","WFE, RO, Embassies",1882,"0:31:22",2824,"0:47:04",False
-"United Governments of NationStates","WFE, Embassies",1882,"0:31:22",2824,"0:47:04",False
-"abroad","RO, Embassies",1886,"0:31:26",2830,"0:47:10",False
-"absentees","RO, Embassies",1888,"0:31:28",2832,"0:47:12",False
-"The Superior Void","RO, Embassies",1888,"0:31:28",2832,"0:47:12",False
-"Fairy Tail","Embassies",1888,"0:31:28",2833,"0:47:13",False
-"Union of Conservative Nations","RO",1889,"0:31:29",2834,"0:47:14",False
-"IADN","RO, Embassies",1890,"0:31:30",2835,"0:47:15",False
-"Absurd Puppets","RO",1890,"0:31:30",2835,"0:47:15",False
-"Lendir","RO",1892,"0:31:32",2838,"0:47:18",False
-"Solum of solemn shtets","RO",1893,"0:31:33",2839,"0:47:19",False
-"Avenging Broccoli","Embassies",1894,"0:31:34",2841,"0:47:21",False
-"accessed","RO, Embassies",1895,"0:31:35",2842,"0:47:22",False
-"The Great Monarchical Nations","RO",1895,"0:31:35",2842,"0:47:22",True
-"Kawaii klan","RO",1896,"0:31:36",2844,"0:47:24",False
-"New American Empire","Embassies",1898,"0:31:38",2847,"0:47:27",False
-"Osaka","RO, Embassies",1899,"0:31:39",2848,"0:47:28",False
-"Norahem","RO, Embassies",1901,"0:31:41",2852,"0:47:32",False
-"Weed Nation","RO, Embassies",1903,"0:31:43",2854,"0:47:34",False
-"Legio I Genua","Embassies",1903,"0:31:43",2854,"0:47:34",False
-"academe","WFE, Embassies",1904,"0:31:44",2856,"0:47:36",False
-"The Mass Effect Universe","RO",1904,"0:31:44",2856,"0:47:36",False
-"Depression","RO",1904,"0:31:44",2856,"0:47:36",False
-"The First Imperial Order","RO",1905,"0:31:45",2857,"0:47:37",False
-"Starfleet Japan","WFE, RO, Embassies",1905,"0:31:45",2858,"0:47:38",False
-"Anakin Skywalker is hot","WFE, RO, Embassies",1909,"0:31:49",2864,"0:47:44",False
-"Deep Water 6","WFE, RO, Embassies",1924,"0:32:04",2886,"0:48:06",False
-"The Paragon Union","RO, Embassies",1925,"0:32:05",2887,"0:48:07",False
-"The Holy Cabinet","RO, Embassies",1926,"0:32:06",2888,"0:48:08",False
-"Ur dad","RO, Embassies",1926,"0:32:06",2888,"0:48:08",False
-"IOC","RO",1927,"0:32:07",2890,"0:48:10",False
-"olerais","WFE, Embassies",1928,"0:32:08",2891,"0:48:11",False
-"Massachusettss","RO, Embassies",1930,"0:32:10",2896,"0:48:16",False
-"The Most Random Nations","RO, Embassies",1932,"0:32:12",2898,"0:48:18",False
-"The Democratic Republic of Lazio","Embassies",1934,"0:32:14",2902,"0:48:22",False
-"Slavya","WFE, Embassies",1935,"0:32:15",2903,"0:48:23",False
-"Band CSF","WFE, RO, Embassies",1936,"0:32:16",2904,"0:48:24",False
-"Inazuma","RO, Embassies",1940,"0:32:20",2910,"0:48:30",False
-"The United Nomadic Tribes","RO, Embassies",1941,"0:32:21",2912,"0:48:32",False
-"Richardsonson","WFE, Embassies",1941,"0:32:21",2912,"0:48:32",False
-"Heavenly","WFE, RO, Embassies",1942,"0:32:22",2913,"0:48:33",False
-"Free Nations of Polzone","WFE, Embassies",1942,"0:32:22",2913,"0:48:33",False
-"Pax Cybertronia","RO",1943,"0:32:23",2915,"0:48:35",False
-"Mason Association","Embassies",1949,"0:32:29",2923,"0:48:43",False
-"Nordic Sea","RO",1953,"0:32:33",2929,"0:48:49",False
-"Carrot","RO",1965,"0:32:45",2948,"0:49:08",False
-"Sambucus Canadensis","RO, Embassies",1972,"0:32:52",2957,"0:49:17",False
-"New Catistania","WFE, Embassies",1974,"0:32:54",2960,"0:49:20",False
-"Salamis Initiative","Embassies",1981,"0:33:01",2972,"0:49:32",False
-"Japan0","RO",1984,"0:33:04",2977,"0:49:37",False
-"Open Ocean 10","WFE, Embassies",1986,"0:33:06",2980,"0:49:40",False
-"abortable","RO, Embassies",1986,"0:33:06",2980,"0:49:40",False
-"The Blue Army","WFE, Embassies",1987,"0:33:07",2981,"0:49:41",False
-"White boy summer","Embassies",1989,"0:33:09",2984,"0:49:44",False
-"Silvergrove","WFE, RO, Embassies",1990,"0:33:10",2986,"0:49:46",False
-"Madyan","Embassies",1991,"0:33:11",2987,"0:49:47",False
-"The North East Of England","RO",1991,"0:33:11",2987,"0:49:47",False
-"The Cult of Obama","RO, Embassies",1992,"0:33:12",2989,"0:49:49",False
-"JamieatAlqatala","WFE, Embassies",1993,"0:33:13",2990,"0:49:50",False
-"Icelandic Empire","WFE, Embassies",1994,"0:33:14",2991,"0:49:51",False
-"This Game","WFE, RO, Embassies",1995,"0:33:15",2992,"0:49:52",False
-"Western Civilization","WFE, Embassies",1995,"0:33:15",2992,"0:49:52",False
-"The United States Of Moltisia","RO",1995,"0:33:15",2993,"0:49:53",False
-"Hallyu Sanctuary","Embassies",1997,"0:33:17",2995,"0:49:55",False
-"dictators paradice","WFE, Embassies",1997,"0:33:17",2996,"0:49:56",False
-"The Imperium of Greater Europa","WFE, Embassies",1997,"0:33:17",2996,"0:49:56",False
-"New CLand","RO",1999,"0:33:19",2998,"0:49:58",False
-"Prilithia","WFE, RO, Embassies",1999,"0:33:19",2999,"0:49:59",False
-"Exiled","WFE, Embassies",1999,"0:33:19",2999,"0:49:59",False
-"Puppets Anonymous","RO, Embassies",2010,"0:33:30",3015,"0:50:15",False
-"Multiverse 001","Embassies",2013,"0:33:33",3019,"0:50:19",False
-"Armorique","Embassies",2013,"0:33:33",3020,"0:50:20",False
-"New Asia","WFE, Embassies",2014,"0:33:34",3021,"0:50:21",False
-"UMNR","WFE, Embassies",2015,"0:33:35",3022,"0:50:22",False
-"Ballambian islands","RO",2015,"0:33:35",3023,"0:50:23",False
-"Conservative Nations Guild","WFE, RO, Embassies",2018,"0:33:38",3027,"0:50:27",False
-"Adera","RO",2018,"0:33:38",3027,"0:50:27",False
-"The League of Sovereign Nations","WFE, Embassies",2021,"0:33:41",3031,"0:50:31",False
-"The True North","WFE, RO, Embassies",2021,"0:33:41",3031,"0:50:31",False
-"Vandoosa","RO, Embassies",2022,"0:33:42",3032,"0:50:32",False
-"land of the ford home of the brave","WFE, RO, Embassies",2024,"0:33:44",3035,"0:50:35",False
-"Congress of Nations","Embassies",2024,"0:33:44",3036,"0:50:36",False
-"Third Cynglish Empire","WFE",2025,"0:33:45",3037,"0:50:37",False
-"United Nations of the World","Embassies",2031,"0:33:51",3046,"0:50:46",False
-"Ingame Fascist Nations","Embassies",2031,"0:33:51",3046,"0:50:46",False
-"The Ultimate Dictatorship","RO, Embassies",2034,"0:33:54",3051,"0:50:51",False
-"Counter Social","RO",2035,"0:33:55",3053,"0:50:53",False
-"Rights way","RO, Embassies",2036,"0:33:56",3055,"0:50:55",False
-"Holy Imperial Hegemony","WFE, RO, Embassies",2037,"0:33:57",3056,"0:50:56",False
-"absconds","RO, Embassies",2038,"0:33:58",3057,"0:50:57",False
-"The region of Acral","Embassies",2041,"0:34:01",3062,"0:51:02",False
-"The Confederation Of Nations","Embassies",2047,"0:34:07",3070,"0:51:10",False
-"Magicae Mundi","WFE, Embassies",2047,"0:34:07",3071,"0:51:11",False
-"East Krasnaya","Embassies",2049,"0:34:09",3073,"0:51:13",False
-"Terramir","RO",2049,"0:34:09",3074,"0:51:14",False
-"Allies","WFE",2049,"0:34:09",3074,"0:51:14",False
-"AR AESIR","Embassies",2049,"0:34:09",3074,"0:51:14",False
-"abysmal","RO, Embassies",2058,"0:34:18",3087,"0:51:27",False
-"Gold Coasts","Embassies",2058,"0:34:18",3087,"0:51:27",False
-"The United Republic of Socialist States","RO, Embassies",2059,"0:34:19",3088,"0:51:28",False
-"Almann is geil","Embassies",2059,"0:34:19",3088,"0:51:28",False
-"Deep Sea 3","WFE, RO, Embassies",2060,"0:34:20",3090,"0:51:30",False
-"Compton City Assembly","RO",2060,"0:34:20",3090,"0:51:30",False
-"The Pizza Entente","RO",2061,"0:34:21",3091,"0:51:31",False
-"union of anti capitalist states","WFE",2061,"0:34:21",3092,"0:51:32",False
-"Lawless zone","WFE, RO, Embassies",2061,"0:34:21",3092,"0:51:32",False
-"Lonely Empire","RO, Embassies",2061,"0:34:21",3092,"0:51:32",False
-"prima signa libertatis","Embassies",2068,"0:34:28",3102,"0:51:42",False
-"Federation Epsilon Indi System","Embassies",2068,"0:34:28",3102,"0:51:42",False
-"Bison Islands","WFE, RO, Embassies",2068,"0:34:28",3102,"0:51:42",False
-"Space Nurse","RO",2068,"0:34:28",3102,"0:51:42",False
-"Central Military authority","Embassies",2075,"0:34:35",3112,"0:51:52",False
-"Laguna","RO",2268,"0:37:48",3402,"0:56:42",False
-"The 1980s","RO",2270,"0:37:50",3405,"0:56:45",False
-"test12","Embassies",2270,"0:37:50",3405,"0:56:45",False
-"The Easth Lake","WFE, Embassies",2270,"0:37:50",3405,"0:56:45",False
-"Sanctum Imperium","RO",2270,"0:37:50",3405,"0:56:45",False
-"Frese states","WFE, RO, Embassies",2274,"0:37:54",3411,"0:56:51",False
-"Europa Nova","Embassies",2275,"0:37:55",3412,"0:56:52",False
-"Mory Watick","RO, Embassies",2275,"0:37:55",3412,"0:56:52",False
-"Kingdom of cats","RO, Embassies",2275,"0:37:55",3413,"0:56:53",False
-"NOZ","RO, Embassies",2275,"0:37:55",3413,"0:56:53",False
-"Not hell","WFE, Embassies",2276,"0:37:56",3414,"0:56:54",False
-"corp incorporated conglomerate","WFE, RO, Embassies",2277,"0:37:57",3415,"0:56:55",False
-"The MfohK Union","WFE, RO, Embassies",2278,"0:37:58",3417,"0:56:57",False
-"The Great Pacific Cabbage Patch","RO, Embassies",2278,"0:37:58",3417,"0:56:57",False
-"The Kingdom of Australia","WFE, Embassies",2279,"0:37:59",3418,"0:56:58",False
-"The Kidney stoners","Embassies",2282,"0:38:02",3423,"0:57:03",False
-"abusive","RO, Embassies",2283,"0:38:03",3424,"0:57:04",False
-"Nation Collectors Corner","WFE, Embassies",2283,"0:38:03",3424,"0:57:04",False
-"The Wolpine Islands Confederacy","RO, Embassies",2284,"0:38:04",3425,"0:57:05",False
-"abnegates","RO",2284,"0:38:04",3425,"0:57:05",False
-"Ikaros","WFE, Embassies",2288,"0:38:08",3432,"0:57:12",False
-"raiding am I right","RO",2288,"0:38:08",3432,"0:57:12",False
-"The Commonwealth Federation","WFE, Embassies",2294,"0:38:14",3442,"0:57:22",False
-"The Imperial City","RO",2294,"0:38:14",3442,"0:57:22",False
-"Alliance Against Humanity","RO, Embassies",2300,"0:38:20",3450,"0:57:30",False
-"Kamchatka Oblast","Embassies",2302,"0:38:22",3453,"0:57:33",False
-"NationCraft","WFE, Embassies",2305,"0:38:25",3458,"0:57:38",False
-"Democratic Union of Humanity","WFE, Embassies",2305,"0:38:25",3458,"0:57:38",False
-"Iron Front","WFE, RO, Embassies",2308,"0:38:28",3462,"0:57:42",False
-"Brave New World","Embassies",2317,"0:38:37",3476,"0:57:56",False
-"Sweeze occupied Lauenburg","WFE, Embassies",2427,"0:40:27",3641,"1:00:41",False
-"Degramap","Embassies",2613,"0:43:33",3920,"1:05:20",False
-"Cats Democracy","Embassies",2620,"0:43:40",3930,"1:05:30",False
-"Malphe","Embassies",2622,"0:43:42",3933,"1:05:33",False
-"Elprus","Embassies",2624,"0:43:44",3936,"1:05:36",False
-"abolishing","WFE, Embassies",2630,"0:43:50",3945,"1:05:45",False
-"Tsardom of Russia","Embassies",2631,"0:43:51",3946,"1:05:46",False
-"abominal","WFE, RO, Embassies",2631,"0:43:51",3946,"1:05:46",False
-"The Eastern Region","Embassies",2631,"0:43:51",3947,"1:05:47",False
-"The Imperial MuskLand","Embassies",2632,"0:43:52",3948,"1:05:48",False
-"Sunbeam Isles","RO",2633,"0:43:53",3949,"1:05:49",False
-"elisan","WFE, Embassies",2635,"0:43:55",3953,"1:05:53",False
-"Coalition Of Stupidity","WFE, RO, Embassies",2636,"0:43:56",3954,"1:05:54",False
-"Retirement Home","WFE, Embassies",2638,"0:43:58",3956,"1:05:56",False
-"United Regions of the Gwilymverse","RO, Embassies",2638,"0:43:58",3956,"1:05:56",False
-"Independent","RO, Embassies",2638,"0:43:58",3956,"1:05:56",False
-"The Green Shrubbery","WFE, RO, Embassies",2638,"0:43:58",3956,"1:05:56",False
-"Waida","RO",2638,"0:43:58",3956,"1:05:56",False
-"dirty place","RO, Embassies",2640,"0:44:00",3960,"1:06:00",False
-"The Republic of Florida","WFE, RO, Embassies",2649,"0:44:09",3974,"1:06:14",False
-"Russian order","WFE, Embassies",2649,"0:44:09",3974,"1:06:14",False
-"Md4hsknxudskfjngrmdhb4urxie","Embassies",2652,"0:44:12",3979,"1:06:19",False
-"Lionheart region","Embassies",2652,"0:44:12",3979,"1:06:19",False
-"The Balkan Region","WFE",2657,"0:44:17",3986,"1:06:26",False
-"The Federation of Communist States","WFE, RO, Embassies",2657,"0:44:17",3986,"1:06:26",False
-"Furry Antifascist Alliance","WFE, Embassies",2658,"0:44:18",3987,"1:06:27",False
-"Western Fields","RO",2659,"0:44:19",3989,"1:06:29",False
-"Inter Dimensional Allies","RO",2659,"0:44:19",3989,"1:06:29",False
-"World Simulator","WFE, Embassies",2659,"0:44:19",3989,"1:06:29",False
-"New Asgardian Order","Embassies",2660,"0:44:20",3990,"1:06:30",False
-"Syndicals of the Milky Way and Andromeda","RO",2660,"0:44:20",3991,"1:06:31",False
-"accommodate","RO, Embassies",2663,"0:44:23",3994,"1:06:34",False
-"Devious Tyrant","RO",2671,"0:44:31",4006,"1:06:46",False
-"The Continent Of North Aassia","RO",2674,"0:44:34",4011,"1:06:51",False
-"Penguin","RO, Embassies",2674,"0:44:34",4011,"1:06:51",False
-"The amazing turtle men","Embassies",2675,"0:44:35",4012,"1:06:52",False
-"abracadabra","RO, Embassies",2675,"0:44:35",4012,"1:06:52",False
-"World of Final Fantasy","WFE, Embassies",2675,"0:44:35",4012,"1:06:52",False
-"abbreviates","WFE, RO, Embassies",2675,"0:44:35",4012,"1:06:52",False
-"The North America LandsI","RO",2675,"0:44:35",4013,"1:06:53",False
-"GeoGang","RO",2678,"0:44:38",4017,"1:06:57",False
-"Volcania","RO",2770,"0:46:10",4155,"1:09:15",False
-"Hunters For Hire","Embassies",2770,"0:46:10",4155,"1:09:15",False
-"Weffle","RO",2773,"0:46:13",4160,"1:09:20",True
-"The Greater Imperial Realm","WFE, RO, Embassies",2776,"0:46:16",4164,"1:09:24",False
-"Naroslavia","RO, Embassies",2776,"0:46:16",4164,"1:09:24",False
-"Eternal Universe","Embassies",2777,"0:46:17",4165,"1:09:25",False
-"acceleration","RO, Embassies",2777,"0:46:17",4165,"1:09:25",False
-"RegioneNordAlpina","RO",2779,"0:46:19",4168,"1:09:28",False
-"Freegion","RO, Embassies",2789,"0:46:29",4183,"1:09:43",False
-"abnegated","WFE, RO, Embassies",2789,"0:46:29",4184,"1:09:44",False
-"The Greatest Colonies","Embassies",2790,"0:46:30",4185,"1:09:45",False
-"accelerant","WFE, RO, Embassies",2790,"0:46:30",4185,"1:09:45",False
-"The Northern States of Basldrykh","WFE, Embassies",2791,"0:46:31",4186,"1:09:46",False
-"Corruption","WFE, RO, Embassies",2792,"0:46:32",4187,"1:09:47",False
-"United Maka Soviet Socialist Republics","WFE, RO, Embassies",2792,"0:46:32",4187,"1:09:47",False
-"Ter Salvarano","RO",2792,"0:46:32",4187,"1:09:47",False
-"This Decrepit Hole Here","RO",2793,"0:46:33",4189,"1:09:49",False
-"Lennart","RO, Embassies",2794,"0:46:34",4191,"1:09:51",False
-"npa","RO, Embassies",2794,"0:46:34",4191,"1:09:51",False
-"SupremeLords","RO, Embassies",2796,"0:46:36",4193,"1:09:53",False
-"West Capitalist Agreement","WFE, Embassies",2796,"0:46:36",4194,"1:09:54",False
-"The Goose Pond","Embassies",2796,"0:46:36",4194,"1:09:54",False
-"Realm of king","WFE, RO, Embassies",2796,"0:46:36",4194,"1:09:54",False
-"Squidqaulity","WFE, Embassies",2796,"0:46:36",4194,"1:09:54",False
-"Region of Federations","WFE, RO, Embassies",2798,"0:46:38",4196,"1:09:56",False
-"Kronk","RO",2798,"0:46:38",4196,"1:09:56",False
-"Eolor","WFE, Embassies",2798,"0:46:38",4196,"1:09:56",False
-"DARKSTARIA","RO, Embassies",2798,"0:46:38",4197,"1:09:57",False
-"The Poors","WFE, RO, Embassies",2800,"0:46:40",4200,"1:10:00",False
-"The Holy Bonzaii","RO, Embassies",2800,"0:46:40",4200,"1:10:00",False
-"Syncretic Church of the New Order of Jer","RO",2803,"0:46:43",4205,"1:10:05",False
-"Coral Reef 1","RO, Embassies",2804,"0:46:44",4207,"1:10:07",False
-"Steliante Reich","WFE, RO, Embassies",2806,"0:46:46",4209,"1:10:09",False
-"The Greater Commonwealth","WFE, Embassies",2806,"0:46:46",4209,"1:10:09",False
-"Izmenistan","RO",2806,"0:46:46",4210,"1:10:10",False
-"Kingdom of Aragon","RO",2808,"0:46:48",4213,"1:10:13",False
-"Ilhas da Saudade","Embassies",2809,"0:46:49",4214,"1:10:14",False
-"Abigail","RO",2812,"0:46:52",4218,"1:10:18",False
-"The ceptic states","WFE",2816,"0:46:56",4224,"1:10:24",False
-"MentosLand","WFE, RO, Embassies",2851,"0:47:31",4276,"1:11:16",False
-"You Just Got Raided","WFE, RO, Embassies",2852,"0:47:32",4277,"1:11:17",False
-"Alcantara","WFE, RO, Embassies",2852,"0:47:32",4277,"1:11:17",False
-"The Vastara System","RO",2852,"0:47:32",4278,"1:11:18",False
-"Asian Archipelago","WFE, RO, Embassies",2854,"0:47:34",4280,"1:11:20",False
-"acceptors","WFE, Embassies",2855,"0:47:35",4283,"1:11:23",False
-"absentmindedly","WFE",2858,"0:47:38",4288,"1:11:28",False
-"SpacePizza Coralation","Embassies",2861,"0:47:41",4292,"1:11:32",False
-"Enewetak Atoll","WFE, RO, Embassies",2862,"0:47:42",4293,"1:11:33",False
-"Paradoxical","WFE, RO, Embassies",2864,"0:47:44",4296,"1:11:36",False
-"The League of Based Nations","Embassies",2873,"0:47:53",4310,"1:11:50",False
-"Free Ancapistan","Embassies",2873,"0:47:53",4310,"1:11:50",False
-"accidents","WFE, Embassies",2873,"0:47:53",4310,"1:11:50",False
-"absolutely","WFE, Embassies",2873,"0:47:53",4310,"1:11:50",False
-"communist space union","RO, Embassies",2875,"0:47:55",4313,"1:11:53",False
-"Hat","WFE, RO, Embassies",2877,"0:47:57",4316,"1:11:56",False
-"The Mosqe Army","WFE, Embassies",2877,"0:47:57",4316,"1:11:56",False
-"madjack","WFE, RO, Embassies",2878,"0:47:58",4317,"1:11:57",False
-"Greater East","WFE, Embassies",2882,"0:48:02",4323,"1:12:03",False
-"Somewhere Out There","RO",2885,"0:48:05",4327,"1:12:07",False
-"The Free Lands of Mirth","RO",2885,"0:48:05",4328,"1:12:08",False
-"Socialist Assembly","RO, Embassies",2892,"0:48:12",4338,"1:12:18",False
-"The Confederacy of Untied States","RO",2895,"0:48:15",4342,"1:12:22",False
-"The New tarlaian imperium","RO",2910,"0:48:30",4365,"1:12:45",False
-"North Kivu","RO",2914,"0:48:34",4372,"1:12:52",False
-"New United Statess Union","Embassies",2915,"0:48:35",4373,"1:12:53",False
-"Somewhere over the Rainbow","RO, Embassies",2915,"0:48:35",4373,"1:12:53",False
-"Confederation of New lands","RO",2917,"0:48:37",4376,"1:12:56",False
-"The Union of Lundic Protectorates","WFE, Embassies",2917,"0:48:37",4376,"1:12:56",False
-"Anniki","RO, Embassies",2918,"0:48:38",4377,"1:12:57",False
-"Suspicious Empire","RO, Embassies",2919,"0:48:39",4379,"1:12:59",False
-"The United Island Nations","RO",2920,"0:48:40",4380,"1:13:00",False
-"Confederation of Recklessness","WFE, RO, Embassies",2921,"0:48:41",4382,"1:13:02",False
-"STREAMGATE France","RO",2921,"0:48:41",4382,"1:13:02",False
-"Northwood","RO",2923,"0:48:43",4384,"1:13:04",False
-"Collective Security Treaty Organization","WFE",2923,"0:48:43",4385,"1:13:05",False
-"The Unholy Alliance","RO",2925,"0:48:45",4387,"1:13:07",False
-"United Socialist Archipelago","WFE, Embassies",2925,"0:48:45",4387,"1:13:07",False
-"aga","WFE, Embassies",2925,"0:48:45",4388,"1:13:08",False
-"ZONGUO","RO",2925,"0:48:45",4388,"1:13:08",False
-"Anontia","WFE, Embassies",2925,"0:48:45",4388,"1:13:08",False
-"Lothal","RO, Embassies",2927,"0:48:47",4391,"1:13:11",False
-"The Star Wars Empire","RO",2929,"0:48:49",4394,"1:13:14",False
-"Grand Chaos Treaty Organization","WFE, Embassies",2930,"0:48:50",4395,"1:13:15",False
-"ISB TOK","WFE, Embassies",2930,"0:48:50",4395,"1:13:15",False
-"Hispanosphere","WFE, RO, Embassies",2930,"0:48:50",4395,"1:13:15",False
-"King of the Hill","WFE, RO, Embassies",2931,"0:48:51",4396,"1:13:16",False
-"Engiwa and authoritarian","RO, Embassies",2931,"0:48:51",4396,"1:13:16",False
-"Thanksgiving","RO, Embassies",2933,"0:48:53",4400,"1:13:20",True
-"kayamess","RO, Embassies",2936,"0:48:56",4404,"1:13:24",False
-"The Heart of Darkslayer","Embassies",2937,"0:48:57",4405,"1:13:25",False
-"Philonia","RO",2937,"0:48:57",4405,"1:13:25",False
-"Commonwealth of English nations","WFE, Embassies",3091,"0:51:31",4637,"1:17:17",False
-"Hunhoquetzal Equatorial","RO",3091,"0:51:31",4637,"1:17:17",False
-"Ben","Embassies",3093,"0:51:33",4639,"1:17:19",True
-"The Boy Band","RO, Embassies",3096,"0:51:36",4644,"1:17:24",False
-"Humanist United International","Embassies",3098,"0:51:38",4647,"1:17:27",False
-"abdicates","RO, Embassies",3099,"0:51:39",4648,"1:17:28",False
-"I N G S O C C","Embassies",3100,"0:51:40",4650,"1:17:30",False
-"Restaurateur at the End of the Universe","RO, Embassies",3229,"0:53:49",4843,"1:20:43",False
-"The Allied Nations of the Right Wing","RO",3243,"0:54:03",4864,"1:21:04",False
-"Nations of the Jacksonville Accords","RO",3249,"0:54:09",4873,"1:21:13",False
+"New yonder","WFE, Embassies",279,"0:04:39",419,"0:06:59",False
+"The Federation of Independent States","WFE, RO, Embassies",281,"0:04:41",422,"0:07:02",False
+"Confederation Of Great Nations","Embassies",282,"0:04:42",423,"0:07:03",False
+"Mars Command","WFE, Embassies",283,"0:04:43",425,"0:07:05",False
+"Chebureks Paradise","RO, Embassies",293,"0:04:53",439,"0:07:19",False
+"Shurhands Alliance","Embassies",293,"0:04:53",440,"0:07:20",False
+"The Grand Citadel","WFE, RO, Embassies",294,"0:04:54",441,"0:07:21",False
+"Greater Spain","RO, Embassies",294,"0:04:54",441,"0:07:21",False
+"abated","Embassies",295,"0:04:55",443,"0:07:23",False
+"Nevil region","RO, Embassies",296,"0:04:56",444,"0:07:24",False
+"The Boys LLC","WFE, Embassies",298,"0:04:58",447,"0:07:27",False
+"Basaintco","RO",330,"0:05:30",496,"0:08:16",False
+"Warzone TMC","RO",331,"0:05:31",497,"0:08:17",False
+"Timoristan","RO",332,"0:05:32",498,"0:08:18",False
+"Fornsigtuna","WFE, Embassies",339,"0:05:39",509,"0:08:29",False
+"Union of Slavic Socialist States","WFE, Embassies",341,"0:05:41",511,"0:08:31",False
+"Pilipinas","RO, Embassies",341,"0:05:41",511,"0:08:31",False
+"The Realm of Kaiser","WFE, RO, Embassies",344,"0:05:44",516,"0:08:36",False
+"LNF Beach","WFE, RO, Embassies",344,"0:05:44",516,"0:08:36",False
+"4th International Socialist Union","WFE, RO, Embassies",344,"0:05:44",516,"0:08:36",False
+"union of communism","WFE",344,"0:05:44",516,"0:08:36",False
+"Coal kingdom the 7th","WFE, Embassies",344,"0:05:44",516,"0:08:36",False
+"abstrusely","WFE, RO, Embassies",346,"0:05:46",519,"0:08:39",False
+"Irpland","RO, Embassies",346,"0:05:46",519,"0:08:39",False
+"Orlando Florida","RO, Embassies",374,"0:06:14",561,"0:09:21",False
+"The Eurovision Region","WFE, RO, Embassies",374,"0:06:14",561,"0:09:21",False
+"Scawtia","WFE, Embassies",375,"0:06:15",562,"0:09:22",False
+"The Confederacy of Unified States","WFE, RO, Embassies",376,"0:06:16",563,"0:09:23",False
+"The Outer Rim","RO",376,"0:06:16",563,"0:09:23",False
+"The North Pacific rebellion","RO, Embassies",382,"0:06:22",573,"0:09:33",False
+"Dixian Archipelago","RO, Embassies",382,"0:06:22",573,"0:09:33",False
+"The Revenger Federation","WFE, Embassies",382,"0:06:22",574,"0:09:34",False
+"Euros","WFE, RO, Embassies",386,"0:06:26",579,"0:09:39",False
+"Union of Pagan Nations","WFE, RO, Embassies",387,"0:06:27",581,"0:09:41",False
+"Greater Nova York","RO",388,"0:06:28",583,"0:09:43",False
+"Democratic Republic","RO",389,"0:06:29",584,"0:09:44",False
+"Real boy archipelago","RO",390,"0:06:30",585,"0:09:45",False
+"Glory Universalis","Embassies",391,"0:06:31",587,"0:09:47",False
+"UCO","Embassies",392,"0:06:32",588,"0:09:48",False
+"NationStates Fanfics","RO, Embassies",393,"0:06:33",590,"0:09:50",False
+"The United Confederacy","RO",395,"0:06:35",593,"0:09:53",False
+"Ostia","RO, Embassies",403,"0:06:43",604,"0:10:04",False
+"accelerate","WFE, Embassies",403,"0:06:43",605,"0:10:05",False
+"Corona Australis","Embassies",416,"0:06:56",624,"0:10:24",False
+"The commonwealth of Comradeship","RO",432,"0:07:12",647,"0:10:47",False
+"Belvalian Union","RO",459,"0:07:39",689,"0:11:29",False
+"Superiorem Merionem Region","RO",460,"0:07:40",690,"0:11:30",False
+"Planet of Allpa","RO",460,"0:07:40",690,"0:11:30",False
+"European Union of Romanian Communists","RO",463,"0:07:43",694,"0:11:34",False
+"Confederation of Outlying Nations","RO",463,"0:07:43",694,"0:11:34",False
+"United States of Glizzys","WFE, Embassies",463,"0:07:43",695,"0:11:35",False
+"Duhmerican Alliance","WFE, Embassies",464,"0:07:44",696,"0:11:36",False
+"Indilore World Trade Center","Embassies",464,"0:07:44",696,"0:11:36",False
+"The Instrumental Alliance","RO, Embassies",472,"0:07:52",708,"0:11:48",False
+"Organization of free nations","Embassies",478,"0:07:58",717,"0:11:57",False
+"Federative","WFE",479,"0:07:59",718,"0:11:58",False
+"Communism4life","WFE, RO, Embassies",480,"0:08:00",719,"0:11:59",False
+"Brand New World","WFE, Embassies",484,"0:08:04",726,"0:12:06",False
+"Warzone South America","WFE, RO, Embassies",484,"0:08:04",726,"0:12:06",False
+"Deep Sea 8","RO, Embassies",484,"0:08:04",726,"0:12:06",False
+"New SHIELD","RO, Embassies",485,"0:08:05",727,"0:12:07",False
+"Deziat","WFE, RO, Embassies",489,"0:08:09",733,"0:12:13",False
+"ez ur bad","RO, Embassies",489,"0:08:09",733,"0:12:13",False
+"Nations of the Orion Arm","WFE, Embassies",490,"0:08:10",734,"0:12:14",False
+"The Royal Sovereign Alliance","WFE, RO, Embassies",490,"0:08:10",734,"0:12:14",False
+"Silver Edge","RO, Embassies",490,"0:08:10",735,"0:12:15",False
+"The League of Free Nations","RO",491,"0:08:11",736,"0:12:16",False
+"The Mediterrannean","RO, Embassies",494,"0:08:14",741,"0:12:21",False
+"Pro democracy coalition","Embassies",496,"0:08:16",744,"0:12:24",False
+"Hemmes Alliance","RO, Embassies",496,"0:08:16",744,"0:12:24",False
+"Infinite Zachisian Multiversal Lounge","Embassies",496,"0:08:16",745,"0:12:25",False
+"The Holy See of Vagen","WFE, RO, Embassies",502,"0:08:22",754,"0:12:34",False
+"Octavia Group","RO",503,"0:08:23",755,"0:12:35",False
+"abolishes","Embassies",506,"0:08:26",759,"0:12:39",False
+"The Average Confederacy","RO",506,"0:08:26",760,"0:12:40",False
+"The Southern Alliance","RO",507,"0:08:27",761,"0:12:41",False
+"The Swedish Kingdom","WFE, RO, Embassies",509,"0:08:29",764,"0:12:44",False
+"Alliance of Puppet Nations","Embassies",509,"0:08:29",764,"0:12:44",False
+"Marleyean continent","Embassies",510,"0:08:30",765,"0:12:45",False
+"The Userite Menace","WFE, RO, Embassies",510,"0:08:30",765,"0:12:45",False
+"Smol Bean Paradise","RO, Embassies",510,"0:08:30",765,"0:12:45",False
+"Kasterborous","RO",511,"0:08:31",766,"0:12:46",False
+"The Dragon Alliance","RO",517,"0:08:37",776,"0:12:56",False
+"The Popptart Empire","RO, Embassies",518,"0:08:38",777,"0:12:57",False
+"Ros Empire","WFE, Embassies",518,"0:08:38",777,"0:12:57",False
+"Federation of sovereign nations","Embassies",528,"0:08:48",792,"0:13:12",False
+"Theocratic States","RO, Embassies",530,"0:08:50",795,"0:13:15",False
+"The Javinian Union","RO, Embassies",530,"0:08:50",795,"0:13:15",False
+"West East North South Central Pacific","RO",531,"0:08:51",796,"0:13:16",False
+"The Great Hermit Kingdom","RO",532,"0:08:52",798,"0:13:18",False
+"Coral Reef 4","WFE, RO, Embassies",532,"0:08:52",798,"0:13:18",False
+"absolutist","RO",533,"0:08:53",800,"0:13:20",False
+"New Jahkku","WFE, RO",535,"0:08:55",803,"0:13:23",False
+"best people","RO",537,"0:08:57",805,"0:13:25",False
+"The Golden Triangle","WFE, Embassies",697,"0:11:37",1046,"0:17:26",False
+"The Union Of Gato","Embassies",697,"0:11:37",1046,"0:17:26",False
+"Famous People","RO",697,"0:11:37",1046,"0:17:26",False
+"United Communist Coalition","WFE, Embassies",697,"0:11:37",1046,"0:17:26",False
+"The Lemurian Alliance","WFE, RO, Embassies",701,"0:11:41",1051,"0:17:31",False
+"Federation Of Andom","Embassies",707,"0:11:47",1060,"0:17:40",False
+"Futa Paradise","Embassies",707,"0:11:47",1061,"0:17:41",False
+"Indo Pacific Treaty Organization","RO, Embassies",707,"0:11:47",1061,"0:17:41",False
+"The International Puppet Storge","WFE, Embassies",709,"0:11:49",1064,"0:17:44",False
+"Quarks","RO",709,"0:11:49",1064,"0:17:44",False
+"Chick Fil A","WFE, Embassies",710,"0:11:50",1065,"0:17:45",False
+"Mario time","RO",712,"0:11:52",1067,"0:17:47",False
+"Ijakaland","WFE",712,"0:11:52",1068,"0:17:48",False
+"The Islands of the Great Wrath","WFE, Embassies",725,"0:12:05",1087,"0:18:07",False
+"absence","WFE, RO, Embassies",725,"0:12:05",1087,"0:18:07",False
+"International Socialist Assembly","RO",725,"0:12:05",1087,"0:18:07",False
+"The King Isle","Embassies",726,"0:12:06",1088,"0:18:08",False
+"The End Of The World","RO",750,"0:12:30",1125,"0:18:45",False
+"zoom vroom","RO",753,"0:12:33",1130,"0:18:50",False
+"Freedom Peninsula","WFE, Embassies",754,"0:12:34",1131,"0:18:51",False
+"The Unknown Expanse","Embassies",755,"0:12:35",1132,"0:18:52",False
+"socialist unions","RO, Embassies",755,"0:12:35",1133,"0:18:53",False
+"Trans Atlantic Trade Company","RO",760,"0:12:40",1140,"0:19:00",False
+"THE HEBREW ALLIANCE","RO",760,"0:12:40",1140,"0:19:00",False
+"fURRIES 4 NATIONSTATES XD","RO, Embassies",761,"0:12:41",1142,"0:19:02",False
+"about","WFE, RO, Embassies",761,"0:12:41",1142,"0:19:02",False
+"0527 yellow wattled lapwing","WFE, RO, Embassies",762,"0:12:42",1143,"0:19:03",False
+"accidental","RO, Embassies",764,"0:12:44",1146,"0:19:06",False
+"The Federal States of America","RO",764,"0:12:44",1146,"0:19:06",False
+"mhanahstan","WFE, RO, Embassies",766,"0:12:46",1149,"0:19:09",False
+"Catz in the Hood","WFE, Embassies",766,"0:12:46",1149,"0:19:09",False
+"abating","RO",767,"0:12:47",1150,"0:19:10",False
+"The Diamond Alliance","RO, Embassies",767,"0:12:47",1150,"0:19:10",False
+"Religious Peoples Democracy","RO",767,"0:12:47",1151,"0:19:11",False
+"The Great Region Of Flurp Flurp Land","RO, Embassies",767,"0:12:47",1151,"0:19:11",False
+"The german lands","RO",769,"0:12:49",1153,"0:19:13",False
+"North Newtown","WFE, Embassies",772,"0:12:52",1157,"0:19:17",False
+"Confederate Nations of TomFoolery","WFE, RO, Embassies",772,"0:12:52",1158,"0:19:18",False
+"The Shiny Place","RO, Embassies",773,"0:12:53",1159,"0:19:19",False
+"absorber","RO, Embassies",774,"0:12:54",1160,"0:19:20",False
+"The Orient League","RO, Embassies",774,"0:12:54",1161,"0:19:21",False
+"Republic of balls","RO",776,"0:12:56",1164,"0:19:24",False
+"New Allies Of Seasons","RO, Embassies",778,"0:12:58",1167,"0:19:27",False
+"Abe","WFE, RO, Embassies",780,"0:13:00",1170,"0:19:30",False
+"The Dictator","WFE, RO, Embassies",780,"0:13:00",1170,"0:19:30",False
+"Terram Mentis","Embassies",784,"0:13:04",1177,"0:19:37",False
+"Jupiterian Moon Colononies","RO, Embassies",785,"0:13:05",1178,"0:19:38",False
+"Union of United Penguins","Embassies",785,"0:13:05",1178,"0:19:38",False
+"New Polar Order","Embassies",785,"0:13:05",1178,"0:19:38",False
+"THICCEST THANGZ","WFE, Embassies",794,"0:13:14",1191,"0:19:51",False
+"Holy Elysium","RO",794,"0:13:14",1192,"0:19:52",False
+"Grand kingdom free region","RO",795,"0:13:15",1193,"0:19:53",False
+"Bhutanese World Order","WFE, Embassies",819,"0:13:39",1228,"0:20:28",False
+"oppression is the best","RO",847,"0:14:07",1271,"0:21:11",False
+"Walsingford","RO",853,"0:14:13",1280,"0:21:20",False
+"NANI","WFE",854,"0:14:14",1281,"0:21:21",False
+"Neo Orbis","WFE, Embassies",854,"0:14:14",1281,"0:21:21",False
+"atlantiantic","RO, Embassies",854,"0:14:14",1282,"0:21:22",False
+"the Crubish States","WFE, RO, Embassies",854,"0:14:14",1282,"0:21:22",False
+"The Monke Hangout","WFE, RO, Embassies",854,"0:14:14",1282,"0:21:22",False
+"The United Antarctic People","WFE, RO, Embassies",857,"0:14:17",1286,"0:21:26",False
+"Dubian Conference","WFE, RO, Embassies",861,"0:14:21",1291,"0:21:31",False
+"West African Islands","WFE, RO, Embassies",866,"0:14:26",1299,"0:21:39",False
+"Freedom country","RO",866,"0:14:26",1299,"0:21:39",False
+"Lodia","WFE, RO, Embassies",866,"0:14:26",1299,"0:21:39",False
+"The Incorporated states of power","WFE, Embassies",867,"0:14:27",1300,"0:21:40",False
+"Jojos bizarre reigon","Embassies",874,"0:14:34",1311,"0:21:51",False
+"The WBR Union","WFE, Embassies",880,"0:14:40",1320,"0:22:00",False
+"abnegating","RO",883,"0:14:43",1324,"0:22:04",False
+"Sierra","RO",886,"0:14:46",1329,"0:22:09",False
+"Open Ocean 9","RO",888,"0:14:48",1331,"0:22:11",False
+"the region of evil nations","RO",888,"0:14:48",1332,"0:22:12",False
+"Dogecoin League","RO, Embassies",890,"0:14:50",1334,"0:22:14",False
+"The Small Islands","RO, Embassies",890,"0:14:50",1334,"0:22:14",False
+"NBF","Embassies",892,"0:14:52",1337,"0:22:17",False
+"WesternAmerica","RO",893,"0:14:53",1339,"0:22:19",False
+"Polar Bear Land","WFE, Embassies",894,"0:14:54",1340,"0:22:20",False
+"KINGS","RO, Embassies",894,"0:14:54",1340,"0:22:20",False
+"BackRub","RO, Embassies",899,"0:14:59",1348,"0:22:28",False
+"The Terrarian World","RO",900,"0:15:00",1351,"0:22:31",False
+"Order of the Phoenix","WFE, RO, Embassies",902,"0:15:02",1353,"0:22:33",False
+"BOTs","RO",904,"0:15:04",1356,"0:22:36",False
+"accommodated","WFE, Embassies",905,"0:15:05",1358,"0:22:38",False
+"Dictator Paradise","Embassies",905,"0:15:05",1358,"0:22:38",False
+"abridged","RO",910,"0:15:10",1365,"0:22:45",False
+"Fuerdo has Children","RO",1038,"0:17:18",1557,"0:25:57",False
+"Leppburg Islands","WFE, Embassies",1040,"0:17:20",1560,"0:26:00",False
+"Old World","RO, Embassies",1047,"0:17:27",1570,"0:26:10",False
+"Bruhkarcia","WFE, Embassies",1059,"0:17:39",1589,"0:26:29",False
+"abstains","RO",1062,"0:17:42",1593,"0:26:33",False
+"The Orcas","WFE, Embassies",1066,"0:17:46",1598,"0:26:38",False
+"Alesya","WFE, RO, Embassies",1066,"0:17:46",1598,"0:26:38",False
+"The Maxim Pact","RO, Embassies",1066,"0:17:46",1598,"0:26:38",False
+"The United Coalition of Nations","WFE, Embassies",1066,"0:17:46",1598,"0:26:38",False
+"The United Religious nations of earth","WFE, RO, Embassies",1066,"0:17:46",1598,"0:26:38",False
+"Worlds Region","RO",1066,"0:17:46",1599,"0:26:39",False
+"Jashax","RO, Embassies",1067,"0:17:47",1600,"0:26:40",False
+"Ernaarav Caldrake","WFE, RO, Embassies",1068,"0:17:48",1601,"0:26:41",False
+"The British Commonwealth","RO, Embassies",1068,"0:17:48",1601,"0:26:41",False
+"The Lords of Polaris","RO, Embassies",1068,"0:17:48",1601,"0:26:41",False
+"Pingaz For Muteke","WFE, RO",1068,"0:17:48",1601,"0:26:41",False
+"Germanic Region","WFE, RO, Embassies",1078,"0:17:58",1617,"0:26:57",False
+"Great Atorksubland","WFE, Embassies",1080,"0:18:00",1621,"0:27:01",False
+"The Fowler Force","RO",1080,"0:18:00",1621,"0:27:01",False
+"World Assembly Security Council","RO, Embassies",1081,"0:18:01",1622,"0:27:02",False
+"New Hamsland","WFE, Embassies",1082,"0:18:02",1623,"0:27:03",False
+"The Good Place","Embassies",1084,"0:18:04",1626,"0:27:06",False
+"Federation of Yale","WFE, RO, Embassies",1084,"0:18:04",1626,"0:27:06",False
+"The Death Empire","WFE, RO, Embassies",1084,"0:18:04",1627,"0:27:07",False
+"Neon City Dreams","WFE, Embassies",1085,"0:18:05",1628,"0:27:08",False
+"Allied States for the Freedom Of Tibet","Embassies",1103,"0:18:23",1654,"0:27:34",False
+"The Land of Bird and Honey","Embassies",1108,"0:18:28",1662,"0:27:42",False
+"Abercrombie","RO, Embassies",1109,"0:18:29",1663,"0:27:43",False
+"Silka","WFE, RO, Embassies",1109,"0:18:29",1663,"0:27:43",False
+"New Phoenix","WFE, RO, Embassies",1109,"0:18:29",1664,"0:27:44",False
+"Official Soviet Union","Embassies",1109,"0:18:29",1664,"0:27:44",False
+"UnionofSoviet Socialist Republics","WFE, RO, Embassies",1109,"0:18:29",1664,"0:27:44",False
+"Betmet","WFE, Embassies",1110,"0:18:30",1665,"0:27:45",False
+"CTSN","RO, Embassies",1115,"0:18:35",1673,"0:27:53",False
+"United Nations of Jerusalem","Embassies",1117,"0:18:37",1675,"0:27:55",False
+"Europa Allance","RO",1118,"0:18:38",1677,"0:27:57",False
+"Cannis Majoris","RO",1120,"0:18:40",1680,"0:28:00",False
+"The Commonwealth of United Front","RO, Embassies",1123,"0:18:43",1684,"0:28:04",False
+"The Guild of Nations","RO, Embassies",1123,"0:18:43",1684,"0:28:04",False
+"The Diplomatic Committee Of Nations","WFE, Embassies",1124,"0:18:44",1685,"0:28:05",False
+"Forbidden islands","RO, Embassies",1124,"0:18:44",1685,"0:28:05",False
+"East Phirod Islands","WFE, RO",1125,"0:18:45",1687,"0:28:07",False
+"Mesopotamia","RO",1126,"0:18:46",1688,"0:28:08",False
+"Sira Inclusive Research Alliance","RO, Embassies",1127,"0:18:47",1690,"0:28:10",False
+"Antisocial League","WFE, Embassies",1132,"0:18:52",1697,"0:28:17",False
+"Look at that tree","RO",1133,"0:18:53",1700,"0:28:20",False
+"Anomaly","WFE, Embassies",1134,"0:18:54",1701,"0:28:21",False
+"qwacc","WFE, RO, Embassies",1134,"0:18:54",1701,"0:28:21",False
+"United NationStates","WFE, RO, Embassies",1134,"0:18:54",1701,"0:28:21",False
+"abhorringly","RO",1135,"0:18:55",1703,"0:28:23",False
+"Nord Kaukasus","RO, Embassies",1136,"0:18:56",1704,"0:28:24",False
+"Skaro","WFE, RO",1136,"0:18:56",1705,"0:28:25",False
+"Jregoria","WFE, RO, Embassies",1137,"0:18:57",1706,"0:28:26",False
+"Elcor","Embassies",1145,"0:19:05",1718,"0:28:38",False
+"The Union of Peace","Embassies",1148,"0:19:08",1722,"0:28:42",False
+"Honeycuttland the Best","WFE, Embassies",1149,"0:19:09",1724,"0:28:44",False
+"The Kingdom of Netherlands","RO",1151,"0:19:11",1726,"0:28:46",False
+"Mars Congressional Republic","RO",1152,"0:19:12",1728,"0:28:48",False
+"The SovietUnion","RO",1171,"0:19:31",1756,"0:29:16",False
+"The Dictatorship Society","WFE, Embassies",1190,"0:19:50",1784,"0:29:44",False
+"Bumiputra","RO",1196,"0:19:56",1794,"0:29:54",False
+"Gayland","Embassies",1202,"0:20:02",1803,"0:30:03",False
+"The Mappers Union","RO",1202,"0:20:02",1803,"0:30:03",False
+"Kerala","RO, Embassies",1202,"0:20:02",1804,"0:30:04",False
+"Fredlandia","RO, Embassies",1204,"0:20:04",1806,"0:30:06",False
+"The Doomsday Legion","WFE, RO, Embassies",1206,"0:20:06",1809,"0:30:09",False
+"Kaorska","RO, Embassies",1206,"0:20:06",1809,"0:30:09",False
+"The United Powers Of Kreios","RO",1206,"0:20:06",1809,"0:30:09",False
+"Trebuchet Storage","RO",1207,"0:20:07",1810,"0:30:10",False
+"Holor","WFE, RO, Embassies",1207,"0:20:07",1811,"0:30:11",False
+"Onionistlands","RO, Embassies",1214,"0:20:14",1821,"0:30:21",False
+"The Gaddafist League","RO",1225,"0:20:25",1837,"0:30:37",False
+"Fruit Factions","RO",1227,"0:20:27",1841,"0:30:41",False
+"Novis Vandium","WFE, RO, Embassies",1246,"0:20:46",1869,"0:31:09",False
+"Atlantic Alliance","WFE, RO, Embassies",1246,"0:20:46",1869,"0:31:09",False
+"The Minutemen","WFE, RO, Embassies",1246,"0:20:46",1869,"0:31:09",False
+"Palos","RO, Embassies",1250,"0:20:50",1875,"0:31:15",False
+"BallsMoment","RO, Embassies",1250,"0:20:50",1876,"0:31:16",False
+"Allied Nations of Glioca","RO, Embassies",1252,"0:20:52",1878,"0:31:18",False
+"The Consolidation","WFE, RO, Embassies",1252,"0:20:52",1878,"0:31:18",False
+"Kyorgia puppet storage","Embassies",1252,"0:20:52",1879,"0:31:19",False
+"Alliance of Monke and Gandhi Nations","WFE, RO, Embassies",1254,"0:20:54",1881,"0:31:21",False
+"Combine overworld","RO, Embassies",1254,"0:20:54",1881,"0:31:21",False
+"Zadlanovskiv","Embassies",1254,"0:20:54",1882,"0:31:22",False
+"Arkio","RO",1255,"0:20:55",1883,"0:31:23",False
+"Virfaht","WFE, Embassies",1255,"0:20:55",1883,"0:31:23",False
+"Dragon Isles","WFE, RO, Embassies",1255,"0:20:55",1883,"0:31:23",False
+"accompaniment","WFE, RO, Embassies",1256,"0:20:56",1885,"0:31:25",False
+"Aynia","WFE, RO, Embassies",1256,"0:20:56",1885,"0:31:25",False
+"The Remnants","RO, Embassies",1258,"0:20:58",1887,"0:31:27",False
+"Bandonia","WFE, RO, Embassies",1258,"0:20:58",1887,"0:31:27",False
+"abscissas","RO",1262,"0:21:02",1894,"0:31:34",False
+"Conservative Club","WFE, Embassies",1265,"0:21:05",1897,"0:31:37",False
+"Left handed","RO",1281,"0:21:21",1922,"0:32:02",False
+"cat in frog hat","RO",1304,"0:21:44",1956,"0:32:36",False
+"National people rights","WFE, RO, Embassies",1311,"0:21:51",1967,"0:32:47",False
+"Areda Muiri","RO, Embassies",1311,"0:21:51",1967,"0:32:47",False
+"Eternal Peace","WFE, Embassies",1312,"0:21:52",1968,"0:32:48",False
+"Global Union Consortium","RO",1312,"0:21:52",1968,"0:32:48",False
+"Realm of Ravenpeak","Embassies",1312,"0:21:52",1969,"0:32:49",False
+"The Land Of The Lawlessly Little Isles","RO, Embassies",1313,"0:21:53",1970,"0:32:50",False
+"United Front of Dionastain","WFE, Embassies",1313,"0:21:53",1970,"0:32:50",False
+"Communist Alliance Of Mosncun","WFE, RO, Embassies",1316,"0:21:56",1975,"0:32:55",False
+"Yubrikean Union YU","WFE, Embassies",1317,"0:21:57",1976,"0:32:56",False
+"abiding","WFE, Embassies",1318,"0:21:58",1977,"0:32:57",False
+"Brasil PT BR","Embassies",1318,"0:21:58",1978,"0:32:58",False
+"The United Sizeronian Continent","WFE, RO, Embassies",1318,"0:21:58",1978,"0:32:58",False
+"The Great Jingo Rainforest","Embassies",1320,"0:22:00",1981,"0:33:01",False
+"Region X","RO",1334,"0:22:14",2001,"0:33:21",False
+"Greater Loggia","Embassies",1335,"0:22:15",2002,"0:33:22",False
+"Mists of History","WFE, Embassies",1335,"0:22:15",2002,"0:33:22",False
+"Ur MoM","Embassies",1335,"0:22:15",2003,"0:33:23",False
+"Korinka","RO, Embassies",1335,"0:22:15",2003,"0:33:23",False
+"Canastralian Union","WFE, Embassies",1335,"0:22:15",2003,"0:33:23",False
+"Aberdare","WFE, RO, Embassies",1339,"0:22:19",2009,"0:33:29",False
+"Season3 Cards Awaiters","RO",1339,"0:22:19",2009,"0:33:29",False
+"abdomen","RO",1340,"0:22:20",2010,"0:33:30",False
+"The Gayish Economic Zone","RO",1340,"0:22:20",2010,"0:33:30",False
+"Medinet Habu","RO",1341,"0:22:21",2012,"0:33:32",False
+"HubbaTelys Card Farmers","WFE, Embassies",1341,"0:22:21",2012,"0:33:32",False
+"Union Of JeremianFive Nationalists","Embassies",1344,"0:22:24",2016,"0:33:36",False
+"Paradoxika","WFE, Embassies",1356,"0:22:36",2034,"0:33:54",False
+"unite the nations","WFE, RO, Embassies",1357,"0:22:37",2035,"0:33:55",False
+"Testtttt","RO, Embassies",1358,"0:22:38",2036,"0:33:56",False
+"Skateboards","RO",1358,"0:22:38",2037,"0:33:57",False
+"Mane Upod Nos","WFE, RO, Embassies",1358,"0:22:38",2037,"0:33:57",False
+"TheCultOfCabbage","RO, Embassies",1364,"0:22:44",2046,"0:34:06",False
+"Scumland","RO, Embassies",1365,"0:22:45",2048,"0:34:08",False
+"abrades","RO, Embassies",1365,"0:22:45",2048,"0:34:08",False
+"Amazonas","WFE, RO, Embassies",1369,"0:22:49",2054,"0:34:14",False
+"The Land of the Geezers and space people","RO, Embassies",1369,"0:22:49",2054,"0:34:14",False
+"Greater Triland","WFE, Embassies",1370,"0:22:50",2055,"0:34:15",False
+"Naantali","RO",1370,"0:22:50",2056,"0:34:16",False
+"Supernatural Gryffindor Poptarts","WFE, RO, Embassies",1370,"0:22:50",2056,"0:34:16",False
+"Lezzie","Embassies",1377,"0:22:57",2066,"0:34:26",False
+"The United Independent States","RO",1378,"0:22:58",2067,"0:34:27",False
+"Dominium Aeternum","Embassies",1379,"0:22:59",2069,"0:34:29",False
+"United Commonwealth","RO",1382,"0:23:02",2073,"0:34:33",False
+"The Unified Study Group","WFE, RO, Embassies",1385,"0:23:05",2077,"0:34:37",False
+"The City of Ba Sing Se","RO, Embassies",1385,"0:23:05",2078,"0:34:38",False
+"Duolingo airport","WFE, Embassies",1385,"0:23:05",2078,"0:34:38",False
+"absorbing","RO",1385,"0:23:05",2078,"0:34:38",False
+"Happy Tree World","WFE, Embassies",1387,"0:23:07",2080,"0:34:40",False
+"Femisphere","RO, Embassies",1387,"0:23:07",2080,"0:34:40",False
+"academics","RO, Embassies",1387,"0:23:07",2080,"0:34:40",False
+"abuser","WFE, Embassies",1388,"0:23:08",2082,"0:34:42",False
+"Federation of Earth","RO, Embassies",1390,"0:23:10",2085,"0:34:45",False
+"Connecticut","WFE, RO, Embassies",1392,"0:23:12",2088,"0:34:48",False
+"Anti Communist Liberation Front","WFE, RO, Embassies",1392,"0:23:12",2088,"0:34:48",False
+"Hussaria","WFE, Embassies",1409,"0:23:29",2113,"0:35:13",False
+"Federal Empire of Memovka","RO",1411,"0:23:31",2116,"0:35:16",False
+"Galicia Island","WFE, Embassies",1412,"0:23:32",2117,"0:35:17",False
+"The Great Pacific","WFE, Embassies",1412,"0:23:32",2117,"0:35:17",False
+"The Populace of Overachieving Peoples","RO",1412,"0:23:32",2117,"0:35:17",False
+"Latter Day Saints","RO, Embassies",1420,"0:23:40",2130,"0:35:30",False
+"Yeet McSkeet","RO",1420,"0:23:40",2130,"0:35:30",False
+"United Faction of Nations","WFE, RO",1424,"0:23:44",2137,"0:35:37",False
+"The 1st Option","WFE, Embassies",1430,"0:23:50",2145,"0:35:45",False
+"ComradeLand","WFE, RO, Embassies",1430,"0:23:50",2145,"0:35:45",False
+"Earth Sovereign Colonies","RO",1430,"0:23:50",2146,"0:35:46",False
+"Industrial Region","RO",1431,"0:23:51",2147,"0:35:47",False
+"The Consumable Sustenance Coalition","WFE, RO, Embassies",1431,"0:23:51",2147,"0:35:47",False
+"Verthandi","RO, Embassies",1433,"0:23:53",2150,"0:35:50",False
+"Hyperworld","RO, Embassies",1434,"0:23:54",2151,"0:35:51",False
+"Holy Continent of Non Religious Nations","Embassies",1445,"0:24:05",2168,"0:36:08",False
+"abet","RO",1449,"0:24:09",2174,"0:36:14",False
+"Raidersville","WFE, Embassies",1511,"0:25:11",2266,"0:37:46",False
+"Bud","RO",1519,"0:25:19",2278,"0:37:58",False
+"Astellar Treaty Organization","RO",1519,"0:25:19",2278,"0:37:58",False
+"The Insulam Confederacy","RO, Embassies",1525,"0:25:25",2287,"0:38:07",False
+"Vales Cabin","WFE, Embassies",1652,"0:27:32",2477,"0:41:17",False
+"JACOB SAGITAGIS WORSPHIPERS","WFE, RO, Embassies",1656,"0:27:36",2485,"0:41:25",False
+"Bernieland","WFE, RO, Embassies",1782,"0:29:42",2674,"0:44:34",False
+"The Planet Of Erresia","WFE, Embassies",1785,"0:29:45",2678,"0:44:38",False
+"rectica backup 2","RO, Embassies",1786,"0:29:46",2679,"0:44:39",False
+"Open Ocean 1","WFE, RO, Embassies",1787,"0:29:47",2681,"0:44:41",False
+"Russian Empire l","RO, Embassies",1788,"0:29:48",2682,"0:44:42",False
+"The Enclave","RO",1788,"0:29:48",2682,"0:44:42",False
+"Machtpolitik","WFE, RO, Embassies",1789,"0:29:49",2683,"0:44:43",False
+"Hyrulian Nations League","WFE, Embassies",1793,"0:29:53",2689,"0:44:49",False
+"Anti LGBTQ","WFE, Embassies",1793,"0:29:53",2689,"0:44:49",False
+"Ruuussiya","WFE, RO, Embassies",1793,"0:29:53",2689,"0:44:49",False
+"Old World Union","WFE, RO, Embassies",1793,"0:29:53",2689,"0:44:49",False
+"Republican Action","WFE, Embassies",1793,"0:29:53",2690,"0:44:50",False
+"abundantly","RO",1795,"0:29:55",2693,"0:44:53",False
+"Wallastan","WFE, RO, Embassies",1795,"0:29:55",2693,"0:44:53",False
+"EMPIRESES","RO, Embassies",1796,"0:29:56",2694,"0:44:54",False
+"Sus Island","RO",1803,"0:30:03",2705,"0:45:05",False
+"ImpLand","RO, Embassies",1805,"0:30:05",2708,"0:45:08",False
+"Historium of the Recordkeeper","WFE, Embassies",1807,"0:30:07",2711,"0:45:11",False
+"Reihkossan","RO, Embassies",1827,"0:30:27",2740,"0:45:40",False
+"The Grand Imperial Regime of Nantuvia","WFE, RO, Embassies",1827,"0:30:27",2740,"0:45:40",False
+"Zhof Taralea","Embassies",1832,"0:30:32",2749,"0:45:49",False
+"Citadel Animos","RO",1837,"0:30:37",2756,"0:45:56",False
+"The Scattered Isles","WFE, RO, Embassies",1837,"0:30:37",2756,"0:45:56",False
+"United Syndicalist Workers Front","WFE, Embassies",1838,"0:30:38",2758,"0:45:58",False
+"ISP Front","Embassies",1839,"0:30:39",2759,"0:45:59",False
+"Oceanosphere","WFE, RO, Embassies",1843,"0:30:43",2765,"0:46:05",False
+"The Jungle","RO, Embassies",1843,"0:30:43",2765,"0:46:05",False
+"The 10th Crusade","WFE, Embassies",1843,"0:30:43",2765,"0:46:05",False
+"Continent of Europia","WFE, RO, Embassies",1845,"0:30:45",2767,"0:46:07",False
+"NE northern eire","WFE, RO, Embassies",1845,"0:30:45",2768,"0:46:08",False
+"United Nations of Commonwealth","WFE, Embassies",1845,"0:30:45",2768,"0:46:08",False
+"McDonalds Lovefest","WFE, RO, Embassies",1845,"0:30:45",2768,"0:46:08",False
+"Ferrish Archipelago","WFE, RO, Embassies",1846,"0:30:46",2769,"0:46:09",False
+"Hanaraxia","WFE, Embassies",1847,"0:30:47",2770,"0:46:10",False
+"Puppet Storage","RO, Embassies",1847,"0:30:47",2771,"0:46:11",False
+"United Countries","RO, Embassies",1847,"0:30:47",2771,"0:46:11",False
+"Pogromville","RO, Embassies",1856,"0:30:56",2784,"0:46:24",False
+"peavilia","WFE, RO",1860,"0:31:00",2790,"0:46:30",False
+"Gay liberation front","WFE, RO, Embassies",1861,"0:31:01",2792,"0:46:32",False
+"The tea","RO",1863,"0:31:03",2794,"0:46:34",False
+"Trophy Thieves","WFE, RO, Embassies",1867,"0:31:07",2801,"0:46:41",False
+"MONK EE","WFE, Embassies",1868,"0:31:08",2802,"0:46:42",False
+"Libertasia","RO, Embassies",1869,"0:31:09",2803,"0:46:43",False
+"0000000000 Soviet Union","WFE, Embassies",1869,"0:31:09",2804,"0:46:44",False
+"accentuates","WFE, Embassies",1869,"0:31:09",2804,"0:46:44",False
+"Gamer Paradise","WFE, RO",1871,"0:31:11",2807,"0:46:47",False
+"Pokemon Land","Embassies",1873,"0:31:13",2809,"0:46:49",False
+"Warzone Arkansas","WFE, Embassies",1876,"0:31:16",2814,"0:46:54",False
+"United Governments of NationStates","WFE, Embassies",1877,"0:31:17",2815,"0:46:55",False
+"abroad","RO, Embassies",1880,"0:31:20",2820,"0:47:00",False
+"absentees","RO, Embassies",1882,"0:31:22",2822,"0:47:02",False
+"The Superior Void","RO, Embassies",1882,"0:31:22",2823,"0:47:03",False
+"Fairy Tail","Embassies",1882,"0:31:22",2823,"0:47:03",False
+"Union of Conservative Nations","RO",1885,"0:31:25",2827,"0:47:07",False
+"IADN","RO, Embassies",1885,"0:31:25",2827,"0:47:07",False
+"Absurd Puppets","RO",1886,"0:31:26",2828,"0:47:08",False
+"Lendir","RO",1890,"0:31:30",2835,"0:47:15",False
+"Solum of solemn shtets","RO",1890,"0:31:30",2835,"0:47:15",False
+"Avenging Broccoli","Embassies",1892,"0:31:32",2839,"0:47:19",False
+"accessed","RO, Embassies",1892,"0:31:32",2839,"0:47:19",False
+"Kawaii klan","RO",1894,"0:31:34",2842,"0:47:22",False
+"New American Empire","Embassies",1896,"0:31:36",2844,"0:47:24",False
+"Osaka","RO, Embassies",1896,"0:31:36",2845,"0:47:25",False
+"Weed Nation","RO, Embassies",1900,"0:31:40",2851,"0:47:31",False
+"Legio I Genua","Embassies",1900,"0:31:40",2851,"0:47:31",False
+"academe","WFE, Embassies",1901,"0:31:41",2852,"0:47:32",False
+"The Mass Effect Universe","RO",1901,"0:31:41",2852,"0:47:32",False
+"Depression","RO",1902,"0:31:42",2853,"0:47:33",False
+"The First Imperial Order","RO",1902,"0:31:42",2853,"0:47:33",False
+"Starfleet Japan","WFE, RO, Embassies",1903,"0:31:43",2855,"0:47:35",False
+"Anakin Skywalker is hot","WFE, RO, Embassies",1905,"0:31:45",2858,"0:47:38",False
+"Deep Water 6","WFE, RO, Embassies",1918,"0:31:58",2877,"0:47:57",False
+"The Paragon Union","RO, Embassies",1919,"0:31:59",2878,"0:47:58",False
+"The Holy Cabinet","RO, Embassies",1919,"0:31:59",2878,"0:47:58",False
+"Ur dad","RO, Embassies",1919,"0:31:59",2879,"0:47:59",False
+"IOC","RO",1921,"0:32:01",2881,"0:48:01",False
+"olerais","WFE, Embassies",1921,"0:32:01",2882,"0:48:02",False
+"Massachusettss","RO, Embassies",1923,"0:32:03",2885,"0:48:05",False
+"The Most Random Nations","RO, Embassies",1924,"0:32:04",2886,"0:48:06",False
+"The Democratic Republic of Lazio","Embassies",1927,"0:32:07",2890,"0:48:10",False
+"Slavya","WFE, Embassies",1927,"0:32:07",2891,"0:48:11",False
+"Band CSF","WFE, RO, Embassies",1928,"0:32:08",2892,"0:48:12",False
+"Inazuma","RO, Embassies",1932,"0:32:12",2897,"0:48:17",False
+"The United Nomadic Tribes","RO, Embassies",1932,"0:32:12",2898,"0:48:18",False
+"Richardsonson","WFE, Embassies",1932,"0:32:12",2898,"0:48:18",False
+"Free Nations of Polzone","WFE, Embassies",1933,"0:32:13",2899,"0:48:19",False
+"Pax Cybertronia","RO",1937,"0:32:17",2905,"0:48:25",False
+"Mason Association","Embassies",1942,"0:32:22",2913,"0:48:33",False
+"Nordic Sea","RO",1945,"0:32:25",2917,"0:48:37",False
+"Sambucus Canadensis","RO, Embassies",1964,"0:32:44",2946,"0:49:06",False
+"New Catistania","WFE, Embassies",1965,"0:32:45",2947,"0:49:07",False
+"Salamis Initiative","Embassies",1975,"0:32:55",2962,"0:49:22",False
+"Open Ocean 10","WFE, Embassies",1980,"0:33:00",2970,"0:49:30",False
+"abortable","RO, Embassies",1981,"0:33:01",2972,"0:49:32",False
+"The Blue Army","WFE, Embassies",1982,"0:33:02",2973,"0:49:33",False
+"White boy summer","Embassies",1983,"0:33:03",2975,"0:49:35",False
+"Silvergrove","WFE, RO, Embassies",1985,"0:33:05",2977,"0:49:37",False
+"Madyan","Embassies",1985,"0:33:05",2977,"0:49:37",False
+"The North East Of England","RO",1985,"0:33:05",2978,"0:49:38",False
+"The Cult of Obama","RO, Embassies",1986,"0:33:06",2979,"0:49:39",False
+"JamieatAlqatala","WFE, Embassies",1987,"0:33:07",2980,"0:49:40",False
+"Icelandic Empire","WFE, Embassies",1987,"0:33:07",2981,"0:49:41",False
+"This Game","WFE, RO, Embassies",1988,"0:33:08",2982,"0:49:42",False
+"Western Civilization","WFE, Embassies",1988,"0:33:08",2982,"0:49:42",False
+"The United States Of Moltisia","RO",1989,"0:33:09",2983,"0:49:43",False
+"Hallyu Sanctuary","Embassies",1991,"0:33:11",2986,"0:49:46",False
+"dictators paradice","WFE, Embassies",1991,"0:33:11",2986,"0:49:46",False
+"The Imperium of Greater Europa","WFE, Embassies",1991,"0:33:11",2986,"0:49:46",False
+"New CLand","RO",1992,"0:33:12",2988,"0:49:48",False
+"Prilithia","WFE, RO, Embassies",1993,"0:33:13",2989,"0:49:49",False
+"Exiled","WFE, Embassies",1993,"0:33:13",2989,"0:49:49",False
+"Multiverse 001","Embassies",2001,"0:33:21",3001,"0:50:01",False
+"Armorique","Embassies",2002,"0:33:22",3002,"0:50:02",False
+"New Asia","WFE, Embassies",2002,"0:33:22",3002,"0:50:02",False
+"UMNR","WFE, Embassies",2006,"0:33:26",3010,"0:50:10",False
+"Ballambian islands","RO",2007,"0:33:27",3011,"0:50:11",False
+"Conservative Nations Guild","WFE, RO, Embassies",2010,"0:33:30",3015,"0:50:15",False
+"Adera","RO",2010,"0:33:30",3015,"0:50:15",False
+"The League of Sovereign Nations","WFE, Embassies",2011,"0:33:31",3017,"0:50:17",False
+"The True North","WFE, RO, Embassies",2011,"0:33:31",3017,"0:50:17",False
+"Vandoosa","RO, Embassies",2011,"0:33:31",3017,"0:50:17",False
+"land of the ford home of the brave","WFE, RO, Embassies",2012,"0:33:32",3019,"0:50:19",False
+"Congress of Nations","Embassies",2014,"0:33:34",3021,"0:50:21",False
+"United Nations of the World","Embassies",2020,"0:33:40",3030,"0:50:30",False
+"Ingame Fascist Nations","Embassies",2021,"0:33:41",3031,"0:50:31",False
+"The Ultimate Dictatorship","RO, Embassies",2023,"0:33:43",3035,"0:50:35",False
+"Counter Social","RO",2024,"0:33:44",3036,"0:50:36",False
+"Rights way","RO, Embassies",2025,"0:33:45",3037,"0:50:37",False
+"Holy Imperial Hegemony","WFE, RO, Embassies",2025,"0:33:45",3038,"0:50:38",False
+"absconds","RO, Embassies",2025,"0:33:45",3038,"0:50:38",False
+"The region of Acral","Embassies",2027,"0:33:47",3040,"0:50:40",False
+"The Confederation Of Nations","Embassies",2028,"0:33:48",3042,"0:50:42",False
+"Magicae Mundi","WFE, Embassies",2029,"0:33:49",3044,"0:50:44",False
+"East Krasnaya","Embassies",2030,"0:33:50",3045,"0:50:45",False
+"Terramir","RO",2030,"0:33:50",3045,"0:50:45",False
+"Allies","WFE",2030,"0:33:50",3045,"0:50:45",False
+"AR AESIR","Embassies",2031,"0:33:51",3046,"0:50:46",False
+"abysmal","RO, Embassies",2041,"0:34:01",3062,"0:51:02",False
+"Gold Coasts","Embassies",2042,"0:34:02",3063,"0:51:03",False
+"The United Republic of Socialist States","RO, Embassies",2042,"0:34:02",3063,"0:51:03",False
+"Almann is geil","Embassies",2042,"0:34:02",3063,"0:51:03",False
+"Deep Sea 3","WFE, RO, Embassies",2043,"0:34:03",3065,"0:51:05",False
+"The Pizza Entente","RO",2044,"0:34:04",3066,"0:51:06",False
+"union of anti capitalist states","WFE",2044,"0:34:04",3066,"0:51:06",False
+"Lawless zone","WFE, RO, Embassies",2044,"0:34:04",3066,"0:51:06",False
+"Lonely Empire","RO, Embassies",2046,"0:34:06",3069,"0:51:09",False
+"prima signa libertatis","Embassies",2052,"0:34:12",3077,"0:51:17",False
+"Federation Epsilon Indi System","Embassies",2052,"0:34:12",3077,"0:51:17",False
+"Bison Islands","WFE, RO, Embassies",2052,"0:34:12",3078,"0:51:18",False
+"Space Nurse","RO",2052,"0:34:12",3078,"0:51:18",False
+"test12","Embassies",2242,"0:37:22",3364,"0:56:04",False
+"The Easth Lake","WFE, Embassies",2242,"0:37:22",3364,"0:56:04",False
+"Sanctum Imperium","RO",2243,"0:37:23",3365,"0:56:05",False
+"Frese states","WFE, RO, Embassies",2250,"0:37:30",3375,"0:56:15",False
+"Europa Nova","Embassies",2251,"0:37:31",3377,"0:56:17",False
+"Mory Watick","RO, Embassies",2251,"0:37:31",3377,"0:56:17",False
+"Kingdom of cats","RO, Embassies",2252,"0:37:32",3378,"0:56:18",False
+"NOZ","RO, Embassies",2252,"0:37:32",3378,"0:56:18",False
+"Not hell","WFE, Embassies",2253,"0:37:33",3379,"0:56:19",False
+"corp incorporated conglomerate","WFE, RO, Embassies",2253,"0:37:33",3380,"0:56:20",False
+"The MfohK Union","WFE, RO, Embassies",2254,"0:37:34",3381,"0:56:21",False
+"The Great Pacific Cabbage Patch","RO, Embassies",2255,"0:37:35",3382,"0:56:22",False
+"The Kidney stoners","Embassies",2258,"0:37:38",3387,"0:56:27",False
+"abusive","RO, Embassies",2258,"0:37:38",3387,"0:56:27",False
+"Nation Collectors Corner","WFE, Embassies",2258,"0:37:38",3387,"0:56:27",False
+"The Wolpine Islands Confederacy","RO, Embassies",2259,"0:37:39",3388,"0:56:28",False
+"abnegates","RO",2259,"0:37:39",3388,"0:56:28",False
+"raiding am I right","RO",2261,"0:37:41",3391,"0:56:31",False
+"The Commonwealth Federation","WFE, Embassies",2265,"0:37:45",3398,"0:56:38",False
+"Alliance Against Humanity","RO, Embassies",2272,"0:37:52",3408,"0:56:48",False
+"Kamchatka Oblast","Embassies",2274,"0:37:54",3411,"0:56:51",False
+"NationCraft","WFE, Embassies",2278,"0:37:58",3417,"0:56:57",False
+"Democratic Union of Humanity","WFE, Embassies",2279,"0:37:59",3418,"0:56:58",False
+"Iron Front","WFE, RO, Embassies",2280,"0:38:00",3420,"0:57:00",False
+"Brave New World","Embassies",2288,"0:38:08",3431,"0:57:11",False
+"Malphe","Embassies",2590,"0:43:10",3886,"1:04:46",False
+"Elprus","Embassies",2592,"0:43:12",3889,"1:04:49",False
+"abolishing","WFE, Embassies",2601,"0:43:21",3902,"1:05:02",False
+"Tsardom of Russia","Embassies",2601,"0:43:21",3902,"1:05:02",False
+"abominal","WFE, RO, Embassies",2601,"0:43:21",3902,"1:05:02",False
+"The Eastern Region","Embassies",2602,"0:43:22",3903,"1:05:03",False
+"The Imperial MuskLand","Embassies",2602,"0:43:22",3903,"1:05:03",False
+"Sunbeam Isles","RO",2603,"0:43:23",3905,"1:05:05",False
+"elisan","WFE, Embassies",2605,"0:43:25",3908,"1:05:08",False
+"Coalition Of Stupidity","WFE, RO, Embassies",2606,"0:43:26",3909,"1:05:09",False
+"Retirement Home","WFE, Embassies",2607,"0:43:27",3910,"1:05:10",False
+"United Regions of the Gwilymverse","RO, Embassies",2607,"0:43:27",3910,"1:05:10",False
+"Independent","RO, Embassies",2607,"0:43:27",3910,"1:05:10",False
+"The Green Shrubbery","WFE, RO, Embassies",2607,"0:43:27",3910,"1:05:10",False
+"Waida","RO",2607,"0:43:27",3910,"1:05:10",False
+"dirty place","RO, Embassies",2609,"0:43:29",3914,"1:05:14",False
+"The Republic of Florida","WFE, RO, Embassies",2618,"0:43:38",3927,"1:05:27",False
+"Russian order","WFE, Embassies",2619,"0:43:39",3928,"1:05:28",False
+"Md4hsknxudskfjngrmdhb4urxie","Embassies",2624,"0:43:44",3936,"1:05:36",False
+"Lionheart region","Embassies",2624,"0:43:44",3936,"1:05:36",False
+"The Balkan Region","WFE",2628,"0:43:48",3942,"1:05:42",False
+"The Federation of Communist States","WFE, RO, Embassies",2628,"0:43:48",3942,"1:05:42",False
+"Furry Antifascist Alliance","WFE, Embassies",2629,"0:43:49",3943,"1:05:43",False
+"Western Fields","RO",2630,"0:43:50",3945,"1:05:45",False
+"Inter Dimensional Allies","RO",2630,"0:43:50",3945,"1:05:45",False
+"World Simulator","WFE, Embassies",2630,"0:43:50",3945,"1:05:45",False
+"New Asgardian Order","Embassies",2632,"0:43:52",3948,"1:05:48",False
+"Syndicals of the Milky Way and Andromeda","RO",2634,"0:43:54",3950,"1:05:50",False
+"accommodate","RO, Embassies",2636,"0:43:56",3953,"1:05:53",False
+"Devious Tyrant","RO",2639,"0:43:59",3958,"1:05:58",False
+"Penguin","RO, Embassies",2642,"0:44:02",3964,"1:06:04",False
+"The amazing turtle men","Embassies",2642,"0:44:02",3964,"1:06:04",False
+"abracadabra","RO, Embassies",2642,"0:44:02",3964,"1:06:04",False
+"World of Final Fantasy","WFE, Embassies",2642,"0:44:02",3964,"1:06:04",False
+"abbreviates","WFE, RO, Embassies",2642,"0:44:02",3964,"1:06:04",False
+"The North America LandsI","RO",2644,"0:44:04",3966,"1:06:06",False
+"GeoGang","RO",2646,"0:44:06",3970,"1:06:10",False
+"Hunters For Hire","Embassies",2742,"0:45:42",4113,"1:08:33",False
+"The Greater Imperial Realm","WFE, RO, Embassies",2747,"0:45:47",4120,"1:08:40",False
+"Naroslavia","RO, Embassies",2747,"0:45:47",4120,"1:08:40",False
+"Eternal Universe","Embassies",2747,"0:45:47",4120,"1:08:40",False
+"acceleration","RO, Embassies",2748,"0:45:48",4121,"1:08:41",False
+"RegioneNordAlpina","RO",2748,"0:45:48",4121,"1:08:41",False
+"Freegion","RO, Embassies",2754,"0:45:54",4130,"1:08:50",False
+"abnegated","WFE, RO, Embassies",2754,"0:45:54",4131,"1:08:51",False
+"The Greatest Colonies","Embassies",2755,"0:45:55",4132,"1:08:52",False
+"accelerant","WFE, RO, Embassies",2755,"0:45:55",4132,"1:08:52",False
+"The Northern States of Basldrykh","WFE, Embassies",2756,"0:45:56",4133,"1:08:53",False
+"Corruption","WFE, RO, Embassies",2756,"0:45:56",4133,"1:08:53",False
+"United Maka Soviet Socialist Republics","WFE, RO, Embassies",2756,"0:45:56",4133,"1:08:53",False
+"Greater Cinia","RO",2756,"0:45:56",4133,"1:08:53",False
+"Ter Salvarano","RO",2756,"0:45:56",4134,"1:08:54",False
+"This Decrepit Hole Here","RO",2757,"0:45:57",4135,"1:08:55",False
+"Lennart","RO, Embassies",2758,"0:45:58",4136,"1:08:56",False
+"npa","RO, Embassies",2758,"0:45:58",4138,"1:08:58",False
+"SupremeLords","RO, Embassies",2759,"0:45:59",4139,"1:08:59",False
+"West Capitalist Agreement","WFE, Embassies",2760,"0:46:00",4140,"1:09:00",False
+"The Goose Pond","Embassies",2760,"0:46:00",4140,"1:09:00",False
+"Realm of king","WFE, RO, Embassies",2760,"0:46:00",4141,"1:09:01",False
+"Squidqaulity","WFE, Embassies",2760,"0:46:00",4141,"1:09:01",False
+"Region of Federations","WFE, RO, Embassies",2762,"0:46:02",4143,"1:09:03",False
+"Kronk","RO",2762,"0:46:02",4143,"1:09:03",False
+"Eolor","WFE, Embassies",2762,"0:46:02",4143,"1:09:03",False
+"DARKSTARIA","RO, Embassies",2762,"0:46:02",4144,"1:09:04",False
+"The Poors","WFE, RO, Embassies",2764,"0:46:04",4146,"1:09:06",False
+"The Holy Bonzaii","RO, Embassies",2764,"0:46:04",4146,"1:09:06",False
+"Syncretic Church of the New Order of Jer","RO",2766,"0:46:06",4149,"1:09:09",False
+"Coral Reef 1","RO, Embassies",2766,"0:46:06",4150,"1:09:10",False
+"Steliante Reich","WFE, RO, Embassies",2768,"0:46:08",4152,"1:09:12",False
+"The Greater Commonwealth","WFE, Embassies",2768,"0:46:08",4152,"1:09:12",False
+"Izmenistan","RO",2768,"0:46:08",4153,"1:09:13",False
+"Kingdom of Aragon","RO",2770,"0:46:10",4156,"1:09:16",False
+"Ilhas da Saudade","Embassies",2771,"0:46:11",4157,"1:09:17",False
+"Abigail","RO",2774,"0:46:14",4161,"1:09:21",False
+"The ceptic states","WFE",2781,"0:46:21",4171,"1:09:31",False
+"MentosLand","WFE, Embassies",2816,"0:46:56",4223,"1:10:23",False
+"You Just Got Raided","WFE, RO, Embassies",2816,"0:46:56",4225,"1:10:25",False
+"Alcantara","WFE, RO, Embassies",2816,"0:46:56",4225,"1:10:25",False
+"The Vastara System","RO",2817,"0:46:57",4226,"1:10:26",False
+"Asian Archipelago","WFE, RO, Embassies",2817,"0:46:57",4226,"1:10:26",False
+"acceptors","WFE, Embassies",2819,"0:46:59",4229,"1:10:29",False
+"absentmindedly","WFE",2822,"0:47:02",4234,"1:10:34",False
+"SpacePizza Coralation","Embassies",2824,"0:47:04",4236,"1:10:36",False
+"Enewetak Atoll","WFE, RO, Embassies",2824,"0:47:04",4237,"1:10:37",False
+"Paradoxical","WFE, RO, Embassies",2826,"0:47:06",4239,"1:10:39",False
+"The Pacificia Union","WFE",2830,"0:47:10",4246,"1:10:46",False
+"The League of Based Nations","Embassies",2834,"0:47:14",4251,"1:10:51",False
+"Free Ancapistan","Embassies",2834,"0:47:14",4251,"1:10:51",False
+"accidents","WFE, Embassies",2835,"0:47:15",4252,"1:10:52",False
+"communist space union","RO, Embassies",2839,"0:47:19",4258,"1:10:58",False
+"Hat","WFE, RO, Embassies",2842,"0:47:22",4263,"1:11:03",False
+"The Mosqe Army","WFE, Embassies",2843,"0:47:23",4264,"1:11:04",False
+"madjack","WFE, RO, Embassies",2843,"0:47:23",4265,"1:11:05",False
+"Greater East","WFE, Embassies",2847,"0:47:27",4271,"1:11:11",False
+"Somewhere Out There","RO",2849,"0:47:29",4273,"1:11:13",False
+"The Free Lands of Mirth","RO",2849,"0:47:29",4274,"1:11:14",False
+"Socialist Assembly","RO, Embassies",2855,"0:47:35",4283,"1:11:23",False
+"The Confederacy of Untied States","RO",2858,"0:47:38",4287,"1:11:27",False
+"The New tarlaian imperium","RO",2870,"0:47:50",4305,"1:11:45",False
+"Somewhere over the Rainbow","RO, Embassies",2876,"0:47:56",4314,"1:11:54",False
+"Confederation of New lands","RO",2877,"0:47:57",4316,"1:11:56",False
+"The Union of Lundic Protectorates","WFE, Embassies",2878,"0:47:58",4317,"1:11:57",False
+"Anniki","RO, Embassies",2878,"0:47:58",4318,"1:11:58",False
+"Suspicious Empire","RO, Embassies",2879,"0:47:59",4319,"1:11:59",False
+"The United Island Nations","RO",2880,"0:48:00",4320,"1:12:00",False
+"Confederation of Recklessness","WFE, RO, Embassies",2881,"0:48:01",4322,"1:12:02",False
+"STREAMGATE France","RO",2881,"0:48:01",4322,"1:12:02",False
+"Northwood","RO",2882,"0:48:02",4324,"1:12:04",False
+"Collective Security Treaty Organization","WFE",2883,"0:48:03",4325,"1:12:05",False
+"The Unholy Alliance","RO",2884,"0:48:04",4326,"1:12:06",False
+"United Socialist Archipelago","WFE, Embassies",2884,"0:48:04",4327,"1:12:07",False
+"aga","WFE, Embassies",2884,"0:48:04",4327,"1:12:07",False
+"ZONGUO","RO",2884,"0:48:04",4327,"1:12:07",False
+"Anontia","WFE, Embassies",2885,"0:48:05",4328,"1:12:08",False
+"Lothal","RO, Embassies",2886,"0:48:06",4330,"1:12:10",False
+"The Star Wars Empire","RO",2889,"0:48:09",4334,"1:12:14",False
+"Grand Chaos Treaty Organization","WFE, Embassies",2890,"0:48:10",4335,"1:12:15",False
+"ISB TOK","WFE, Embassies",2890,"0:48:10",4335,"1:12:15",False
+"Hispanosphere","WFE, RO, Embassies",2890,"0:48:10",4335,"1:12:15",False
+"King of the Hill","WFE, RO, Embassies",2891,"0:48:11",4336,"1:12:16",False
+"Engiwa and authoritarian","RO, Embassies",2891,"0:48:11",4336,"1:12:16",False
+"kayamess","RO, Embassies",2898,"0:48:18",4347,"1:12:27",False
+"The Heart of Darkslayer","Embassies",2898,"0:48:18",4347,"1:12:27",False
+"Philonia","RO",2899,"0:48:19",4349,"1:12:29",False
+"Ben","Embassies",3045,"0:50:45",4567,"1:16:07",True
+"The Boy Band","RO, Embassies",3048,"0:50:48",4571,"1:16:11",False
+"Humanist United International","Embassies",3052,"0:50:52",4578,"1:16:18",False
+"abdicates","RO, Embassies",3052,"0:50:52",4579,"1:16:19",False
+"I N G S O C C","Embassies",3054,"0:50:54",4581,"1:16:21",False
+"Nations of the Jacksonville Accords","RO",3221,"0:53:41",4831,"1:20:31",False
