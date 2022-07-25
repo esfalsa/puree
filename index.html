@@ -11,7 +11,29 @@ title: Home
     <p class="mb-1">
       <strong>Last daily dump:</strong> {% include lastdump.html %}
     </p>
-    <p class="m-0"><strong>Regions found:</strong> {% include count.html %}</p>
+    <p class="mb-1"><strong>Regions found:</strong> {% include count.html %}</p>
+    <div class="form-check">
+      <input
+        class="form-check-input"
+        type="checkbox"
+        value=""
+        id="highlight-closing-embassies"
+      />
+      <label class="form-check-label" for="highlight-closing-embassies">
+        Highlight regions with closing embassies
+      </label>
+    </div>
+    <div class="form-check mb-0">
+      <input
+        class="form-check-input"
+        type="checkbox"
+        value=""
+        id="hide-non-closing-embassies"
+      />
+      <label class="form-check-label" for="hide-non-closing-embassies">
+        Only show regions with closing embassies
+      </label>
+    </div>
   </div>
 </div>
 
@@ -49,8 +71,32 @@ title: Home
         <th scope="col">Major</th>
       </tr>
     </thead>
-    <tbody>
+    <tbody id="detags-tbody">
       {% include detags.html %}
     </tbody>
   </table>
 </div>
+
+<script>
+  document
+    .querySelector("#highlight-closing-embassies")
+    .addEventListener("change", () => {
+      const closingEmbassies = document.querySelectorAll(
+        "tr[closing-embassies]"
+      );
+      closingEmbassies.forEach((region) => {
+        region.classList.toggle("table-danger");
+      });
+    });
+
+  document
+    .querySelector("#hide-non-closing-embassies")
+    .addEventListener("change", () => {
+      const regions = document.querySelectorAll("#detags-tbody tr");
+      regions.forEach((region) => {
+        if (!region.hasAttribute("closing-embassies")) {
+          region.classList.toggle("d-none");
+        }
+      });
+    });
+</script>

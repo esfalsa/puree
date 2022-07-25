@@ -72,6 +72,25 @@ def find_issues(region):
     return issues
 
 
+def embassy_status(region):
+    if any(
+        embassy.text
+        for embassy in region.findall(f"./EMBASSIES/EMBASSY")
+        if region.find(f"./EMBASSIES/EMBASSY") is not None
+        and embassy.get("type") in ["closing", "rejected"]
+        and embassy.text
+        not in [
+            "The Black Hawks",
+            "The Brotherhood of Malice",
+            "Valle de Arena",
+            "Red Front",
+            "Plum Island",
+        ]
+    ):
+        return True
+    return False
+
+
 for region in root.findall("REGION"):
     if region.find("NAME").text in passworded:
         continue
@@ -90,12 +109,13 @@ for region in root.findall("REGION"):
                 "minor_timestamp": f'"{str(timedelta(seconds=minor_progress))}"',
                 "major": str(major_progress),
                 "major_timestamp": f'"{str(timedelta(seconds=major_progress))}"',
+                "native_embassies": str(embassy_status(region)),
             }
         )
 
 with open("_data/detags.csv", "w") as outfile:
     outfile.writelines(
-        ["Region,Issues,Minor,MinorTimestamp,Major,MajorTimestamp\n"]
+        ["Region,Issues,Minor,MinorTimestamp,Major,MajorTimestamp,ClosingEmbassies\n"]
         + [(",".join(list(region.values())) + "\n") for region in regions]
     )
 
