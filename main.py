@@ -110,12 +110,15 @@ for region in root.findall("REGION"):
                 "major": str(major_progress),
                 "major_timestamp": f'"{str(timedelta(seconds=major_progress))}"',
                 "native_embassies": str(embassy_status(region)),
+                "link": f"\"https://www.nationstates.net/region={name.lower().replace(' ', '_')}\"",
             }
         )
 
 with open("_data/detags.csv", "w") as outfile:
     outfile.writelines(
-        ["Region,Issues,Minor,MinorTimestamp,Major,MajorTimestamp,ClosingEmbassies\n"]
+        [
+            "Region,Issues,Minor,MinorTimestamp,Major,MajorTimestamp,ClosingEmbassies,Link\n"
+        ]
         + [(",".join(list(region.values())) + "\n") for region in regions]
     )
 

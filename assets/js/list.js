@@ -115,12 +115,12 @@ function generateList(index, regions, open = false) {
 
   let csv =
     (isTeam ? "" : "Team,") +
-    "Region,Issues,Minor,MinorTimestamp,Major,MajorTimestamp\n" +
+    "Region,Issues,Minor,MinorTimestamp,Major,MajorTimestamp,Link\n" +
     regions
       .map(
         (region) =>
           (isTeam ? "" : `${region.Team},`) +
-          `"${region.Region}","${region.Issues}",${region.Minor},"${region.MinorTimestamp}",${region.Major},"${region.MajorTimestamp}"`
+          `"${region.Region}","${region.Issues}",${region.Minor},"${region.MinorTimestamp}",${region.Major},"${region.MajorTimestamp}","${region.Link}"`
       )
       .join("\n");
 
