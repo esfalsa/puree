@@ -2,17 +2,40 @@ from datetime import timedelta, datetime
 import xml.etree.ElementTree as ElementTree
 import pandas as pd
 
+from rich.console import Console
+from rich.theme import Theme
+from rich.progress import Progress
+
+console = Console(theme=Theme({"logging.level.success": "bright_green"}))
+
+
+def log(message, level="info"):
+    console.print(
+        f"[log.time][{datetime.now().strftime('%H:%M:%S')}][/log.time] [logging.level.{level}]{level}[/logging.level.{level}] \t{message}"
+    )
+
+
+log("Running Purée CLI…", level="info")
+
 passworded = (
     ElementTree.parse("passworded.xml").getroot().find("REGIONS").text.split(",")
 )
 
+log("Loaded passworded regions.", level="success")
+
 tree = ElementTree.parse("regions.xml")
+
+log("Loaded daily dump.", level="success")
+
 root = tree.getroot()
 
 regions = []
 
+
 update_start = int(root.find("REGION").find("LASTUPDATE").text)
 update_length = int(root.find("REGION[last()]").find("LASTUPDATE").text) - update_start
+
+log(f"Found update length: {update_length} seconds.", level="info")
 
 
 def find_issues(region):
@@ -92,7 +115,11 @@ def embassy_status(region):
     return False
 
 
-for region in root.findall("REGION"):
+region_nodes = root.findall("REGION")
+
+log(f"Loaded all regions.", level="success")
+
+for region in region_nodes:
     if region.find("NAME").text in passworded:
         continue
     issues = find_issues(region)
@@ -126,6 +153,8 @@ detags.to_csv("_data/detags.csv")
 detags.to_excel("_data/detags.xlsx", sheet_name=today)
 detags.reset_index().to_json("_data/detags.json", orient="records")
 
+log(f"Recorded detags found.", level="success")
+
 with open("_includes/count.html", "w") as outfile:
     outfile.write(str(len(regions)))
 
@@ -140,3 +169,5 @@ if today not in history.index:
 history.to_csv("_data/history.csv")
 history.to_excel("_data/history.xlsx", sheet_name="History")
 history.reset_index().to_json("_data/history.json", orient="records")
+
+log(f"Recorded history.", level="success")
