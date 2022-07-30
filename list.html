@@ -171,4 +171,7 @@ title: List Generator
   src="{{ '/node_modules/jszip/dist/jszip.min.js' | prepend: site.baseurl }}"
   defer
 ></script>
+<script>
+  const regions = {{ site.data.detags | jsonify }};
+</script>
 <script src="assets/js/list.js" defer></script>

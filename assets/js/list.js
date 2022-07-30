@@ -1,7 +1,3 @@
----
----
-
-const regions = {{ site.data.detags | jsonify }};
 let zip;
 
 document.querySelector("#teams").addEventListener("change", () => {
