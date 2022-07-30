@@ -119,13 +119,16 @@ for region in root.findall("REGION"):
 
         regions.append(region_data)
 
+today = (datetime.utcfromtimestamp(update_start) - timedelta(1)).strftime("%d %B %Y")
+
 detags = pd.DataFrame.from_records(regions, index="Region")
 detags.to_csv("_data/detags.csv")
+detags.to_excel("_data/detags.xlsx", sheet_name=today)
+detags.reset_index().to_json("_data/detags.json", orient="records")
 
 with open("_includes/count.html", "w") as outfile:
     outfile.write(str(len(regions)))
 
-today = (datetime.utcfromtimestamp(update_start) - timedelta(1)).strftime("%d %B %Y")
 history = pd.read_csv("_data/history.csv", index_col="Date")
 
 if today not in history.index:
@@ -135,3 +138,5 @@ if today not in history.index:
     history = pd.concat([history, row])
 
 history.to_csv("_data/history.csv")
+history.to_excel("_data/history.xlsx", sheet_name="History")
+history.reset_index().to_json("_data/history.json", orient="records")

@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 datetime = "*"
 pandas = "*"
+openpyxl = "*"
 
 [dev-packages]
 black = "*"
