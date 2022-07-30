@@ -41,60 +41,21 @@ title: Home
         class="text-decoration-none d-inline-flex flex-row align-items-center gap-1"
         download
       >
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 20 20"
-          fill="currentColor"
-          width="1em"
-          height="1em"
-        >
-          <path
-            fill-rule="evenodd"
-            d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z"
-            clip-rule="evenodd"
-          />
-        </svg>
-        Download CSV</a
+        {% include icons/download.html %} Download CSV</a
       >
       <a
         href="_data/detags.json"
         class="text-decoration-none d-inline-flex flex-row align-items-center gap-1"
         download
       >
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 20 20"
-          fill="currentColor"
-          width="1em"
-          height="1em"
-        >
-          <path
-            fill-rule="evenodd"
-            d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z"
-            clip-rule="evenodd"
-          />
-        </svg>
-        Download JSON</a
+        {% include icons/download.html %} Download JSON</a
       >
       <a
         href="_data/detags.xlsx"
         class="text-decoration-none d-inline-flex flex-row align-items-center gap-1"
         download
       >
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 20 20"
-          fill="currentColor"
-          width="1em"
-          height="1em"
-        >
-          <path
-            fill-rule="evenodd"
-            d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z"
-            clip-rule="evenodd"
-          />
-        </svg>
-        Download Excel Sheet</a
+        {% include icons/download.html %} Download Excel Sheet</a
       >
     </div>
   </div>
@@ -141,4 +102,12 @@ title: Home
         }
       });
     });
+
+  document.querySelectorAll(".rlink").forEach((link) => {
+    link.addEventListener("click", async (e) => {
+      e.preventDefault();
+      await navigator.clipboard.writeText(link.href);
+      window.open(link.href, "_blank");
+    });
+  });
 </script>
