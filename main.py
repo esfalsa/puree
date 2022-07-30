@@ -20,20 +20,20 @@ log("Running Purée CLI…", level="info")
 passworded = (
     ElementTree.parse("passworded.xml").getroot().find("REGIONS").text.split(",")
 )
-
 log("Loaded passworded regions.", level="success")
 
 tree = ElementTree.parse("regions.xml")
-
 log("Loaded daily dump.", level="success")
 
 root = tree.getroot()
 
 regions = []
 
+region_nodes = root.findall("REGION")
+log(f"Loaded all regions.", level="success")
 
-update_start = int(root.find("REGION").find("LASTUPDATE").text)
-update_length = int(root.find("REGION[last()]").find("LASTUPDATE").text) - update_start
+update_start = int(region_nodes[0].find("LASTUPDATE").text)
+update_length = int(region_nodes[-1].find("LASTUPDATE").text) - update_start
 
 log(f"Found update length: {update_length} seconds.", level="info")
 
@@ -114,10 +114,6 @@ def embassy_status(region):
         return True
     return False
 
-
-region_nodes = root.findall("REGION")
-
-log(f"Loaded all regions.", level="success")
 
 for region in region_nodes:
     if region.find("NAME").text in passworded:
