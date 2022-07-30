@@ -30,7 +30,7 @@ root = tree.getroot()
 regions = []
 
 region_nodes = root.findall("REGION")
-log(f"Loaded all regions.", level="success")
+log("Loaded all regions.", level="success")
 
 update_start = int(region_nodes[0].find("LASTUPDATE").text)
 update_length = int(region_nodes[-1].find("LASTUPDATE").text) - update_start
@@ -149,7 +149,7 @@ detags.to_csv("_data/detags.csv")
 detags.to_excel("_data/detags.xlsx", sheet_name=today)
 detags.reset_index().to_json("_data/detags.json", orient="records")
 
-log(f"Recorded detags found.", level="success")
+log(f"Recorded {len(regions)} detags found.", level="success")
 
 with open("_includes/count.html", "w") as outfile:
     outfile.write(str(len(regions)))
@@ -161,9 +161,9 @@ if today not in history.index:
         [{"Date": today, "Count": str(len(regions))}], index="Date"
     )
     history = pd.concat([history, row])
-
-history.to_csv("_data/history.csv")
-history.to_excel("_data/history.xlsx", sheet_name="History")
-history.reset_index().to_json("_data/history.json", orient="records")
-
-log(f"Recorded history.", level="success")
+    history.to_csv("_data/history.csv")
+    history.to_excel("_data/history.xlsx", sheet_name="History")
+    history.reset_index().to_json("_data/history.json", orient="records")
+    log("Recorded history.", level="info")
+else:
+    log("No new history entries found.", level="info")
