@@ -1,5 +1,6 @@
 from datetime import timedelta, datetime
 import xml.etree.ElementTree as ElementTree
+import pandas as pd
 
 passworded = (
     ElementTree.parse("passworded.xml").getroot().find("REGIONS").text.split(",")
@@ -101,31 +102,36 @@ for region in root.findall("REGION"):
         minor_progress = round(progress * 3600)
         major_progress = round(progress * 5400)
 
-        regions.append(
-            {
-                "region": f'"{name}"',
-                "issues": f"\"{', '.join(issues)}\"",
-                "minor": str(minor_progress),
-                "minor_timestamp": f'"{str(timedelta(seconds=minor_progress))}"',
-                "major": str(major_progress),
-                "major_timestamp": f'"{str(timedelta(seconds=major_progress))}"',
-                "native_embassies": str(embassy_status(region)),
-                "link": f"\"https://www.nationstates.net/region={name.lower().replace(' ', '_')}\"",
-            }
-        )
+        region_data = {
+            "Region": f"{name}",
+            "Issues": f"{', '.join(issues)}",
+            "Minor": str(minor_progress),
+            "MinorTimestamp": f"{str(timedelta(seconds=minor_progress))}",
+            "Major": str(major_progress),
+            "MajorTimestamp": f"{str(timedelta(seconds=major_progress))}",
+            "NativeEmbassies": str(embassy_status(region)),
+            "Link": f"https://www.nationstates.net/region={name.lower().replace(' ', '_')}",
+        }
 
-with open("_data/detags.csv", "w") as outfile:
-    outfile.writelines(
-        [
-            "Region,Issues,Minor,MinorTimestamp,Major,MajorTimestamp,ClosingEmbassies,Link\n"
-        ]
-        + [(",".join(list(region.values())) + "\n") for region in regions]
-    )
+        for key, value in region_data.items():
+            if value[0] in ["=", "+", "-", "@"]:
+                region_data[key] = f"'{value}"
+
+        regions.append(region_data)
+
+detags = pd.DataFrame.from_records(regions, index="Region")
+detags.to_csv("_data/detags.csv")
 
 with open("_includes/count.html", "w") as outfile:
     outfile.write(str(len(regions)))
 
-with open("_data/history.csv", "a") as outfile:
-    outfile.write(
-        f"{(datetime.utcfromtimestamp(update_start) - timedelta(1)).strftime('%d %B %Y')},{str(len(regions))}\n"
+today = (datetime.utcfromtimestamp(update_start) - timedelta(1)).strftime("%d %B %Y")
+history = pd.read_csv("_data/history.csv", index_col="Date")
+
+if today not in history.index:
+    row = pd.DataFrame.from_records(
+        [{"Date": today, "Count": str(len(regions))}], index="Date"
     )
+    history = pd.concat([history, row])
+
+history.to_csv("_data/history.csv")
