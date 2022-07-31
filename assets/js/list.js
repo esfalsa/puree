@@ -1,6 +1,10 @@
 let zip;
 
-document.querySelector("#teams").addEventListener("change", () => {
+let numTeams;
+
+document.querySelector("#teams").addEventListener("change", updateTeams);
+
+function updateTeams() {
   const numTeams = parseInt(document.querySelector("#teams").value);
   const teamsContainer = document.querySelector("#teams-container");
 
@@ -13,69 +17,75 @@ document.querySelector("#teams").addEventListener("change", () => {
   while (teamsContainer.childElementCount > numTeams) {
     teamsContainer.lastChild.remove();
   }
-});
+}
 
 document
   .querySelector("#generate-list-form")
   .addEventListener("submit", (e) => {
     e.preventDefault();
 
-    zip = new JSZip();
+    generateLists();
+  });
 
-    const update = document.querySelector("#update").value;
-    const teams = Array.from(
-      document.querySelectorAll("[id^='switch-length-']")
-    ).map((switchLength, index) => {
-      return {
-        index: index,
-        switchLength: parseInt(switchLength.value),
-      };
-    });
+function generateLists() {
+  zip = new JSZip();
 
-    let found = [];
-    let allRegions = [];
+  const update = document.querySelector("#update").value;
+  const teams = Array.from(
+    document.querySelectorAll("[id^='switch-length-']")
+  ).map((switchLength, index) => {
+    return {
+      index: index,
+      switchLength: parseInt(switchLength.value),
+    };
+  });
 
-    teams.forEach((team) => {
-      let progress = -team.switchLength;
-      let teamRegions = [];
+  let found = [];
+  let allRegions = [];
 
-      for (const [index, region] of regions.entries()) {
-        if (
-          parseInt(region[update]) >= progress + team.switchLength &&
-          !found.includes(region.Region)
-        ) {
-          found.push(region.Region);
-          teamRegions.push(region);
-          allRegions.push({ ...region, Team: team.index + 1, Index: index });
-          progress = parseInt(region[update]);
-        }
+  teams.forEach((team) => {
+    let progress = -team.switchLength;
+    let teamRegions = [];
+
+    for (const [index, region] of regions.entries()) {
+      if (
+        parseInt(region[update]) >= progress + team.switchLength &&
+        !found.includes(region.Region)
+      ) {
+        found.push(region.Region);
+        teamRegions.push(region);
+        allRegions.push({ ...region, Team: team.index + 1, Index: index });
+        progress = parseInt(region[update]);
       }
-
-      team.list = generateList(team.index + 1, teamRegions, teams.length == 1);
-    });
-
-    if (teams.length > 1) {
-      allRegions.sort((region1, region2) => {
-        return region1.Index > region2.Index ? 1 : -1;
-      });
-
-      teams.unshift({
-        list: generateList("All_Teams", allRegions),
-      });
     }
 
-    const listsContainer = document.querySelector("#lists-container");
-
-    listsContainer.replaceChildren(...teams.map((team) => team.list));
-    listsContainer.hidden = false;
-
-    zip.generateAsync({ type: "base64" }).then((data) => {
-      document.querySelector(
-        "#download-all"
-      ).href = `data:application/zip;base64,${data}`;
-      document.querySelector("#download-all").classList.remove("disabled");
-    });
+    team.list = generateList(team.index + 1, teamRegions, teams.length == 1);
   });
+
+  if (teams.length > 1) {
+    allRegions.sort((region1, region2) => {
+      return region1.Index > region2.Index ? 1 : -1;
+    });
+
+    teams.unshift({
+      list: generateList("All_Teams", allRegions),
+    });
+  }
+
+  const listsContainer = document.querySelector("#lists-container");
+
+  listsContainer.replaceChildren(...teams.map((team) => team.list));
+  listsContainer.hidden = false;
+
+  zip.generateAsync({ type: "base64" }).then((data) => {
+    document.querySelector(
+      "#download-all"
+    ).href = `data:application/zip;base64,${data}`;
+    document.querySelector("#download-all").classList.remove("disabled");
+  });
+
+  document.querySelector("#share").classList.remove("disabled");
+}
 
 function generateTeam(index) {
   let team = document.querySelector("#team-template").cloneNode(true);
@@ -184,4 +194,50 @@ function generateTable(regions) {
   table.querySelector("tbody").replaceChildren(...regionRows);
 
   return table;
+}
+
+document.querySelector("#share").addEventListener("click", () => {
+  const update = document.querySelector("#update").value;
+  const numTeams = document.querySelector("#teams").value;
+  const switchLengths = Array.from(
+    document.querySelectorAll("[id^='switch-length-']"),
+    (switchLength) => switchLength.value
+  );
+
+  let shareURL = new URL(location.pathname, location.origin);
+  shareURL.search = new URLSearchParams({
+    update: update,
+    teams: numTeams,
+    switchLengths: switchLengths.join("."),
+  });
+
+  window.navigator.clipboard.writeText(shareURL.href);
+});
+
+const loc = new URL(location.href);
+
+if (loc.searchParams.has("update")) {
+  document.querySelector("#update").value = loc.searchParams.get("update");
+}
+
+if (loc.searchParams.has("teams")) {
+  document.querySelector("#teams").value = loc.searchParams.get("teams");
+  updateTeams();
+}
+
+if (loc.searchParams.has("switchLengths")) {
+  const switchLengths = loc.searchParams.get("switchLengths").split(".");
+  for (const [index, switchLength] of switchLengths.entries()) {
+    document.querySelector(`#switch-length-${index + 1}`).value = switchLength;
+  }
+}
+
+if (
+  loc.searchParams.has("update") &&
+  loc.searchParams.has("teams") &&
+  loc.searchParams.has("switchLengths") &&
+  loc.searchParams.get("switchLengths").split(".").length ===
+    parseInt(loc.searchParams.get("teams"))
+) {
+  generateLists();
 }
