@@ -26,12 +26,22 @@ Regions meeting these criteria are whitelisted if they are:
 - Regions with an embassy with Antifa
 - Regions with an existing delegate
 
-## Run Locally
+## Run Site Locally
+
+The Purée site displays all tagged regions found and allows users to filter those regions to create a list of targets. To run the site locally:
 
 1. Clone the repository: `git clone https://github.com/esfalsa/puree.git`
 2. Install Ruby dependencies: `bundle install`
 3. Install Node.js dependencies: `npm install`
 4. Start the development server: `bundle exec jekyll serve`
+
+## Run Parser Locally
+
+The Purée parser searches daily dumps for tagged regions and outputs the regions found in CSV, JSON, and XLSX formats. To run the parser locally:
+
+1. Clone the repository: `git clone https://github.com/esfalsa/puree.git`
+2. Install dependencies: `pipenv install`
+3. Run the parser: `pipenv run python main.py`
 
 ## Contributing
 

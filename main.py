@@ -128,16 +128,16 @@ for region in region_nodes:
         region_data = {
             "Region": f"{name}",
             "Issues": f"{', '.join(issues)}",
-            "Minor": str(minor_progress),
+            "Minor": minor_progress,
             "MinorTimestamp": f"{str(timedelta(seconds=minor_progress))}",
-            "Major": str(major_progress),
+            "Major": major_progress,
             "MajorTimestamp": f"{str(timedelta(seconds=major_progress))}",
-            "NativeEmbassies": str(embassy_status(region)),
+            "NativeEmbassies": embassy_status(region),
             "Link": f"https://www.nationstates.net/region={name.lower().replace(' ', '_')}",
         }
 
         for key, value in region_data.items():
-            if value[0] in ["=", "+", "-", "@"]:
+            if type(value) is str and value[0] in ["=", "+", "-", "@"]:
                 region_data[key] = f"'{value}"
 
         regions.append(region_data)
@@ -147,7 +147,7 @@ today = (datetime.utcfromtimestamp(update_start) - timedelta(1)).strftime("%d %B
 detags = pd.DataFrame.from_records(regions, index="Region")
 detags.to_csv("_data/detags.csv")
 detags.to_excel("_data/detags.xlsx", sheet_name=today)
-detags.reset_index().to_json("_data/detags.json", orient="records")
+detags.reset_index().to_json("_data/detags.json", orient="records", indent=2)
 
 log(f"Recorded {len(regions)} detags found.", level="success")
 
@@ -158,12 +158,12 @@ history = pd.read_csv("_data/history.csv", index_col="Date")
 
 if today not in history.index:
     row = pd.DataFrame.from_records(
-        [{"Date": today, "Count": str(len(regions))}], index="Date"
+        [{"Date": today, "Count": len(regions)}], index="Date"
     )
     history = pd.concat([history, row])
     history.to_csv("_data/history.csv")
     history.to_excel("_data/history.xlsx", sheet_name="History")
-    history.reset_index().to_json("_data/history.json", orient="records")
+    history.reset_index().to_json("_data/history.json", orient="records", indent=2)
     log("Recorded history.", level="info")
 else:
     log("No new history entries found.", level="info")
