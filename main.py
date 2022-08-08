@@ -146,8 +146,9 @@ today = (datetime.utcfromtimestamp(update_start) - timedelta(1)).strftime("%d %B
 
 detags = pd.DataFrame.from_records(regions, index="Region")
 detags.to_csv("_data/detags.csv")
-detags.to_excel("_data/detags.xlsx", sheet_name=today)
-detags.reset_index().to_json("_data/detags.json", orient="records", indent=2)
+detags.to_csv("data/detags.csv")
+detags.to_excel("data/detags.xlsx", sheet_name=today)
+detags.reset_index().to_json("data/detags.json", orient="records", indent=2)
 
 log(f"Recorded {len(regions)} detags found.", level="success")
 
@@ -162,8 +163,9 @@ if today not in history.index:
     )
     history = pd.concat([history, row])
     history.to_csv("_data/history.csv")
-    history.to_excel("_data/history.xlsx", sheet_name="History")
-    history.reset_index().to_json("_data/history.json", orient="records", indent=2)
+    history.to_csv("data/history.csv")
+    history.to_excel("data/history.xlsx", sheet_name="History")
+    history.reset_index().to_json("data/history.json", orient="records", indent=2)
     log("Recorded history.", level="info")
 else:
     log("No new history entries found.", level="info")

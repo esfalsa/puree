@@ -167,7 +167,7 @@ function generateTable(regions) {
     regionRow.removeAttribute("id");
 
     let link = regionRow.querySelector("a");
-    link.href = `//www.nationstates.net/region=${region.Region}`;
+    link.href = region.Link;
     link.textContent = region.Region;
 
     regionRow.children[1].textContent = region.Issues;
