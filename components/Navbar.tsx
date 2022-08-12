@@ -191,7 +191,7 @@ interface NavItem {
 const NAV_ITEMS: Array<NavItem> = [
   {
     label: "About",
-    href: "#",
+    href: "/about",
   },
   {
     label: "History",
