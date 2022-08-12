@@ -8,7 +8,6 @@ import {
   Collapse,
   Icon,
   Link,
-  Button,
   useColorModeValue,
   useBreakpointValue,
   useDisclosure,
@@ -196,7 +195,7 @@ const NAV_ITEMS: Array<NavItem> = [
   },
   {
     label: "History",
-    href: "#",
+    href: "/history",
   },
   {
     label: "List Generator",
