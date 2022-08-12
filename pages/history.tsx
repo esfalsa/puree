@@ -20,6 +20,7 @@ import {
   Legend,
   defaults,
 } from "chart.js";
+import { NextSeo } from "next-seo";
 import { Line } from "react-chartjs-2";
 import { FaFileDownload } from "react-icons/fa";
 import History from "../public/history.json";
@@ -39,70 +40,74 @@ export default function HistoryPage() {
   defaults.font.family = useToken("fonts", "body");
 
   return (
-    <Flex
-      direction={"column"}
-      rowGap={4}
-      as={"main"}
-      minH={`calc(100vh - ${topMargin})`}
-      pb={8}
-    >
-      <Stack direction={"row"} spacing={4}>
-        <Text>Download:</Text>
+    <>
+      <NextSeo title="History" />
 
-        <Link color={"blue.500"} href="/puree/detags.csv" download>
-          <Flex direction={"row"} align="center" columnGap={1}>
-            <Icon as={FaFileDownload} /> CSV
-          </Flex>
-        </Link>
+      <Flex
+        direction={"column"}
+        rowGap={4}
+        as={"main"}
+        minH={`calc(100vh - ${topMargin})`}
+        pb={8}
+      >
+        <Stack direction={"row"} spacing={4}>
+          <Text>Download:</Text>
 
-        <Link color={"blue.500"} href="/puree/detags.json" download>
-          <Flex direction={"row"} align="center" columnGap={1}>
-            <Icon as={FaFileDownload} /> JSON
-          </Flex>
-        </Link>
+          <Link color={"blue.500"} href="/puree/detags.csv" download>
+            <Flex direction={"row"} align="center" columnGap={1}>
+              <Icon as={FaFileDownload} /> CSV
+            </Flex>
+          </Link>
 
-        <Link color={"blue.500"} href="/puree/detags.xlsx" download>
-          <Flex direction={"row"} align="center" columnGap={1}>
-            <Icon as={FaFileDownload} /> Excel Sheet
-          </Flex>
-        </Link>
-      </Stack>
+          <Link color={"blue.500"} href="/puree/detags.json" download>
+            <Flex direction={"row"} align="center" columnGap={1}>
+              <Icon as={FaFileDownload} /> JSON
+            </Flex>
+          </Link>
 
-      <Box flexGrow={1}>
-        <Line
-          options={{
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-              legend: {
-                display: false,
+          <Link color={"blue.500"} href="/puree/detags.xlsx" download>
+            <Flex direction={"row"} align="center" columnGap={1}>
+              <Icon as={FaFileDownload} /> Excel Sheet
+            </Flex>
+          </Link>
+        </Stack>
+
+        <Box flexGrow={1}>
+          <Line
+            options={{
+              responsive: true,
+              maintainAspectRatio: false,
+              plugins: {
+                legend: {
+                  display: false,
+                },
+                title: {
+                  display: true,
+                  text: "Tagged Regions Found by Day",
+                },
               },
-              title: {
-                display: true,
-                text: "Tagged Regions Found by Day",
+              interaction: {
+                mode: "nearest",
+                intersect: false,
+                axis: "x",
               },
-            },
-            interaction: {
-              mode: "nearest",
-              intersect: false,
-              axis: "x",
-            },
-          }}
-          data={{
-            labels: History.map((day) => day.Date),
-            datasets: [
-              {
-                label: "Tagged Regions",
-                data: History.map((day) => day.Count),
-                fill: false,
-                borderColor: lineColor,
-                pointBackgroundColor: lineColor,
-                tension: 0.1,
-              },
-            ],
-          }}
-        />
-      </Box>
-    </Flex>
+            }}
+            data={{
+              labels: History.map((day) => day.Date),
+              datasets: [
+                {
+                  label: "Tagged Regions",
+                  data: History.map((day) => day.Count),
+                  fill: false,
+                  borderColor: lineColor,
+                  pointBackgroundColor: lineColor,
+                  tension: 0.1,
+                },
+              ],
+            }}
+          />
+        </Box>
+      </Flex>
+    </>
   );
 }

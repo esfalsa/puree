@@ -21,14 +21,6 @@ import { FaFileDownload } from "react-icons/fa";
 const Home: NextPage = () => {
   return (
     <>
-      <Head>
-        <title>Purée</title>
-        <meta
-          name="description"
-          content="A quick and easy way to find regions that have been tagged."
-        />
-      </Head>
-
       <Flex direction={"column"} rowGap={4} as={"main"}>
         <StatGroup>
           <Stat>
