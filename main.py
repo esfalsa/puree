@@ -72,8 +72,12 @@ def find_issues(region):
         issues.append("WFE")
 
     if any(
-        officer.find("OFFICE").text
-        in ["Raider Unity", "Thorn1000", "JOIN TBH", "Join %%Lily%%", "Lily"]
+        (office := officer.find("OFFICE").text) is not None
+        and office.casefold()
+        in map(
+            str.casefold,
+            ["raider unity", "thorn1000", "join tbh", "join %%lily%%", "lily"],
+        )
         for officer in region.find("OFFICERS").findall("OFFICER")
     ):
         issues.append("RO")
