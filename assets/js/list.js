@@ -188,6 +188,12 @@ function generateTable(regions) {
       "td[major]"
     ).textContent = `+${region.MajorTimestamp}`;
 
+    link.addEventListener("click", async (e) => {
+      e.preventDefault();
+      await navigator.clipboard.writeText(link.href);
+      window.open(link.href, "_blank");
+    });
+
     regionRows.push(regionRow);
   }
 
