@@ -1,6 +1,7 @@
 from datetime import timedelta, datetime
 import xml.etree.ElementTree as ElementTree
 import pandas as pd
+import re
 
 from rich.console import Console
 from rich.theme import Theme
@@ -39,6 +40,7 @@ log(f"Found update length: {update_length} seconds.", level="info")
 
 
 def find_issues(region):
+
     if (
         region.find("NAME").text
         in [
@@ -56,8 +58,10 @@ def find_issues(region):
 
     issues = []
 
-    if (wfe := region.find("FACTBOOK").text) is not None and any(
-        substring in wfe.lower()
+    wfe = (region.find("FACTBOOK").text or "").lower()
+
+    if any(
+        substring in wfe
         for substring in [
             "[region]the brotherhood of malice[/region]",
             "[region]the black hawks[/region]",
@@ -74,28 +78,39 @@ def find_issues(region):
     ):
         issues.append("WFE")
 
+    officers = region.find("OFFICERS").findall("OFFICER")
+
+    officer_nations = [officer.find("NATION").text.lower() for officer in officers]
+
+    officer_offices = [officer.find("OFFICE").text.lower() for officer in officers]
+
     if any(
-        (office := officer.find("OFFICE").text) is not None
-        and office.casefold()
-        in map(
-            str.casefold,
-            [
-                "raider unity",
-                "thorn1000",
-                "join tbh",
-                "join %%lily%%",
-                "lily",
-                "the funny",
-                "empress wasc",
-            ],
-        )
-        for officer in region.find("OFFICERS").findall("OFFICER")
+        officer_office
+        in [
+            "raider unity",
+            "thorn1000",
+            "join tbh",
+            "join %%lily%%",
+            "lily",
+            "the funny",
+            "empress wasc",
+        ]
+        for officer_office in officer_offices
+    ) or any(
+        any(re.fullmatch(regex, officer_nation) for regex in ["guy_\d+"])
+        for officer_nation in officer_nations
     ):
         issues.append("RO")
 
+    embassies = [
+        embassy.text
+        for embassy in region.findall(f"./EMBASSIES/EMBASSY")
+        if embassy.get("type") not in ["closing", "rejected"]
+    ]
+
     if any(
-        region.findall(f"./EMBASSIES/EMBASSY[.='{substring}']")
-        for substring in [
+        embassy
+        in [
             "The Black Hawks",
             "The Brotherhood of Malice",
             "Valle de Arena",
@@ -104,9 +119,7 @@ def find_issues(region):
             "Kingdom of Australia",
             "Pasridi Confederacy",
         ]
-        if region.find(f"./EMBASSIES/EMBASSY[.='{substring}']") is not None
-        and region.find(f"./EMBASSIES/EMBASSY[.='{substring}']").get("type")
-        not in ["closing", "rejected"]
+        for embassy in embassies
     ):
         issues.append("Embassies")
 

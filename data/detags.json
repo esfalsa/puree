@@ -30,6 +30,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=second_guesses"
   },
   {
+    "Region":"Fathers Imperium",
+    "Issues":"RO",
+    "Minor":7,
+    "MinorTimestamp":"0:00:07",
+    "Major":10,
+    "MajorTimestamp":"0:00:10",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=fathers_imperium"
+  },
+  {
     "Region":"North Nashua colonial society",
     "Issues":"WFE, RO, Embassies",
     "Minor":7,
@@ -108,6 +118,16 @@
     "MajorTimestamp":"0:00:59",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_united_meritocrats"
+  },
+  {
+    "Region":"The great lakes",
+    "Issues":"RO",
+    "Minor":50,
+    "MinorTimestamp":"0:00:50",
+    "Major":75,
+    "MajorTimestamp":"0:01:15",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_great_lakes"
   },
   {
     "Region":"acceptable",
@@ -431,7 +451,7 @@
   },
   {
     "Region":"Progressive Unionis Socialas",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":71,
     "MinorTimestamp":"0:01:11",
     "Major":106,
@@ -478,6 +498,16 @@
     "MajorTimestamp":"0:01:49",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=dark_maga"
+  },
+  {
+    "Region":"The Holy Catholic Empire",
+    "Issues":"RO",
+    "Minor":74,
+    "MinorTimestamp":"0:01:14",
+    "Major":110,
+    "MajorTimestamp":"0:01:50",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_holy_catholic_empire"
   },
   {
     "Region":"United Federation of Peace and Freedom",
@@ -528,6 +558,16 @@
     "MajorTimestamp":"0:01:52",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=plexible_convictions"
+  },
+  {
+    "Region":"abstention",
+    "Issues":"RO",
+    "Minor":76,
+    "MinorTimestamp":"0:01:16",
+    "Major":114,
+    "MajorTimestamp":"0:01:54",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=abstention"
   },
   {
     "Region":"The Concord of Nations",
@@ -640,6 +680,26 @@
     "Link":"https:\/\/www.nationstates.net\/region=southern_kamilaroi"
   },
   {
+    "Region":"The United Nations of Reasonable Thought",
+    "Issues":"RO",
+    "Minor":83,
+    "MinorTimestamp":"0:01:23",
+    "Major":124,
+    "MajorTimestamp":"0:02:04",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_united_nations_of_reasonable_thought"
+  },
+  {
+    "Region":"United Australialia and Study Group",
+    "Issues":"RO",
+    "Minor":84,
+    "MinorTimestamp":"0:01:24",
+    "Major":126,
+    "MajorTimestamp":"0:02:06",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=united_australialia_and_study_group"
+  },
+  {
     "Region":"Yeet Reich",
     "Issues":"WFE, RO, Embassies",
     "Minor":84,
@@ -671,7 +731,7 @@
   },
   {
     "Region":"sad",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":88,
     "MinorTimestamp":"0:01:28",
     "Major":132,
@@ -770,6 +830,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=warzone_world"
   },
   {
+    "Region":"United Nation of the East",
+    "Issues":"RO",
+    "Minor":95,
+    "MinorTimestamp":"0:01:35",
+    "Major":143,
+    "MajorTimestamp":"0:02:23",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=united_nation_of_the_east"
+  },
+  {
     "Region":"Darkhaven",
     "Issues":"RO",
     "Minor":96,
@@ -838,6 +908,16 @@
     "MajorTimestamp":"0:02:27",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=federation_of_sam"
+  },
+  {
+    "Region":"Leskintaia",
+    "Issues":"RO",
+    "Minor":101,
+    "MinorTimestamp":"0:01:41",
+    "Major":151,
+    "MajorTimestamp":"0:02:31",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=leskintaia"
   },
   {
     "Region":"accelerates",
@@ -1061,13 +1141,23 @@
   },
   {
     "Region":"Peloponnesian League",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":116,
     "MinorTimestamp":"0:01:56",
     "Major":174,
     "MajorTimestamp":"0:02:54",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=peloponnesian_league"
+  },
+  {
+    "Region":"Council of The Righteous",
+    "Issues":"RO",
+    "Minor":116,
+    "MinorTimestamp":"0:01:56",
+    "Major":174,
+    "MajorTimestamp":"0:02:54",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=council_of_the_righteous"
   },
   {
     "Region":"Disasters",
@@ -1310,6 +1400,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=abortion"
   },
   {
+    "Region":"The Doge Union",
+    "Issues":"RO",
+    "Minor":148,
+    "MinorTimestamp":"0:02:28",
+    "Major":222,
+    "MajorTimestamp":"0:03:42",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_doge_union"
+  },
+  {
     "Region":"Western Giran",
     "Issues":"WFE, RO, Embassies",
     "Minor":151,
@@ -1321,7 +1421,7 @@
   },
   {
     "Region":"The Kindly Barracks of the Soup Legion",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":152,
     "MinorTimestamp":"0:02:32",
     "Major":228,
@@ -1371,7 +1471,7 @@
   },
   {
     "Region":"EPIC GAMER PEOPLE",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":154,
     "MinorTimestamp":"0:02:34",
     "Major":231,
@@ -1408,6 +1508,16 @@
     "MajorTimestamp":"0:03:55",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=voznesensk"
+  },
+  {
+    "Region":"Youji",
+    "Issues":"RO",
+    "Minor":157,
+    "MinorTimestamp":"0:02:37",
+    "Major":236,
+    "MajorTimestamp":"0:03:56",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=youji"
   },
   {
     "Region":"North Antartica",
@@ -1448,6 +1558,16 @@
     "MajorTimestamp":"0:04:01",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=skona"
+  },
+  {
+    "Region":"NBA official real",
+    "Issues":"RO",
+    "Minor":173,
+    "MinorTimestamp":"0:02:53",
+    "Major":259,
+    "MajorTimestamp":"0:04:19",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=nba_official_real"
   },
   {
     "Region":"Piglandpoop",
@@ -1590,6 +1710,26 @@
     "Link":"https:\/\/www.nationstates.net\/region=factory_25"
   },
   {
+    "Region":"Teds Nationstate Emporium",
+    "Issues":"RO",
+    "Minor":225,
+    "MinorTimestamp":"0:03:45",
+    "Major":338,
+    "MajorTimestamp":"0:05:38",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=teds_nationstate_emporium"
+  },
+  {
+    "Region":"The Council Of Imperials",
+    "Issues":"RO",
+    "Minor":227,
+    "MinorTimestamp":"0:03:47",
+    "Major":340,
+    "MajorTimestamp":"0:05:40",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_council_of_imperials"
+  },
+  {
     "Region":"Caucasus Region",
     "Issues":"WFE, RO",
     "Minor":229,
@@ -1600,6 +1740,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=caucasus_region"
   },
   {
+    "Region":"Random Acts of Kindness",
+    "Issues":"RO",
+    "Minor":230,
+    "MinorTimestamp":"0:03:50",
+    "Major":345,
+    "MajorTimestamp":"0:05:45",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=random_acts_of_kindness"
+  },
+  {
     "Region":"The Islands of Uspiasia",
     "Issues":"WFE, RO, Embassies",
     "Minor":231,
@@ -1608,6 +1758,16 @@
     "MajorTimestamp":"0:05:46",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_islands_of_uspiasia"
+  },
+  {
+    "Region":"accommodation",
+    "Issues":"RO",
+    "Minor":238,
+    "MinorTimestamp":"0:03:58",
+    "Major":357,
+    "MajorTimestamp":"0:05:57",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=accommodation"
   },
   {
     "Region":"Duuloc",
@@ -1668,6 +1828,16 @@
     "MajorTimestamp":"0:06:05",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_wrong_neighborhood"
+  },
+  {
+    "Region":"The Global Internet",
+    "Issues":"RO",
+    "Minor":245,
+    "MinorTimestamp":"0:04:05",
+    "Major":367,
+    "MajorTimestamp":"0:06:07",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_global_internet"
   },
   {
     "Region":"USAsia",
@@ -1770,6 +1940,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=nation_assembly"
   },
   {
+    "Region":"ETERNAL TORTURE",
+    "Issues":"RO",
+    "Minor":257,
+    "MinorTimestamp":"0:04:17",
+    "Major":386,
+    "MajorTimestamp":"0:06:26",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=eternal_torture"
+  },
+  {
     "Region":"accelerative",
     "Issues":"RO",
     "Minor":258,
@@ -1810,6 +1990,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=united_fascist_territory_of_waschuster"
   },
   {
+    "Region":"The Tavern",
+    "Issues":"RO",
+    "Minor":260,
+    "MinorTimestamp":"0:04:20",
+    "Major":391,
+    "MajorTimestamp":"0:06:31",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_tavern"
+  },
+  {
     "Region":"Hukashaka",
     "Issues":"RO",
     "Minor":265,
@@ -1838,6 +2028,26 @@
     "MajorTimestamp":"0:06:44",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=total_chaos"
+  },
+  {
+    "Region":"The Breadistan Pact",
+    "Issues":"RO",
+    "Minor":269,
+    "MinorTimestamp":"0:04:29",
+    "Major":404,
+    "MajorTimestamp":"0:06:44",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_breadistan_pact"
+  },
+  {
+    "Region":"Coincidentinent",
+    "Issues":"RO",
+    "Minor":273,
+    "MinorTimestamp":"0:04:33",
+    "Major":409,
+    "MajorTimestamp":"0:06:49",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=coincidentinent"
   },
   {
     "Region":"region with the word Tractor in it",
@@ -1908,6 +2118,16 @@
     "MajorTimestamp":"0:07:00",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=north_brightia"
+  },
+  {
+    "Region":"SIX CONSOLES",
+    "Issues":"RO",
+    "Minor":281,
+    "MinorTimestamp":"0:04:41",
+    "Major":421,
+    "MajorTimestamp":"0:07:01",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=six_consoles"
   },
   {
     "Region":"The Grand British Union",
@@ -2010,6 +2230,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_unknown_abyss"
   },
   {
+    "Region":"Dol Amroth",
+    "Issues":"RO",
+    "Minor":327,
+    "MinorTimestamp":"0:05:27",
+    "Major":491,
+    "MajorTimestamp":"0:08:11",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=dol_amroth"
+  },
+  {
     "Region":"The Boys LLC",
     "Issues":"WFE, RO, Embassies",
     "Minor":332,
@@ -2018,6 +2248,16 @@
     "MajorTimestamp":"0:08:18",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_boys_llc"
+  },
+  {
+    "Region":"Christian Identity",
+    "Issues":"RO",
+    "Minor":360,
+    "MinorTimestamp":"0:06:00",
+    "Major":541,
+    "MajorTimestamp":"0:09:01",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=christian_identity"
   },
   {
     "Region":"Tsanteresht",
@@ -2100,6 +2340,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_united_front_of_eurasia"
   },
   {
+    "Region":"Democratic Republic of Socialist Greece",
+    "Issues":"RO",
+    "Minor":371,
+    "MinorTimestamp":"0:06:11",
+    "Major":557,
+    "MajorTimestamp":"0:09:17",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=democratic_republic_of_socialist_greece"
+  },
+  {
     "Region":"Pilipinas",
     "Issues":"WFE, RO, Embassies",
     "Minor":372,
@@ -2120,6 +2370,26 @@
     "Link":"https:\/\/www.nationstates.net\/region=new_nordia"
   },
   {
+    "Region":"4th International Socialist Union",
+    "Issues":"RO",
+    "Minor":375,
+    "MinorTimestamp":"0:06:15",
+    "Major":562,
+    "MajorTimestamp":"0:09:22",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=4th_international_socialist_union"
+  },
+  {
+    "Region":"academic",
+    "Issues":"RO",
+    "Minor":383,
+    "MinorTimestamp":"0:06:23",
+    "Major":575,
+    "MajorTimestamp":"0:09:35",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=academic"
+  },
+  {
     "Region":"Continent of Era",
     "Issues":"WFE, RO, Embassies",
     "Minor":388,
@@ -2131,7 +2401,7 @@
   },
   {
     "Region":"The Cringe Crew",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":389,
     "MinorTimestamp":"0:06:29",
     "Major":584,
@@ -2168,6 +2438,16 @@
     "MajorTimestamp":"0:09:46",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=big_farma"
+  },
+  {
+    "Region":"Ktitikrkr",
+    "Issues":"RO",
+    "Minor":393,
+    "MinorTimestamp":"0:06:33",
+    "Major":590,
+    "MajorTimestamp":"0:09:50",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=ktitikrkr"
   },
   {
     "Region":"The North Pacific rebellion",
@@ -2211,7 +2491,7 @@
   },
   {
     "Region":"Lerodas",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":404,
     "MinorTimestamp":"0:06:44",
     "Major":606,
@@ -2280,6 +2560,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=snigistan"
   },
   {
+    "Region":"Principality of Lyraidia",
+    "Issues":"RO",
+    "Minor":409,
+    "MinorTimestamp":"0:06:49",
+    "Major":613,
+    "MajorTimestamp":"0:10:13",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=principality_of_lyraidia"
+  },
+  {
     "Region":"The Mighty Horseland",
     "Issues":"RO",
     "Minor":410,
@@ -2318,6 +2608,16 @@
     "MajorTimestamp":"0:10:25",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=plush_united"
+  },
+  {
+    "Region":"The Greater Skytanian Reich",
+    "Issues":"RO",
+    "Minor":416,
+    "MinorTimestamp":"0:06:56",
+    "Major":625,
+    "MajorTimestamp":"0:10:25",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_greater_skytanian_reich"
   },
   {
     "Region":"The MidWestern Islands",
@@ -2460,6 +2760,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=international_community_states"
   },
   {
+    "Region":"Orchidarium",
+    "Issues":"RO",
+    "Minor":437,
+    "MinorTimestamp":"0:07:17",
+    "Major":656,
+    "MajorTimestamp":"0:10:56",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=orchidarium"
+  },
+  {
     "Region":"Terminus Systems",
     "Issues":"WFE, RO",
     "Minor":437,
@@ -2480,6 +2790,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=lykandos"
   },
   {
+    "Region":"Orthodox Brothers",
+    "Issues":"RO",
+    "Minor":447,
+    "MinorTimestamp":"0:07:27",
+    "Major":670,
+    "MajorTimestamp":"0:11:10",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=orthodox_brothers"
+  },
+  {
     "Region":"the peeers",
     "Issues":"WFE, RO, Embassies",
     "Minor":449,
@@ -2488,6 +2808,26 @@
     "MajorTimestamp":"0:11:13",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_peeers"
+  },
+  {
+    "Region":"Kosiv",
+    "Issues":"RO",
+    "Minor":451,
+    "MinorTimestamp":"0:07:31",
+    "Major":676,
+    "MajorTimestamp":"0:11:16",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=kosiv"
+  },
+  {
+    "Region":"The Dual Alliance",
+    "Issues":"RO",
+    "Minor":490,
+    "MinorTimestamp":"0:08:10",
+    "Major":735,
+    "MajorTimestamp":"0:12:15",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_dual_alliance"
   },
   {
     "Region":"IronCrossBandito",
@@ -2518,6 +2858,16 @@
     "MajorTimestamp":"0:12:36",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_gigachad_seas"
+  },
+  {
+    "Region":"The Place",
+    "Issues":"RO",
+    "Minor":507,
+    "MinorTimestamp":"0:08:27",
+    "Major":760,
+    "MajorTimestamp":"0:12:40",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_place"
   },
   {
     "Region":"Esperanto Union",
@@ -2740,6 +3090,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=bratsk_dmz"
   },
   {
+    "Region":"abolishes",
+    "Issues":"RO",
+    "Minor":549,
+    "MinorTimestamp":"0:09:09",
+    "Major":823,
+    "MajorTimestamp":"0:13:43",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=abolishes"
+  },
+  {
     "Region":"The Average Confederacy",
     "Issues":"RO",
     "Minor":550,
@@ -2758,6 +3118,16 @@
     "MajorTimestamp":"0:13:56",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=die_gloche"
+  },
+  {
+    "Region":"The Swedish Kingdom",
+    "Issues":"RO",
+    "Minor":559,
+    "MinorTimestamp":"0:09:19",
+    "Major":838,
+    "MajorTimestamp":"0:13:58",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_swedish_kingdom"
   },
   {
     "Region":"Alliance of Puppet Nations",
@@ -2851,7 +3221,7 @@
   },
   {
     "Region":"Asian Republic of United Socialists",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":566,
     "MinorTimestamp":"0:09:26",
     "Major":849,
@@ -2891,7 +3261,7 @@
   },
   {
     "Region":"Thr Embassy",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":569,
     "MinorTimestamp":"0:09:29",
     "Major":853,
@@ -2908,6 +3278,16 @@
     "MajorTimestamp":"0:14:26",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_popptart_empire"
+  },
+  {
+    "Region":"Dictators Of Nationstates",
+    "Issues":"RO",
+    "Minor":578,
+    "MinorTimestamp":"0:09:38",
+    "Major":867,
+    "MajorTimestamp":"0:14:27",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=dictators_of_nationstates"
   },
   {
     "Region":"Reino Do Brasil",
@@ -2948,6 +3328,16 @@
     "MajorTimestamp":"0:14:30",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_pollaetorian_guard"
+  },
+  {
+    "Region":"Federation of sovereign nations",
+    "Issues":"RO",
+    "Minor":588,
+    "MinorTimestamp":"0:09:48",
+    "Major":883,
+    "MajorTimestamp":"0:14:43",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=federation_of_sovereign_nations"
   },
   {
     "Region":"The Javinian Union",
@@ -3020,6 +3410,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=droquiea"
   },
   {
+    "Region":"EuropeLiberals",
+    "Issues":"RO",
+    "Minor":741,
+    "MinorTimestamp":"0:12:21",
+    "Major":1111,
+    "MajorTimestamp":"0:18:31",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=europeliberals"
+  },
+  {
     "Region":"absolves",
     "Issues":"RO",
     "Minor":747,
@@ -3058,6 +3458,16 @@
     "MajorTimestamp":"0:19:12",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=podil"
+  },
+  {
+    "Region":"New Pacific Islands Region",
+    "Issues":"RO",
+    "Minor":768,
+    "MinorTimestamp":"0:12:48",
+    "Major":1152,
+    "MajorTimestamp":"0:19:12",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=new_pacific_islands_region"
   },
   {
     "Region":"Nova Prime",
@@ -3140,6 +3550,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=new_telegos"
   },
   {
+    "Region":"Aglurg",
+    "Issues":"RO",
+    "Minor":786,
+    "MinorTimestamp":"0:13:06",
+    "Major":1179,
+    "MajorTimestamp":"0:19:39",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=aglurg"
+  },
+  {
     "Region":"Moonlighters",
     "Issues":"WFE, Embassies",
     "Minor":787,
@@ -3151,7 +3571,7 @@
   },
   {
     "Region":"The Great and Sovereign Withrow",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":788,
     "MinorTimestamp":"0:13:08",
     "Major":1182,
@@ -3161,7 +3581,7 @@
   },
   {
     "Region":"void and null",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":788,
     "MinorTimestamp":"0:13:08",
     "Major":1182,
@@ -3240,6 +3660,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=united_nations_of_calebia"
   },
   {
+    "Region":"Ferngill Federation",
+    "Issues":"RO",
+    "Minor":810,
+    "MinorTimestamp":"0:13:30",
+    "Major":1216,
+    "MajorTimestamp":"0:20:16",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=ferngill_federation"
+  },
+  {
     "Region":"The separatist colonies of Tyrant Town",
     "Issues":"RO",
     "Minor":812,
@@ -3260,6 +3690,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_unknown_expanse"
   },
   {
+    "Region":"THOU ROYALTY BOMBAY CATS",
+    "Issues":"RO",
+    "Minor":816,
+    "MinorTimestamp":"0:13:36",
+    "Major":1224,
+    "MajorTimestamp":"0:20:24",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=thou_royalty_bombay_cats"
+  },
+  {
     "Region":"Forty",
     "Issues":"Embassies",
     "Minor":816,
@@ -3268,6 +3708,16 @@
     "MajorTimestamp":"0:20:25",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=forty"
+  },
+  {
+    "Region":"Frozen Wastes of Ralarii",
+    "Issues":"RO",
+    "Minor":818,
+    "MinorTimestamp":"0:13:38",
+    "Major":1227,
+    "MajorTimestamp":"0:20:27",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=frozen_wastes_of_ralarii"
   },
   {
     "Region":"Pius Dea",
@@ -3328,6 +3778,16 @@
     "MajorTimestamp":"0:20:31",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=catz_in_the_hood"
+  },
+  {
+    "Region":"Tembour",
+    "Issues":"RO",
+    "Minor":822,
+    "MinorTimestamp":"0:13:42",
+    "Major":1233,
+    "MajorTimestamp":"0:20:33",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=tembour"
   },
   {
     "Region":"Iveagh",
@@ -3430,6 +3890,26 @@
     "Link":"https:\/\/www.nationstates.net\/region=republic_of_santa_barbara"
   },
   {
+    "Region":"Vannington and Overseas Territories",
+    "Issues":"RO",
+    "Minor":834,
+    "MinorTimestamp":"0:13:54",
+    "Major":1251,
+    "MajorTimestamp":"0:20:51",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=vannington_and_overseas_territories"
+  },
+  {
+    "Region":"TheFoundersLand",
+    "Issues":"RO",
+    "Minor":837,
+    "MinorTimestamp":"0:13:57",
+    "Major":1256,
+    "MajorTimestamp":"0:20:56",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=thefoundersland"
+  },
+  {
     "Region":"New Polar Order",
     "Issues":"Embassies",
     "Minor":840,
@@ -3440,6 +3920,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=new_polar_order"
   },
   {
+    "Region":"I Mancomunidad de PELAOS I",
+    "Issues":"RO",
+    "Minor":842,
+    "MinorTimestamp":"0:14:02",
+    "Major":1263,
+    "MajorTimestamp":"0:21:03",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=i_mancomunidad_de_pelaos_i"
+  },
+  {
     "Region":"Free Florida",
     "Issues":"WFE, RO, Embassies",
     "Minor":843,
@@ -3448,6 +3938,46 @@
     "MajorTimestamp":"0:21:05",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=free_florida"
+  },
+  {
+    "Region":"TMO",
+    "Issues":"RO",
+    "Minor":844,
+    "MinorTimestamp":"0:14:04",
+    "Major":1266,
+    "MajorTimestamp":"0:21:06",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=tmo"
+  },
+  {
+    "Region":"abut",
+    "Issues":"RO",
+    "Minor":857,
+    "MinorTimestamp":"0:14:17",
+    "Major":1285,
+    "MajorTimestamp":"0:21:25",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=abut"
+  },
+  {
+    "Region":"Coral Reef 6",
+    "Issues":"RO",
+    "Minor":877,
+    "MinorTimestamp":"0:14:37",
+    "Major":1316,
+    "MajorTimestamp":"0:21:56",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=coral_reef_6"
+  },
+  {
+    "Region":"The Great Vision",
+    "Issues":"RO",
+    "Minor":904,
+    "MinorTimestamp":"0:15:04",
+    "Major":1356,
+    "MajorTimestamp":"0:22:36",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_great_vision"
   },
   {
     "Region":"Juan Cena Jr",
@@ -3540,6 +4070,26 @@
     "Link":"https:\/\/www.nationstates.net\/region=dubian_conference"
   },
   {
+    "Region":"Arctic League",
+    "Issues":"RO",
+    "Minor":916,
+    "MinorTimestamp":"0:15:16",
+    "Major":1375,
+    "MajorTimestamp":"0:22:55",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=arctic_league"
+  },
+  {
+    "Region":"XElysiumX",
+    "Issues":"RO",
+    "Minor":922,
+    "MinorTimestamp":"0:15:22",
+    "Major":1383,
+    "MajorTimestamp":"0:23:03",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=xelysiumx"
+  },
+  {
     "Region":"Free TWP",
     "Issues":"RO",
     "Minor":923,
@@ -3560,8 +4110,28 @@
     "Link":"https:\/\/www.nationstates.net\/region=all_the_other_countries_are_run_by_girls"
   },
   {
+    "Region":"Jojos bizarre reigon",
+    "Issues":"RO",
+    "Minor":926,
+    "MinorTimestamp":"0:15:26",
+    "Major":1389,
+    "MajorTimestamp":"0:23:09",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=jojos_bizarre_reigon"
+  },
+  {
+    "Region":"Shish Kebab",
+    "Issues":"RO",
+    "Minor":931,
+    "MinorTimestamp":"0:15:31",
+    "Major":1396,
+    "MajorTimestamp":"0:23:16",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=shish_kebab"
+  },
+  {
     "Region":"Sontaran Stella Artois",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":931,
     "MinorTimestamp":"0:15:31",
     "Major":1397,
@@ -3590,6 +4160,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_wbr_union"
   },
   {
+    "Region":"Kamianets Podilskyi",
+    "Issues":"RO",
+    "Minor":936,
+    "MinorTimestamp":"0:15:36",
+    "Major":1404,
+    "MajorTimestamp":"0:23:24",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=kamianets_podilskyi"
+  },
+  {
     "Region":"EACS Regional Board",
     "Issues":"WFE, RO",
     "Minor":937,
@@ -3608,6 +4188,16 @@
     "MajorTimestamp":"0:23:25",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=sacro_imperio_da_ordem_dos_cavaleiros"
+  },
+  {
+    "Region":"North Atlantic Peace Keeping Countries",
+    "Issues":"RO",
+    "Minor":941,
+    "MinorTimestamp":"0:15:41",
+    "Major":1411,
+    "MajorTimestamp":"0:23:31",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=north_atlantic_peace_keeping_countries"
   },
   {
     "Region":"Paradise And Fresh Water",
@@ -3648,6 +4238,16 @@
     "MajorTimestamp":"0:23:35",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=capitalland"
+  },
+  {
+    "Region":"The Arctic Countries",
+    "Issues":"RO",
+    "Minor":945,
+    "MinorTimestamp":"0:15:45",
+    "Major":1417,
+    "MajorTimestamp":"0:23:37",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_arctic_countries"
   },
   {
     "Region":"Dogecoin League",
@@ -3778,6 +4378,16 @@
     "MajorTimestamp":"0:23:48",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=yalta"
+  },
+  {
+    "Region":"Koninkrijk der Lucaassen",
+    "Issues":"RO",
+    "Minor":952,
+    "MinorTimestamp":"0:15:52",
+    "Major":1428,
+    "MajorTimestamp":"0:23:48",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=koninkrijk_der_lucaassen"
   },
   {
     "Region":"Greater Middle East Cold War",
@@ -3930,6 +4540,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=ndi"
   },
   {
+    "Region":"Fuerdo has Children",
+    "Issues":"RO",
+    "Minor":1042,
+    "MinorTimestamp":"0:17:22",
+    "Major":1563,
+    "MajorTimestamp":"0:26:03",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=fuerdo_has_children"
+  },
+  {
     "Region":"Gunnropa",
     "Issues":"RO",
     "Minor":1046,
@@ -3938,6 +4558,26 @@
     "MajorTimestamp":"0:26:09",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=gunnropa"
+  },
+  {
+    "Region":"Europe Temporaire",
+    "Issues":"RO",
+    "Minor":1047,
+    "MinorTimestamp":"0:17:27",
+    "Major":1571,
+    "MajorTimestamp":"0:26:11",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=europe_temporaire"
+  },
+  {
+    "Region":"The Sense of Right Alliance",
+    "Issues":"RO",
+    "Minor":1063,
+    "MinorTimestamp":"0:17:43",
+    "Major":1595,
+    "MajorTimestamp":"0:26:35",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_sense_of_right_alliance"
   },
   {
     "Region":"abstains",
@@ -4070,6 +4710,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_island_of_norbert"
   },
   {
+    "Region":"Sunshine of Love",
+    "Issues":"RO",
+    "Minor":1074,
+    "MinorTimestamp":"0:17:54",
+    "Major":1610,
+    "MajorTimestamp":"0:26:50",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=sunshine_of_love"
+  },
+  {
     "Region":"Scared Protectorate",
     "Issues":"WFE, Embassies",
     "Minor":1075,
@@ -4110,6 +4760,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=larona_wessundon"
   },
   {
+    "Region":"The red soviets",
+    "Issues":"RO",
+    "Minor":1078,
+    "MinorTimestamp":"0:17:58",
+    "Major":1616,
+    "MajorTimestamp":"0:26:56",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_red_soviets"
+  },
+  {
     "Region":"New South Lemuria",
     "Issues":"WFE, RO, Embassies",
     "Minor":1078,
@@ -4118,6 +4778,16 @@
     "MajorTimestamp":"0:26:57",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=new_south_lemuria"
+  },
+  {
+    "Region":"Where the future is behind the moon",
+    "Issues":"RO",
+    "Minor":1086,
+    "MinorTimestamp":"0:18:06",
+    "Major":1630,
+    "MajorTimestamp":"0:27:10",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=where_the_future_is_behind_the_moon"
   },
   {
     "Region":"Grebes Class",
@@ -4180,6 +4850,26 @@
     "Link":"https:\/\/www.nationstates.net\/region=zakarpattia"
   },
   {
+    "Region":"Random Puppets United",
+    "Issues":"RO",
+    "Minor":1094,
+    "MinorTimestamp":"0:18:14",
+    "Major":1641,
+    "MajorTimestamp":"0:27:21",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=random_puppets_united"
+  },
+  {
+    "Region":"oozi area",
+    "Issues":"RO",
+    "Minor":1097,
+    "MinorTimestamp":"0:18:17",
+    "Major":1645,
+    "MajorTimestamp":"0:27:25",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=oozi_area"
+  },
+  {
     "Region":"Middle Wesley",
     "Issues":"RO",
     "Minor":1097,
@@ -4200,6 +4890,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=soviet_alliance"
   },
   {
+    "Region":"The North Atlantic Commonwealth",
+    "Issues":"RO",
+    "Minor":1100,
+    "MinorTimestamp":"0:18:20",
+    "Major":1650,
+    "MajorTimestamp":"0:27:30",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_north_atlantic_commonwealth"
+  },
+  {
     "Region":"acceptability",
     "Issues":"RO",
     "Minor":1101,
@@ -4218,6 +4918,16 @@
     "MajorTimestamp":"0:27:33",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=new_oceania"
+  },
+  {
+    "Region":"Covenant",
+    "Issues":"RO",
+    "Minor":1103,
+    "MinorTimestamp":"0:18:23",
+    "Major":1655,
+    "MajorTimestamp":"0:27:35",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=covenant"
   },
   {
     "Region":"The Debating Thunderdome",
@@ -4258,6 +4968,16 @@
     "MajorTimestamp":"0:27:41",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=unit_404"
+  },
+  {
+    "Region":"the nations of the moose",
+    "Issues":"RO",
+    "Minor":1107,
+    "MinorTimestamp":"0:18:27",
+    "Major":1661,
+    "MajorTimestamp":"0:27:41",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_nations_of_the_moose"
   },
   {
     "Region":"Tails Region",
@@ -4301,7 +5021,7 @@
   },
   {
     "Region":"Plius Thil",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":1117,
     "MinorTimestamp":"0:18:37",
     "Major":1675,
@@ -4321,7 +5041,7 @@
   },
   {
     "Region":"Ahowdonia",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":1117,
     "MinorTimestamp":"0:18:37",
     "Major":1676,
@@ -4358,6 +5078,26 @@
     "MajorTimestamp":"0:27:58",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_commonwealth_of_united_front"
+  },
+  {
+    "Region":"The Guild of Nations",
+    "Issues":"RO",
+    "Minor":1119,
+    "MinorTimestamp":"0:18:39",
+    "Major":1678,
+    "MajorTimestamp":"0:27:58",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_guild_of_nations"
+  },
+  {
+    "Region":"abovementioned",
+    "Issues":"RO",
+    "Minor":1119,
+    "MinorTimestamp":"0:18:39",
+    "Major":1679,
+    "MajorTimestamp":"0:27:59",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=abovementioned"
   },
   {
     "Region":"Dyzia",
@@ -4440,6 +5180,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_shadow_army"
   },
   {
+    "Region":"The United Anarchists of Rartopia",
+    "Issues":"RO",
+    "Minor":1125,
+    "MinorTimestamp":"0:18:45",
+    "Major":1687,
+    "MajorTimestamp":"0:28:07",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_united_anarchists_of_rartopia"
+  },
+  {
     "Region":"Philosopher Kingdom",
     "Issues":"WFE, RO, Embassies",
     "Minor":1126,
@@ -4451,13 +5201,23 @@
   },
   {
     "Region":"I guess it will work",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":1126,
     "MinorTimestamp":"0:18:46",
     "Major":1688,
     "MajorTimestamp":"0:28:08",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=i_guess_it_will_work"
+  },
+  {
+    "Region":"Commonwealth of Former Australia",
+    "Issues":"RO",
+    "Minor":1129,
+    "MinorTimestamp":"0:18:49",
+    "Major":1693,
+    "MajorTimestamp":"0:28:13",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=commonwealth_of_former_australia"
   },
   {
     "Region":"Septentrional Atlantic",
@@ -4498,6 +5258,16 @@
     "MajorTimestamp":"0:28:17",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_thicc_continent"
+  },
+  {
+    "Region":"Ravenclaw",
+    "Issues":"RO",
+    "Minor":1132,
+    "MinorTimestamp":"0:18:52",
+    "Major":1697,
+    "MajorTimestamp":"0:28:17",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=ravenclaw"
   },
   {
     "Region":"Skaro",
@@ -4548,6 +5318,16 @@
     "MajorTimestamp":"0:28:36",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=elcor"
+  },
+  {
+    "Region":"Eee",
+    "Issues":"RO",
+    "Minor":1144,
+    "MinorTimestamp":"0:19:04",
+    "Major":1716,
+    "MajorTimestamp":"0:28:36",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=eee"
   },
   {
     "Region":"The Kingdom of Netherlands",
@@ -4610,6 +5390,26 @@
     "Link":"https:\/\/www.nationstates.net\/region=me_and_the_boys_at_3am_looking_for_beans"
   },
   {
+    "Region":"Stalins Holy Conglomerate",
+    "Issues":"RO",
+    "Minor":1167,
+    "MinorTimestamp":"0:19:27",
+    "Major":1750,
+    "MajorTimestamp":"0:29:10",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=stalins_holy_conglomerate"
+  },
+  {
+    "Region":"Portugal de Esquerda",
+    "Issues":"RO",
+    "Minor":1170,
+    "MinorTimestamp":"0:19:30",
+    "Major":1755,
+    "MajorTimestamp":"0:29:15",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=portugal_de_esquerda"
+  },
+  {
     "Region":"The Bois",
     "Issues":"RO",
     "Minor":1175,
@@ -4651,13 +5451,23 @@
   },
   {
     "Region":"Bumiputra",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":1181,
     "MinorTimestamp":"0:19:41",
     "Major":1771,
     "MajorTimestamp":"0:29:31",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=bumiputra"
+  },
+  {
+    "Region":"West European Schools",
+    "Issues":"RO",
+    "Minor":1182,
+    "MinorTimestamp":"0:19:42",
+    "Major":1773,
+    "MajorTimestamp":"0:29:33",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=west_european_schools"
   },
   {
     "Region":"PieTopia",
@@ -4678,6 +5488,26 @@
     "MajorTimestamp":"0:29:33",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=antiston_sea_regions"
+  },
+  {
+    "Region":"Jared",
+    "Issues":"RO",
+    "Minor":1186,
+    "MinorTimestamp":"0:19:46",
+    "Major":1779,
+    "MajorTimestamp":"0:29:39",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=jared"
+  },
+  {
+    "Region":"Trebuchet Storage",
+    "Issues":"RO",
+    "Minor":1189,
+    "MinorTimestamp":"0:19:49",
+    "Major":1783,
+    "MajorTimestamp":"0:29:43",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=trebuchet_storage"
   },
   {
     "Region":"Mormonism",
@@ -4720,6 +5550,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=prosper1"
   },
   {
+    "Region":"Onionistlands",
+    "Issues":"RO",
+    "Minor":1193,
+    "MinorTimestamp":"0:19:53",
+    "Major":1790,
+    "MajorTimestamp":"0:29:50",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=onionistlands"
+  },
+  {
     "Region":"Union of all Soviet Socialist Republics",
     "Issues":"WFE, RO, Embassies",
     "Minor":1194,
@@ -4738,6 +5578,16 @@
     "MajorTimestamp":"0:29:52",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=jaboofia"
+  },
+  {
+    "Region":"Target Region 31",
+    "Issues":"RO",
+    "Minor":1203,
+    "MinorTimestamp":"0:20:03",
+    "Major":1805,
+    "MajorTimestamp":"0:30:05",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=target_region_31"
   },
   {
     "Region":"Emojio",
@@ -4760,6 +5610,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_gaddafist_league"
   },
   {
+    "Region":"The National Republic",
+    "Issues":"RO",
+    "Minor":1207,
+    "MinorTimestamp":"0:20:07",
+    "Major":1810,
+    "MajorTimestamp":"0:30:10",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_national_republic"
+  },
+  {
     "Region":"The Republican Kingdoms of Europe",
     "Issues":"RO",
     "Minor":1207,
@@ -4770,6 +5630,26 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_republican_kingdoms_of_europe"
   },
   {
+    "Region":"accolades",
+    "Issues":"RO",
+    "Minor":1211,
+    "MinorTimestamp":"0:20:11",
+    "Major":1816,
+    "MajorTimestamp":"0:30:16",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=accolades"
+  },
+  {
+    "Region":"The Warsaw pact of the world",
+    "Issues":"RO",
+    "Minor":1217,
+    "MinorTimestamp":"0:20:17",
+    "Major":1825,
+    "MajorTimestamp":"0:30:25",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_warsaw_pact_of_the_world"
+  },
+  {
     "Region":"Coral Reef 7",
     "Issues":"WFE, RO, Embassies",
     "Minor":1221,
@@ -4778,6 +5658,16 @@
     "MajorTimestamp":"0:30:31",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=coral_reef_7"
+  },
+  {
+    "Region":"Unirea Popoarelor Marii",
+    "Issues":"RO",
+    "Minor":1221,
+    "MinorTimestamp":"0:20:21",
+    "Major":1831,
+    "MajorTimestamp":"0:30:31",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=unirea_popoarelor_marii"
   },
   {
     "Region":"Horsia",
@@ -4820,6 +5710,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=kyorgia_puppet_storage"
   },
   {
+    "Region":"SALMEGIA",
+    "Issues":"RO",
+    "Minor":1229,
+    "MinorTimestamp":"0:20:29",
+    "Major":1843,
+    "MajorTimestamp":"0:30:43",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=salmegia"
+  },
+  {
     "Region":"Zadlanovskiv",
     "Issues":"WFE, RO, Embassies",
     "Minor":1229,
@@ -4841,7 +5741,7 @@
   },
   {
     "Region":"Dragon Isles",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":1229,
     "MinorTimestamp":"0:20:29",
     "Major":1844,
@@ -4930,6 +5830,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_global_roleplay_region"
   },
   {
+    "Region":"Nizhyn",
+    "Issues":"RO",
+    "Minor":1234,
+    "MinorTimestamp":"0:20:34",
+    "Major":1851,
+    "MajorTimestamp":"0:30:51",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=nizhyn"
+  },
+  {
     "Region":"Its morbin time yes",
     "Issues":"WFE, RO, Embassies",
     "Minor":1236,
@@ -4960,6 +5870,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_brotherhood_of_blood"
   },
   {
+    "Region":"Developers",
+    "Issues":"RO",
+    "Minor":1240,
+    "MinorTimestamp":"0:20:40",
+    "Major":1860,
+    "MajorTimestamp":"0:31:00",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=developers"
+  },
+  {
     "Region":"Melivorica",
     "Issues":"WFE, RO, Embassies",
     "Minor":1242,
@@ -4978,6 +5898,16 @@
     "MajorTimestamp":"0:31:02",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=tropical_islands"
+  },
+  {
+    "Region":"Southern Atlantic States",
+    "Issues":"RO",
+    "Minor":1252,
+    "MinorTimestamp":"0:20:52",
+    "Major":1878,
+    "MajorTimestamp":"0:31:18",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=southern_atlantic_states"
   },
   {
     "Region":"Asgard 12",
@@ -5008,6 +5938,16 @@
     "MajorTimestamp":"0:31:49",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=frac"
+  },
+  {
+    "Region":"CHZEH UNION",
+    "Issues":"RO",
+    "Minor":1278,
+    "MinorTimestamp":"0:21:18",
+    "Major":1917,
+    "MajorTimestamp":"0:31:57",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=chzeh_union"
   },
   {
     "Region":"South Calalalalala",
@@ -5048,6 +5988,16 @@
     "MajorTimestamp":"0:32:00",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=league_of_nation"
+  },
+  {
+    "Region":"Hanellian Aristocracies",
+    "Issues":"RO",
+    "Minor":1281,
+    "MinorTimestamp":"0:21:21",
+    "Major":1922,
+    "MajorTimestamp":"0:32:02",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=hanellian_aristocracies"
   },
   {
     "Region":"Communist Alliance Of Mosncun",
@@ -5100,6 +6050,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=axiom_supercluster"
   },
   {
+    "Region":"Aberdare",
+    "Issues":"RO",
+    "Minor":1312,
+    "MinorTimestamp":"0:21:52",
+    "Major":1968,
+    "MajorTimestamp":"0:32:48",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=aberdare"
+  },
+  {
     "Region":"The Gayish Economic Zone",
     "Issues":"WFE, RO, Embassies",
     "Minor":1312,
@@ -5120,6 +6080,26 @@
     "Link":"https:\/\/www.nationstates.net\/region=floridia"
   },
   {
+    "Region":"The Fangirls",
+    "Issues":"RO",
+    "Minor":1320,
+    "MinorTimestamp":"0:22:00",
+    "Major":1980,
+    "MajorTimestamp":"0:33:00",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_fangirls"
+  },
+  {
+    "Region":"Absconia",
+    "Issues":"RO",
+    "Minor":1335,
+    "MinorTimestamp":"0:22:15",
+    "Major":2002,
+    "MajorTimestamp":"0:33:22",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=absconia"
+  },
+  {
     "Region":"The Sseyton Crusaders",
     "Issues":"WFE, RO, Embassies",
     "Minor":1339,
@@ -5138,6 +6118,16 @@
     "MajorTimestamp":"0:33:33",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=greater_rulanza"
+  },
+  {
+    "Region":"The Reanimated Dead",
+    "Issues":"RO",
+    "Minor":1346,
+    "MinorTimestamp":"0:22:26",
+    "Major":2018,
+    "MajorTimestamp":"0:33:38",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_reanimated_dead"
   },
   {
     "Region":"Er e",
@@ -5168,6 +6158,16 @@
     "MajorTimestamp":"0:33:41",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=yokosuka"
+  },
+  {
+    "Region":"Effort",
+    "Issues":"RO",
+    "Minor":1350,
+    "MinorTimestamp":"0:22:30",
+    "Major":2025,
+    "MajorTimestamp":"0:33:45",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=effort"
   },
   {
     "Region":"Socialist Warriors",
@@ -5270,6 +6270,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=academics"
   },
   {
+    "Region":"Osirus",
+    "Issues":"RO",
+    "Minor":1372,
+    "MinorTimestamp":"0:22:52",
+    "Major":2058,
+    "MajorTimestamp":"0:34:18",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=osirus"
+  },
+  {
     "Region":"Connecticut",
     "Issues":"RO",
     "Minor":1373,
@@ -5280,6 +6290,26 @@
     "Link":"https:\/\/www.nationstates.net\/region=connecticut"
   },
   {
+    "Region":"El glorioso planeta",
+    "Issues":"RO",
+    "Minor":1376,
+    "MinorTimestamp":"0:22:56",
+    "Major":2064,
+    "MajorTimestamp":"0:34:24",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=el_glorioso_planeta"
+  },
+  {
+    "Region":"a region by that name already exists",
+    "Issues":"RO",
+    "Minor":1382,
+    "MinorTimestamp":"0:23:02",
+    "Major":2073,
+    "MajorTimestamp":"0:34:33",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=a_region_by_that_name_already_exists"
+  },
+  {
     "Region":"Chacha",
     "Issues":"RO",
     "Minor":1384,
@@ -5288,6 +6318,16 @@
     "MajorTimestamp":"0:34:36",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=chacha"
+  },
+  {
+    "Region":"Girls0Frontline0X0Crysis",
+    "Issues":"RO",
+    "Minor":1386,
+    "MinorTimestamp":"0:23:06",
+    "Major":2079,
+    "MajorTimestamp":"0:34:39",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=girls0frontline0x0crysis"
   },
   {
     "Region":"The Imperialist Bloc",
@@ -5328,6 +6368,16 @@
     "MajorTimestamp":"0:34:45",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=darkness_3nvy"
+  },
+  {
+    "Region":"The Second Triumvirate of the Levant",
+    "Issues":"RO",
+    "Minor":1395,
+    "MinorTimestamp":"0:23:15",
+    "Major":2092,
+    "MajorTimestamp":"0:34:52",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_second_triumvirate_of_the_levant"
   },
   {
     "Region":"Rabbit",
@@ -5378,6 +6428,16 @@
     "MajorTimestamp":"0:34:58",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=xenogender_club"
+  },
+  {
+    "Region":"Sumy Raion",
+    "Issues":"RO",
+    "Minor":1399,
+    "MinorTimestamp":"0:23:19",
+    "Major":2098,
+    "MajorTimestamp":"0:34:58",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=sumy_raion"
   },
   {
     "Region":"Verthandi",
@@ -5490,6 +6550,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_union_of_idontknow"
   },
   {
+    "Region":"Mountain of Stability",
+    "Issues":"RO",
+    "Minor":1472,
+    "MinorTimestamp":"0:24:32",
+    "Major":2209,
+    "MajorTimestamp":"0:36:49",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=mountain_of_stability"
+  },
+  {
     "Region":"New Ancapistan",
     "Issues":"WFE, Embassies",
     "Minor":1475,
@@ -5498,6 +6568,16 @@
     "MajorTimestamp":"0:36:53",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=new_ancapistan"
+  },
+  {
+    "Region":"Volyn",
+    "Issues":"RO",
+    "Minor":1487,
+    "MinorTimestamp":"0:24:47",
+    "Major":2231,
+    "MajorTimestamp":"0:37:11",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=volyn"
   },
   {
     "Region":"Union of Communist and Socialist States",
@@ -5548,6 +6628,16 @@
     "MajorTimestamp":"0:40:21",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_smalldon_region"
+  },
+  {
+    "Region":"Valyrn",
+    "Issues":"RO",
+    "Minor":1730,
+    "MinorTimestamp":"0:28:50",
+    "Major":2595,
+    "MajorTimestamp":"0:43:15",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=valyrn"
   },
   {
     "Region":"League of Commonwealths and Free States",
@@ -5791,7 +6881,7 @@
   },
   {
     "Region":"Waku Eng",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":1775,
     "MinorTimestamp":"0:29:35",
     "Major":2662,
@@ -5811,7 +6901,7 @@
   },
   {
     "Region":"Mu the Lost Continent",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":1776,
     "MinorTimestamp":"0:29:36",
     "Major":2664,
@@ -5880,6 +6970,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=spammystan"
   },
   {
+    "Region":"The Grand Imperial Regime of Nantuvia",
+    "Issues":"RO",
+    "Minor":1790,
+    "MinorTimestamp":"0:29:50",
+    "Major":2685,
+    "MajorTimestamp":"0:44:45",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_grand_imperial_regime_of_nantuvia"
+  },
+  {
     "Region":"Zhof Taralea",
     "Issues":"WFE, RO, Embassies",
     "Minor":1796,
@@ -5918,6 +7018,16 @@
     "MajorTimestamp":"0:44:56",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=ashistan"
+  },
+  {
+    "Region":"The United Rebel States Of The Pacific",
+    "Issues":"RO",
+    "Minor":1798,
+    "MinorTimestamp":"0:29:58",
+    "Major":2697,
+    "MajorTimestamp":"0:44:57",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_united_rebel_states_of_the_pacific"
   },
   {
     "Region":"Munich Pakt",
@@ -5961,7 +7071,7 @@
   },
   {
     "Region":"Legion of Adequacy",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":1804,
     "MinorTimestamp":"0:30:04",
     "Major":2706,
@@ -6040,6 +7150,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=aaa"
   },
   {
+    "Region":"Mracs",
+    "Issues":"RO",
+    "Minor":1808,
+    "MinorTimestamp":"0:30:08",
+    "Major":2712,
+    "MajorTimestamp":"0:45:12",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=mracs"
+  },
+  {
     "Region":"Kiev Oblast",
     "Issues":"WFE, RO, Embassies",
     "Minor":1809,
@@ -6100,6 +7220,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=alphonsine"
   },
   {
+    "Region":"Allied Empires",
+    "Issues":"RO",
+    "Minor":1834,
+    "MinorTimestamp":"0:30:34",
+    "Major":2751,
+    "MajorTimestamp":"0:45:51",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=allied_empires"
+  },
+  {
     "Region":"Furry Region",
     "Issues":"WFE, RO, Embassies",
     "Minor":1836,
@@ -6140,6 +7270,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=libertasia"
   },
   {
+    "Region":"QuipTV Network",
+    "Issues":"RO",
+    "Minor":1840,
+    "MinorTimestamp":"0:30:40",
+    "Major":2760,
+    "MajorTimestamp":"0:46:00",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=quiptv_network"
+  },
+  {
     "Region":"accentuates",
     "Issues":"WFE, RO, Embassies",
     "Minor":1840,
@@ -6168,6 +7308,16 @@
     "MajorTimestamp":"0:46:07",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=novus_universalis"
+  },
+  {
+    "Region":"Horlivka",
+    "Issues":"RO",
+    "Minor":1850,
+    "MinorTimestamp":"0:30:50",
+    "Major":2775,
+    "MajorTimestamp":"0:46:15",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=horlivka"
   },
   {
     "Region":"absentees",
@@ -6280,6 +7430,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=brave_new_countries"
   },
   {
+    "Region":"Tornotia",
+    "Issues":"RO",
+    "Minor":1868,
+    "MinorTimestamp":"0:31:08",
+    "Major":2802,
+    "MajorTimestamp":"0:46:42",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=tornotia"
+  },
+  {
     "Region":"Samona",
     "Issues":"RO",
     "Minor":1869,
@@ -6328,6 +7488,16 @@
     "MajorTimestamp":"0:46:46",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_european_brothers"
+  },
+  {
+    "Region":"Eire nations",
+    "Issues":"RO",
+    "Minor":1872,
+    "MinorTimestamp":"0:31:12",
+    "Major":2808,
+    "MajorTimestamp":"0:46:48",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=eire_nations"
   },
   {
     "Region":"Helium In My Balls",
@@ -6430,6 +7600,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_estamindian_island_chain"
   },
   {
+    "Region":"Storm Nation",
+    "Issues":"RO",
+    "Minor":1876,
+    "MinorTimestamp":"0:31:16",
+    "Major":2814,
+    "MajorTimestamp":"0:46:54",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=storm_nation"
+  },
+  {
     "Region":"Chemish union",
     "Issues":"WFE, RO, Embassies",
     "Minor":1877,
@@ -6448,6 +7628,16 @@
     "MajorTimestamp":"0:46:57",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=killers_of_birds"
+  },
+  {
+    "Region":"The Country Catastrophe",
+    "Issues":"RO",
+    "Minor":1883,
+    "MinorTimestamp":"0:31:23",
+    "Major":2825,
+    "MajorTimestamp":"0:47:05",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_country_catastrophe"
   },
   {
     "Region":"The Greater League",
@@ -6541,13 +7731,23 @@
   },
   {
     "Region":"Arbor",
-    "Issues":"WFE, Embassies",
+    "Issues":"WFE, RO, Embassies",
     "Minor":1895,
     "MinorTimestamp":"0:31:35",
     "Major":2843,
     "MajorTimestamp":"0:47:23",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=arbor"
+  },
+  {
+    "Region":"The Union of Colonia",
+    "Issues":"RO",
+    "Minor":1898,
+    "MinorTimestamp":"0:31:38",
+    "Major":2846,
+    "MajorTimestamp":"0:47:26",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_union_of_colonia"
   },
   {
     "Region":"The Liberal Haven",
@@ -6651,7 +7851,7 @@
   },
   {
     "Region":"Heavenly",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":1909,
     "MinorTimestamp":"0:31:49",
     "Major":2863,
@@ -6720,6 +7920,26 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_united_friendship_legion"
   },
   {
+    "Region":"Accelerationverse",
+    "Issues":"RO",
+    "Minor":1935,
+    "MinorTimestamp":"0:32:15",
+    "Major":2903,
+    "MajorTimestamp":"0:48:23",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=accelerationverse"
+  },
+  {
+    "Region":"Danganronpa",
+    "Issues":"RO",
+    "Minor":1941,
+    "MinorTimestamp":"0:32:21",
+    "Major":2911,
+    "MajorTimestamp":"0:48:31",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=danganronpa"
+  },
+  {
     "Region":"Carrot",
     "Issues":"WFE, RO, Embassies",
     "Minor":1941,
@@ -6780,6 +8000,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=sambucus_canadensis"
   },
   {
+    "Region":"Lutum",
+    "Issues":"RO",
+    "Minor":1946,
+    "MinorTimestamp":"0:32:26",
+    "Major":2919,
+    "MajorTimestamp":"0:48:39",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=lutum"
+  },
+  {
     "Region":"The Snakes Oliver Alliance",
     "Issues":"WFE, RO, Embassies",
     "Minor":1947,
@@ -6838,6 +8068,16 @@
     "MajorTimestamp":"0:48:47",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=group_space_version_two"
+  },
+  {
+    "Region":"khrusos",
+    "Issues":"RO",
+    "Minor":1951,
+    "MinorTimestamp":"0:32:31",
+    "Major":2927,
+    "MajorTimestamp":"0:48:47",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=khrusos"
   },
   {
     "Region":"The mediterranean commonwealth",
@@ -7170,6 +8410,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=the_confederation_of_nations"
   },
   {
+    "Region":"SUPREME DICTATORS1",
+    "Issues":"RO",
+    "Minor":2018,
+    "MinorTimestamp":"0:33:38",
+    "Major":3027,
+    "MajorTimestamp":"0:50:27",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=supreme_dictators1"
+  },
+  {
     "Region":"America do Sul",
     "Issues":"WFE, RO, Embassies",
     "Minor":2022,
@@ -7201,7 +8451,7 @@
   },
   {
     "Region":"Arecrtykey",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":2024,
     "MinorTimestamp":"0:33:44",
     "Major":3036,
@@ -7300,6 +8550,26 @@
     "Link":"https:\/\/www.nationstates.net\/region=lsi"
   },
   {
+    "Region":"The Republic Of Galactic Empire",
+    "Issues":"RO",
+    "Minor":2257,
+    "MinorTimestamp":"0:37:37",
+    "Major":3386,
+    "MajorTimestamp":"0:56:26",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_republic_of_galactic_empire"
+  },
+  {
+    "Region":"Tikifa",
+    "Issues":"RO",
+    "Minor":2266,
+    "MinorTimestamp":"0:37:46",
+    "Major":3399,
+    "MajorTimestamp":"0:56:39",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=tikifa"
+  },
+  {
     "Region":"accelerators",
     "Issues":"RO",
     "Minor":2279,
@@ -7351,7 +8621,7 @@
   },
   {
     "Region":"Ikaros",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":2285,
     "MinorTimestamp":"0:38:05",
     "Major":3427,
@@ -7540,6 +8810,16 @@
     "Link":"https:\/\/www.nationstates.net\/region=soviet_states"
   },
   {
+    "Region":"Roavin",
+    "Issues":"RO",
+    "Minor":2619,
+    "MinorTimestamp":"0:43:39",
+    "Major":3928,
+    "MajorTimestamp":"1:05:28",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=roavin"
+  },
+  {
     "Region":"The Lantesian League",
     "Issues":"RO",
     "Minor":2620,
@@ -7588,6 +8868,16 @@
     "MajorTimestamp":"1:05:40",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=newfound_nations"
+  },
+  {
+    "Region":"British Imperial Commonwealth",
+    "Issues":"RO",
+    "Minor":2628,
+    "MinorTimestamp":"0:43:48",
+    "Major":3941,
+    "MajorTimestamp":"1:05:41",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=british_imperial_commonwealth"
   },
   {
     "Region":"Aukumnia",
@@ -8181,7 +9471,7 @@
   },
   {
     "Region":"abound",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":2846,
     "MinorTimestamp":"0:47:26",
     "Major":4269,
@@ -8238,6 +9528,16 @@
     "MajorTimestamp":"1:11:16",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=eastern_american_union"
+  },
+  {
+    "Region":"United Nations of Earth",
+    "Issues":"RO",
+    "Minor":2852,
+    "MinorTimestamp":"0:47:32",
+    "Major":4277,
+    "MajorTimestamp":"1:11:17",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=united_nations_of_earth"
   },
   {
     "Region":"united sausages",
@@ -8461,7 +9761,7 @@
   },
   {
     "Region":"Collective Security Treaty Organization",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":2910,
     "MinorTimestamp":"0:48:30",
     "Major":4365,
@@ -8601,7 +9901,7 @@
   },
   {
     "Region":"Annecy",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":2918,
     "MinorTimestamp":"0:48:38",
     "Major":4377,
@@ -8611,7 +9911,7 @@
   },
   {
     "Region":"Everescent",
-    "Issues":"Embassies",
+    "Issues":"RO, Embassies",
     "Minor":2926,
     "MinorTimestamp":"0:48:46",
     "Major":4389,
@@ -8668,6 +9968,16 @@
     "MajorTimestamp":"1:20:34",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=pretoria_federation"
+  },
+  {
+    "Region":"Lasagna RP Region",
+    "Issues":"RO",
+    "Minor":3236,
+    "MinorTimestamp":"0:53:56",
+    "Major":4853,
+    "MajorTimestamp":"1:20:53",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=lasagna_rp_region"
   },
   {
     "Region":"Unified Socialist States",
