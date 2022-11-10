@@ -5,7 +5,7 @@ import re
 
 from rich.console import Console
 from rich.theme import Theme
-from rich.progress import Progress
+from rich.progress import track
 
 console = Console(theme=Theme({"logging.level.success": "bright_green"}))
 
@@ -147,7 +147,7 @@ def embassy_status(region):
     return False
 
 
-for region in region_nodes:
+for region in track(region_nodes, description="Flagging regions…"):
     if region.find("NAME").text in passworded:
         continue
     issues = find_issues(region)
