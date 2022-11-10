@@ -67,6 +67,9 @@ def find_issues(region):
             "region=the_black_hawks",
             "region=valle_de_arena",
             "region=lily",
+            "https://www.forum.the-black-hawks.org",
+            "https://forums.europeians.com/index.php?forums/office-of-naval-recruitment.59364",
+            "https://www.nationstates.net/page=dispatch/id=1344417",
         ]
     ):
         issues.append("WFE")
@@ -76,7 +79,15 @@ def find_issues(region):
         and office.casefold()
         in map(
             str.casefold,
-            ["raider unity", "thorn1000", "join tbh", "join %%lily%%", "lily"],
+            [
+                "raider unity",
+                "thorn1000",
+                "join tbh",
+                "join %%lily%%",
+                "lily",
+                "the funny",
+                "empress wasc",
+            ],
         )
         for officer in region.find("OFFICERS").findall("OFFICER")
     ):
@@ -90,6 +101,8 @@ def find_issues(region):
             "Valle de Arena",
             "Red Front",
             "Plum Island",
+            "Kingdom of Australia",
+            "Pasridi Confederacy",
         ]
         if region.find(f"./EMBASSIES/EMBASSY[.='{substring}']") is not None
         and region.find(f"./EMBASSIES/EMBASSY[.='{substring}']").get("type")
@@ -113,6 +126,8 @@ def embassy_status(region):
             "Valle de Arena",
             "Red Front",
             "Plum Island",
+            "Kingdom of Australia",
+            "Pasridi Confederacy",
         ]
     ):
         return True
