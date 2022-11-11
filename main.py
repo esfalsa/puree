@@ -67,10 +67,12 @@ def find_issues(region):
             "[region]the black hawks[/region]",
             "[region]valle de arena[/region]",
             "[region]lily[/region]",
+            "[region]lone wolves united[/region]",
             "region=the_brotherhood_of_malice",
             "region=the_black_hawks",
             "region=valle_de_arena",
             "region=lily",
+            "region=lone_wolves_united",
             "https://www.forum.the-black-hawks.org",
             "https://forums.europeians.com/index.php?forums/office-of-naval-recruitment.59364",
             "https://www.nationstates.net/page=dispatch/id=1344417",
@@ -94,10 +96,18 @@ def find_issues(region):
             "lily",
             "the funny",
             "empress wasc",
+            "ern",
+            "twpirate",
+            "kanye omari west",
+            "aga gang",
+            "epsa",
         ]
         for officer_office in officer_offices
     ) or any(
-        any(re.fullmatch(regex, officer_appointer) for regex in ["guy_\d+"])
+        any(
+            re.fullmatch(regex, officer_appointer)
+            for regex in ["guy_\d+", "rc_cola_\d+"]
+        )
         for officer_appointer in officer_appointers
     ):
         issues.append("RO")
