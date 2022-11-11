@@ -10,6 +10,7 @@ CLC,"WFE, RO, Embassies",9,0:00:09,13,0:00:13,False,https://www.nationstates.net
 North American Commonwealth,"WFE, RO, Embassies",9,0:00:09,14,0:00:14,False,https://www.nationstates.net/region=north_american_commonwealth
 Nova Banaria,"WFE, RO, Embassies",10,0:00:10,15,0:00:15,False,https://www.nationstates.net/region=nova_banaria
 Yorkshire Establishment,"WFE, RO, Embassies",29,0:00:29,44,0:00:44,False,https://www.nationstates.net/region=yorkshire_establishment
+Herd United,RO,29,0:00:29,44,0:00:44,False,https://www.nationstates.net/region=herd_united
 The United Meritocrats,"WFE, RO, Embassies",39,0:00:39,59,0:00:59,False,https://www.nationstates.net/region=the_united_meritocrats
 The great lakes,RO,50,0:00:50,75,0:01:15,False,https://www.nationstates.net/region=the_great_lakes
 acceptable,"WFE, RO, Embassies",50,0:00:50,75,0:01:15,False,https://www.nationstates.net/region=acceptable
@@ -125,7 +126,7 @@ The Sea Of The Babies,"WFE, RO, Embassies",130,0:02:10,194,0:03:14,False,https:/
 Place,"WFE, RO, Embassies",130,0:02:10,195,0:03:15,False,https://www.nationstates.net/region=place
 Brend Alliance,"WFE, RO, Embassies",130,0:02:10,195,0:03:15,False,https://www.nationstates.net/region=brend_alliance
 Central Asia,"WFE, RO, Embassies",130,0:02:10,195,0:03:15,False,https://www.nationstates.net/region=central_asia
-Mutually Assured Posting,"WFE, Embassies",131,0:02:11,196,0:03:16,False,https://www.nationstates.net/region=mutually_assured_posting
+Mutually Assured Posting,"WFE, RO, Embassies",131,0:02:11,196,0:03:16,False,https://www.nationstates.net/region=mutually_assured_posting
 Isles of Stationaria,"WFE, RO, Embassies",133,0:02:13,199,0:03:19,False,https://www.nationstates.net/region=isles_of_stationaria
 To Conquer All,"WFE, RO, Embassies",134,0:02:14,200,0:03:20,False,https://www.nationstates.net/region=to_conquer_all
 Free State of Prussia,RO,136,0:02:16,203,0:03:23,False,https://www.nationstates.net/region=free_state_of_prussia
@@ -174,6 +175,7 @@ Economic Union of Thriving States,"WFE, RO, Embassies",220,0:03:40,330,0:05:30,F
 Factory 25,"WFE, RO, Embassies",225,0:03:45,337,0:05:37,False,https://www.nationstates.net/region=factory_25
 Teds Nationstate Emporium,RO,225,0:03:45,338,0:05:38,False,https://www.nationstates.net/region=teds_nationstate_emporium
 The Council Of Imperials,RO,227,0:03:47,340,0:05:40,False,https://www.nationstates.net/region=the_council_of_imperials
+Mosncun alliance,RO,227,0:03:47,341,0:05:41,False,https://www.nationstates.net/region=mosncun_alliance
 Caucasus Region,"WFE, RO",229,0:03:49,344,0:05:44,False,https://www.nationstates.net/region=caucasus_region
 Random Acts of Kindness,RO,230,0:03:50,345,0:05:45,False,https://www.nationstates.net/region=random_acts_of_kindness
 The Islands of Uspiasia,"WFE, RO, Embassies",231,0:03:51,346,0:05:46,False,https://www.nationstates.net/region=the_islands_of_uspiasia
@@ -193,6 +195,7 @@ Beljiotena,"RO, Embassies",246,0:04:06,369,0:06:09,False,https://www.nationstate
 Central Region of Puppet Nations,RO,248,0:04:08,371,0:06:11,False,https://www.nationstates.net/region=central_region_of_puppet_nations
 Cargathian Sphere,RO,249,0:04:09,373,0:06:13,False,https://www.nationstates.net/region=cargathian_sphere
 The Poles,"WFE, RO, Embassies",251,0:04:11,377,0:06:17,False,https://www.nationstates.net/region=the_poles
+Real brgs Bois,RO,254,0:04:14,382,0:06:22,False,https://www.nationstates.net/region=real_brgs_bois
 Veurrfold,"WFE, RO, Embassies",254,0:04:14,382,0:06:22,False,https://www.nationstates.net/region=veurrfold
 NationState Monarchists,RO,254,0:04:14,382,0:06:22,False,https://www.nationstates.net/region=nationstate_monarchists
 Tabarian Union,"RO, Embassies",254,0:04:14,382,0:06:22,False,https://www.nationstates.net/region=tabarian_union
@@ -203,6 +206,7 @@ The Confederacy of Cooperative States,"WFE, RO, Embassies",260,0:04:20,390,0:06:
 Rathaia,"WFE, RO, Embassies",260,0:04:20,391,0:06:31,False,https://www.nationstates.net/region=rathaia
 United Fascist Territory of Waschuster,RO,260,0:04:20,391,0:06:31,False,https://www.nationstates.net/region=united_fascist_territory_of_waschuster
 The Tavern,RO,260,0:04:20,391,0:06:31,False,https://www.nationstates.net/region=the_tavern
+Archination,RO,261,0:04:21,392,0:06:32,False,https://www.nationstates.net/region=archination
 The Memerica region,RO,264,0:04:24,396,0:06:36,False,https://www.nationstates.net/region=the_memerica_region
 Hukashaka,RO,265,0:04:25,397,0:06:37,False,https://www.nationstates.net/region=hukashaka
 Lily RP reigon,Embassies,266,0:04:26,399,0:06:39,False,https://www.nationstates.net/region=lily_rp_reigon
@@ -220,7 +224,7 @@ North Brightia,"WFE, RO, Embassies",280,0:04:40,420,0:07:00,False,https://www.na
 SIX CONSOLES,RO,281,0:04:41,421,0:07:01,False,https://www.nationstates.net/region=six_consoles
 The Grand British Union,"WFE, RO, Embassies",281,0:04:41,422,0:07:02,False,https://www.nationstates.net/region=the_grand_british_union
 Oddness,RO,289,0:04:49,434,0:07:14,False,https://www.nationstates.net/region=oddness
-Jackos Twisted Pretzel arena,"WFE, Embassies",289,0:04:49,434,0:07:14,False,https://www.nationstates.net/region=jackos_twisted_pretzel_arena
+Jackos Twisted Pretzel arena,"WFE, RO, Embassies",289,0:04:49,434,0:07:14,False,https://www.nationstates.net/region=jackos_twisted_pretzel_arena
 Shattered Plans,"WFE, RO, Embassies",292,0:04:52,437,0:07:17,False,https://www.nationstates.net/region=shattered_plans
 The Lone Wolves United,"WFE, RO, Embassies",292,0:04:52,438,0:07:18,False,https://www.nationstates.net/region=the_lone_wolves_united
 Central Canyon,"WFE, Embassies",292,0:04:52,438,0:07:18,False,https://www.nationstates.net/region=central_canyon
@@ -241,6 +245,7 @@ Strand,RO,367,0:06:07,551,0:09:11,False,https://www.nationstates.net/region=stra
 United Countries of Nyx,"WFE, RO, Embassies",368,0:06:08,553,0:09:13,False,https://www.nationstates.net/region=united_countries_of_nyx
 The Grand Federation Of Hiigara,"WFE, RO, Embassies",370,0:06:10,555,0:09:15,False,https://www.nationstates.net/region=the_grand_federation_of_hiigara
 the united front of eurasia,"WFE, RO, Embassies",370,0:06:10,556,0:09:16,False,https://www.nationstates.net/region=the_united_front_of_eurasia
+Coral Reef 9,RO,371,0:06:11,557,0:09:17,False,https://www.nationstates.net/region=coral_reef_9
 Democratic Republic of Socialist Greece,RO,371,0:06:11,557,0:09:17,False,https://www.nationstates.net/region=democratic_republic_of_socialist_greece
 Pilipinas,"WFE, RO, Embassies",372,0:06:12,558,0:09:18,False,https://www.nationstates.net/region=pilipinas
 New Nordia,"WFE, RO, Embassies",375,0:06:15,562,0:09:22,False,https://www.nationstates.net/region=new_nordia
@@ -278,6 +283,7 @@ Theda,RO,420,0:07:00,631,0:10:31,False,https://www.nationstates.net/region=theda
 The Hyperion Borderlands Union,"WFE, Embassies",420,0:07:00,631,0:10:31,False,https://www.nationstates.net/region=the_hyperion_borderlands_union
 Feminist Frontier,"WFE, RO, Embassies",421,0:07:01,632,0:10:32,False,https://www.nationstates.net/region=feminist_frontier
 accelerated,RO,424,0:07:04,637,0:10:37,False,https://www.nationstates.net/region=accelerated
+Damnation,RO,424,0:07:04,637,0:10:37,False,https://www.nationstates.net/region=damnation
 Peru Bolivia,"WFE, RO, Embassies",424,0:07:04,637,0:10:37,False,https://www.nationstates.net/region=peru_bolivia
 uionis,RO,426,0:07:06,639,0:10:39,False,https://www.nationstates.net/region=uionis
 Techno Compact,RO,433,0:07:13,649,0:10:49,False,https://www.nationstates.net/region=techno_compact
@@ -298,6 +304,7 @@ Nadvirna,"WFE, RO, Embassies",504,0:08:24,756,0:12:36,False,https://www.nationst
 The GigaChad Seas,RO,504,0:08:24,756,0:12:36,False,https://www.nationstates.net/region=the_gigachad_seas
 The Place,RO,507,0:08:27,760,0:12:40,False,https://www.nationstates.net/region=the_place
 Esperanto Union,RO,507,0:08:27,761,0:12:41,True,https://www.nationstates.net/region=esperanto_union
+testifjfjfjf,RO,507,0:08:27,761,0:12:41,False,https://www.nationstates.net/region=testifjfjfjf
 The Remnant,RO,507,0:08:27,761,0:12:41,False,https://www.nationstates.net/region=the_remnant
 Communist states of Earth,"WFE, RO, Embassies",509,0:08:29,764,0:12:44,False,https://www.nationstates.net/region=communist_states_of_earth
 Bujinian Empire,RO,510,0:08:30,765,0:12:45,False,https://www.nationstates.net/region=bujinian_empire
@@ -355,10 +362,12 @@ absolutist,RO,592,0:09:52,889,0:14:49,False,https://www.nationstates.net/region=
 Izium,"WFE, RO, Embassies",594,0:09:54,891,0:14:51,False,https://www.nationstates.net/region=izium
 Droquiea,"WFE, RO",594,0:09:54,892,0:14:52,False,https://www.nationstates.net/region=droquiea
 EuropeLiberals,RO,741,0:12:21,1111,0:18:31,False,https://www.nationstates.net/region=europeliberals
+Le Turtles,RO,742,0:12:22,1113,0:18:33,False,https://www.nationstates.net/region=le_turtles
 The Socialist Countries,RO,744,0:12:24,1116,0:18:36,False,https://www.nationstates.net/region=the_socialist_countries
 absolves,RO,747,0:12:27,1120,0:18:40,False,https://www.nationstates.net/region=absolves
 Union of Asia and the Pacific,"WFE, RO, Embassies",747,0:12:27,1120,0:18:40,False,https://www.nationstates.net/region=union_of_asia_and_the_pacific
 Region 17,RO,750,0:12:30,1126,0:18:46,False,https://www.nationstates.net/region=region_17
+Lindblum,RO,753,0:12:33,1130,0:18:50,False,https://www.nationstates.net/region=lindblum
 Brepublican socialist states,"WFE, RO, Embassies",765,0:12:45,1148,0:19:08,False,https://www.nationstates.net/region=brepublican_socialist_states
 Podil,"WFE, RO, Embassies",768,0:12:48,1152,0:19:12,False,https://www.nationstates.net/region=podil
 New Pacific Islands Region,RO,768,0:12:48,1152,0:19:12,False,https://www.nationstates.net/region=new_pacific_islands_region
@@ -413,8 +422,10 @@ Free Florida,"WFE, RO, Embassies",843,0:14:03,1265,0:21:05,False,https://www.nat
 TMO,RO,844,0:14:04,1266,0:21:06,False,https://www.nationstates.net/region=tmo
 abut,RO,857,0:14:17,1285,0:21:25,False,https://www.nationstates.net/region=abut
 Coral Reef 6,RO,877,0:14:37,1316,0:21:56,False,https://www.nationstates.net/region=coral_reef_6
+The Simple Void,RO,879,0:14:39,1318,0:21:58,False,https://www.nationstates.net/region=the_simple_void
 The Great Vision,RO,904,0:15:04,1356,0:22:36,False,https://www.nationstates.net/region=the_great_vision
 Juan Cena Jr,RO,905,0:15:05,1357,0:22:37,False,https://www.nationstates.net/region=juan_cena_jr
+abortionists,RO,905,0:15:05,1357,0:22:37,False,https://www.nationstates.net/region=abortionists
 Game Region,"WFE, RO, Embassies",910,0:15:10,1365,0:22:45,False,https://www.nationstates.net/region=game_region
 NANI,"WFE, RO, Embassies",910,0:15:10,1365,0:22:45,False,https://www.nationstates.net/region=nani
 Neo Orbis,"WFE, RO, Embassies",910,0:15:10,1365,0:22:45,False,https://www.nationstates.net/region=neo_orbis
@@ -495,6 +506,7 @@ Donetsk Oblast,"WFE, RO, Embassies",1075,0:17:55,1612,0:26:52,False,https://www.
 The Ithaca City Accords,"WFE, RO, Embassies",1076,0:17:56,1614,0:26:54,False,https://www.nationstates.net/region=the_ithaca_city_accords
 Larona Wessundon,RO,1076,0:17:56,1614,0:26:54,False,https://www.nationstates.net/region=larona_wessundon
 The red soviets,RO,1078,0:17:58,1616,0:26:56,False,https://www.nationstates.net/region=the_red_soviets
+The Republican Region,RO,1078,0:17:58,1616,0:26:56,False,https://www.nationstates.net/region=the_republican_region
 New South Lemuria,"WFE, RO, Embassies",1078,0:17:58,1617,0:26:57,False,https://www.nationstates.net/region=new_south_lemuria
 Where the future is behind the moon,RO,1086,0:18:06,1630,0:27:10,False,https://www.nationstates.net/region=where_the_future_is_behind_the_moon
 Grebes Class,RO,1090,0:18:10,1636,0:27:16,False,https://www.nationstates.net/region=grebes_class
@@ -553,6 +565,7 @@ Radical Region,"WFE, RO, Embassies",1135,0:18:55,1702,0:28:22,False,https://www.
 Jregoria,"WFE, RO, Embassies",1136,0:18:56,1704,0:28:24,False,https://www.nationstates.net/region=jregoria
 Elcor,"WFE, RO, Embassies",1144,0:19:04,1716,0:28:36,False,https://www.nationstates.net/region=elcor
 Eee,RO,1144,0:19:04,1716,0:28:36,False,https://www.nationstates.net/region=eee
+The Menagerie,RO,1145,0:19:05,1718,0:28:38,False,https://www.nationstates.net/region=the_menagerie
 The Kingdom of Netherlands,RO,1146,0:19:06,1719,0:28:39,False,https://www.nationstates.net/region=the_kingdom_of_netherlands
 United countrys,"WFE, RO, Embassies",1146,0:19:06,1719,0:28:39,False,https://www.nationstates.net/region=united_countrys
 The Elder Scrolls Region,"WFE, RO",1148,0:19:08,1723,0:28:43,False,https://www.nationstates.net/region=the_elder_scrolls_region
@@ -560,6 +573,7 @@ The Meat Grinder,"WFE, RO, Embassies",1166,0:19:26,1749,0:29:09,False,https://ww
 Lily 3,"WFE, RO, Embassies",1166,0:19:26,1749,0:29:09,False,https://www.nationstates.net/region=lily_3
 Me and the boys at 3am looking for beans,"WFE, RO, Embassies",1167,0:19:27,1750,0:29:10,False,https://www.nationstates.net/region=me_and_the_boys_at_3am_looking_for_beans
 Stalins Holy Conglomerate,RO,1167,0:19:27,1750,0:29:10,False,https://www.nationstates.net/region=stalins_holy_conglomerate
+Imperial Ublekistan,RO,1167,0:19:27,1750,0:29:10,False,https://www.nationstates.net/region=imperial_ublekistan
 Portugal de Esquerda,RO,1170,0:19:30,1755,0:29:15,False,https://www.nationstates.net/region=portugal_de_esquerda
 The Bois,RO,1175,0:19:35,1762,0:29:22,False,https://www.nationstates.net/region=the_bois
 OwOsiris,"WFE, RO, Embassies",1179,0:19:39,1768,0:29:28,False,https://www.nationstates.net/region=owosiris
@@ -586,6 +600,8 @@ The National Republic,RO,1207,0:20:07,1810,0:30:10,False,https://www.nationstate
 The Republican Kingdoms of Europe,RO,1207,0:20:07,1811,0:30:11,False,https://www.nationstates.net/region=the_republican_kingdoms_of_europe
 accolades,RO,1211,0:20:11,1816,0:30:16,False,https://www.nationstates.net/region=accolades
 The Warsaw pact of the world,RO,1217,0:20:17,1825,0:30:25,False,https://www.nationstates.net/region=the_warsaw_pact_of_the_world
+free land,RO,1218,0:20:18,1827,0:30:27,False,https://www.nationstates.net/region=free_land
+Techno Union,RO,1219,0:20:19,1828,0:30:28,False,https://www.nationstates.net/region=techno_union
 Muchas Gracias,RO,1221,0:20:21,1831,0:30:31,False,https://www.nationstates.net/region=muchas_gracias
 Coral Reef 7,"WFE, RO, Embassies",1221,0:20:21,1831,0:30:31,False,https://www.nationstates.net/region=coral_reef_7
 Unirea Popoarelor Marii,RO,1221,0:20:21,1831,0:30:31,False,https://www.nationstates.net/region=unirea_popoarelor_marii
@@ -633,6 +649,7 @@ Boyle Corporation,Embassies,1306,0:21:46,1960,0:32:40,False,https://www.nationst
 Axiom Supercluster,"WFE, RO, Embassies",1308,0:21:48,1963,0:32:43,False,https://www.nationstates.net/region=axiom_supercluster
 Aberdare,RO,1312,0:21:52,1968,0:32:48,False,https://www.nationstates.net/region=aberdare
 The Gayish Economic Zone,"WFE, RO, Embassies",1312,0:21:52,1969,0:32:49,False,https://www.nationstates.net/region=the_gayish_economic_zone
+Southeastern Wisconsin,RO,1314,0:21:54,1972,0:32:52,False,https://www.nationstates.net/region=southeastern_wisconsin
 Floridia,RO,1315,0:21:55,1973,0:32:53,False,https://www.nationstates.net/region=floridia
 The Fangirls,RO,1320,0:22:00,1980,0:33:00,False,https://www.nationstates.net/region=the_fangirls
 Absconia,RO,1335,0:22:15,2002,0:33:22,False,https://www.nationstates.net/region=absconia
@@ -658,6 +675,7 @@ Connecticut,RO,1373,0:22:53,2060,0:34:20,False,https://www.nationstates.net/regi
 El glorioso planeta,RO,1376,0:22:56,2064,0:34:24,False,https://www.nationstates.net/region=el_glorioso_planeta
 a region by that name already exists,RO,1382,0:23:02,2073,0:34:33,False,https://www.nationstates.net/region=a_region_by_that_name_already_exists
 Chacha,RO,1384,0:23:04,2076,0:34:36,False,https://www.nationstates.net/region=chacha
+accentuated,RO,1385,0:23:05,2077,0:34:37,False,https://www.nationstates.net/region=accentuated
 Girls0Frontline0X0Crysis,RO,1386,0:23:06,2079,0:34:39,False,https://www.nationstates.net/region=girls0frontline0x0crysis
 The Imperialist Bloc,RO,1389,0:23:09,2083,0:34:43,False,https://www.nationstates.net/region=the_imperialist_bloc
 acclamatory,RO,1389,0:23:09,2084,0:34:44,False,https://www.nationstates.net/region=acclamatory
@@ -671,6 +689,7 @@ The North East Pacific,RO,1397,0:23:17,2096,0:34:56,False,https://www.nationstat
 Xenogender Club,RO,1399,0:23:19,2098,0:34:58,False,https://www.nationstates.net/region=xenogender_club
 Sumy Raion,RO,1399,0:23:19,2098,0:34:58,False,https://www.nationstates.net/region=sumy_raion
 Verthandi,RO,1401,0:23:21,2101,0:35:01,False,https://www.nationstates.net/region=verthandi
+Wyndmark,RO,1402,0:23:22,2102,0:35:02,False,https://www.nationstates.net/region=wyndmark
 Regional Representative Realm,WFE,1402,0:23:22,2103,0:35:03,False,https://www.nationstates.net/region=regional_representative_realm
 The Westerlands,RO,1402,0:23:22,2103,0:35:03,False,https://www.nationstates.net/region=the_westerlands
 ItBeLikeThatSometimes,"WFE, RO, Embassies",1402,0:23:22,2103,0:35:03,False,https://www.nationstates.net/region=itbelikethatsometimes
@@ -704,6 +723,7 @@ BNA British North Alliance,RO,1747,0:29:07,2621,0:43:41,False,https://www.nation
 Holy Russian Empire,RO,1748,0:29:08,2622,0:43:42,False,https://www.nationstates.net/region=holy_russian_empire
 UDN,RO,1749,0:29:09,2624,0:43:44,False,https://www.nationstates.net/region=udn
 Union of Christian Nations and States,"WFE, RO, Embassies",1750,0:29:10,2625,0:43:45,False,https://www.nationstates.net/region=union_of_christian_nations_and_states
+Americanada,RO,1750,0:29:10,2626,0:43:46,False,https://www.nationstates.net/region=americanada
 TerrorStates,RO,1751,0:29:11,2627,0:43:47,False,https://www.nationstates.net/region=terrorstates
 The Planet Of Erresia,"WFE, RO, Embassies",1753,0:29:13,2630,0:43:50,False,https://www.nationstates.net/region=the_planet_of_erresia
 rectica backup 2,"WFE, RO, Embassies",1754,0:29:14,2631,0:43:51,False,https://www.nationstates.net/region=rectica_backup_2
@@ -793,6 +813,7 @@ Ewrules,"WFE, Embassies",1874,0:31:14,2811,0:46:51,False,https://www.nationstate
 The Band Of The Red Hand,"WFE, RO, Embassies",1875,0:31:15,2813,0:46:53,False,https://www.nationstates.net/region=the_band_of_the_red_hand
 The Estamindian Island Chain,"WFE, RO, Embassies",1875,0:31:15,2813,0:46:53,False,https://www.nationstates.net/region=the_estamindian_island_chain
 Storm Nation,RO,1876,0:31:16,2814,0:46:54,False,https://www.nationstates.net/region=storm_nation
+The great region of Eli,RO,1877,0:31:17,2815,0:46:55,False,https://www.nationstates.net/region=the_great_region_of_eli
 acceptably,RO,1877,0:31:17,2815,0:46:55,False,https://www.nationstates.net/region=acceptably
 Chemish union,"WFE, RO, Embassies",1877,0:31:17,2816,0:46:56,False,https://www.nationstates.net/region=chemish_union
 killers of birds,"WFE, RO, Embassies",1878,0:31:18,2817,0:46:57,False,https://www.nationstates.net/region=killers_of_birds
@@ -852,6 +873,7 @@ Silvergrove,"WFE, RO, Embassies",1963,0:32:43,2944,0:49:04,False,https://www.nat
 The Free Nations of Amerigo Land,"WFE, RO, Embassies",1963,0:32:43,2944,0:49:04,False,https://www.nationstates.net/region=the_free_nations_of_amerigo_land
 Madyan,Embassies,1963,0:32:43,2944,0:49:04,False,https://www.nationstates.net/region=madyan
 The Cult of Obama,"RO, Embassies",1965,0:32:45,2947,0:49:07,False,https://www.nationstates.net/region=the_cult_of_obama
+Moistlandia Waterbearnie,RO,1966,0:32:46,2948,0:49:08,False,https://www.nationstates.net/region=moistlandia_waterbearnie
 La gran alianza mundial,"WFE, RO, Embassies",1974,0:32:54,2961,0:49:21,False,https://www.nationstates.net/region=la_gran_alianza_mundial
 United Nations of Rationality,"WFE, RO, Embassies",1975,0:32:55,2963,0:49:23,False,https://www.nationstates.net/region=united_nations_of_rationality
 Wispadan Sea,"WFE, RO, Embassies",1976,0:32:56,2964,0:49:24,False,https://www.nationstates.net/region=wispadan_sea
@@ -884,6 +906,7 @@ Stuff Cause I couldnt think of a name,RO,2027,0:33:47,3041,0:50:41,False,https:/
 Deep Sea 3,"WFE, RO, Embassies",2030,0:33:50,3045,0:50:45,False,https://www.nationstates.net/region=deep_sea_3
 Kyunawga,RO,2030,0:33:50,3046,0:50:46,False,https://www.nationstates.net/region=kyunawga
 The Pizza Entente,RO,2030,0:33:50,3046,0:50:46,False,https://www.nationstates.net/region=the_pizza_entente
+Oceancrest,RO,2031,0:33:51,3047,0:50:47,False,https://www.nationstates.net/region=oceancrest
 HipOnion,"WFE, RO",2032,0:33:52,3048,0:50:48,False,https://www.nationstates.net/region=hiponion
 Federation Epsilon Indi System,"WFE, RO, Embassies",2037,0:33:57,3056,0:50:56,False,https://www.nationstates.net/region=federation_epsilon_indi_system
 Space Nurse,"WFE, RO, Embassies",2037,0:33:57,3056,0:50:56,False,https://www.nationstates.net/region=space_nurse
@@ -898,6 +921,7 @@ Navern Perito,RO,2283,0:38:03,3425,0:57:05,False,https://www.nationstates.net/re
 Ikaros,"RO, Embassies",2285,0:38:05,3427,0:57:07,False,https://www.nationstates.net/region=ikaros
 raiding am I right,"RO, Embassies",2285,0:38:05,3427,0:57:07,False,https://www.nationstates.net/region=raiding_am_i_right
 Adusasha,RO,2286,0:38:06,3429,0:57:09,False,https://www.nationstates.net/region=adusasha
+Dictatorial Independent Confederation,RO,2289,0:38:09,3433,0:57:13,False,https://www.nationstates.net/region=dictatorial_independent_confederation
 Idealism Space,"WFE, RO, Embassies",2289,0:38:09,3433,0:57:13,False,https://www.nationstates.net/region=idealism_space
 Cryotopia,"WFE, RO, Embassies",2290,0:38:10,3434,0:57:14,False,https://www.nationstates.net/region=cryotopia
 absurdity,WFE,2291,0:38:11,3436,0:57:16,False,https://www.nationstates.net/region=absurdity
@@ -912,6 +936,7 @@ cANNabiS LaNd,RO,2301,0:38:21,3452,0:57:32,False,https://www.nationstates.net/re
 GIGA Federation,"RO, Embassies",2302,0:38:22,3453,0:57:33,False,https://www.nationstates.net/region=giga_federation
 Phules Paradise,"WFE, RO, Embassies",2302,0:38:22,3454,0:57:34,False,https://www.nationstates.net/region=phules_paradise
 South Bathwuerttemberg,RO,2396,0:39:56,3594,0:59:54,False,https://www.nationstates.net/region=south_bathwuerttemberg
+Union of Spain Nations,RO,2607,0:43:27,3911,1:05:11,False,https://www.nationstates.net/region=union_of_spain_nations
 Malphe,Embassies,2610,0:43:30,3915,1:05:15,False,https://www.nationstates.net/region=malphe
 Atlantic Arctic,"WFE, RO, Embassies",2618,0:43:38,3926,1:05:26,False,https://www.nationstates.net/region=atlantic_arctic
 Soviet States,"WFE, RO, Embassies",2618,0:43:38,3926,1:05:26,False,https://www.nationstates.net/region=soviet_states
@@ -924,8 +949,10 @@ Newfound Nations,"WFE, RO, Embassies",2627,0:43:47,3940,1:05:40,False,https://ww
 British Imperial Commonwealth,RO,2628,0:43:48,3941,1:05:41,False,https://www.nationstates.net/region=british_imperial_commonwealth
 Aukumnia,"WFE, RO, Embassies",2631,0:43:51,3947,1:05:47,False,https://www.nationstates.net/region=aukumnia
 Dyskil,"WFE, RO, Embassies",2631,0:43:51,3947,1:05:47,False,https://www.nationstates.net/region=dyskil
+Cair Paravel,RO,2631,0:43:51,3947,1:05:47,False,https://www.nationstates.net/region=cair_paravel
 Freddy Fazbears Pizza Hurricane Utah,"WFE, Embassies",2631,0:43:51,3947,1:05:47,False,https://www.nationstates.net/region=freddy_fazbears_pizza_hurricane_utah
 Fort of Solitude,"WFE, RO, Embassies",2634,0:43:54,3952,1:05:52,False,https://www.nationstates.net/region=fort_of_solitude
+Grace,RO,2634,0:43:54,3952,1:05:52,False,https://www.nationstates.net/region=grace
 Reichspakt,"RO, Embassies",2634,0:43:54,3952,1:05:52,False,https://www.nationstates.net/region=reichspakt
 The Reborn Foundation,Embassies,2638,0:43:58,3957,1:05:57,False,https://www.nationstates.net/region=the_reborn_foundation
 Minskiev Puppet Storage,"WFE, Embassies",2640,0:44:00,3961,1:06:01,False,https://www.nationstates.net/region=minskiev_puppet_storage
@@ -942,6 +969,7 @@ Devious Tyrant,"WFE, RO, Embassies",2649,0:44:09,3973,1:06:13,False,https://www.
 absolving,RO,2649,0:44:09,3974,1:06:14,False,https://www.nationstates.net/region=absolving
 Nakari,"WFE, RO, Embassies",2651,0:44:11,3977,1:06:17,False,https://www.nationstates.net/region=nakari
 Bharata Khanda,RO,2651,0:44:11,3977,1:06:17,False,https://www.nationstates.net/region=bharata_khanda
+Penguin,RO,2652,0:44:12,3978,1:06:18,False,https://www.nationstates.net/region=penguin
 World of Final Fantasy,"WFE, Embassies",2652,0:44:12,3978,1:06:18,False,https://www.nationstates.net/region=world_of_final_fantasy
 abruptly,"WFE, RO, Embassies",2652,0:44:12,3978,1:06:18,False,https://www.nationstates.net/region=abruptly
 The Federal Alliance,"WFE, Embassies",2652,0:44:12,3978,1:06:18,False,https://www.nationstates.net/region=the_federal_alliance
@@ -1007,6 +1035,7 @@ Greater Arcadia,RO,2898,0:48:18,4346,1:12:26,False,https://www.nationstates.net/
 Epic People United,"WFE, RO, Embassies",2901,0:48:21,4351,1:12:31,False,https://www.nationstates.net/region=epic_people_united
 The Collective Security Pact,RO,2903,0:48:23,4354,1:12:34,False,https://www.nationstates.net/region=the_collective_security_pact
 New World Roman Empire,RO,2903,0:48:23,4354,1:12:34,False,https://www.nationstates.net/region=new_world_roman_empire
+Union of monarchies,RO,2906,0:48:26,4359,1:12:39,False,https://www.nationstates.net/region=union_of_monarchies
 STREAMGATE France,RO,2907,0:48:27,4360,1:12:40,False,https://www.nationstates.net/region=streamgate_france
 ABTA,RO,2909,0:48:29,4364,1:12:44,False,https://www.nationstates.net/region=abta
 New East Berlin,"WFE, RO",2909,0:48:29,4364,1:12:44,False,https://www.nationstates.net/region=new_east_berlin
@@ -1026,12 +1055,16 @@ Middle World,RO,2916,0:48:36,4375,1:12:55,False,https://www.nationstates.net/reg
 DennistanRepublic,"WFE, RO, Embassies",2916,0:48:36,4375,1:12:55,False,https://www.nationstates.net/region=dennistanrepublic
 Kritarchy,"WFE, RO, Embassies",2917,0:48:37,4376,1:12:56,False,https://www.nationstates.net/region=kritarchy
 Annecy,"RO, Embassies",2918,0:48:38,4377,1:12:57,False,https://www.nationstates.net/region=annecy
+abominable,RO,2919,0:48:39,4379,1:12:59,False,https://www.nationstates.net/region=abominable
 Everescent,"RO, Embassies",2926,0:48:46,4389,1:13:09,False,https://www.nationstates.net/region=everescent
 All Sides,RO,2926,0:48:46,4389,1:13:09,False,https://www.nationstates.net/region=all_sides
 abomination,RO,3051,0:50:51,4577,1:16:17,False,https://www.nationstates.net/region=abomination
+abundance,RO,3060,0:51:00,4590,1:16:30,False,https://www.nationstates.net/region=abundance
 Ben,Embassies,3072,0:51:12,4607,1:16:47,True,https://www.nationstates.net/region=ben
 The Last Stand,RO,3085,0:51:25,4628,1:17:08,False,https://www.nationstates.net/region=the_last_stand
 pretoria federation,RO,3223,0:53:43,4834,1:20:34,False,https://www.nationstates.net/region=pretoria_federation
+The star empires,RO,3224,0:53:44,4836,1:20:36,False,https://www.nationstates.net/region=the_star_empires
 Lasagna RP Region,RO,3236,0:53:56,4853,1:20:53,False,https://www.nationstates.net/region=lasagna_rp_region
 Unified Socialist States,RO,3245,0:54:05,4868,1:21:08,False,https://www.nationstates.net/region=unified_socialist_states
+Sornia,RO,3261,0:54:21,4892,1:21:32,False,https://www.nationstates.net/region=sornia
 Devide by Zero,Embassies,3311,0:55:11,4966,1:22:46,False,https://www.nationstates.net/region=devide_by_zero

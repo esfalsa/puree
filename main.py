@@ -73,9 +73,9 @@ def find_issues(region):
             "region=valle_de_arena",
             "region=lily",
             "region=lone_wolves_united",
-            "https://www.forum.the-black-hawks.org",
-            "https://forums.europeians.com/index.php?forums/office-of-naval-recruitment.59364",
-            "https://www.nationstates.net/page=dispatch/id=1344417",
+            "www.forum.the-black-hawks.org",
+            "forums.europeians.com/index.php?forums/office-of-naval-recruitment.59364",
+            "www.nationstates.net/page=dispatch/id=1344417",
         ]
     ):
         issues.append("WFE")
@@ -106,7 +106,7 @@ def find_issues(region):
     ) or any(
         any(
             re.fullmatch(regex, officer_appointer)
-            for regex in ["guy_\d+", "rc_cola_\d+"]
+            for regex in ["guy_\d+", "rc_cola_\d+", "bobberino\d+"]
         )
         for officer_appointer in officer_appointers
     ):

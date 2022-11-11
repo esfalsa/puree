@@ -40,8 +40,8 @@ The Purée site displays all tagged regions found and allows users to filter tho
 The Purée parser searches daily dumps for tagged regions and outputs the regions found in CSV, JSON, and XLSX formats. To run the parser locally:
 
 1. Clone the repository: `git clone https://github.com/esfalsa/puree.git`
-2. Install dependencies: `pipenv install`
-3. Run the parser: `pipenv run python main.py`
+2. Install dependencies: `poetry install`
+3. Run the parser: `poetry run python main.py`
 
 ## Contributing
 
