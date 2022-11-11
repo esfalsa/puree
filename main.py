@@ -40,7 +40,6 @@ log(f"Found update length: {update_length} seconds.", level="info")
 
 
 def find_issues(region):
-
     if (
         region.find("NAME").text
         in [
@@ -54,60 +53,76 @@ def find_issues(region):
         or region.findall("./EMBASSIES/EMBASSY[.='Antifa']")
         or region.find("DELEGATE").text != "0"
     ):
-        return []
+        return {}
 
     issues = []
+    organizations = set()
 
     wfe = (region.find("FACTBOOK").text or "").lower()
 
-    if any(
-        substring in wfe
-        for substring in [
-            "[region]the brotherhood of malice[/region]",
-            "[region]the black hawks[/region]",
-            "[region]valle de arena[/region]",
-            "[region]lily[/region]",
-            "[region]lone wolves united[/region]",
-            "region=the_brotherhood_of_malice",
-            "region=the_black_hawks",
-            "region=valle_de_arena",
-            "region=lily",
-            "region=lone_wolves_united",
-            "www.forum.the-black-hawks.org",
-            "forums.europeians.com/index.php?forums/office-of-naval-recruitment.59364",
-            "www.nationstates.net/page=dispatch/id=1344417",
-        ]
-    ):
+    wfe_criteria = {
+        "[region]the brotherhood of malice[/region]": "BoM",
+        "[region]the black hawks[/region]": "TBH",
+        "[region]valle de arena[/region]": "Osiris",
+        "[region]lily[/region]": "Lily",
+        "[region]lone wolves united[/region]": "LWU",
+        "region=the_brotherhood_of_malice": "BoM",
+        "region=the_black_hawks": "TBH",
+        "region=valle_de_arena": "Osiris",
+        "region=lily": "Lily",
+        "region=lone_wolves_united": "LWU",
+        "www.forum.the-black-hawks.org": "TBH",
+        "forums.europeians.com/index.php?forums/office-of-naval-recruitment.59364": "ERN",
+        "www.nationstates.net/page=dispatch/id=1344417": "TWP",
+    }
+
+    flagged_wfe = [substring for substring in wfe_criteria if substring in wfe]
+
+    if flagged_wfe:
         issues.append("WFE")
+        organizations.update(
+            {wfe_criteria[key] for key in flagged_wfe if wfe_criteria[key] is not None}
+        )
 
     officers = region.find("OFFICERS").findall("OFFICER")
 
     officer_appointers = [officer.find("BY").text.lower() for officer in officers]
-
     officer_offices = [officer.find("OFFICE").text.lower() for officer in officers]
 
     roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
     # https://stackoverflow.com/a/267405
 
-    if any(
-        officer_office
-        in [
-            "raider unity",
-            "thorn1000",
-            "join tbh",
-            "join %%lily%%",
-            "lily",
-            "the funny",
-            "empress wasc",
-            "ern",
-            "twpirate",
-            "kanye omari west",
-            "aga gang",
-            "epsa",
-            "hellfire hawk",
-        ]
-        for officer_office in officer_offices
-    ) or any(
+    offices_criteria = {
+        "raider unity": None,
+        "thorn1000": None,
+        "join tbh": "TBH",
+        "join %%lily%%": "Lily",
+        "lily": "Lily",
+        "the funny": None,
+        "empress wasc": None,
+        "ern": "ERN",
+        "twpirate": "TWP",
+        "kanye omari west": None,
+        "aga gang": "EPSA",
+        "epsa": "EPSA",
+        "hellfire hawk": None,
+    }
+
+    flagged_offices = [
+        office for office in officer_offices if office in offices_criteria
+    ]
+
+    if flagged_offices:
+        issues.append("RO")
+        organizations.update(
+            {
+                offices_criteria[office]
+                for office in flagged_offices
+                if offices_criteria[office] is not None
+            }
+        )
+
+    if "RO" not in issues and any(
         any(
             re.fullmatch(regex, officer_appointer)
             for regex in [
@@ -149,50 +164,51 @@ def find_issues(region):
         if embassy.get("type") not in ["closing", "rejected"]
     ]
 
-    if any(
-        embassy
-        in [
-            "The Black Hawks",
-            "The Brotherhood of Malice",
-            "Valle de Arena",
-            "Red Front",
-            "Plum Island",
-            "Kingdom of Australia",
-            "Pasridi Confederacy",
-        ]
-        for embassy in embassies
-    ):
+    embassies_criteria = {
+        "The Black Hawks": "TBH",
+        "The Brotherhood of Malice": "BoM",
+        "Valle de Arena": "Osiris",
+        "Red Front": "TCB",
+        "Plum Island": "Lily",
+        "Kingdom of Australia": "EoGB",
+        "Pasridi Confederacy": "EPSA",
+    }
+
+    flagged_embassies = [
+        embassy for embassy in embassies if embassy in embassies_criteria
+    ]
+
+    if flagged_embassies:
         issues.append("Embassies")
+        organizations.update(
+            {
+                embassies_criteria[key]
+                for key in flagged_embassies
+                if embassies_criteria[key] is not None
+            }
+        )
 
-    return issues
-
-
-def embassy_status(region):
-    if any(
+    native_embassies = any(
         embassy.text
         for embassy in region.findall(f"./EMBASSIES/EMBASSY")
-        if region.find(f"./EMBASSIES/EMBASSY") is not None
-        and embassy.get("type") in ["closing", "rejected"]
-        and embassy.text
-        not in [
-            "The Black Hawks",
-            "The Brotherhood of Malice",
-            "Valle de Arena",
-            "Red Front",
-            "Plum Island",
-            "Kingdom of Australia",
-            "Pasridi Confederacy",
-        ]
-    ):
-        return True
-    return False
+        if embassy.get("type") in ["closing", "rejected"]
+        and embassy.text not in embassies_criteria
+    )
+
+    return {
+        "issues": issues,
+        "organizations": sorted(organizations),
+        "native_embassies": native_embassies,
+    }
 
 
 for region in track(region_nodes, description="Flagging regions…"):
     if region.find("NAME").text in passworded:
         continue
-    issues = find_issues(region)
-    if len(issues) > 0:
+
+    region_data = find_issues(region)
+
+    if "issues" in region_data and region_data["issues"]:
         name = region.find("NAME").text
         progress = (int(region.find("LASTUPDATE").text) - update_start) / update_length
         minor_progress = round(progress * 3600)
@@ -200,13 +216,16 @@ for region in track(region_nodes, description="Flagging regions…"):
 
         region_data = {
             "Region": f"{name}",
-            "Issues": f"{', '.join(issues)}",
+            "Issues": f"{', '.join(region_data['issues'])}",
             "Minor": minor_progress,
             "MinorTimestamp": f"{str(timedelta(seconds=minor_progress))}",
             "Major": major_progress,
             "MajorTimestamp": f"{str(timedelta(seconds=major_progress))}",
-            "NativeEmbassies": embassy_status(region),
+            "NativeEmbassies": region_data["native_embassies"],
             "Link": f"https://www.nationstates.net/region={name.lower().replace(' ', '_')}",
+            "Organizations": f"{', '.join(region_data['organizations'])}"
+            if region_data["organizations"]
+            else "Unknown",
         }
 
         for key, value in region_data.items():
