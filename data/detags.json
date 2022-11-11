@@ -1386,6 +1386,17 @@
     "Organizations":"BoM"
   },
   {
+    "Region":"Abby",
+    "Issues":"WFE",
+    "Minor":122,
+    "MinorTimestamp":"0:02:02",
+    "Major":183,
+    "MajorTimestamp":"0:03:03",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=abby",
+    "Organizations":"EPSA"
+  },
+  {
     "Region":"The Sea Of The Babies",
     "Issues":"WFE, RO, Embassies",
     "Minor":123,
@@ -1838,7 +1849,7 @@
   },
   {
     "Region":"Empire of British Embassies",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":260,
     "MinorTimestamp":"0:04:20",
     "Major":389,
@@ -2311,7 +2322,7 @@
   },
   {
     "Region":"The Memerica region",
-    "Issues":"RO",
+    "Issues":"WFE, RO",
     "Minor":332,
     "MinorTimestamp":"0:05:32",
     "Major":498,
@@ -3059,7 +3070,7 @@
   },
   {
     "Region":"accelerate",
-    "Issues":"RO",
+    "Issues":"WFE, RO",
     "Minor":469,
     "MinorTimestamp":"0:07:49",
     "Major":704,
@@ -3290,7 +3301,7 @@
   },
   {
     "Region":"The commonwealth of Comradeship",
-    "Issues":"RO",
+    "Issues":"WFE, RO",
     "Minor":519,
     "MinorTimestamp":"0:08:39",
     "Major":779,
@@ -3356,7 +3367,7 @@
   },
   {
     "Region":"United States of Glizzys",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":573,
     "MinorTimestamp":"0:09:33",
     "Major":860,
@@ -4093,7 +4104,7 @@
   },
   {
     "Region":"The Socialist Countries",
-    "Issues":"RO",
+    "Issues":"WFE, RO",
     "Minor":810,
     "MinorTimestamp":"0:13:30",
     "Major":1214,
@@ -4181,7 +4192,7 @@
   },
   {
     "Region":"Kepler 37b",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":828,
     "MinorTimestamp":"0:13:48",
     "Major":1242,
@@ -5556,7 +5567,7 @@
   },
   {
     "Region":"Jahkku",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":1112,
     "MinorTimestamp":"0:18:32",
     "Major":1669,
@@ -7162,7 +7173,7 @@
   },
   {
     "Region":"Proud Collection of Odi",
-    "Issues":"RO",
+    "Issues":"WFE, RO",
     "Minor":1323,
     "MinorTimestamp":"0:22:03",
     "Major":1984,
@@ -8086,7 +8097,7 @@
   },
   {
     "Region":"ThecountryofFinland",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":1663,
     "MinorTimestamp":"0:27:43",
     "Major":2495,
@@ -8812,7 +8823,7 @@
   },
   {
     "Region":"The Horrible Experiment",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":1867,
     "MinorTimestamp":"0:31:07",
     "Major":2800,
@@ -9571,7 +9582,7 @@
   },
   {
     "Region":"The Philippine Association",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":1935,
     "MinorTimestamp":"0:32:15",
     "Major":2902,
@@ -10484,7 +10495,7 @@
   },
   {
     "Region":"The Soldiers Realm",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":2269,
     "MinorTimestamp":"0:37:49",
     "Major":3403,
@@ -10737,7 +10748,7 @@
   },
   {
     "Region":"The New Eternal Empire",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":2611,
     "MinorTimestamp":"0:43:31",
     "Major":3917,
@@ -11188,7 +11199,7 @@
   },
   {
     "Region":"Kraterocracy",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":2807,
     "MinorTimestamp":"0:46:47",
     "Major":4210,
@@ -11573,7 +11584,7 @@
   },
   {
     "Region":"Adventure Time",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":2885,
     "MinorTimestamp":"0:48:05",
     "Major":4328,
@@ -12079,7 +12090,7 @@
   },
   {
     "Region":"Go Green",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":2973,
     "MinorTimestamp":"0:49:33",
     "Major":4460,
@@ -12145,7 +12156,7 @@
   },
   {
     "Region":"TEAM MORGZ",
-    "Issues":"WFE",
+    "Issues":"WFE, RO",
     "Minor":3107,
     "MinorTimestamp":"0:51:47",
     "Major":4661,

@@ -74,6 +74,7 @@ def find_issues(region):
         "www.forum.the-black-hawks.org": "TBH",
         "forums.europeians.com/index.php?forums/office-of-naval-recruitment.59364": "ERN",
         "www.nationstates.net/page=dispatch/id=1344417": "TWP",
+        "forum.theeastpacific.com/executive-application-thread-t16445.html": "EPSA",
     }
 
     flagged_wfe = [substring for substring in wfe_criteria if substring in wfe]
@@ -102,6 +103,7 @@ def find_issues(region):
         "empress wasc": None,
         "ern": "ERN",
         "twpirate": "TWP",
+        "twpirates": "TWP",
         "kanye omari west": None,
         "aga gang": "EPSA",
         "epsa": "EPSA",
