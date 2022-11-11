@@ -86,6 +86,9 @@ def find_issues(region):
 
     officer_offices = [officer.find("OFFICE").text.lower() for officer in officers]
 
+    roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
+    # https://stackoverflow.com/a/267405
+
     if any(
         officer_office
         in [
@@ -101,12 +104,40 @@ def find_issues(region):
             "kanye omari west",
             "aga gang",
             "epsa",
+            "hellfire hawk",
         ]
         for officer_office in officer_offices
     ) or any(
         any(
             re.fullmatch(regex, officer_appointer)
-            for regex in ["guy_\d+", "rc_cola_\d+", "bobberino\d+"]
+            for regex in [
+                "guy_\d+",
+                "rc_cola_\d+",
+                "ijaka(\d|10)",
+                "bobberino\d+",
+                "\d+(rd|th|nd|st)_catgirl_division",
+                "switz_got_lazy_\d+",
+                "switz_\d+",
+                "tls_\d+",
+                "flap_flap_boom_\d+",
+                "liliarchy_ancillary_\d+",
+                "lucklife_\d+",
+                "lurklife_\d+",
+                "wednesday_\d+",
+                "thursday_\d+",
+                "thorn\d+",
+                "wascoitan\d+",
+                "foxes_\d+",
+                "oversized_operativez_\d+",
+                "cretanja_garrison_\d+",
+                f"legionnaries_{roman_numeral_regex}",
+                f"legionnary_{roman_numeral_regex}",
+                "souls\d+",
+                "rb\d+",
+                "remus_\d+",
+                "yor_\d+",
+                "punch_from_mark_lee_\d+",
+            ]
         )
         for officer_appointer in officer_appointers
     ):
