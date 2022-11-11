@@ -22,6 +22,9 @@ setuptools = "63.4.2"
 six = "1.16.0"
 zope-interface = "5.4.0"
 
+[tool.poetry.group.dev.dependencies]
+black = "^22.10.0"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
