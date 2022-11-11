@@ -80,7 +80,7 @@ def find_issues(region):
 
     officers = region.find("OFFICERS").findall("OFFICER")
 
-    officer_nations = [officer.find("NATION").text.lower() for officer in officers]
+    officer_appointers = [officer.find("BY").text.lower() for officer in officers]
 
     officer_offices = [officer.find("OFFICE").text.lower() for officer in officers]
 
@@ -97,8 +97,8 @@ def find_issues(region):
         ]
         for officer_office in officer_offices
     ) or any(
-        any(re.fullmatch(regex, officer_nation) for regex in ["guy_\d+"])
-        for officer_nation in officer_nations
+        any(re.fullmatch(regex, officer_appointer) for regex in ["guy_\d+"])
+        for officer_appointer in officer_appointers
     ):
         issues.append("RO")
 
