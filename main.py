@@ -88,8 +88,12 @@ def find_issues(region):
 
     officers = region.find("OFFICERS").findall("OFFICER")
 
-    officer_appointers = [officer.find("BY").text.lower() for officer in officers]
-    officer_offices = [officer.find("OFFICE").text.lower() for officer in officers]
+    officer_appointers = [
+        (officer.find("BY").text or "").lower() for officer in officers
+    ]
+    officer_offices = [
+        (officer.find("OFFICE").text or "").lower() for officer in officers
+    ]
 
     roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
     # https://stackoverflow.com/a/267405
