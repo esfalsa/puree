@@ -6798,6 +6798,17 @@
     "Organizations":"Unknown"
   },
   {
+    "Region":"Amrak",
+    "Issues":"RO",
+    "Minor":1270,
+    "MinorTimestamp":"0:21:10",
+    "Major":1905,
+    "MajorTimestamp":"0:31:45",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=amrak",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"The Republican Kingdoms of Europe",
     "Issues":"RO",
     "Minor":1271,
