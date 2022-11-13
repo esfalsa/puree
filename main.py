@@ -166,6 +166,11 @@ def find_issues(region):
                 "upc_is_not_fast_\d+",
                 "beans_on_toast_\d+",
                 "bigred\d+",
+                "terberrinse_\d+",
+                "flame_of_chaos_\d+",
+                "narioni_\d+",
+                "jyezet_fighter_\d+",
+                f"{roman_numeral_regex}_proleterska_vazduhoplovna_brigada",
             ]
         )
         for officer_appointer in officer_appointers

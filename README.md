@@ -108,6 +108,11 @@ Regional officers are also flagged if they were appointed by a nation matching a
 - `upc_is_not_fast_\d+`
 - `beans_on_toast_\d+`
 - `bigred\d+`
+- `terberrinse_\d+`
+- `flame_of_chaos_\d+`
+- `narioni_\d+`
+- `jyezet_fighter_\d+`
+- `{roman_numeral_regex}_proleterska_vazduhoplovna_brigada`
 
 Here, `roman_numeral_regex` is substituted with the regular expression `m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})`.
 
