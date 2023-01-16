@@ -151,7 +151,7 @@ def find_issues(region):
                 "thursday_\d+",
                 "thorn\d+",
                 "wascoitan_?\d+",
-                "pineappe_on_pizza_is_good_\d+",
+                "pineapple_on_pizza_is_good_\d+",
                 "foxes_\d+",
                 "oversized_operativez_\d+",
                 "cretanja_garrison_\d+",
