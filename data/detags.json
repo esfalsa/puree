@@ -177,14 +177,14 @@
   },
   {
     "Region":"Austlandian region",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":44,
     "MinorTimestamp":"0:00:44",
     "Major":66,
     "MajorTimestamp":"0:01:06",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=austlandian_region",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"diomnlark",
@@ -221,14 +221,14 @@
   },
   {
     "Region":"Conglomerate of Slimes",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":49,
     "MinorTimestamp":"0:00:49",
     "Major":73,
     "MajorTimestamp":"0:01:13",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=conglomerate_of_slimes",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Yamstan Invasioxz",
@@ -275,6 +275,17 @@
     "Organizations":"Lily"
   },
   {
+    "Region":"Middle Eastern Bloc",
+    "Issues":"Embassies",
+    "Minor":51,
+    "MinorTimestamp":"0:00:51",
+    "Major":77,
+    "MajorTimestamp":"0:01:17",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=middle_eastern_bloc",
+    "Organizations":"Ijaka"
+  },
+  {
     "Region":"Dubno",
     "Issues":"WFE, RO, Embassies",
     "Minor":51,
@@ -287,14 +298,14 @@
   },
   {
     "Region":"Socialist Federation",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":55,
     "MinorTimestamp":"0:00:55",
     "Major":83,
     "MajorTimestamp":"0:01:23",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=socialist_federation",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"United Libertarian Naitions",
@@ -407,6 +418,17 @@
     "Organizations":"Lily, TCB"
   },
   {
+    "Region":"Syndir",
+    "Issues":"Embassies",
+    "Minor":67,
+    "MinorTimestamp":"0:01:07",
+    "Major":100,
+    "MajorTimestamp":"0:01:40",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=syndir",
+    "Organizations":"Ijaka"
+  },
+  {
     "Region":"Dark MAGA",
     "Issues":"WFE, RO, Embassies",
     "Minor":67,
@@ -463,14 +485,14 @@
   },
   {
     "Region":"Peaceful Region",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":75,
     "MinorTimestamp":"0:01:15",
     "Major":112,
     "MajorTimestamp":"0:01:52",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=peaceful_region",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Solidarity",
@@ -837,14 +859,14 @@
   },
   {
     "Region":"Southeast Usea",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":117,
     "MinorTimestamp":"0:01:57",
     "Major":176,
     "MajorTimestamp":"0:02:56",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=southeast_usea",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"The Gulf",
@@ -903,14 +925,14 @@
   },
   {
     "Region":"Atlae",
-    "Issues":"RO",
+    "Issues":"WFE, RO, Embassies",
     "Minor":123,
     "MinorTimestamp":"0:02:03",
     "Major":184,
     "MajorTimestamp":"0:03:04",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=atlae",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"abolished",
@@ -1101,14 +1123,14 @@
   },
   {
     "Region":"Youji",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":146,
     "MinorTimestamp":"0:02:26",
     "Major":219,
     "MajorTimestamp":"0:03:39",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=youji",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"North Antartica",
@@ -1175,6 +1197,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=manchuria_conscription",
     "Organizations":"TCB"
+  },
+  {
+    "Region":"Piglandpoop",
+    "Issues":"Embassies",
+    "Minor":166,
+    "MinorTimestamp":"0:02:46",
+    "Major":249,
+    "MajorTimestamp":"0:04:09",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=piglandpoop",
+    "Organizations":"Ijaka"
   },
   {
     "Region":"The Koprulu Sector",
@@ -1376,14 +1409,14 @@
   },
   {
     "Region":"Dumpious",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":206,
     "MinorTimestamp":"0:03:26",
     "Major":310,
     "MajorTimestamp":"0:05:10",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=dumpious",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Real brgs Bois",
@@ -1409,14 +1442,14 @@
   },
   {
     "Region":"accelerative",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":210,
     "MinorTimestamp":"0:03:30",
     "Major":316,
     "MajorTimestamp":"0:05:16",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=accelerative",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Kari Lehtonen",
@@ -1497,14 +1530,14 @@
   },
   {
     "Region":"Buzzistan",
-    "Issues":"RO",
+    "Issues":"WFE, RO, Embassies",
     "Minor":218,
     "MinorTimestamp":"0:03:38",
     "Major":327,
     "MajorTimestamp":"0:05:27",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=buzzistan",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"NFT",
@@ -1519,14 +1552,14 @@
   },
   {
     "Region":"The Solar System",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":219,
     "MinorTimestamp":"0:03:39",
     "Major":328,
     "MajorTimestamp":"0:05:28",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_solar_system",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Coincidentinent",
@@ -1603,7 +1636,7 @@
     "MajorTimestamp":"0:05:45",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_union_of_rightwing_nations",
-    "Organizations":"Lily, TBH"
+    "Organizations":"Ijaka, Lily, TBH"
   },
   {
     "Region":"Liberty Union",
@@ -1772,25 +1805,36 @@
   },
   {
     "Region":"The Steppes",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":276,
     "MinorTimestamp":"0:04:36",
     "Major":414,
     "MajorTimestamp":"0:06:54",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_steppes",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
+  },
+  {
+    "Region":"Arboreal",
+    "Issues":"Embassies",
+    "Minor":276,
+    "MinorTimestamp":"0:04:36",
+    "Major":414,
+    "MajorTimestamp":"0:06:54",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=arboreal",
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Khanubia",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":277,
     "MinorTimestamp":"0:04:37",
     "Major":416,
     "MajorTimestamp":"0:06:56",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=khanubia",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"the united front of eurasia",
@@ -1838,14 +1882,14 @@
   },
   {
     "Region":"abstrusely",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":283,
     "MinorTimestamp":"0:04:43",
     "Major":424,
     "MajorTimestamp":"0:07:04",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=abstrusely",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"OnlyNoodles",
@@ -1926,14 +1970,14 @@
   },
   {
     "Region":"Micronia",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":314,
     "MinorTimestamp":"0:05:14",
     "Major":471,
     "MajorTimestamp":"0:07:51",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=micronia",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Glory Universalis",
@@ -1948,14 +1992,14 @@
   },
   {
     "Region":"Imperial republics",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":316,
     "MinorTimestamp":"0:05:16",
     "Major":474,
     "MajorTimestamp":"0:07:54",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=imperial_republics",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"NationStates Fanfics",
@@ -2036,14 +2080,14 @@
   },
   {
     "Region":"accelerate",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":326,
     "MinorTimestamp":"0:05:26",
     "Major":490,
     "MajorTimestamp":"0:08:10",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=accelerate",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Tyrona",
@@ -2102,14 +2146,14 @@
   },
   {
     "Region":"Deep Sea 5",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":346,
     "MinorTimestamp":"0:05:46",
     "Major":519,
     "MajorTimestamp":"0:08:39",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=deep_sea_5",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"ChapoChat",
@@ -2146,14 +2190,25 @@
   },
   {
     "Region":"The Nucleauseas",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":351,
     "MinorTimestamp":"0:05:51",
     "Major":526,
     "MajorTimestamp":"0:08:46",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_nucleauseas",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
+  },
+  {
+    "Region":"Principes Mundi",
+    "Issues":"Embassies",
+    "Minor":389,
+    "MinorTimestamp":"0:06:29",
+    "Major":584,
+    "MajorTimestamp":"0:09:44",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=principes_mundi",
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Eridos",
@@ -2201,14 +2256,14 @@
   },
   {
     "Region":"Steam Punk",
-    "Issues":"RO",
+    "Issues":"WFE, RO, Embassies",
     "Minor":427,
     "MinorTimestamp":"0:07:07",
     "Major":640,
     "MajorTimestamp":"0:10:40",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=steam_punk",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Caestaeleshamm",
@@ -2366,14 +2421,14 @@
   },
   {
     "Region":"Smol Bean Paradise",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":460,
     "MinorTimestamp":"0:07:40",
     "Major":690,
     "MajorTimestamp":"0:11:30",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=smol_bean_paradise",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Fantastic",
@@ -2432,14 +2487,14 @@
   },
   {
     "Region":"The Diyarbakir Pact",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":473,
     "MinorTimestamp":"0:07:53",
     "Major":710,
     "MajorTimestamp":"0:11:50",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_diyarbakir_pact",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Anti TikTok Union",
@@ -2451,6 +2506,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=anti_tiktok_union",
     "Organizations":"TBH"
+  },
+  {
+    "Region":"Federation of sovereign nations",
+    "Issues":"Embassies",
+    "Minor":488,
+    "MinorTimestamp":"0:08:08",
+    "Major":732,
+    "MajorTimestamp":"0:12:12",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=federation_of_sovereign_nations",
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Dead Ahead",
@@ -2498,14 +2564,14 @@
   },
   {
     "Region":"The United States of TGK",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":496,
     "MinorTimestamp":"0:08:16",
     "Major":744,
     "MajorTimestamp":"0:12:24",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_united_states_of_tgk",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"absolves",
@@ -2542,14 +2608,14 @@
   },
   {
     "Region":"Calsor",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":656,
     "MinorTimestamp":"0:10:56",
     "Major":984,
     "MajorTimestamp":"0:16:24",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=calsor",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Golden Triangle",
@@ -2663,14 +2729,14 @@
   },
   {
     "Region":"Land of Royals and Kings",
-    "Issues":"RO",
+    "Issues":"WFE, RO, Embassies",
     "Minor":682,
     "MinorTimestamp":"0:11:22",
     "Major":1023,
     "MajorTimestamp":"0:17:03",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=land_of_royals_and_kings",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Boivert",
@@ -2718,14 +2784,14 @@
   },
   {
     "Region":"Johan Hedberg",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":693,
     "MinorTimestamp":"0:11:33",
     "Major":1040,
     "MajorTimestamp":"0:17:20",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=johan_hedberg",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"absence",
@@ -2860,6 +2926,17 @@
     "Organizations":"Lily"
   },
   {
+    "Region":"Great Monastai",
+    "Issues":"Embassies",
+    "Minor":734,
+    "MinorTimestamp":"0:12:14",
+    "Major":1102,
+    "MajorTimestamp":"0:18:22",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=great_monastai",
+    "Organizations":"Ijaka"
+  },
+  {
     "Region":"abundant",
     "Issues":"RO",
     "Minor":734,
@@ -2905,14 +2982,14 @@
   },
   {
     "Region":"ELITE",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":736,
     "MinorTimestamp":"0:12:16",
     "Major":1105,
     "MajorTimestamp":"0:18:25",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=elite",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Lutsk",
@@ -3048,14 +3125,14 @@
   },
   {
     "Region":"abut",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":763,
     "MinorTimestamp":"0:12:43",
     "Major":1144,
     "MajorTimestamp":"0:19:04",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=abut",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Imperium Romanorum",
@@ -3067,6 +3144,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=imperium_romanorum",
     "Organizations":"EoGB"
+  },
+  {
+    "Region":"Krasnohrad",
+    "Issues":"Embassies",
+    "Minor":801,
+    "MinorTimestamp":"0:13:21",
+    "Major":1201,
+    "MajorTimestamp":"0:20:01",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=krasnohrad",
+    "Organizations":"Ijaka"
   },
   {
     "Region":"the Crubish States",
@@ -3199,6 +3287,17 @@
     "NativeEmbassies":true,
     "Link":"https:\/\/www.nationstates.net\/region=kingdoms_league",
     "Organizations":"Osiris, TBH"
+  },
+  {
+    "Region":"NBF",
+    "Issues":"Embassies",
+    "Minor":842,
+    "MinorTimestamp":"0:14:02",
+    "Major":1264,
+    "MajorTimestamp":"0:21:04",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=nbf",
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Fortress of Teams",
@@ -3344,6 +3443,28 @@
     "Organizations":"TBH"
   },
   {
+    "Region":"United Socialists Alliance",
+    "Issues":"Embassies",
+    "Minor":951,
+    "MinorTimestamp":"0:15:51",
+    "Major":1426,
+    "MajorTimestamp":"0:23:46",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=united_socialists_alliance",
+    "Organizations":"Ijaka"
+  },
+  {
+    "Region":"Coalition of Chaos",
+    "Issues":"Embassies",
+    "Minor":953,
+    "MinorTimestamp":"0:15:53",
+    "Major":1429,
+    "MajorTimestamp":"0:23:49",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=coalition_of_chaos",
+    "Organizations":"Ijaka"
+  },
+  {
     "Region":"Cotalta",
     "Issues":"RO, Embassies",
     "Minor":954,
@@ -3422,14 +3543,14 @@
   },
   {
     "Region":"The Socialist Union of Eurasia",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":984,
     "MinorTimestamp":"0:16:24",
     "Major":1476,
     "MajorTimestamp":"0:24:36",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_socialist_union_of_eurasia",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Jashax",
@@ -3444,14 +3565,14 @@
   },
   {
     "Region":"Romny",
-    "Issues":"RO",
+    "Issues":"WFE, RO, Embassies",
     "Minor":985,
     "MinorTimestamp":"0:16:25",
     "Major":1477,
     "MajorTimestamp":"0:24:37",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=romny",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"The British Commonwealth",
@@ -3697,14 +3818,14 @@
   },
   {
     "Region":"abovementioned",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":1052,
     "MinorTimestamp":"0:17:32",
     "Major":1578,
     "MajorTimestamp":"0:26:18",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=abovementioned",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Dyzia",
@@ -3851,14 +3972,14 @@
   },
   {
     "Region":"Facist European Union",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":1078,
     "MinorTimestamp":"0:17:58",
     "Major":1618,
     "MajorTimestamp":"0:26:58",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=facist_european_union",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Berehove",
@@ -4045,7 +4166,7 @@
     "MajorTimestamp":"0:28:29",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=land_of_freedom_call",
-    "Organizations":"TBH"
+    "Organizations":"Ijaka, TBH"
   },
   {
     "Region":"The Gaddafist League",
@@ -4210,7 +4331,7 @@
     "MajorTimestamp":"0:29:07",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=palos",
-    "Organizations":"TBH"
+    "Organizations":"Ijaka, TBH"
   },
   {
     "Region":"BallsMoment",
@@ -4232,7 +4353,7 @@
     "MajorTimestamp":"0:29:09",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=allied_nations_of_glioca",
-    "Organizations":"EPSA"
+    "Organizations":"EPSA, Ijaka"
   },
   {
     "Region":"Kyorgia puppet storage",
@@ -4356,6 +4477,17 @@
     "Organizations":"TBH"
   },
   {
+    "Region":"Union of Independent States",
+    "Issues":"Embassies",
+    "Minor":1194,
+    "MinorTimestamp":"0:19:54",
+    "Major":1792,
+    "MajorTimestamp":"0:29:52",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=union_of_independent_states",
+    "Organizations":"Ijaka"
+  },
+  {
     "Region":"Stellar Crystal Tavern",
     "Issues":"Embassies",
     "Minor":1280,
@@ -4397,7 +4529,7 @@
     "MajorTimestamp":"0:32:09",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=tsp_femboys",
-    "Organizations":"TBH"
+    "Organizations":"Ijaka, TBH"
   },
   {
     "Region":"Mykolaiv",
@@ -4420,6 +4552,28 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=planet_eurth",
     "Organizations":"EPSA"
+  },
+  {
+    "Region":"TCOMD",
+    "Issues":"Embassies",
+    "Minor":1311,
+    "MinorTimestamp":"0:21:51",
+    "Major":1967,
+    "MajorTimestamp":"0:32:47",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=tcomd",
+    "Organizations":"Ijaka"
+  },
+  {
+    "Region":"Science Team",
+    "Issues":"Embassies",
+    "Minor":1311,
+    "MinorTimestamp":"0:21:51",
+    "Major":1967,
+    "MajorTimestamp":"0:32:47",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=science_team",
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Greater Heliumite Commonwealth",
@@ -4467,25 +4621,25 @@
   },
   {
     "Region":"Hykandia",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":1316,
     "MinorTimestamp":"0:21:56",
     "Major":1974,
     "MajorTimestamp":"0:32:54",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=hykandia",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Fastiv",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":1316,
     "MinorTimestamp":"0:21:56",
     "Major":1974,
     "MajorTimestamp":"0:32:54",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=fastiv",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Northeast Pacific",
@@ -4521,6 +4675,17 @@
     "Organizations":"Osiris"
   },
   {
+    "Region":"Naantali",
+    "Issues":"Embassies",
+    "Minor":1343,
+    "MinorTimestamp":"0:22:23",
+    "Major":2014,
+    "MajorTimestamp":"0:33:34",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=naantali",
+    "Organizations":"Ijaka"
+  },
+  {
     "Region":"Mato Mlieko",
     "Issues":"WFE, RO, Embassies",
     "Minor":1344,
@@ -4551,7 +4716,7 @@
     "MajorTimestamp":"0:33:48",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=tropicalia",
-    "Organizations":"EPSA"
+    "Organizations":"EPSA, Ijaka"
   },
   {
     "Region":"New Cyngland",
@@ -4584,7 +4749,7 @@
     "MajorTimestamp":"0:34:30",
     "NativeEmbassies":true,
     "Link":"https:\/\/www.nationstates.net\/region=united_comminist_powers",
-    "Organizations":"TBH"
+    "Organizations":"Ijaka, TBH"
   },
   {
     "Region":"accentuated",
@@ -4618,6 +4783,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=europa_union",
     "Organizations":"Lily"
+  },
+  {
+    "Region":"the keepers",
+    "Issues":"Embassies",
+    "Minor":1385,
+    "MinorTimestamp":"0:23:05",
+    "Major":2077,
+    "MajorTimestamp":"0:34:37",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_keepers",
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Coast of Love",
@@ -4676,14 +4852,14 @@
   },
   {
     "Region":"Alliance of Empires",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":1396,
     "MinorTimestamp":"0:23:16",
     "Major":2094,
     "MajorTimestamp":"0:34:54",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=alliance_of_empires",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"The Westerlands",
@@ -4706,6 +4882,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=chicken_overlords_advertisement_space",
     "Organizations":"EPSA"
+  },
+  {
+    "Region":"Empire of Diamonds",
+    "Issues":"Embassies",
+    "Minor":1411,
+    "MinorTimestamp":"0:23:31",
+    "Major":2116,
+    "MajorTimestamp":"0:35:16",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=empire_of_diamonds",
+    "Organizations":"Ijaka"
   },
   {
     "Region":"ChatGPT",
@@ -4752,6 +4939,17 @@
     "Organizations":"Osiris, TBH"
   },
   {
+    "Region":"Alphamungus",
+    "Issues":"Embassies",
+    "Minor":1742,
+    "MinorTimestamp":"0:29:02",
+    "Major":2613,
+    "MajorTimestamp":"0:43:33",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=alphamungus",
+    "Organizations":"Ijaka"
+  },
+  {
     "Region":"Matt Climie",
     "Issues":"Embassies",
     "Minor":1745,
@@ -4761,6 +4959,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=matt_climie",
     "Organizations":"Osiris"
+  },
+  {
+    "Region":"The Pacific Coast",
+    "Issues":"Embassies",
+    "Minor":1746,
+    "MinorTimestamp":"0:29:06",
+    "Major":2619,
+    "MajorTimestamp":"0:43:39",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_pacific_coast",
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Joseluinos",
@@ -4870,7 +5079,7 @@
     "MajorTimestamp":"0:44:23",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=shin_shippuden",
-    "Organizations":"TBH"
+    "Organizations":"Ijaka, TBH"
   },
   {
     "Region":"The 1970s",
@@ -5071,6 +5280,28 @@
     "Organizations":"BoM, Osiris"
   },
   {
+    "Region":"Onion World",
+    "Issues":"Embassies",
+    "Minor":1859,
+    "MinorTimestamp":"0:30:59",
+    "Major":2788,
+    "MajorTimestamp":"0:46:28",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=onion_world",
+    "Organizations":"Ijaka"
+  },
+  {
+    "Region":"Unity in Peace",
+    "Issues":"Embassies",
+    "Minor":1867,
+    "MinorTimestamp":"0:31:07",
+    "Major":2801,
+    "MajorTimestamp":"0:46:41",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=unity_in_peace",
+    "Organizations":"Ijaka"
+  },
+  {
     "Region":"Planet of Mars",
     "Issues":"WFE, Embassies",
     "Minor":1870,
@@ -5171,14 +5402,14 @@
   },
   {
     "Region":"Deezer Sea",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":1888,
     "MinorTimestamp":"0:31:28",
     "Major":2832,
     "MajorTimestamp":"0:47:12",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=deezer_sea",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"The great region of Eli",
@@ -5193,14 +5424,14 @@
   },
   {
     "Region":"Peoples Federation of Qandaristan",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":1891,
     "MinorTimestamp":"0:31:31",
     "Major":2837,
     "MajorTimestamp":"0:47:17",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=peoples_federation_of_qandaristan",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Holy Eastern Roman Empire",
@@ -5291,6 +5522,17 @@
     "Organizations":"TWP"
   },
   {
+    "Region":"Hiniosa",
+    "Issues":"Embassies",
+    "Minor":1913,
+    "MinorTimestamp":"0:31:53",
+    "Major":2869,
+    "MajorTimestamp":"0:47:49",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=hiniosa",
+    "Organizations":"Ijaka"
+  },
+  {
     "Region":"Richardsonson",
     "Issues":"RO",
     "Minor":1926,
@@ -5314,14 +5556,14 @@
   },
   {
     "Region":"Yetrunia",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":1928,
     "MinorTimestamp":"0:32:08",
     "Major":2892,
     "MajorTimestamp":"0:48:12",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=yetrunia",
-    "Organizations":"Unknown"
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Allied Automobile Empire",
@@ -5335,6 +5577,17 @@
     "Organizations":"Lily"
   },
   {
+    "Region":"The Imperial Region of Macho",
+    "Issues":"Embassies",
+    "Minor":1929,
+    "MinorTimestamp":"0:32:09",
+    "Major":2893,
+    "MajorTimestamp":"0:48:13",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_imperial_region_of_macho",
+    "Organizations":"Ijaka"
+  },
+  {
     "Region":"Kakodo Fan Club",
     "Issues":"RO",
     "Minor":1930,
@@ -5344,6 +5597,28 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=kakodo_fan_club",
     "Organizations":"Unknown"
+  },
+  {
+    "Region":"Cathloican Spanish",
+    "Issues":"Embassies",
+    "Minor":1948,
+    "MinorTimestamp":"0:32:28",
+    "Major":2922,
+    "MajorTimestamp":"0:48:42",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=cathloican_spanish",
+    "Organizations":"Ijaka"
+  },
+  {
+    "Region":"Kagora",
+    "Issues":"Embassies",
+    "Minor":1952,
+    "MinorTimestamp":"0:32:32",
+    "Major":2928,
+    "MajorTimestamp":"0:48:48",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=kagora",
+    "Organizations":"Ijaka"
   },
   {
     "Region":"Corrica",
@@ -5522,6 +5797,17 @@
     "Organizations":"Lily"
   },
   {
+    "Region":"The South Chicken Hood",
+    "Issues":"Embassies",
+    "Minor":1996,
+    "MinorTimestamp":"0:33:16",
+    "Major":2994,
+    "MajorTimestamp":"0:49:54",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_south_chicken_hood",
+    "Organizations":"Ijaka"
+  },
+  {
     "Region":"empire of crime",
     "Issues":"WFE, RO, Embassies",
     "Minor":2025,
@@ -5530,7 +5816,7 @@
     "MajorTimestamp":"0:50:37",
     "NativeEmbassies":true,
     "Link":"https:\/\/www.nationstates.net\/region=empire_of_crime",
-    "Organizations":"TBH"
+    "Organizations":"Ijaka, TBH"
   },
   {
     "Region":"Deep Sea 3",
