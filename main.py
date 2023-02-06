@@ -194,6 +194,7 @@ def find_issues(region):
         "Kingdom of Australia": "EoGB",
         "Pasridi Confederacy": "EPSA",
         "Ijaka": "Ijaka",
+        "Islarabia": None,
     }
 
     flagged_embassies = [

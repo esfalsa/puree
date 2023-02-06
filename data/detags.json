@@ -1606,6 +1606,17 @@
     "Organizations":"Lily, TBH"
   },
   {
+    "Region":"Lemon feetz",
+    "Issues":"Embassies",
+    "Minor":495,
+    "MinorTimestamp":"0:08:15",
+    "Major":743,
+    "MajorTimestamp":"0:12:23",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=lemon_feetz",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Union of Juche States",
     "Issues":"Embassies",
     "Minor":496,
@@ -3344,6 +3355,17 @@
     "Organizations":"EPSA, TBH"
   },
   {
+    "Region":"Free Nations of Polzone",
+    "Issues":"Embassies",
+    "Minor":1976,
+    "MinorTimestamp":"0:32:56",
+    "Major":2964,
+    "MajorTimestamp":"0:49:24",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=free_nations_of_polzone",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Realpolitik",
     "Issues":"WFE, RO, Embassies",
     "Minor":2004,
@@ -3540,6 +3562,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=eastern_american_union",
     "Organizations":"Lily, TBH"
+  },
+  {
+    "Region":"Nordic Intelligent Freedom",
+    "Issues":"Embassies",
+    "Minor":2944,
+    "MinorTimestamp":"0:49:04",
+    "Major":4416,
+    "MajorTimestamp":"1:13:36",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=nordic_intelligent_freedom",
+    "Organizations":"Unknown"
   },
   {
     "Region":"Ben",
