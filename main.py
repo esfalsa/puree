@@ -67,11 +67,13 @@ def find_issues(region):
         "[region]lily[/region]": "Lily",
         "[region]lone wolves united[/region]": "LWU",
         "[region]ijaka[.region]": "Ijaka",
+        "[region]the militia[/region]": None,
         "region=the_brotherhood_of_malice": "BoM",
         "region=the_black_hawks": "TBH",
         "region=valle_de_arena": "Osiris",
         "region=lily": "Lily",
         "region=ijaka": "Ijaka",
+        "region=the_militia": None,
         "lilystates.proboards.com": "Lily",
         "region=lone_wolves_united": "LWU",
         "www.forum.the-black-hawks.org": "TBH",
@@ -195,6 +197,7 @@ def find_issues(region):
         "Pasridi Confederacy": "EPSA",
         "Ijaka": "Ijaka",
         "Islarabia": None,
+        "The Militia": None,
     }
 
     flagged_embassies = [

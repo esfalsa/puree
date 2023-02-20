@@ -1,7 +1,7 @@
 [
   {
     "Region":"ELITE ACE TEAM",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":1,
     "MinorTimestamp":"0:00:01",
     "Major":1,
@@ -891,6 +891,17 @@
     "Organizations":"Ijaka"
   },
   {
+    "Region":"Dixies land",
+    "Issues":"WFE, Embassies",
+    "Minor":190,
+    "MinorTimestamp":"0:03:10",
+    "Major":285,
+    "MajorTimestamp":"0:04:45",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=dixies_land",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"absolved",
     "Issues":"RO",
     "Minor":205,
@@ -1276,6 +1287,17 @@
     "Organizations":"Ijaka"
   },
   {
+    "Region":"academic",
+    "Issues":"WFE, Embassies",
+    "Minor":326,
+    "MinorTimestamp":"0:05:26",
+    "Major":488,
+    "MajorTimestamp":"0:08:08",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=academic",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Eternal Southnorth",
     "Issues":"RO, Embassies",
     "Minor":336,
@@ -1285,6 +1307,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=eternal_southnorth",
     "Organizations":"Ijaka"
+  },
+  {
+    "Region":"Euros",
+    "Issues":"Embassies",
+    "Minor":350,
+    "MinorTimestamp":"0:05:50",
+    "Major":525,
+    "MajorTimestamp":"0:08:45",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=euros",
+    "Organizations":"Unknown"
   },
   {
     "Region":"NationStates Fanfics",
@@ -1485,6 +1518,17 @@
     "Organizations":"Ijaka"
   },
   {
+    "Region":"Metal Slug",
+    "Issues":"Embassies",
+    "Minor":472,
+    "MinorTimestamp":"0:07:52",
+    "Major":708,
+    "MajorTimestamp":"0:11:48",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=metal_slug",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"The fascist council",
     "Issues":"Embassies",
     "Minor":472,
@@ -1604,6 +1648,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwmw",
     "Organizations":"TBH"
+  },
+  {
+    "Region":"Warzone Singapore",
+    "Issues":"WFE, Embassies",
+    "Minor":668,
+    "MinorTimestamp":"0:11:08",
+    "Major":1002,
+    "MajorTimestamp":"0:16:42",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=warzone_singapore",
+    "Organizations":"Unknown"
   },
   {
     "Region":"Debate club",
@@ -1815,6 +1870,17 @@
     "Organizations":"BoM"
   },
   {
+    "Region":"E 206",
+    "Issues":"WFE, Embassies",
+    "Minor":735,
+    "MinorTimestamp":"0:12:15",
+    "Major":1103,
+    "MajorTimestamp":"0:18:23",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=e_206",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"GODZONE",
     "Issues":"RO",
     "Minor":741,
@@ -1881,6 +1947,17 @@
     "Organizations":"Unknown"
   },
   {
+    "Region":"Kewl Dudes",
+    "Issues":"Embassies",
+    "Minor":834,
+    "MinorTimestamp":"0:13:54",
+    "Major":1251,
+    "MajorTimestamp":"0:20:51",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=kewl_dudes",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"NatCons Crew",
     "Issues":"RO",
     "Minor":844,
@@ -1911,6 +1988,17 @@
     "MajorTimestamp":"0:24:33",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_catholic_alliance",
+    "Organizations":"Unknown"
+  },
+  {
+    "Region":"Scandinava",
+    "Issues":"Embassies",
+    "Minor":989,
+    "MinorTimestamp":"0:16:29",
+    "Major":1484,
+    "MajorTimestamp":"0:24:44",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=scandinava",
     "Organizations":"Unknown"
   },
   {
@@ -2011,6 +2099,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=banject_bois",
     "Organizations":"EPSA"
+  },
+  {
+    "Region":"Ayo",
+    "Issues":"Embassies",
+    "Minor":1068,
+    "MinorTimestamp":"0:17:48",
+    "Major":1602,
+    "MajorTimestamp":"0:26:42",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=ayo",
+    "Organizations":"Unknown"
   },
   {
     "Region":"United countrys",
@@ -2332,6 +2431,17 @@
     "Organizations":"Ijaka"
   },
   {
+    "Region":"Leyania",
+    "Issues":"Embassies",
+    "Minor":1275,
+    "MinorTimestamp":"0:21:15",
+    "Major":1912,
+    "MajorTimestamp":"0:31:52",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=leyania",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Authoritariania",
     "Issues":"RO",
     "Minor":1285,
@@ -2395,6 +2505,17 @@
     "MajorTimestamp":"0:32:43",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=unite_the_nations",
+    "Organizations":"Unknown"
+  },
+  {
+    "Region":"Old Zealand",
+    "Issues":"WFE, Embassies",
+    "Minor":1309,
+    "MinorTimestamp":"0:21:49",
+    "Major":1963,
+    "MajorTimestamp":"0:32:43",
+    "NativeEmbassies":true,
+    "Link":"https:\/\/www.nationstates.net\/region=old_zealand",
     "Organizations":"Unknown"
   },
   {
@@ -2563,6 +2684,17 @@
     "Organizations":"BoM, Ijaka"
   },
   {
+    "Region":"Most popular girls in school",
+    "Issues":"Embassies",
+    "Minor":1460,
+    "MinorTimestamp":"0:24:20",
+    "Major":2191,
+    "MajorTimestamp":"0:36:31",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=most_popular_girls_in_school",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Union of Green Socialist Nations",
     "Issues":"RO, Embassies",
     "Minor":1602,
@@ -2597,7 +2729,7 @@
   },
   {
     "Region":"Old World Union",
-    "Issues":"RO",
+    "Issues":"RO, Embassies",
     "Minor":1733,
     "MinorTimestamp":"0:28:53",
     "Major":2600,
@@ -2882,6 +3014,17 @@
     "Organizations":"Ijaka"
   },
   {
+    "Region":"The Ultimate Dictatorship",
+    "Issues":"WFE, Embassies",
+    "Minor":1977,
+    "MinorTimestamp":"0:32:57",
+    "Major":2965,
+    "MajorTimestamp":"0:49:25",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_ultimate_dictatorship",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Kyunawga",
     "Issues":"RO",
     "Minor":1997,
@@ -2902,6 +3045,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_brotherhood_of_malice_girl_scouts",
     "Organizations":"BoM"
+  },
+  {
+    "Region":"Laguna",
+    "Issues":"Embassies",
+    "Minor":2264,
+    "MinorTimestamp":"0:37:44",
+    "Major":3396,
+    "MajorTimestamp":"0:56:36",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=laguna",
+    "Organizations":"Unknown"
   },
   {
     "Region":"BoomOr Bomb",
@@ -2968,6 +3122,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=world_liberation_front",
     "Organizations":"EPSA"
+  },
+  {
+    "Region":"Zemenia",
+    "Issues":"Embassies",
+    "Minor":2620,
+    "MinorTimestamp":"0:43:40",
+    "Major":3930,
+    "MajorTimestamp":"1:05:30",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=zemenia",
+    "Organizations":"Unknown"
   },
   {
     "Region":"Malphe",
@@ -3111,6 +3276,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=ben",
     "Organizations":"Osiris"
+  },
+  {
+    "Region":"TEAM MORGZ",
+    "Issues":"Embassies",
+    "Minor":3169,
+    "MinorTimestamp":"0:52:49",
+    "Major":4753,
+    "MajorTimestamp":"1:19:13",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=team_morgz",
+    "Organizations":"Unknown"
   },
   {
     "Region":"United Nasia",
