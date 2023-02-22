@@ -22,6 +22,17 @@
     "Organizations":"Kantrias"
   },
   {
+    "Region":"Fathers Imperium",
+    "Issues":"RO",
+    "Minor":8,
+    "MinorTimestamp":"0:00:08",
+    "Major":12,
+    "MajorTimestamp":"0:00:12",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=fathers_imperium",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Yorkshire Establishment",
     "Issues":"WFE, RO",
     "Minor":37,
@@ -100,14 +111,14 @@
   },
   {
     "Region":"Conglomerate of Slimes",
-    "Issues":"RO, Embassies",
+    "Issues":"WFE, RO, Embassies",
     "Minor":58,
     "MinorTimestamp":"0:00:58",
     "Major":87,
     "MajorTimestamp":"0:01:27",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=conglomerate_of_slimes",
-    "Organizations":"Ijaka"
+    "Organizations":"Ijaka, Sparkalia"
   },
   {
     "Region":"The Covelandian Accords",
@@ -217,7 +228,7 @@
     "MajorTimestamp":"0:01:40",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=meow",
-    "Organizations":"TBH"
+    "Organizations":"Sparkalia, TBH"
   },
   {
     "Region":"The United Table of The Boys",
@@ -331,14 +342,14 @@
   },
   {
     "Region":"Peaceful Region",
-    "Issues":"RO, Embassies",
+    "Issues":"WFE, RO, Embassies",
     "Minor":79,
     "MinorTimestamp":"0:01:19",
     "Major":118,
     "MajorTimestamp":"0:01:58",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=peaceful_region",
-    "Organizations":"Ijaka"
+    "Organizations":"Ijaka, Sparkalia"
   },
   {
     "Region":"Solidarity",
@@ -360,7 +371,7 @@
     "MajorTimestamp":"0:02:08",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_ancient_realm",
-    "Organizations":"BoM"
+    "Organizations":"BoM, Sparkalia"
   },
   {
     "Region":"TODO MUNDO ODEIA O MEMEEEEE",
@@ -558,7 +569,7 @@
     "MajorTimestamp":"0:02:52",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=ischia",
-    "Organizations":"BoM"
+    "Organizations":"BoM, Sparkalia"
   },
   {
     "Region":"Yusmoydal",
@@ -683,14 +694,14 @@
   },
   {
     "Region":"abolished",
-    "Issues":"RO, Embassies",
+    "Issues":"WFE, RO, Embassies",
     "Minor":128,
     "MinorTimestamp":"0:02:08",
     "Major":192,
     "MajorTimestamp":"0:03:12",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=abolished",
-    "Organizations":"TBH"
+    "Organizations":"Sparkalia, TBH"
   },
   {
     "Region":"puppet storage 2",
@@ -701,7 +712,7 @@
     "MajorTimestamp":"0:03:14",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=puppet_storage_2",
-    "Organizations":"BoM"
+    "Organizations":"BoM, Sparkalia"
   },
   {
     "Region":"Kiansia Continent",
@@ -811,7 +822,7 @@
     "MajorTimestamp":"0:03:57",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=water_water_everywhere_but_not_a_drop_to",
-    "Organizations":"BoM, TBH"
+    "Organizations":"BoM, Sparkalia, TBH"
   },
   {
     "Region":"Manchuria Conscription",
@@ -823,6 +834,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=manchuria_conscription",
     "Organizations":"TCB"
+  },
+  {
+    "Region":"Skona",
+    "Issues":"RO",
+    "Minor":158,
+    "MinorTimestamp":"0:02:38",
+    "Major":237,
+    "MajorTimestamp":"0:03:57",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=skona",
+    "Organizations":"Unknown"
   },
   {
     "Region":"Piglandpoop",
@@ -847,6 +869,17 @@
     "Organizations":"TBH"
   },
   {
+    "Region":"The Skylands",
+    "Issues":"RO",
+    "Minor":179,
+    "MinorTimestamp":"0:02:59",
+    "Major":269,
+    "MajorTimestamp":"0:04:29",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_skylands",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Greater Alpines",
     "Issues":"Embassies",
     "Minor":179,
@@ -855,7 +888,7 @@
     "MajorTimestamp":"0:04:29",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=greater_alpines",
-    "Organizations":"TBH"
+    "Organizations":"Sparkalia, TBH"
   },
   {
     "Region":"Unitarian Union",
@@ -866,7 +899,7 @@
     "MajorTimestamp":"0:04:30",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=unitarian_union",
-    "Organizations":"TBH"
+    "Organizations":"Sparkalia, TBH"
   },
   {
     "Region":"South Asian Association for Cooperation",
@@ -944,6 +977,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=corklan_brewing_company",
     "Organizations":"Osiris"
+  },
+  {
+    "Region":"Damnations of Nations",
+    "Issues":"RO",
+    "Minor":233,
+    "MinorTimestamp":"0:03:53",
+    "Major":349,
+    "MajorTimestamp":"0:05:49",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=damnations_of_nations",
+    "Organizations":"Unknown"
   },
   {
     "Region":"Real brgs Bois",
@@ -1108,6 +1152,17 @@
     "MajorTimestamp":"0:06:13",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=coincidentinent",
+    "Organizations":"Unknown"
+  },
+  {
+    "Region":"region with the word Tractor in it",
+    "Issues":"RO",
+    "Minor":249,
+    "MinorTimestamp":"0:04:09",
+    "Major":374,
+    "MajorTimestamp":"0:06:14",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=region_with_the_word_tractor_in_it",
     "Organizations":"Unknown"
   },
   {
@@ -1320,6 +1375,17 @@
     "Organizations":"Unknown"
   },
   {
+    "Region":"Imperial republics",
+    "Issues":"RO",
+    "Minor":362,
+    "MinorTimestamp":"0:06:02",
+    "Major":544,
+    "MajorTimestamp":"0:09:04",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=imperial_republics",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"NationStates Fanfics",
     "Issues":"WFE, RO, Embassies",
     "Minor":364,
@@ -1373,6 +1439,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=mason_elemantery",
     "Organizations":"Osiris"
+  },
+  {
+    "Region":"The Greater Skytanian Reich",
+    "Issues":"RO",
+    "Minor":374,
+    "MinorTimestamp":"0:06:14",
+    "Major":561,
+    "MajorTimestamp":"0:09:21",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_greater_skytanian_reich",
+    "Organizations":"Unknown"
   },
   {
     "Region":"test 0001",
@@ -1430,6 +1507,17 @@
     "Organizations":"Ijaka"
   },
   {
+    "Region":"Deep Sea 5",
+    "Issues":"RO",
+    "Minor":401,
+    "MinorTimestamp":"0:06:41",
+    "Major":602,
+    "MajorTimestamp":"0:10:02",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=deep_sea_5",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Confederation of Outlying Nations",
     "Issues":"WFE, RO, Embassies",
     "Minor":445,
@@ -1439,6 +1527,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=confederation_of_outlying_nations",
     "Organizations":"Ijaka, Kantrias, TBH"
+  },
+  {
+    "Region":"ice cream social",
+    "Issues":"Embassies",
+    "Minor":446,
+    "MinorTimestamp":"0:07:26",
+    "Major":670,
+    "MajorTimestamp":"0:11:10",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=ice_cream_social",
+    "Organizations":"Sparkalia"
   },
   {
     "Region":"Leave Us Alone",
@@ -1526,7 +1625,7 @@
     "MajorTimestamp":"0:12:29",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_great_states_of_fascist_nudists",
-    "Organizations":"BoM, Lily, Osiris, TBH"
+    "Organizations":"BoM, Lily, Osiris, Sparkalia, TBH"
   },
   {
     "Region":"Eastatic",
@@ -1537,7 +1636,7 @@
     "MajorTimestamp":"0:12:29",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=eastatic",
-    "Organizations":"Ijaka"
+    "Organizations":"Ijaka, Sparkalia"
   },
   {
     "Region":"Metal Slug",
@@ -1603,7 +1702,7 @@
     "MajorTimestamp":"0:12:53",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_democratic_republic_of_gaelle",
-    "Organizations":"Osiris, TBH"
+    "Organizations":"Osiris, Sparkalia, TBH"
   },
   {
     "Region":"Kasterborous",
@@ -1728,14 +1827,14 @@
   },
   {
     "Region":"Johan Hedberg",
-    "Issues":"RO, Embassies",
+    "Issues":"WFE, RO, Embassies",
     "Minor":725,
     "MinorTimestamp":"0:12:05",
     "Major":1087,
     "MajorTimestamp":"0:18:07",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=johan_hedberg",
-    "Organizations":"Ijaka"
+    "Organizations":"Ijaka, Sparkalia"
   },
   {
     "Region":"The Islands of the Great Wrath",
@@ -1757,7 +1856,7 @@
     "MajorTimestamp":"0:18:07",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=absence",
-    "Organizations":"BoM, TBH"
+    "Organizations":"BoM, Sparkalia, TBH"
   },
   {
     "Region":"International Socialist Assembly",
@@ -1769,6 +1868,28 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=international_socialist_assembly",
     "Organizations":"TBH"
+  },
+  {
+    "Region":"Gonorrhea",
+    "Issues":"RO",
+    "Minor":740,
+    "MinorTimestamp":"0:12:20",
+    "Major":1110,
+    "MajorTimestamp":"0:18:30",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=gonorrhea",
+    "Organizations":"Unknown"
+  },
+  {
+    "Region":"Aegeus",
+    "Issues":"Embassies",
+    "Minor":745,
+    "MinorTimestamp":"0:12:25",
+    "Major":1117,
+    "MajorTimestamp":"0:18:37",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=aegeus",
+    "Organizations":"Sparkalia"
   },
   {
     "Region":"Frozen Wastes of Ralarii",
@@ -1805,14 +1926,14 @@
   },
   {
     "Region":"ELITE",
-    "Issues":"RO, Embassies",
+    "Issues":"WFE, RO, Embassies",
     "Minor":767,
     "MinorTimestamp":"0:12:47",
     "Major":1151,
     "MajorTimestamp":"0:19:11",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=elite",
-    "Organizations":"Ijaka"
+    "Organizations":"Ijaka, Sparkalia"
   },
   {
     "Region":"Lutsk",
@@ -1823,7 +1944,7 @@
     "MajorTimestamp":"0:19:11",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=lutsk",
-    "Organizations":"TBH"
+    "Organizations":"Sparkalia, TBH"
   },
   {
     "Region":"Confederate Nations of TomFoolery",
@@ -1922,7 +2043,7 @@
     "MajorTimestamp":"0:19:40",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=tmo",
-    "Organizations":"Osiris, TBH"
+    "Organizations":"Osiris, Sparkalia, TBH"
   },
   {
     "Region":"Walsingford",
@@ -2024,6 +2145,17 @@
     "Organizations":"Kantrias"
   },
   {
+    "Region":"Europe Temporaire",
+    "Issues":"WFE, Embassies",
+    "Minor":1049,
+    "MinorTimestamp":"0:17:29",
+    "Major":1574,
+    "MajorTimestamp":"0:26:14",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=europe_temporaire",
+    "Organizations":"Sparkalia"
+  },
+  {
     "Region":"Hurricane 22",
     "Issues":"RO, Embassies",
     "Minor":1051,
@@ -2109,7 +2241,7 @@
     "MajorTimestamp":"0:27:19",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_region_of_syuceton",
-    "Organizations":"BoM"
+    "Organizations":"BoM, Sparkalia"
   },
   {
     "Region":"The Council of Fantasian Masters",
@@ -2145,6 +2277,17 @@
     "Organizations":"Unknown"
   },
   {
+    "Region":"New memerica",
+    "Issues":"RO",
+    "Minor":1123,
+    "MinorTimestamp":"0:18:43",
+    "Major":1684,
+    "MajorTimestamp":"0:28:04",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=new_memerica",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Union des peuples libres",
     "Issues":"Embassies",
     "Minor":1123,
@@ -2175,7 +2318,7 @@
     "MajorTimestamp":"0:28:22",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=blood_and_iron_community_of_states",
-    "Organizations":"TBH"
+    "Organizations":"Sparkalia, TBH"
   },
   {
     "Region":"Barataria Bay",
@@ -2186,7 +2329,7 @@
     "MajorTimestamp":"0:28:25",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=barataria_bay",
-    "Organizations":"TBH"
+    "Organizations":"Sparkalia, TBH"
   },
   {
     "Region":"Banject Bois",
@@ -2252,7 +2395,7 @@
     "MajorTimestamp":"0:30:33",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=meth",
-    "Organizations":"Ijaka"
+    "Organizations":"Ijaka, Sparkalia"
   },
   {
     "Region":"Onionistlands",
@@ -2321,6 +2464,17 @@
     "Organizations":"Unknown"
   },
   {
+    "Region":"Aerope",
+    "Issues":"Embassies",
+    "Minor":1254,
+    "MinorTimestamp":"0:20:54",
+    "Major":1882,
+    "MajorTimestamp":"0:31:22",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=aerope",
+    "Organizations":"Sparkalia"
+  },
+  {
     "Region":"Unirea Popoarelor Marii",
     "Issues":"WFE, RO, Embassies",
     "Minor":1258,
@@ -2330,6 +2484,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=unirea_popoarelor_marii",
     "Organizations":"Lily"
+  },
+  {
+    "Region":"Horsia",
+    "Issues":"RO",
+    "Minor":1258,
+    "MinorTimestamp":"0:20:58",
+    "Major":1886,
+    "MajorTimestamp":"0:31:26",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=horsia",
+    "Organizations":"Unknown"
   },
   {
     "Region":"BallsMoment",
@@ -2351,7 +2516,7 @@
     "MajorTimestamp":"0:31:30",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=allied_nations_of_glioca",
-    "Organizations":"EPSA, Ijaka"
+    "Organizations":"EPSA, Ijaka, Sparkalia"
   },
   {
     "Region":"Kyorgia puppet storage",
@@ -2571,7 +2736,7 @@
     "MajorTimestamp":"0:35:19",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_sseyton_crusaders",
-    "Organizations":"BoM"
+    "Organizations":"BoM, Sparkalia"
   },
   {
     "Region":"unite the nations",
@@ -2637,7 +2802,7 @@
     "MajorTimestamp":"0:35:46",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=accesses",
-    "Organizations":"Osiris, TBH"
+    "Organizations":"Osiris, Sparkalia, TBH"
   },
   {
     "Region":"Shchastia",
@@ -2717,6 +2882,39 @@
     "Organizations":"BoM"
   },
   {
+    "Region":"The Union of Idontknow",
+    "Issues":"RO",
+    "Minor":1495,
+    "MinorTimestamp":"0:24:55",
+    "Major":2242,
+    "MajorTimestamp":"0:37:22",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_union_of_idontknow",
+    "Organizations":"Unknown"
+  },
+  {
+    "Region":"New Ancapistan",
+    "Issues":"WFE, Embassies",
+    "Minor":1555,
+    "MinorTimestamp":"0:25:55",
+    "Major":2333,
+    "MajorTimestamp":"0:38:53",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=new_ancapistan",
+    "Organizations":"Sparkalia"
+  },
+  {
+    "Region":"Nix Lustra",
+    "Issues":"RO",
+    "Minor":1561,
+    "MinorTimestamp":"0:26:01",
+    "Major":2341,
+    "MajorTimestamp":"0:39:01",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=nix_lustra",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Most popular girls in school",
     "Issues":"Embassies",
     "Minor":1579,
@@ -2725,6 +2923,17 @@
     "MajorTimestamp":"0:39:28",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=most_popular_girls_in_school",
+    "Organizations":"Unknown"
+  },
+  {
+    "Region":"Horrible Badness",
+    "Issues":"RO",
+    "Minor":1703,
+    "MinorTimestamp":"0:28:23",
+    "Major":2554,
+    "MajorTimestamp":"0:42:34",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=horrible_badness",
     "Organizations":"Unknown"
   },
   {
@@ -2772,6 +2981,17 @@
     "Organizations":"EPSA"
   },
   {
+    "Region":"Braden Holtby",
+    "Issues":"RO",
+    "Minor":1902,
+    "MinorTimestamp":"0:31:42",
+    "Major":2853,
+    "MajorTimestamp":"0:47:33",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=braden_holtby",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Hannah",
     "Issues":"RO",
     "Minor":1903,
@@ -2813,7 +3033,7 @@
     "MajorTimestamp":"0:48:25",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=unity_in_peace",
-    "Organizations":"Ijaka"
+    "Organizations":"Ijaka, Sparkalia"
   },
   {
     "Region":"academe",
@@ -2926,6 +3146,17 @@
     "Organizations":"Unknown"
   },
   {
+    "Region":"Philodendron",
+    "Issues":"WFE, Embassies",
+    "Minor":2023,
+    "MinorTimestamp":"0:33:43",
+    "Major":3035,
+    "MajorTimestamp":"0:50:35",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=philodendron",
+    "Organizations":"Sparkalia"
+  },
+  {
     "Region":"The Free Council",
     "Issues":"RO",
     "Minor":2031,
@@ -2946,6 +3177,28 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=lily_3_2",
     "Organizations":"Lily"
+  },
+  {
+    "Region":"Region of Magical Witchcraft and Sorcery",
+    "Issues":"RO",
+    "Minor":2040,
+    "MinorTimestamp":"0:34:00",
+    "Major":3060,
+    "MajorTimestamp":"0:51:00",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=region_of_magical_witchcraft_and_sorcery",
+    "Organizations":"Unknown"
+  },
+  {
+    "Region":"Hong Kong Macau",
+    "Issues":"RO",
+    "Minor":2095,
+    "MinorTimestamp":"0:34:55",
+    "Major":3143,
+    "MajorTimestamp":"0:52:23",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=hong_kong_macau",
+    "Organizations":"Unknown"
   },
   {
     "Region":"The Brotherhood of Malice Girl Scouts",

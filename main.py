@@ -69,6 +69,7 @@ def find_issues(region):
         "[region]ijaka[.region]": "Ijaka",
         "[region]the militia[/region]": None,
         "[region]kantrias[/region]": "Kantrias",
+        "[region]sparkalia[/region]": "Sparkalia",
         "region=the_brotherhood_of_malice": "BoM",
         "region=the_black_hawks": "TBH",
         "region=valle_de_arena": "Osiris",
@@ -76,6 +77,7 @@ def find_issues(region):
         "region=ijaka": "Ijaka",
         "region=the_militia": None,
         "region=kantrias": "Kantrias",
+        "region=sparkalia": "Sparkalia",
         "lilystates.proboards.com": "Lily",
         "region=lone_wolves_united": "LWU",
         "www.forum.the-black-hawks.org": "TBH",
@@ -202,6 +204,7 @@ def find_issues(region):
         "Ijaka": "Ijaka",
         "Islarabia": None,
         "The Militia": None,
+        "Agheasma": "Sparkalia",
     }
 
     flagged_embassies = [
