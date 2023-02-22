@@ -68,12 +68,14 @@ def find_issues(region):
         "[region]lone wolves united[/region]": "LWU",
         "[region]ijaka[.region]": "Ijaka",
         "[region]the militia[/region]": None,
+        "[region]kantrias[/region]": "Kantrias",
         "region=the_brotherhood_of_malice": "BoM",
         "region=the_black_hawks": "TBH",
         "region=valle_de_arena": "Osiris",
         "region=lily": "Lily",
         "region=ijaka": "Ijaka",
         "region=the_militia": None,
+        "region=kantrias": "Kantrias",
         "lilystates.proboards.com": "Lily",
         "region=lone_wolves_united": "LWU",
         "www.forum.the-black-hawks.org": "TBH",
@@ -117,6 +119,7 @@ def find_issues(region):
         "aga gang": "EPSA",
         "epsa": "EPSA",
         "hellfire hawk": None,
+        "kantrian overseer": "Kantrias",
     }
 
     flagged_offices = [

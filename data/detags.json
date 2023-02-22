@@ -11,6 +11,28 @@
     "Organizations":"Unknown"
   },
   {
+    "Region":"Occidentales",
+    "Issues":"WFE, RO",
+    "Minor":6,
+    "MinorTimestamp":"0:00:06",
+    "Major":9,
+    "MajorTimestamp":"0:00:09",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=occidentales",
+    "Organizations":"Kantrias"
+  },
+  {
+    "Region":"Yorkshire Establishment",
+    "Issues":"WFE, RO",
+    "Minor":37,
+    "MinorTimestamp":"0:00:37",
+    "Major":55,
+    "MajorTimestamp":"0:00:55",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=yorkshire_establishment",
+    "Organizations":"Kantrias"
+  },
+  {
     "Region":"Pacific Rim Isles",
     "Issues":"RO, Embassies",
     "Minor":41,
@@ -53,6 +75,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=diomnlark",
     "Organizations":"Lily"
+  },
+  {
+    "Region":"The snowy peninsula",
+    "Issues":"WFE, RO",
+    "Minor":57,
+    "MinorTimestamp":"0:00:57",
+    "Major":85,
+    "MajorTimestamp":"0:01:25",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_snowy_peninsula",
+    "Organizations":"Kantrias"
   },
   {
     "Region":"The Cascade",
@@ -393,7 +426,7 @@
     "MajorTimestamp":"0:02:14",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=kill_antifa",
-    "Organizations":"TBH"
+    "Organizations":"Kantrias, TBH"
   },
   {
     "Region":"Eroias",
@@ -1155,6 +1188,17 @@
     "Organizations":"BoM"
   },
   {
+    "Region":"The Grand Citadel",
+    "Issues":"WFE, RO",
+    "Minor":296,
+    "MinorTimestamp":"0:04:56",
+    "Major":443,
+    "MajorTimestamp":"0:07:23",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_grand_citadel",
+    "Organizations":"Kantrias"
+  },
+  {
     "Region":"Jxa",
     "Issues":"RO, Embassies",
     "Minor":297,
@@ -1394,7 +1438,7 @@
     "MajorTimestamp":"0:11:08",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=confederation_of_outlying_nations",
-    "Organizations":"Ijaka, TBH"
+    "Organizations":"Ijaka, Kantrias, TBH"
   },
   {
     "Region":"Leave Us Alone",
@@ -1615,6 +1659,28 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=dictators_of_nationstates",
     "Organizations":"TWP"
+  },
+  {
+    "Region":"The Zurg Region of Supreme Command",
+    "Issues":"WFE, RO",
+    "Minor":690,
+    "MinorTimestamp":"0:11:30",
+    "Major":1035,
+    "MajorTimestamp":"0:17:15",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_zurg_region_of_supreme_command",
+    "Organizations":"Kantrias"
+  },
+  {
+    "Region":"United Communist Coalition",
+    "Issues":"WFE, RO",
+    "Minor":702,
+    "MinorTimestamp":"0:11:42",
+    "Major":1053,
+    "MajorTimestamp":"0:17:33",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=united_communist_coalition",
+    "Organizations":"Kantrias"
   },
   {
     "Region":"Warzone Singapore",
@@ -1914,6 +1980,17 @@
     "Organizations":"Unknown"
   },
   {
+    "Region":"Sjajsjsj",
+    "Issues":"WFE, RO",
+    "Minor":858,
+    "MinorTimestamp":"0:14:18",
+    "Major":1288,
+    "MajorTimestamp":"0:21:28",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=sjajsjsj",
+    "Organizations":"Kantrias"
+  },
+  {
     "Region":"Kewl Dudes",
     "Issues":"Embassies",
     "Minor":878,
@@ -1934,6 +2011,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=natcons_crew",
     "Organizations":"Unknown"
+  },
+  {
+    "Region":"The Elder Province",
+    "Issues":"WFE, RO",
+    "Minor":893,
+    "MinorTimestamp":"0:14:53",
+    "Major":1339,
+    "MajorTimestamp":"0:22:19",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_elder_province",
+    "Organizations":"Kantrias"
   },
   {
     "Region":"Hurricane 22",
@@ -2024,6 +2112,17 @@
     "Organizations":"BoM"
   },
   {
+    "Region":"The Council of Fantasian Masters",
+    "Issues":"WFE, RO",
+    "Minor":1104,
+    "MinorTimestamp":"0:18:24",
+    "Major":1656,
+    "MajorTimestamp":"0:27:36",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_council_of_fantasian_masters",
+    "Organizations":"Kantrias"
+  },
+  {
     "Region":"Techno gays",
     "Issues":"Embassies",
     "Minor":1108,
@@ -2065,7 +2164,7 @@
     "MajorTimestamp":"0:28:20",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=dutch_waltuh_union",
-    "Organizations":"TBH"
+    "Organizations":"Kantrias, TBH"
   },
   {
     "Region":"Blood and Iron Community of States",

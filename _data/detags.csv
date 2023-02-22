@@ -1,9 +1,12 @@
 Region,Issues,Minor,MinorTimestamp,Major,MajorTimestamp,NativeEmbassies,Link,Organizations
 ELITE ACE TEAM,"RO, Embassies",0,0:00:00,0,0:00:00,False,https://www.nationstates.net/region=elite_ace_team,Unknown
+Occidentales,"WFE, RO",6,0:00:06,9,0:00:09,False,https://www.nationstates.net/region=occidentales,Kantrias
+Yorkshire Establishment,"WFE, RO",37,0:00:37,55,0:00:55,False,https://www.nationstates.net/region=yorkshire_establishment,Kantrias
 Pacific Rim Isles,"RO, Embassies",41,0:00:41,62,0:01:02,False,https://www.nationstates.net/region=pacific_rim_isles,Ijaka
 The Age of Man,Embassies,42,0:00:42,63,0:01:03,False,https://www.nationstates.net/region=the_age_of_man,TBH
 Racoonist Confederation,Embassies,52,0:00:52,78,0:01:18,False,https://www.nationstates.net/region=racoonist_confederation,Lily
 diomnlark,"WFE, RO, Embassies",53,0:00:53,80,0:01:20,False,https://www.nationstates.net/region=diomnlark,Lily
+The snowy peninsula,"WFE, RO",57,0:00:57,85,0:01:25,False,https://www.nationstates.net/region=the_snowy_peninsula,Kantrias
 The Cascade,Embassies,58,0:00:58,87,0:01:27,False,https://www.nationstates.net/region=the_cascade,BoM
 Conglomerate of Slimes,"RO, Embassies",58,0:00:58,87,0:01:27,False,https://www.nationstates.net/region=conglomerate_of_slimes,Ijaka
 The Covelandian Accords,Embassies,59,0:00:59,89,0:01:29,False,https://www.nationstates.net/region=the_covelandian_accords,"BoM, TBH"
@@ -34,7 +37,7 @@ accommodating,"WFE, RO, Embassies",86,0:01:26,129,0:02:09,False,https://www.nati
 Behind M4,RO,86,0:01:26,130,0:02:10,False,https://www.nationstates.net/region=behind_m4,Unknown
 Kilisis,"WFE, RO, Embassies",88,0:01:28,132,0:02:12,False,https://www.nationstates.net/region=kilisis,TBH
 Uman Raion,"WFE, RO, Embassies",90,0:01:30,134,0:02:14,False,https://www.nationstates.net/region=uman_raion,Lily
-kill antifa,"WFE, RO",90,0:01:30,134,0:02:14,False,https://www.nationstates.net/region=kill_antifa,TBH
+kill antifa,"WFE, RO",90,0:01:30,134,0:02:14,False,https://www.nationstates.net/region=kill_antifa,"Kantrias, TBH"
 Eroias,Embassies,90,0:01:30,135,0:02:15,False,https://www.nationstates.net/region=eroias,Osiris
 Dragonborn Confederate,RO,93,0:01:33,140,0:02:20,False,https://www.nationstates.net/region=dragonborn_confederate,Lily
 The Confederacy of German States,Embassies,93,0:01:33,140,0:02:20,False,https://www.nationstates.net/region=the_confederacy_of_german_states,TCB
@@ -104,6 +107,7 @@ The Grand British Union,"RO, Embassies",262,0:04:22,393,0:06:33,False,https://ww
 The Based Region,RO,265,0:04:25,398,0:06:38,False,https://www.nationstates.net/region=the_based_region,Unknown
 Unity of the Freedom,"RO, Embassies",272,0:04:32,408,0:06:48,False,https://www.nationstates.net/region=unity_of_the_freedom,EPSA
 Mokawawa,"WFE, RO, Embassies",279,0:04:39,419,0:06:59,False,https://www.nationstates.net/region=mokawawa,BoM
+The Grand Citadel,"WFE, RO",296,0:04:56,443,0:07:23,False,https://www.nationstates.net/region=the_grand_citadel,Kantrias
 Jxa,"RO, Embassies",297,0:04:57,445,0:07:25,False,https://www.nationstates.net/region=jxa,Ijaka
 The Boys LLC,"RO, Embassies",299,0:04:59,448,0:07:28,False,https://www.nationstates.net/region=the_boys_llc,Ijaka
 The west germanic provinces,WFE,315,0:05:15,473,0:07:53,False,https://www.nationstates.net/region=the_west_germanic_provinces,BoM
@@ -125,7 +129,7 @@ Feminist Frontier,RO,379,0:06:19,568,0:09:28,False,https://www.nationstates.net/
 Tyrona,Embassies,381,0:06:21,571,0:09:31,False,https://www.nationstates.net/region=tyrona,"EPSA, TBH"
 The Panzerstanian Empire,Embassies,381,0:06:21,572,0:09:32,False,https://www.nationstates.net/region=the_panzerstanian_empire,EPSA
 Union of National Freedom,"RO, Embassies",399,0:06:39,598,0:09:58,False,https://www.nationstates.net/region=union_of_national_freedom,Ijaka
-Confederation of Outlying Nations,"WFE, RO, Embassies",445,0:07:25,668,0:11:08,False,https://www.nationstates.net/region=confederation_of_outlying_nations,"Ijaka, TBH"
+Confederation of Outlying Nations,"WFE, RO, Embassies",445,0:07:25,668,0:11:08,False,https://www.nationstates.net/region=confederation_of_outlying_nations,"Ijaka, Kantrias, TBH"
 Leave Us Alone,"WFE, RO",478,0:07:58,717,0:11:57,False,https://www.nationstates.net/region=leave_us_alone,TBH
 Family Guy,Embassies,483,0:08:03,725,0:12:05,False,https://www.nationstates.net/region=family_guy,Unknown
 Union of Juche States,Embassies,488,0:08:08,732,0:12:12,False,https://www.nationstates.net/region=union_of_juche_states,Lily
@@ -146,6 +150,8 @@ The Planes of Discord,"WFE, RO, Embassies",526,0:08:46,790,0:13:10,False,https:/
 Chernivtsi Raion,Embassies,531,0:08:51,796,0:13:16,False,https://www.nationstates.net/region=chernivtsi_raion,EPSA
 Thr Embassy,"WFE, RO",532,0:08:52,797,0:13:17,False,https://www.nationstates.net/region=thr_embassy,Lily
 Dictators Of Nationstates,"WFE, RO",535,0:08:55,802,0:13:22,False,https://www.nationstates.net/region=dictators_of_nationstates,TWP
+The Zurg Region of Supreme Command,"WFE, RO",690,0:11:30,1035,0:17:15,False,https://www.nationstates.net/region=the_zurg_region_of_supreme_command,Kantrias
+United Communist Coalition,"WFE, RO",702,0:11:42,1053,0:17:33,False,https://www.nationstates.net/region=united_communist_coalition,Kantrias
 Warzone Singapore,"WFE, Embassies",703,0:11:43,1054,0:17:34,False,https://www.nationstates.net/region=warzone_singapore,Unknown
 Debate club,Embassies,713,0:11:53,1070,0:17:50,False,https://www.nationstates.net/region=debate_club,EPSA
 Moonlighters,"RO, Embassies",722,0:12:02,1083,0:18:03,False,https://www.nationstates.net/region=moonlighters,Ijaka
@@ -173,8 +179,10 @@ atlantiantic,"WFE, RO",841,0:14:01,1261,0:21:01,False,https://www.nationstates.n
 the Crubish States,"RO, Embassies",841,0:14:01,1262,0:21:02,False,https://www.nationstates.net/region=the_crubish_states,Ijaka
 Gurman land,RO,843,0:14:03,1265,0:21:05,False,https://www.nationstates.net/region=gurman_land,Unknown
 Alborada,Embassies,856,0:14:16,1284,0:21:24,False,https://www.nationstates.net/region=alborada,Unknown
+Sjajsjsj,"WFE, RO",858,0:14:18,1288,0:21:28,False,https://www.nationstates.net/region=sjajsjsj,Kantrias
 Kewl Dudes,Embassies,878,0:14:38,1317,0:21:57,False,https://www.nationstates.net/region=kewl_dudes,Unknown
 NatCons Crew,RO,889,0:14:49,1333,0:22:13,False,https://www.nationstates.net/region=natcons_crew,Unknown
+The Elder Province,"WFE, RO",893,0:14:53,1339,0:22:19,False,https://www.nationstates.net/region=the_elder_province,Kantrias
 Hurricane 22,"RO, Embassies",1051,0:17:31,1577,0:26:17,False,https://www.nationstates.net/region=hurricane_22,Ijaka
 The football,Embassies,1054,0:17:34,1580,0:26:20,False,https://www.nationstates.net/region=the_football,Unknown
 The Catholic Alliance,RO,1054,0:17:34,1581,0:26:21,False,https://www.nationstates.net/region=the_catholic_alliance,Unknown
@@ -183,10 +191,11 @@ Acta non verba,RO,1071,0:17:51,1606,0:26:46,False,https://www.nationstates.net/r
 Nightoria,Embassies,1080,0:18:00,1619,0:26:59,False,https://www.nationstates.net/region=nightoria,TBH
 Alpha Omega,RO,1093,0:18:13,1639,0:27:19,False,https://www.nationstates.net/region=alpha_omega,TBH
 The Region of Syuceton,Embassies,1093,0:18:13,1639,0:27:19,False,https://www.nationstates.net/region=the_region_of_syuceton,BoM
+The Council of Fantasian Masters,"WFE, RO",1104,0:18:24,1656,0:27:36,False,https://www.nationstates.net/region=the_council_of_fantasian_masters,Kantrias
 Techno gays,Embassies,1108,0:18:28,1662,0:27:42,False,https://www.nationstates.net/region=techno_gays,EPSA
 Tails Region,RO,1122,0:18:42,1683,0:28:03,False,https://www.nationstates.net/region=tails_region,Unknown
 Union des peuples libres,Embassies,1123,0:18:43,1685,0:28:05,False,https://www.nationstates.net/region=union_des_peuples_libres,Ijaka
-Dutch Waltuh Union,"WFE, RO",1134,0:18:54,1700,0:28:20,False,https://www.nationstates.net/region=dutch_waltuh_union,TBH
+Dutch Waltuh Union,"WFE, RO",1134,0:18:54,1700,0:28:20,False,https://www.nationstates.net/region=dutch_waltuh_union,"Kantrias, TBH"
 Blood and Iron Community of States,"WFE, RO, Embassies",1135,0:18:55,1702,0:28:22,False,https://www.nationstates.net/region=blood_and_iron_community_of_states,TBH
 Barataria Bay,"WFE, Embassies",1137,0:18:57,1705,0:28:25,False,https://www.nationstates.net/region=barataria_bay,TBH
 Banject Bois,"RO, Embassies",1139,0:18:59,1708,0:28:28,False,https://www.nationstates.net/region=banject_bois,EPSA
