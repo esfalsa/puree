@@ -178,6 +178,7 @@ def find_issues(region):
                 "narioni_\d+",
                 "jyezet_fighter_\d+",
                 f"{roman_numeral_regex}_proleterska_vazduhoplovna_brigada",
+                "fedaykin_\d+",
             ]
         )
         for officer_appointer in officer_appointers
