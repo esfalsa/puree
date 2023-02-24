@@ -91,7 +91,7 @@ Unified Capitalist Alliance,RO,245,0:04:05,367,0:06:07,False,https://www.nations
 Archination,RO,245,0:04:05,368,0:06:08,False,https://www.nationstates.net/region=archination,Unknown
 Egaliat,"WFE, RO, Embassies",246,0:04:06,369,0:06:09,False,https://www.nationstates.net/region=egaliat,TBH
 Hukashaka,RO,246,0:04:06,370,0:06:10,False,https://www.nationstates.net/region=hukashaka,Unknown
-Coral Reef 8,"RO, Embassies",254,0:04:14,381,0:06:21,False,https://www.nationstates.net/region=coral_reef_8,EPSA
+Coral Reef 8,"WFE, RO, Embassies",254,0:04:14,381,0:06:21,False,https://www.nationstates.net/region=coral_reef_8,EPSA
 Europeans union,RO,256,0:04:16,384,0:06:24,False,https://www.nationstates.net/region=europeans_union,Unknown
 Buzzistan,"WFE, RO, Embassies",256,0:04:16,384,0:06:24,False,https://www.nationstates.net/region=buzzistan,Ijaka
 Union of United Democratic States,"RO, Embassies",257,0:04:17,386,0:06:26,False,https://www.nationstates.net/region=union_of_united_democratic_states,Ijaka
@@ -127,7 +127,7 @@ The Panzerstanian Empire,Embassies,410,0:06:50,615,0:10:15,False,https://www.nat
 Deep Sea 5,RO,436,0:07:16,654,0:10:54,False,https://www.nationstates.net/region=deep_sea_5,Unknown
 Leave Us Alone,"WFE, RO",520,0:08:40,781,0:13:01,False,https://www.nationstates.net/region=leave_us_alone,TBH
 Union of Juche States,Embassies,539,0:08:59,809,0:13:29,False,https://www.nationstates.net/region=union_of_juche_states,Lily
-ez ur bad,Embassies,540,0:09:00,810,0:13:30,False,https://www.nationstates.net/region=ez_ur_bad,EPSA
+ez ur bad,"WFE, Embassies",540,0:09:00,810,0:13:30,False,https://www.nationstates.net/region=ez_ur_bad,EPSA
 Asphalt,"RO, Embassies",542,0:09:02,813,0:13:33,False,https://www.nationstates.net/region=asphalt,Ijaka
 League of Arabia,Embassies,544,0:09:04,816,0:13:36,True,https://www.nationstates.net/region=league_of_arabia,Ijaka
 The Great States of Fascist Nudists,"WFE, RO, Embassies",550,0:09:10,825,0:13:45,False,https://www.nationstates.net/region=the_great_states_of_fascist_nudists,"BoM, Lily, Osiris, Sparkalia, TBH"
@@ -187,7 +187,7 @@ Union des peuples libres,Embassies,1176,0:19:36,1765,0:29:25,False,https://www.n
 Dutch Waltuh Union,"WFE, RO",1185,0:19:45,1778,0:29:38,False,https://www.nationstates.net/region=dutch_waltuh_union,"Kantrias, TBH"
 Blood and Iron Community of States,"WFE, RO, Embassies",1186,0:19:46,1780,0:29:40,False,https://www.nationstates.net/region=blood_and_iron_community_of_states,"Sparkalia, TBH"
 Barataria Bay,"WFE, Embassies",1189,0:19:49,1783,0:29:43,False,https://www.nationstates.net/region=barataria_bay,"Sparkalia, TBH"
-Banject Bois,"RO, Embassies",1190,0:19:50,1785,0:29:45,False,https://www.nationstates.net/region=banject_bois,EPSA
+Banject Bois,"WFE, RO, Embassies",1190,0:19:50,1785,0:29:45,False,https://www.nationstates.net/region=banject_bois,EPSA
 Ayo,Embassies,1191,0:19:51,1787,0:29:47,False,https://www.nationstates.net/region=ayo,Unknown
 Antisocial League,"WFE, RO, Embassies",1191,0:19:51,1787,0:29:47,False,https://www.nationstates.net/region=antisocial_league,TBH
 United countrys,RO,1206,0:20:06,1809,0:30:09,False,https://www.nationstates.net/region=united_countrys,Unknown
@@ -204,7 +204,7 @@ Aerope,Embassies,1281,0:21:21,1921,0:32:01,False,https://www.nationstates.net/re
 Unirea Popoarelor Marii,"WFE, RO, Embassies",1283,0:21:23,1925,0:32:05,False,https://www.nationstates.net/region=unirea_popoarelor_marii,Lily
 Horsia,RO,1283,0:21:23,1925,0:32:05,False,https://www.nationstates.net/region=horsia,Unknown
 BallsMoment,"WFE, Embassies",1285,0:21:25,1927,0:32:07,False,https://www.nationstates.net/region=ballsmoment,"BoM, Osiris"
-Allied Nations of Glioca,"RO, Embassies",1285,0:21:25,1928,0:32:08,False,https://www.nationstates.net/region=allied_nations_of_glioca,"EPSA, Ijaka, Sparkalia"
+Allied Nations of Glioca,"WFE, RO, Embassies",1285,0:21:25,1928,0:32:08,False,https://www.nationstates.net/region=allied_nations_of_glioca,"EPSA, Ijaka, Sparkalia"
 Kyorgia puppet storage,Embassies,1286,0:21:26,1929,0:32:09,False,https://www.nationstates.net/region=kyorgia_puppet_storage,"EPSA, Lily, Osiris, TBH"
 SALMEGIA,Embassies,1287,0:21:27,1931,0:32:11,False,https://www.nationstates.net/region=salmegia,TBH
 The Empire Of The Magisterium,Embassies,1288,0:21:28,1932,0:32:12,False,https://www.nationstates.net/region=the_empire_of_the_magisterium,TBH

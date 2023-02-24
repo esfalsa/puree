@@ -84,6 +84,7 @@ def find_issues(region):
         "forums.europeians.com/index.php?forums/office-of-naval-recruitment.59364": "ERN",
         "www.nationstates.net/page=dispatch/id=1344417": "TWP",
         "forum.theeastpacific.com/executive-application-thread-t16445.html": "EPSA",
+        "forum.theeastpacific.com/t/apply-to-join-the-eastern-pacific-sovereign-army/16275": "EPSA",
     }
 
     flagged_wfe = [substring for substring in wfe_criteria if substring in wfe]

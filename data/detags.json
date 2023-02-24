@@ -1013,7 +1013,7 @@
   },
   {
     "Region":"Coral Reef 8",
-    "Issues":"RO, Embassies",
+    "Issues":"WFE, RO, Embassies",
     "Minor":254,
     "MinorTimestamp":"0:04:14",
     "Major":381,
@@ -1409,7 +1409,7 @@
   },
   {
     "Region":"ez ur bad",
-    "Issues":"Embassies",
+    "Issues":"WFE, Embassies",
     "Minor":540,
     "MinorTimestamp":"0:09:00",
     "Major":810,
@@ -2069,7 +2069,7 @@
   },
   {
     "Region":"Banject Bois",
-    "Issues":"RO, Embassies",
+    "Issues":"WFE, RO, Embassies",
     "Minor":1190,
     "MinorTimestamp":"0:19:50",
     "Major":1785,
@@ -2256,7 +2256,7 @@
   },
   {
     "Region":"Allied Nations of Glioca",
-    "Issues":"RO, Embassies",
+    "Issues":"WFE, RO, Embassies",
     "Minor":1285,
     "MinorTimestamp":"0:21:25",
     "Major":1928,
