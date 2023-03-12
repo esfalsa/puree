@@ -85,6 +85,7 @@ def find_issues(region):
         "www.nationstates.net/page=dispatch/id=1344417": "TWP",
         "forum.theeastpacific.com/executive-application-thread-t16445.html": "EPSA",
         "forum.theeastpacific.com/t/apply-to-join-the-eastern-pacific-sovereign-army/16275": "EPSA",
+        "tag run": None,
     }
 
     flagged_wfe = [substring for substring in wfe_criteria if substring in wfe]
@@ -123,6 +124,7 @@ def find_issues(region):
         "epsa": "EPSA",
         "hellfire hawk": None,
         "kantrian overseer": "Kantrias",
+        "thaempirial army": None,
     }
 
     flagged_offices = [
