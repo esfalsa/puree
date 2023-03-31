@@ -1,0 +1,62 @@
+---
+layout: default
+title: Practice
+---
+
+<div class="card my-2">
+  <div class="card-body">
+    <p class="mb-1">
+      <strong>Last updated:</strong> {% include lastupdate.html %}
+    </p>
+    <p class="mb-1">
+      <strong>Last daily dump:</strong> {% include lastdump.html %}
+    </p>
+    <p class="mb-1">
+      <strong>Regions found:</strong> {% include practice_count.html %}
+    </p>
+
+    <div class="mt-2 d-flex flex-column flex-md-row gap-2 gap-md-3">
+      <a
+        href="data/practice_detags.csv"
+        class="text-decoration-none d-inline-flex flex-row align-items-center gap-1"
+        download
+      >
+        {% include icons/download.html %} Download CSV</a
+      >
+      <a
+        href="data/practice_detags.json"
+        class="text-decoration-none d-inline-flex flex-row align-items-center gap-1"
+        download
+      >
+        {% include icons/download.html %} Download JSON</a
+      >
+      <a
+        href="data/practice_detags.xlsx"
+        class="text-decoration-none d-inline-flex flex-row align-items-center gap-1"
+        download
+      >
+        {% include icons/download.html %} Download Excel Sheet</a
+      >
+    </div>
+  </div>
+</div>
+
+<div class="overflow-scroll">
+  <table
+    class="table table-sm table-hover"
+    style="font-variant-numeric: tabular-nums"
+  >
+    <thead>
+      <tr>
+        <th scope="col">Region</th>
+        <th scope="col">Issues</th>
+        <th scope="col">Organizations</th>
+        <th scope="col">Minor</th>
+        <th scope="col">Major</th>
+      </tr>
+    </thead>
+    <tbody id="detags-tbody">
+      {% include practice_detags.html %}
+    </tbody>
+  </table>
+</div>

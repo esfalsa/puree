@@ -29,6 +29,7 @@ log("Loaded daily dump.", level="success")
 root = tree.getroot()
 
 regions = []
+practice_regions = []
 
 region_nodes = root.findall("REGION")
 log("Loaded all regions.", level="success")
@@ -231,10 +232,74 @@ def find_issues(region):
         and embassy.text not in embassies_criteria
     )
 
+    # if issues found, report them
+    if issues:
+        # print(issues)
+        return {
+            "issues": issues,
+            "organizations": sorted(organizations),
+            "native_embassies": native_embassies,
+        }
+
+    # otherwise, check for practice detags
+
+    practice_issues = []
+    practice_organizations = set()
+
+    practice_wfe_criteria = {
+        "Help cleanse this region of the [b][color=C7996C]thiccness[/color][/b], the [b][color=C7996C]gooeyness[/color][/b], and the [b][color=E3CBA1]drip[/color][/b]... [b][color=D6B589]drip[/color][/b]... [b][color=C7996C]drip[/color][/b]... of eggnog by detagging it.": "Eggnog"
+    }
+
+    practice_flagged_wfe = [
+        substring for substring in practice_wfe_criteria if substring in wfe
+    ]
+
+    if practice_flagged_wfe:
+        practice_issues.append("WFE")
+        practice_organizations.update(
+            {
+                practice_wfe_criteria[key]
+                for key in practice_flagged_wfe
+                if practice_wfe_criteria[key] is not None
+            }
+        )
+
+    practice_offices_criteria = {"eggnog": "Eggnog"}
+
+    practice_flagged_offices = [
+        office for office in officer_offices if office in practice_offices_criteria
+    ]
+
+    if practice_flagged_offices:
+        issues.append("RO")
+        practice_organizations.update(
+            {
+                practice_offices_criteria[office]
+                for office in practice_flagged_offices
+                if practice_offices_criteria[office] is not None
+            }
+        )
+
+    practice_embassies_criteria = {"Eggnog": "Eggnog"}
+
+    practice_flagged_embassies = [
+        embassy for embassy in embassies if embassy in practice_embassies_criteria
+    ]
+
+    if practice_flagged_embassies:
+        practice_issues.append("Embassies")
+        practice_organizations.update(
+            {
+                practice_embassies_criteria[key]
+                for key in practice_flagged_embassies
+                if practice_embassies_criteria[key] is not None
+            }
+        )
+
     return {
-        "issues": issues,
-        "organizations": sorted(organizations),
-        "native_embassies": native_embassies,
+        "practice_issues": practice_issues,
+        "organizations": sorted(practice_organizations),
+        "native_embassies": False,
     }
 
 
@@ -242,9 +307,12 @@ for region in track(region_nodes, description="Flagging regions…"):
     if region.find("NAME").text in passworded:
         continue
 
-    region_data = find_issues(region)
+    region_issues = find_issues(region)
 
-    if "issues" in region_data and region_data["issues"]:
+    if ("issues" in region_issues and region_issues["issues"]) or (
+        "practice_issues" in region_issues and region_issues["practice_issues"]
+    ):
+
         name = region.find("NAME").text
         progress = (int(region.find("LASTUPDATE").text) - update_start) / update_length
         minor_progress = round(progress * 3600)
@@ -252,15 +320,15 @@ for region in track(region_nodes, description="Flagging regions…"):
 
         region_data = {
             "Region": f"{name}",
-            "Issues": f"{', '.join(region_data['issues'])}",
+            "Issues": f"{', '.join(region_issues['issues'])}",
             "Minor": minor_progress,
             "MinorTimestamp": f"{str(timedelta(seconds=minor_progress))}",
             "Major": major_progress,
             "MajorTimestamp": f"{str(timedelta(seconds=major_progress))}",
-            "NativeEmbassies": region_data["native_embassies"],
+            "NativeEmbassies": region_issues["native_embassies"],
             "Link": f"https://www.nationstates.net/region={name.lower().replace(' ', '_')}",
-            "Organizations": f"{', '.join(region_data['organizations'])}"
-            if region_data["organizations"]
+            "Organizations": f"{', '.join(region_issues['organizations'])}"
+            if region_issues["organizations"]
             else "Unknown",
         }
 
@@ -268,7 +336,17 @@ for region in track(region_nodes, description="Flagging regions…"):
             if type(value) is str and value[0] in ["=", "+", "-", "@"]:
                 region_data[key] = f"'{value}"
 
-        regions.append(region_data)
+        # if "Region" not in region_data:
+        #     print(region_data, region_issues)
+
+        if "issues" in region_issues and region_issues["issues"]:
+            regions.append(region_data)
+        elif "practice_issues" in region_issues and region_issues["practice_issues"]:
+            practice_regions.append(region_data)
+
+    # elif "practice_issues" in region_data and region_data["practice_issues"]:
+
+# print(regions)
 
 today = (datetime.utcfromtimestamp(update_start) - timedelta(1)).strftime("%d %B %Y")
 
@@ -297,3 +375,17 @@ if today not in history.index:
     log("Recorded history.", level="info")
 else:
     log("No new history entries found.", level="info")
+
+if practice_regions:
+    practice_detags = pd.DataFrame.from_records(practice_regions, index="Region")
+    practice_detags.to_csv("_data/practice_detags.csv")
+    practice_detags.to_csv("data/practice_detags.csv")
+    detags.to_excel("data/practice_detags.xlsx", sheet_name=today)
+    practice_detags.reset_index().to_json(
+        "data/practice_detags.json", orient="records", indent=2
+    )
+
+log(f"Recorded {len(practice_regions)} practice_detags found.", level="success")
+
+with open("_includes/practice_count.html", "w") as outfile:
+    outfile.write(str(len(practice_regions)))
