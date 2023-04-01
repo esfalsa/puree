@@ -65,6 +65,10 @@ wfe_criteria = {
     "forum.theeastpacific.com/executive-application-thread-t16445.html": "EPSA",
     "forum.theeastpacific.com/t/apply-to-join-the-eastern-pacific-sovereign-army/16275": "EPSA",
     "tag run": None,
+    "www.nationstates.net/nation=huben/detail=factbook/id=1585974": "Kaiserreich",
+    "www.youtube.com/watch?v=em8GF93zQfk".lower(): "Kaiserreich",
+    "list=PLErS5N1ZzdNvmV-TD8VqhvfCeHcfPwq5U".lower(): "Kaiserreich",
+    # Kaiserreich playlist (https://www.youtube.com/playlist?list=PLErS5N1ZzdNvmV-TD8VqhvfCeHcfPwq5U)
 }
 
 roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"

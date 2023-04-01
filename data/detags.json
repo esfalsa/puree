@@ -528,6 +528,17 @@
     "Organizations":"Ijaka"
   },
   {
+    "Region":"United together",
+    "Issues":"WFE",
+    "Minor":1267,
+    "MinorTimestamp":"0:21:07",
+    "Major":1901,
+    "MajorTimestamp":"0:31:41",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=united_together",
+    "Organizations":"Kaiserreich"
+  },
+  {
     "Region":"Za Za garden",
     "Issues":"Embassies",
     "Minor":1273,
@@ -724,6 +735,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=eastern_american_union",
     "Organizations":"Lily, TBH"
+  },
+  {
+    "Region":"Joint Agreement",
+    "Issues":"WFE",
+    "Minor":2911,
+    "MinorTimestamp":"0:48:31",
+    "Major":4366,
+    "MajorTimestamp":"1:12:46",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=joint_agreement",
+    "Organizations":"Kaiserreich"
   },
   {
     "Region":"Ben",
