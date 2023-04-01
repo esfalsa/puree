@@ -208,7 +208,7 @@ def find_issues(region):
     embassies = [
         embassy.text
         for embassy in region.findall(f"./EMBASSIES/EMBASSY")
-        if embassy.get("type") not in ["closing", "rejected"]
+        if embassy.get("type") not in ["closing", "rejected", "denied"]
     ]
 
     flagged_embassies = [
