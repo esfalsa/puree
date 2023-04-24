@@ -209,6 +209,17 @@
     "Organizations":"Unknown"
   },
   {
+    "Region":"The League of Free Nations",
+    "Issues":"WFE",
+    "Minor":490,
+    "MinorTimestamp":"0:08:10",
+    "Major":735,
+    "MajorTimestamp":"0:12:15",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_league_of_free_nations",
+    "Organizations":"NPA"
+  },
+  {
     "Region":"Bakayatist Region",
     "Issues":"RO",
     "Minor":495,
@@ -229,6 +240,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_great_states_of_fascist_nudists",
     "Organizations":"BoM, Lily, Osiris, Sparkalia, TBH"
+  },
+  {
+    "Region":"The Socialist Countries",
+    "Issues":"Embassies",
+    "Minor":674,
+    "MinorTimestamp":"0:11:14",
+    "Major":1011,
+    "MajorTimestamp":"0:16:51",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_socialist_countries",
+    "Organizations":"BFL"
   },
   {
     "Region":"absolves",
@@ -297,6 +319,17 @@
     "Organizations":"Unknown"
   },
   {
+    "Region":"New Vegas",
+    "Issues":"WFE",
+    "Minor":1039,
+    "MinorTimestamp":"0:17:19",
+    "Major":1559,
+    "MajorTimestamp":"0:25:59",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=new_vegas",
+    "Organizations":"NPA"
+  },
+  {
     "Region":"Cicimboroughian Coalition",
     "Issues":"RO",
     "Minor":1041,
@@ -339,6 +372,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=kyorgia_puppet_storage",
     "Organizations":"EPSA, Lily, Osiris, TBH"
+  },
+  {
+    "Region":"Nizhyn",
+    "Issues":"Embassies",
+    "Minor":1229,
+    "MinorTimestamp":"0:20:29",
+    "Major":1844,
+    "MajorTimestamp":"0:30:44",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=nizhyn",
+    "Organizations":"BFL"
   },
   {
     "Region":"The Brotherhood of Blood",
@@ -396,6 +440,17 @@
     "Organizations":"BoM, TBH"
   },
   {
+    "Region":"Interstate 878",
+    "Issues":"Embassies",
+    "Minor":1631,
+    "MinorTimestamp":"0:27:11",
+    "Major":2446,
+    "MajorTimestamp":"0:40:46",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=interstate_878",
+    "Organizations":"BFL"
+  },
+  {
     "Region":"Too",
     "Issues":"WFE, RO, Embassies",
     "Minor":1631,
@@ -438,6 +493,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=my_side_of_the_world",
     "Organizations":"EPSA"
+  },
+  {
+    "Region":"Obama Islands",
+    "Issues":"Embassies",
+    "Minor":1779,
+    "MinorTimestamp":"0:29:39",
+    "Major":2668,
+    "MajorTimestamp":"0:44:28",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=obama_islands",
+    "Organizations":"BFL"
   },
   {
     "Region":"SEVENUP",
@@ -691,6 +757,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=eastern_american_union",
     "Organizations":"Lily, TBH"
+  },
+  {
+    "Region":"The Boy Band",
+    "Issues":"WFE",
+    "Minor":3062,
+    "MinorTimestamp":"0:51:02",
+    "Major":4594,
+    "MajorTimestamp":"1:16:34",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_boy_band",
+    "Organizations":"NPA"
   },
   {
     "Region":"Brest Oblast",

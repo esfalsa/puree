@@ -69,6 +69,7 @@ wfe_criteria = {
     "www.youtube.com/watch?v=em8GF93zQfk".lower(): "Kaiserreich",
     "list=PLErS5N1ZzdNvmV-TD8VqhvfCeHcfPwq5U".lower(): "Kaiserreich",
     # Kaiserreich playlist (https://www.youtube.com/playlist?list=PLErS5N1ZzdNvmV-TD8VqhvfCeHcfPwq5U)
+    "https://forum.thenorthpacific.org/topic/9145375/": "NPA",
 }
 
 roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
@@ -147,6 +148,7 @@ embassies_criteria = {
     "Islarabia": None,
     "The Militia": None,
     "Agheasma": "Sparkalia",
+    "The Northern Reach": "BFL",
 }
 
 
