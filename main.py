@@ -92,6 +92,8 @@ offices_criteria = {
     "hellfire hawk": None,
     "kantrian overseer": "Kantrias",
     "thaempirial army": None,
+    "moxxie cultist": None,
+    "blanket stealer": "BFL",
 }
 
 ro_criteria = [
@@ -134,6 +136,7 @@ ro_criteria = [
     "jyezet_fighter_\d+",
     f"{roman_numeral_regex}_proleterska_vazduhoplovna_brigada",
     "fedaykin_\d+",
+    "blanket_stealer_\d+",
 ]
 
 embassies_criteria = {
