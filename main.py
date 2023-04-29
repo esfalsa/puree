@@ -137,6 +137,11 @@ ro_criteria = [
     f"{roman_numeral_regex}_proleterska_vazduhoplovna_brigada",
     "fedaykin_\d+",
     "blanket_stealer_\d+",
+    "brutal_honesty_\d+",
+    "meep\d+",
+    "dragoe_\d+(rd|th|nd|st)_army_division",
+    "kaf-\d+",
+    "notas_\d+(rd|th|nd|st)_puppet",
 ]
 
 embassies_criteria = {
