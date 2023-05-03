@@ -13,10 +13,10 @@
   {
     "Region":"minecraft forest biome",
     "Issues":"RO",
-    "Minor":35,
-    "MinorTimestamp":"0:00:35",
-    "Major":53,
-    "MajorTimestamp":"0:00:53",
+    "Minor":41,
+    "MinorTimestamp":"0:00:41",
+    "Major":62,
+    "MajorTimestamp":"0:01:02",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=minecraft_forest_biome",
     "Organizations":"Unknown"
@@ -24,10 +24,10 @@
   {
     "Region":"the people of djoubouti",
     "Issues":"RO",
-    "Minor":52,
-    "MinorTimestamp":"0:00:52",
-    "Major":78,
-    "MajorTimestamp":"0:01:18",
+    "Minor":55,
+    "MinorTimestamp":"0:00:55",
+    "Major":83,
+    "MajorTimestamp":"0:01:23",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_people_of_djoubouti",
     "Organizations":"Unknown"
@@ -35,10 +35,10 @@
   {
     "Region":"Pride Rock",
     "Issues":"RO",
-    "Minor":123,
-    "MinorTimestamp":"0:02:03",
-    "Major":184,
-    "MajorTimestamp":"0:03:04",
+    "Minor":115,
+    "MinorTimestamp":"0:01:55",
+    "Major":173,
+    "MajorTimestamp":"0:02:53",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=pride_rock",
     "Organizations":"ERN"
@@ -46,10 +46,10 @@
   {
     "Region":"Northern Ameria",
     "Issues":"Embassies",
-    "Minor":128,
-    "MinorTimestamp":"0:02:08",
-    "Major":192,
-    "MajorTimestamp":"0:03:12",
+    "Minor":126,
+    "MinorTimestamp":"0:02:06",
+    "Major":189,
+    "MajorTimestamp":"0:03:09",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=northern_ameria",
     "Organizations":"Ijaka"
@@ -57,10 +57,10 @@
   {
     "Region":"The Sea Of The Babies",
     "Issues":"RO",
-    "Minor":138,
-    "MinorTimestamp":"0:02:18",
-    "Major":207,
-    "MajorTimestamp":"0:03:27",
+    "Minor":131,
+    "MinorTimestamp":"0:02:11",
+    "Major":197,
+    "MajorTimestamp":"0:03:17",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_sea_of_the_babies",
     "Organizations":"NPA"
@@ -68,24 +68,24 @@
   {
     "Region":"The Koprulu Sector",
     "Issues":"WFE, Embassies",
-    "Minor":175,
-    "MinorTimestamp":"0:02:55",
-    "Major":262,
-    "MajorTimestamp":"0:04:22",
+    "Minor":168,
+    "MinorTimestamp":"0:02:48",
+    "Major":253,
+    "MajorTimestamp":"0:04:13",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_koprulu_sector",
     "Organizations":"TBH"
   },
   {
-    "Region":"Orsa",
+    "Region":"The Islands of Uspiasia",
     "Issues":"RO",
-    "Minor":186,
-    "MinorTimestamp":"0:03:06",
-    "Major":279,
-    "MajorTimestamp":"0:04:39",
+    "Minor":191,
+    "MinorTimestamp":"0:03:11",
+    "Major":287,
+    "MajorTimestamp":"0:04:47",
     "NativeEmbassies":false,
-    "Link":"https:\/\/www.nationstates.net\/region=orsa",
-    "Organizations":"Unknown"
+    "Link":"https:\/\/www.nationstates.net\/region=the_islands_of_uspiasia",
+    "Organizations":"NPA"
   },
   {
     "Region":"Veurrfold",
@@ -101,10 +101,10 @@
   {
     "Region":"United Fascist Territory of Waschuster",
     "Issues":"WFE, RO, Embassies",
-    "Minor":235,
-    "MinorTimestamp":"0:03:55",
-    "Major":353,
-    "MajorTimestamp":"0:05:53",
+    "Minor":236,
+    "MinorTimestamp":"0:03:56",
+    "Major":354,
+    "MajorTimestamp":"0:05:54",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=united_fascist_territory_of_waschuster",
     "Organizations":"BoM"
@@ -112,10 +112,10 @@
   {
     "Region":"region with the word Tractor in it",
     "Issues":"Embassies",
-    "Minor":251,
-    "MinorTimestamp":"0:04:11",
-    "Major":376,
-    "MajorTimestamp":"0:06:16",
+    "Minor":244,
+    "MinorTimestamp":"0:04:04",
+    "Major":366,
+    "MajorTimestamp":"0:06:06",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=region_with_the_word_tractor_in_it",
     "Organizations":"Osiris"
@@ -123,10 +123,10 @@
   {
     "Region":"C197",
     "Issues":"RO",
-    "Minor":302,
-    "MinorTimestamp":"0:05:02",
-    "Major":453,
-    "MajorTimestamp":"0:07:33",
+    "Minor":286,
+    "MinorTimestamp":"0:04:46",
+    "Major":429,
+    "MajorTimestamp":"0:07:09",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=c197",
     "Organizations":"Unknown"
@@ -134,10 +134,10 @@
   {
     "Region":"The west germanic provinces",
     "Issues":"WFE",
-    "Minor":326,
-    "MinorTimestamp":"0:05:26",
-    "Major":489,
-    "MajorTimestamp":"0:08:09",
+    "Minor":312,
+    "MinorTimestamp":"0:05:12",
+    "Major":468,
+    "MajorTimestamp":"0:07:48",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_west_germanic_provinces",
     "Organizations":"BoM"
@@ -145,10 +145,10 @@
   {
     "Region":"Commonwealth of Diverse Nations",
     "Issues":"Embassies",
-    "Minor":373,
-    "MinorTimestamp":"0:06:13",
-    "Major":560,
-    "MajorTimestamp":"0:09:20",
+    "Minor":352,
+    "MinorTimestamp":"0:05:52",
+    "Major":528,
+    "MajorTimestamp":"0:08:48",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=commonwealth_of_diverse_nations",
     "Organizations":"Sparkalia"
@@ -156,10 +156,10 @@
   {
     "Region":"The Great States of Fascist Nudists",
     "Issues":"WFE, RO, Embassies",
-    "Minor":542,
-    "MinorTimestamp":"0:09:02",
-    "Major":813,
-    "MajorTimestamp":"0:13:33",
+    "Minor":491,
+    "MinorTimestamp":"0:08:11",
+    "Major":736,
+    "MajorTimestamp":"0:12:16",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_great_states_of_fascist_nudists",
     "Organizations":"BoM, Lily, Osiris, Sparkalia, TBH"
@@ -167,10 +167,10 @@
   {
     "Region":"The Oregon Territory",
     "Issues":"RO",
-    "Minor":545,
-    "MinorTimestamp":"0:09:05",
-    "Major":817,
-    "MajorTimestamp":"0:13:37",
+    "Minor":493,
+    "MinorTimestamp":"0:08:13",
+    "Major":740,
+    "MajorTimestamp":"0:12:20",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_oregon_territory",
     "Organizations":"Unknown"
@@ -178,10 +178,10 @@
   {
     "Region":"Abandoned accounts",
     "Issues":"RO",
-    "Minor":809,
-    "MinorTimestamp":"0:13:29",
-    "Major":1213,
-    "MajorTimestamp":"0:20:13",
+    "Minor":755,
+    "MinorTimestamp":"0:12:35",
+    "Major":1132,
+    "MajorTimestamp":"0:18:52",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=abandoned_accounts",
     "Organizations":"Unknown"
@@ -189,10 +189,10 @@
   {
     "Region":"Northern Epirus",
     "Issues":"RO",
-    "Minor":816,
-    "MinorTimestamp":"0:13:36",
-    "Major":1224,
-    "MajorTimestamp":"0:20:24",
+    "Minor":762,
+    "MinorTimestamp":"0:12:42",
+    "Major":1143,
+    "MajorTimestamp":"0:19:03",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=northern_epirus",
     "Organizations":"Unknown"
@@ -200,10 +200,10 @@
   {
     "Region":"Nerds",
     "Issues":"RO",
-    "Minor":1123,
-    "MinorTimestamp":"0:18:43",
-    "Major":1684,
-    "MajorTimestamp":"0:28:04",
+    "Minor":1106,
+    "MinorTimestamp":"0:18:26",
+    "Major":1659,
+    "MajorTimestamp":"0:27:39",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=nerds",
     "Organizations":"Unknown"
@@ -211,10 +211,10 @@
   {
     "Region":"The Good Place",
     "Issues":"RO",
-    "Minor":1168,
-    "MinorTimestamp":"0:19:28",
-    "Major":1752,
-    "MajorTimestamp":"0:29:12",
+    "Minor":1146,
+    "MinorTimestamp":"0:19:06",
+    "Major":1719,
+    "MajorTimestamp":"0:28:39",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_good_place",
     "Organizations":"Unknown"
@@ -222,10 +222,10 @@
   {
     "Region":"Non Conformists Unite",
     "Issues":"RO",
-    "Minor":1183,
-    "MinorTimestamp":"0:19:43",
-    "Major":1774,
-    "MajorTimestamp":"0:29:34",
+    "Minor":1158,
+    "MinorTimestamp":"0:19:18",
+    "Major":1737,
+    "MajorTimestamp":"0:28:57",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=non_conformists_unite",
     "Organizations":"Unknown"
@@ -233,10 +233,10 @@
   {
     "Region":"Youtube",
     "Issues":"RO",
-    "Minor":1209,
-    "MinorTimestamp":"0:20:09",
-    "Major":1813,
-    "MajorTimestamp":"0:30:13",
+    "Minor":1185,
+    "MinorTimestamp":"0:19:45",
+    "Major":1778,
+    "MajorTimestamp":"0:29:38",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=youtube",
     "Organizations":"Unknown"
@@ -244,10 +244,10 @@
   {
     "Region":"Open Ocean 8",
     "Issues":"RO",
-    "Minor":1219,
-    "MinorTimestamp":"0:20:19",
-    "Major":1829,
-    "MajorTimestamp":"0:30:29",
+    "Minor":1194,
+    "MinorTimestamp":"0:19:54",
+    "Major":1791,
+    "MajorTimestamp":"0:29:51",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=open_ocean_8",
     "Organizations":"Unknown"
@@ -255,10 +255,10 @@
   {
     "Region":"Socialist Confederation",
     "Issues":"RO",
-    "Minor":1262,
-    "MinorTimestamp":"0:21:02",
-    "Major":1893,
-    "MajorTimestamp":"0:31:33",
+    "Minor":1220,
+    "MinorTimestamp":"0:20:20",
+    "Major":1830,
+    "MajorTimestamp":"0:30:30",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=socialist_confederation",
     "Organizations":"NPA"
@@ -266,10 +266,10 @@
   {
     "Region":"FIRST",
     "Issues":"RO",
-    "Minor":1281,
-    "MinorTimestamp":"0:21:21",
-    "Major":1921,
-    "MajorTimestamp":"0:32:01",
+    "Minor":1240,
+    "MinorTimestamp":"0:20:40",
+    "Major":1860,
+    "MajorTimestamp":"0:31:00",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=first",
     "Organizations":"Unknown"
@@ -277,10 +277,10 @@
   {
     "Region":"Nomicas",
     "Issues":"RO",
-    "Minor":1293,
-    "MinorTimestamp":"0:21:33",
-    "Major":1939,
-    "MajorTimestamp":"0:32:19",
+    "Minor":1250,
+    "MinorTimestamp":"0:20:50",
+    "Major":1875,
+    "MajorTimestamp":"0:31:15",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=nomicas",
     "Organizations":"Unknown"
@@ -288,10 +288,10 @@
   {
     "Region":"Emojio",
     "Issues":"RO",
-    "Minor":1310,
-    "MinorTimestamp":"0:21:50",
-    "Major":1964,
-    "MajorTimestamp":"0:32:44",
+    "Minor":1267,
+    "MinorTimestamp":"0:21:07",
+    "Major":1900,
+    "MajorTimestamp":"0:31:40",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=emojio",
     "Organizations":"Unknown"
@@ -299,10 +299,10 @@
   {
     "Region":"Aerope",
     "Issues":"Embassies",
-    "Minor":1326,
-    "MinorTimestamp":"0:22:06",
-    "Major":1990,
-    "MajorTimestamp":"0:33:10",
+    "Minor":1286,
+    "MinorTimestamp":"0:21:26",
+    "Major":1928,
+    "MajorTimestamp":"0:32:08",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=aerope",
     "Organizations":"Sparkalia"
@@ -310,10 +310,10 @@
   {
     "Region":"Palos",
     "Issues":"RO",
-    "Minor":1331,
-    "MinorTimestamp":"0:22:11",
-    "Major":1997,
-    "MajorTimestamp":"0:33:17",
+    "Minor":1290,
+    "MinorTimestamp":"0:21:30",
+    "Major":1934,
+    "MajorTimestamp":"0:32:14",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=palos",
     "Organizations":"Unknown"
@@ -321,10 +321,10 @@
   {
     "Region":"Kyorgia puppet storage",
     "Issues":"Embassies",
-    "Minor":1333,
-    "MinorTimestamp":"0:22:13",
-    "Major":1999,
-    "MajorTimestamp":"0:33:19",
+    "Minor":1291,
+    "MinorTimestamp":"0:21:31",
+    "Major":1936,
+    "MajorTimestamp":"0:32:16",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=kyorgia_puppet_storage",
     "Organizations":"EPSA, Lily, Osiris, TBH"
@@ -332,10 +332,10 @@
   {
     "Region":"Open Ocean 5",
     "Issues":"RO",
-    "Minor":1337,
-    "MinorTimestamp":"0:22:17",
-    "Major":2006,
-    "MajorTimestamp":"0:33:26",
+    "Minor":1294,
+    "MinorTimestamp":"0:21:34",
+    "Major":1940,
+    "MajorTimestamp":"0:32:20",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=open_ocean_5",
     "Organizations":"Unknown"
@@ -343,10 +343,10 @@
   {
     "Region":"abuser",
     "Issues":"RO",
-    "Minor":1519,
-    "MinorTimestamp":"0:25:19",
-    "Major":2279,
-    "MajorTimestamp":"0:37:59",
+    "Minor":1472,
+    "MinorTimestamp":"0:24:32",
+    "Major":2208,
+    "MajorTimestamp":"0:36:48",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=abuser",
     "Organizations":"Unknown"
@@ -354,10 +354,10 @@
   {
     "Region":"abolition",
     "Issues":"RO",
-    "Minor":1660,
-    "MinorTimestamp":"0:27:40",
-    "Major":2490,
-    "MajorTimestamp":"0:41:30",
+    "Minor":1615,
+    "MinorTimestamp":"0:26:55",
+    "Major":2423,
+    "MajorTimestamp":"0:40:23",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=abolition",
     "Organizations":"Unknown"
@@ -365,10 +365,10 @@
   {
     "Region":"Sekeila",
     "Issues":"RO",
-    "Minor":1934,
-    "MinorTimestamp":"0:32:14",
-    "Major":2902,
-    "MajorTimestamp":"0:48:22",
+    "Minor":1893,
+    "MinorTimestamp":"0:31:33",
+    "Major":2839,
+    "MajorTimestamp":"0:47:19",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=sekeila",
     "Organizations":"Unknown"
@@ -376,10 +376,10 @@
   {
     "Region":"Grand Pacifica",
     "Issues":"RO",
-    "Minor":1951,
-    "MinorTimestamp":"0:32:31",
-    "Major":2926,
-    "MajorTimestamp":"0:48:46",
+    "Minor":1908,
+    "MinorTimestamp":"0:31:48",
+    "Major":2862,
+    "MajorTimestamp":"0:47:42",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=grand_pacifica",
     "Organizations":"Unknown"
@@ -387,10 +387,10 @@
   {
     "Region":"CzechRepublic",
     "Issues":"RO",
-    "Minor":1954,
-    "MinorTimestamp":"0:32:34",
-    "Major":2931,
-    "MajorTimestamp":"0:48:51",
+    "Minor":1911,
+    "MinorTimestamp":"0:31:51",
+    "Major":2866,
+    "MajorTimestamp":"0:47:46",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=czechrepublic",
     "Organizations":"NPA"
@@ -398,10 +398,10 @@
   {
     "Region":"Continent of Europia",
     "Issues":"RO",
-    "Minor":1955,
-    "MinorTimestamp":"0:32:35",
-    "Major":2933,
-    "MajorTimestamp":"0:48:53",
+    "Minor":1912,
+    "MinorTimestamp":"0:31:52",
+    "Major":2867,
+    "MajorTimestamp":"0:47:47",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=continent_of_europia",
     "Organizations":"Unknown"
@@ -409,10 +409,10 @@
   {
     "Region":"Union of Confederate Regions",
     "Issues":"Embassies",
-    "Minor":1995,
-    "MinorTimestamp":"0:33:15",
-    "Major":2993,
-    "MajorTimestamp":"0:49:53",
+    "Minor":1962,
+    "MinorTimestamp":"0:32:42",
+    "Major":2943,
+    "MajorTimestamp":"0:49:03",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=union_of_confederate_regions",
     "Organizations":"Sparkalia"
@@ -420,10 +420,10 @@
   {
     "Region":"abstaining",
     "Issues":"RO",
-    "Minor":2008,
-    "MinorTimestamp":"0:33:28",
-    "Major":3012,
-    "MajorTimestamp":"0:50:12",
+    "Minor":1973,
+    "MinorTimestamp":"0:32:53",
+    "Major":2960,
+    "MajorTimestamp":"0:49:20",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=abstaining",
     "Organizations":"Unknown"
@@ -431,10 +431,10 @@
   {
     "Region":"Raven Isle",
     "Issues":"RO",
-    "Minor":2014,
-    "MinorTimestamp":"0:33:34",
-    "Major":3021,
-    "MajorTimestamp":"0:50:21",
+    "Minor":1985,
+    "MinorTimestamp":"0:33:05",
+    "Major":2977,
+    "MajorTimestamp":"0:49:37",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=raven_isle",
     "Organizations":"NPA"
@@ -442,10 +442,10 @@
   {
     "Region":"Regional Officers",
     "Issues":"Embassies",
-    "Minor":2027,
-    "MinorTimestamp":"0:33:47",
-    "Major":3041,
-    "MajorTimestamp":"0:50:41",
+    "Minor":1997,
+    "MinorTimestamp":"0:33:17",
+    "Major":2996,
+    "MajorTimestamp":"0:49:56",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=regional_officers",
     "Organizations":"TCB"
@@ -453,10 +453,10 @@
   {
     "Region":"The lemon hub",
     "Issues":"WFE, Embassies",
-    "Minor":2149,
-    "MinorTimestamp":"0:35:49",
-    "Major":3224,
-    "MajorTimestamp":"0:53:44",
+    "Minor":2125,
+    "MinorTimestamp":"0:35:25",
+    "Major":3188,
+    "MajorTimestamp":"0:53:08",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_lemon_hub",
     "Organizations":"Lily, TBH"
@@ -464,10 +464,10 @@
   {
     "Region":"Room 319 Coalition",
     "Issues":"RO",
-    "Minor":2150,
-    "MinorTimestamp":"0:35:50",
-    "Major":3225,
-    "MajorTimestamp":"0:53:45",
+    "Minor":2126,
+    "MinorTimestamp":"0:35:26",
+    "Major":3189,
+    "MajorTimestamp":"0:53:09",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=room_319_coalition",
     "Organizations":"Unknown"
@@ -475,10 +475,10 @@
   {
     "Region":"The Brotherhood of Malice Girl Scouts",
     "Issues":"Embassies",
-    "Minor":2337,
-    "MinorTimestamp":"0:38:57",
-    "Major":3505,
-    "MajorTimestamp":"0:58:25",
+    "Minor":2304,
+    "MinorTimestamp":"0:38:24",
+    "Major":3456,
+    "MajorTimestamp":"0:57:36",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_brotherhood_of_malice_girl_scouts",
     "Organizations":"BoM"
@@ -486,10 +486,10 @@
   {
     "Region":"Deathwatch",
     "Issues":"RO",
-    "Minor":2377,
-    "MinorTimestamp":"0:39:37",
-    "Major":3565,
-    "MajorTimestamp":"0:59:25",
+    "Minor":2340,
+    "MinorTimestamp":"0:39:00",
+    "Major":3510,
+    "MajorTimestamp":"0:58:30",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=deathwatch",
     "Organizations":"Unknown"
@@ -497,10 +497,10 @@
   {
     "Region":"Cretanja Queendom",
     "Issues":"Embassies",
-    "Minor":2381,
-    "MinorTimestamp":"0:39:41",
-    "Major":3571,
-    "MajorTimestamp":"0:59:31",
+    "Minor":2343,
+    "MinorTimestamp":"0:39:03",
+    "Major":3515,
+    "MajorTimestamp":"0:58:35",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=cretanja_queendom",
     "Organizations":"Osiris"
@@ -508,10 +508,10 @@
   {
     "Region":"The Collective",
     "Issues":"WFE",
-    "Minor":2386,
-    "MinorTimestamp":"0:39:46",
-    "Major":3579,
-    "MajorTimestamp":"0:59:39",
+    "Minor":2348,
+    "MinorTimestamp":"0:39:08",
+    "Major":3522,
+    "MajorTimestamp":"0:58:42",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_collective",
     "Organizations":"Lily"
@@ -519,10 +519,10 @@
   {
     "Region":"Malphe",
     "Issues":"Embassies",
-    "Minor":2728,
-    "MinorTimestamp":"0:45:28",
-    "Major":4092,
-    "MajorTimestamp":"1:08:12",
+    "Minor":2687,
+    "MinorTimestamp":"0:44:47",
+    "Major":4031,
+    "MajorTimestamp":"1:07:11",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=malphe",
     "Organizations":"Lily, Osiris"
@@ -530,10 +530,10 @@
   {
     "Region":"Coalition Of Stupidity",
     "Issues":"RO",
-    "Minor":2741,
-    "MinorTimestamp":"0:45:41",
-    "Major":4111,
-    "MajorTimestamp":"1:08:31",
+    "Minor":2701,
+    "MinorTimestamp":"0:45:01",
+    "Major":4051,
+    "MajorTimestamp":"1:07:31",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=coalition_of_stupidity",
     "Organizations":"Unknown"
@@ -541,10 +541,10 @@
   {
     "Region":"Your Mother",
     "Issues":"RO",
-    "Minor":2747,
-    "MinorTimestamp":"0:45:47",
-    "Major":4120,
-    "MajorTimestamp":"1:08:40",
+    "Minor":2708,
+    "MinorTimestamp":"0:45:08",
+    "Major":4062,
+    "MajorTimestamp":"1:07:42",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=your_mother",
     "Organizations":"Unknown"
@@ -552,10 +552,10 @@
   {
     "Region":"Why the NPO gotta be so sus",
     "Issues":"RO",
-    "Minor":2896,
-    "MinorTimestamp":"0:48:16",
-    "Major":4344,
-    "MajorTimestamp":"1:12:24",
+    "Minor":2857,
+    "MinorTimestamp":"0:47:37",
+    "Major":4285,
+    "MajorTimestamp":"1:11:25",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=why_the_npo_gotta_be_so_sus",
     "Organizations":"Unknown"
@@ -563,10 +563,10 @@
   {
     "Region":"Submissive and Raidable",
     "Issues":"WFE",
-    "Minor":2948,
-    "MinorTimestamp":"0:49:08",
-    "Major":4421,
-    "MajorTimestamp":"1:13:41",
+    "Minor":2911,
+    "MinorTimestamp":"0:48:31",
+    "Major":4366,
+    "MajorTimestamp":"1:12:46",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=submissive_and_raidable",
     "Organizations":"BoM"
@@ -574,10 +574,10 @@
   {
     "Region":"Eastern American Union",
     "Issues":"WFE",
-    "Minor":2999,
-    "MinorTimestamp":"0:49:59",
-    "Major":4499,
-    "MajorTimestamp":"1:14:59",
+    "Minor":2963,
+    "MinorTimestamp":"0:49:23",
+    "Major":4444,
+    "MajorTimestamp":"1:14:04",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=eastern_american_union",
     "Organizations":"Lily, TBH"
@@ -585,10 +585,10 @@
   {
     "Region":"Sconch Kingdom",
     "Issues":"RO",
-    "Minor":3050,
-    "MinorTimestamp":"0:50:50",
-    "Major":4575,
-    "MajorTimestamp":"1:16:15",
+    "Minor":3017,
+    "MinorTimestamp":"0:50:17",
+    "Major":4526,
+    "MajorTimestamp":"1:15:26",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=sconch_kingdom",
     "Organizations":"Unknown"
@@ -596,10 +596,10 @@
   {
     "Region":"New East Berlin",
     "Issues":"RO",
-    "Minor":3057,
-    "MinorTimestamp":"0:50:57",
-    "Major":4585,
-    "MajorTimestamp":"1:16:25",
+    "Minor":3023,
+    "MinorTimestamp":"0:50:23",
+    "Major":4535,
+    "MajorTimestamp":"1:15:35",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=new_east_berlin",
     "Organizations":"Unknown"
@@ -607,10 +607,10 @@
   {
     "Region":"Paballo",
     "Issues":"RO",
-    "Minor":3057,
-    "MinorTimestamp":"0:50:57",
-    "Major":4585,
-    "MajorTimestamp":"1:16:25",
+    "Minor":3023,
+    "MinorTimestamp":"0:50:23",
+    "Major":4535,
+    "MajorTimestamp":"1:15:35",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=paballo",
     "Organizations":"Unknown"
@@ -618,10 +618,10 @@
   {
     "Region":"notas region",
     "Issues":"WFE",
-    "Minor":3058,
-    "MinorTimestamp":"0:50:58",
-    "Major":4587,
-    "MajorTimestamp":"1:16:27",
+    "Minor":3024,
+    "MinorTimestamp":"0:50:24",
+    "Major":4536,
+    "MajorTimestamp":"1:15:36",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=notas_region",
     "Organizations":"Sparkalia"
@@ -629,10 +629,10 @@
   {
     "Region":"The Unholy Alliance",
     "Issues":"RO",
-    "Minor":3059,
-    "MinorTimestamp":"0:50:59",
-    "Major":4588,
-    "MajorTimestamp":"1:16:28",
+    "Minor":3025,
+    "MinorTimestamp":"0:50:25",
+    "Major":4537,
+    "MajorTimestamp":"1:15:37",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=the_unholy_alliance",
     "Organizations":"NPA"
@@ -640,10 +640,10 @@
   {
     "Region":"Brest Oblast",
     "Issues":"Embassies",
-    "Minor":3386,
-    "MinorTimestamp":"0:56:26",
-    "Major":5079,
-    "MajorTimestamp":"1:24:39",
+    "Minor":3395,
+    "MinorTimestamp":"0:56:35",
+    "Major":5093,
+    "MajorTimestamp":"1:24:53",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=brest_oblast",
     "Organizations":"EPSA, Lily"
