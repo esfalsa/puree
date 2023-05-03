@@ -69,7 +69,8 @@ wfe_criteria = {
     "www.youtube.com/watch?v=em8GF93zQfk".lower(): "Kaiserreich",
     "list=PLErS5N1ZzdNvmV-TD8VqhvfCeHcfPwq5U".lower(): "Kaiserreich",
     # Kaiserreich playlist (https://www.youtube.com/playlist?list=PLErS5N1ZzdNvmV-TD8VqhvfCeHcfPwq5U)
-    "https://forum.thenorthpacific.org/topic/9145375/": "NPA",
+    "forum.thenorthpacific.org/topic/9145375": "NPA",
+    "nationstates.net/region=the_auralian_knights": None,
 }
 
 roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
@@ -94,6 +95,9 @@ offices_criteria = {
     "thaempirial army": None,
     "moxxie cultist": None,
     "blanket stealer": "BFL",
+    "not atlae": None,
+    "chimera": None,
+    "npa": "NPA",
 }
 
 ro_criteria = [
@@ -142,6 +146,7 @@ ro_criteria = [
     "dragoe_\d+(rd|th|nd|st)_army_division",
     "kaf-\d+",
     "notas_\d+(rd|th|nd|st)_puppet",
+    f"ruby_{roman_numeral_regex}",
 ]
 
 embassies_criteria = {
