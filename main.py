@@ -49,6 +49,7 @@ wfe_criteria = {
     "[region]the militia[/region]": None,
     "[region]kantrias[/region]": "Kantrias",
     "[region]sparkalia[/region]": "Sparkalia",
+    "[region]junta[/region]": "Junta",
     "region=the_brotherhood_of_malice": "BoM",
     "region=the_black_hawks": "TBH",
     "region=valle_de_arena": "Osiris",
@@ -57,6 +58,7 @@ wfe_criteria = {
     "region=the_militia": None,
     "region=kantrias": "Kantrias",
     "region=sparkalia": "Sparkalia",
+    "region=junta": "Junta",
     "lilystates.proboards.com": "Lily",
     "region=lone_wolves_united": "LWU",
     "www.forum.the-black-hawks.org": "TBH",
@@ -71,6 +73,8 @@ wfe_criteria = {
     # Kaiserreich playlist (https://www.youtube.com/playlist?list=PLErS5N1ZzdNvmV-TD8VqhvfCeHcfPwq5U)
     "forum.thenorthpacific.org/topic/9145375": "NPA",
     "nationstates.net/region=the_auralian_knights": None,
+    "nationstates.net/page=dispatch/id=1881670": "Junta",
+    "discord.gg/z7qWg9Snzb": "Junta",
 }
 
 roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
@@ -147,6 +151,7 @@ ro_criteria = [
     "kaf-\d+",
     "notas_\d+(rd|th|nd|st)_puppet",
     f"ruby_{roman_numeral_regex}",
+    "aurum_riders_\d+(rd|th|nd|st)_treasury",
 ]
 
 embassies_criteria = {
@@ -162,6 +167,7 @@ embassies_criteria = {
     "The Militia": None,
     "Agheasma": "Sparkalia",
     "The Northern Reach": "BFL",
+    "JUNTA": "Junta",
 }
 
 
