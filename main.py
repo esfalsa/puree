@@ -45,7 +45,6 @@ wfe_criteria = {
     "[region]valle de arena[/region]": "Osiris",
     "[region]lily[/region]": "Lily",
     "[region]lone wolves united[/region]": "LWU",
-    "[region]ijaka[.region]": "Ijaka",
     "[region]the militia[/region]": None,
     "[region]kantrias[/region]": "Kantrias",
     "[region]sparkalia[/region]": "Sparkalia",
@@ -54,7 +53,6 @@ wfe_criteria = {
     "region=the_black_hawks": "TBH",
     "region=valle_de_arena": "Osiris",
     "region=lily": "Lily",
-    "region=ijaka": "Ijaka",
     "region=the_militia": None,
     "region=kantrias": "Kantrias",
     "region=sparkalia": "Sparkalia",
@@ -74,7 +72,8 @@ wfe_criteria = {
     "forum.thenorthpacific.org/topic/9145375": "NPA",
     "nationstates.net/region=the_auralian_knights": None,
     "nationstates.net/page=dispatch/id=1881670": "Junta",
-    "discord.gg/z7qWg9Snzb": "Junta",
+    "discord.gg/z7qWg9Snzb".lower(): "Junta",
+    "discord.gg/8qWbXFUMAr".lower(): "Ijaka",
 }
 
 roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
@@ -152,6 +151,7 @@ ro_criteria = [
     "notas_\d+(rd|th|nd|st)_puppet",
     f"ruby_{roman_numeral_regex}",
     "aurum_riders_\d+(rd|th|nd|st)_treasury",
+    "a_crazy_person_\d+",
 ]
 
 embassies_criteria = {

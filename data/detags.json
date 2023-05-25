@@ -77,6 +77,17 @@
     "Organizations":"BoM, Ijaka"
   },
   {
+    "Region":"Scawtia",
+    "Issues":"WFE",
+    "Minor":431,
+    "MinorTimestamp":"0:07:11",
+    "Major":646,
+    "MajorTimestamp":"0:10:46",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=scawtia",
+    "Organizations":"Ijaka"
+  },
+  {
     "Region":"Commonwealth of Diverse Nations",
     "Issues":"Embassies",
     "Minor":442,
@@ -174,6 +185,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=fortnite_battle_pass",
     "Organizations":"Lily"
+  },
+  {
+    "Region":"Walsingford",
+    "Issues":"WFE",
+    "Minor":817,
+    "MinorTimestamp":"0:13:37",
+    "Major":1225,
+    "MajorTimestamp":"0:20:25",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=walsingford",
+    "Organizations":"Ijaka"
   },
   {
     "Region":"The Island of Norbert",
@@ -297,6 +319,17 @@
     "Organizations":"EPSA, Lily, Osiris, TBH"
   },
   {
+    "Region":"Union of Independent States",
+    "Issues":"WFE",
+    "Minor":1238,
+    "MinorTimestamp":"0:20:38",
+    "Major":1857,
+    "MajorTimestamp":"0:30:57",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=union_of_independent_states",
+    "Organizations":"Ijaka"
+  },
+  {
     "Region":"Ile de France",
     "Issues":"Embassies",
     "Minor":1775,
@@ -394,6 +427,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=eastern_american_union",
     "Organizations":"Lily, TBH"
+  },
+  {
+    "Region":"i rember",
+    "Issues":"WFE",
+    "Minor":2831,
+    "MinorTimestamp":"0:47:11",
+    "Major":4246,
+    "MajorTimestamp":"1:10:46",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=i_rember",
+    "Organizations":"Ijaka"
   },
   {
     "Region":"notas region",
