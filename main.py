@@ -74,6 +74,7 @@ wfe_criteria = {
     "nationstates.net/page=dispatch/id=1881670": "Junta",
     "discord.gg/z7qWg9Snzb".lower(): "Junta",
     "discord.gg/8qWbXFUMAr".lower(): "Ijaka",
+    "osiris.valthost.com": None,
 }
 
 roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"

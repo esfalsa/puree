@@ -33,6 +33,17 @@
     "Organizations":"Ijaka"
   },
   {
+    "Region":"Indigo and Red",
+    "Issues":"WFE",
+    "Minor":167,
+    "MinorTimestamp":"0:02:47",
+    "Major":251,
+    "MajorTimestamp":"0:04:11",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=indigo_and_red",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"United Fascist Territory of Waschuster",
     "Issues":"WFE, RO, Embassies",
     "Minor":330,
@@ -188,7 +199,7 @@
   },
   {
     "Region":"Cretanja Queendom",
-    "Issues":"Embassies",
+    "Issues":"WFE, Embassies",
     "Minor":2121,
     "MinorTimestamp":"0:35:21",
     "Major":3182,
