@@ -2,10 +2,10 @@
   {
     "Region":"Interstate 25",
     "Issues":"WFE, RO",
-    "Minor":9,
-    "MinorTimestamp":"0:00:09",
-    "Major":13,
-    "MajorTimestamp":"0:00:13",
+    "Minor":8,
+    "MinorTimestamp":"0:00:08",
+    "Major":11,
+    "MajorTimestamp":"0:00:11",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_25",
     "Organizations":"Eggnog"
@@ -13,10 +13,10 @@
   {
     "Region":"Interstate 172",
     "Issues":"WFE, RO",
-    "Minor":61,
-    "MinorTimestamp":"0:01:01",
-    "Major":92,
-    "MajorTimestamp":"0:01:32",
+    "Minor":50,
+    "MinorTimestamp":"0:00:50",
+    "Major":75,
+    "MajorTimestamp":"0:01:15",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_172",
     "Organizations":"Eggnog"
@@ -24,10 +24,10 @@
   {
     "Region":"Interstate 985",
     "Issues":"WFE, RO",
-    "Minor":62,
-    "MinorTimestamp":"0:01:02",
-    "Major":93,
-    "MajorTimestamp":"0:01:33",
+    "Minor":50,
+    "MinorTimestamp":"0:00:50",
+    "Major":75,
+    "MajorTimestamp":"0:01:15",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_985",
     "Organizations":"Eggnog"
@@ -35,10 +35,10 @@
   {
     "Region":"Interstate 635",
     "Issues":"WFE, RO",
-    "Minor":63,
-    "MinorTimestamp":"0:01:03",
-    "Major":95,
-    "MajorTimestamp":"0:01:35",
+    "Minor":52,
+    "MinorTimestamp":"0:00:52",
+    "Major":78,
+    "MajorTimestamp":"0:01:18",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_635",
     "Organizations":"Eggnog"
@@ -46,10 +46,10 @@
   {
     "Region":"Interstate 595",
     "Issues":"WFE, RO",
-    "Minor":76,
-    "MinorTimestamp":"0:01:16",
-    "Major":114,
-    "MajorTimestamp":"0:01:54",
+    "Minor":63,
+    "MinorTimestamp":"0:01:03",
+    "Major":94,
+    "MajorTimestamp":"0:01:34",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_595",
     "Organizations":"Eggnog"
@@ -57,10 +57,10 @@
   {
     "Region":"Interstate 69E",
     "Issues":"WFE, RO",
-    "Minor":77,
-    "MinorTimestamp":"0:01:17",
-    "Major":115,
-    "MajorTimestamp":"0:01:55",
+    "Minor":64,
+    "MinorTimestamp":"0:01:04",
+    "Major":96,
+    "MajorTimestamp":"0:01:36",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_69e",
     "Organizations":"Eggnog"
@@ -68,10 +68,10 @@
   {
     "Region":"Interstate 610",
     "Issues":"WFE, RO",
-    "Minor":84,
-    "MinorTimestamp":"0:01:24",
-    "Major":125,
-    "MajorTimestamp":"0:02:05",
+    "Minor":65,
+    "MinorTimestamp":"0:01:05",
+    "Major":98,
+    "MajorTimestamp":"0:01:38",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_610",
     "Organizations":"Eggnog"
@@ -79,10 +79,10 @@
   {
     "Region":"Interstate 820",
     "Issues":"WFE, RO",
-    "Minor":86,
-    "MinorTimestamp":"0:01:26",
-    "Major":128,
-    "MajorTimestamp":"0:02:08",
+    "Minor":73,
+    "MinorTimestamp":"0:01:13",
+    "Major":110,
+    "MajorTimestamp":"0:01:50",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_820",
     "Organizations":"Eggnog"
@@ -90,10 +90,10 @@
   {
     "Region":"Interstate 581",
     "Issues":"WFE, RO",
-    "Minor":106,
-    "MinorTimestamp":"0:01:46",
-    "Major":159,
-    "MajorTimestamp":"0:02:39",
+    "Minor":100,
+    "MinorTimestamp":"0:01:40",
+    "Major":150,
+    "MajorTimestamp":"0:02:30",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_581",
     "Organizations":"Eggnog"
@@ -101,10 +101,10 @@
   {
     "Region":"Interstate 805",
     "Issues":"WFE, RO",
-    "Minor":130,
-    "MinorTimestamp":"0:02:10",
-    "Major":195,
-    "MajorTimestamp":"0:03:15",
+    "Minor":149,
+    "MinorTimestamp":"0:02:29",
+    "Major":224,
+    "MajorTimestamp":"0:03:44",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_805",
     "Organizations":"Eggnog"
@@ -112,10 +112,10 @@
   {
     "Region":"Interstate 430",
     "Issues":"WFE, RO",
-    "Minor":139,
-    "MinorTimestamp":"0:02:19",
-    "Major":208,
-    "MajorTimestamp":"0:03:28",
+    "Minor":157,
+    "MinorTimestamp":"0:02:37",
+    "Major":235,
+    "MajorTimestamp":"0:03:55",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_430",
     "Organizations":"Eggnog"
@@ -123,10 +123,10 @@
   {
     "Region":"Interstate 575",
     "Issues":"WFE, RO",
-    "Minor":144,
-    "MinorTimestamp":"0:02:24",
-    "Major":215,
-    "MajorTimestamp":"0:03:35",
+    "Minor":162,
+    "MinorTimestamp":"0:02:42",
+    "Major":243,
+    "MajorTimestamp":"0:04:03",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_575",
     "Organizations":"Eggnog"
@@ -134,10 +134,10 @@
   {
     "Region":"Interstate 278",
     "Issues":"WFE, RO",
-    "Minor":144,
-    "MinorTimestamp":"0:02:24",
-    "Major":216,
-    "MajorTimestamp":"0:03:36",
+    "Minor":163,
+    "MinorTimestamp":"0:02:43",
+    "Major":244,
+    "MajorTimestamp":"0:04:04",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_278",
     "Organizations":"Eggnog"
@@ -145,10 +145,10 @@
   {
     "Region":"Interstate 790",
     "Issues":"WFE, RO",
-    "Minor":147,
-    "MinorTimestamp":"0:02:27",
-    "Major":220,
-    "MajorTimestamp":"0:03:40",
+    "Minor":165,
+    "MinorTimestamp":"0:02:45",
+    "Major":248,
+    "MajorTimestamp":"0:04:08",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_790",
     "Organizations":"Eggnog"
@@ -156,10 +156,10 @@
   {
     "Region":"Interstate 315",
     "Issues":"WFE, RO",
-    "Minor":167,
-    "MinorTimestamp":"0:02:47",
-    "Major":251,
-    "MajorTimestamp":"0:04:11",
+    "Minor":192,
+    "MinorTimestamp":"0:03:12",
+    "Major":288,
+    "MajorTimestamp":"0:04:48",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_315",
     "Organizations":"Eggnog"
@@ -167,10 +167,10 @@
   {
     "Region":"Interstate 82",
     "Issues":"WFE, RO",
-    "Minor":173,
-    "MinorTimestamp":"0:02:53",
-    "Major":260,
-    "MajorTimestamp":"0:04:20",
+    "Minor":198,
+    "MinorTimestamp":"0:03:18",
+    "Major":298,
+    "MajorTimestamp":"0:04:58",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_82",
     "Organizations":"Eggnog"
@@ -178,10 +178,10 @@
   {
     "Region":"Interstate 275",
     "Issues":"WFE, RO",
-    "Minor":173,
-    "MinorTimestamp":"0:02:53",
-    "Major":260,
-    "MajorTimestamp":"0:04:20",
+    "Minor":199,
+    "MinorTimestamp":"0:03:19",
+    "Major":298,
+    "MajorTimestamp":"0:04:58",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_275",
     "Organizations":"Eggnog"
@@ -189,10 +189,10 @@
   {
     "Region":"Interstate 76",
     "Issues":"WFE, RO",
-    "Minor":180,
-    "MinorTimestamp":"0:03:00",
-    "Major":270,
-    "MajorTimestamp":"0:04:30",
+    "Minor":203,
+    "MinorTimestamp":"0:03:23",
+    "Major":304,
+    "MajorTimestamp":"0:05:04",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_76",
     "Organizations":"Eggnog"
@@ -200,10 +200,10 @@
   {
     "Region":"Interstate 35E",
     "Issues":"WFE, RO",
-    "Minor":190,
-    "MinorTimestamp":"0:03:10",
-    "Major":285,
-    "MajorTimestamp":"0:04:45",
+    "Minor":222,
+    "MinorTimestamp":"0:03:42",
+    "Major":333,
+    "MajorTimestamp":"0:05:33",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_35e",
     "Organizations":"Eggnog"
@@ -211,10 +211,10 @@
   {
     "Region":"Interstate 135",
     "Issues":"WFE, RO",
-    "Minor":218,
-    "MinorTimestamp":"0:03:38",
-    "Major":328,
-    "MajorTimestamp":"0:05:28",
+    "Minor":244,
+    "MinorTimestamp":"0:04:04",
+    "Major":366,
+    "MajorTimestamp":"0:06:06",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_135",
     "Organizations":"Eggnog"
@@ -222,10 +222,10 @@
   {
     "Region":"Interstate 110",
     "Issues":"WFE, RO",
-    "Minor":276,
-    "MinorTimestamp":"0:04:36",
-    "Major":414,
-    "MajorTimestamp":"0:06:54",
+    "Minor":271,
+    "MinorTimestamp":"0:04:31",
+    "Major":407,
+    "MajorTimestamp":"0:06:47",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_110",
     "Organizations":"Eggnog"
@@ -233,10 +233,10 @@
   {
     "Region":"Interstate 295",
     "Issues":"WFE, RO",
-    "Minor":276,
-    "MinorTimestamp":"0:04:36",
-    "Major":415,
-    "MajorTimestamp":"0:06:55",
+    "Minor":272,
+    "MinorTimestamp":"0:04:32",
+    "Major":408,
+    "MajorTimestamp":"0:06:48",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_295",
     "Organizations":"Eggnog"
@@ -244,10 +244,10 @@
   {
     "Region":"Interstate 526",
     "Issues":"WFE, RO",
-    "Minor":279,
-    "MinorTimestamp":"0:04:39",
-    "Major":419,
-    "MajorTimestamp":"0:06:59",
+    "Minor":275,
+    "MinorTimestamp":"0:04:35",
+    "Major":412,
+    "MajorTimestamp":"0:06:52",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_526",
     "Organizations":"Eggnog"
@@ -255,10 +255,10 @@
   {
     "Region":"Interstate 96",
     "Issues":"WFE, RO",
-    "Minor":289,
-    "MinorTimestamp":"0:04:49",
-    "Major":433,
-    "MajorTimestamp":"0:07:13",
+    "Minor":286,
+    "MinorTimestamp":"0:04:46",
+    "Major":429,
+    "MajorTimestamp":"0:07:09",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_96",
     "Organizations":"Eggnog"
@@ -266,10 +266,10 @@
   {
     "Region":"Interstate 244",
     "Issues":"WFE, RO",
-    "Minor":331,
-    "MinorTimestamp":"0:05:31",
-    "Major":497,
-    "MajorTimestamp":"0:08:17",
+    "Minor":315,
+    "MinorTimestamp":"0:05:15",
+    "Major":472,
+    "MajorTimestamp":"0:07:52",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_244",
     "Organizations":"Eggnog"
@@ -277,10 +277,10 @@
   {
     "Region":"Interstate 759",
     "Issues":"WFE, RO",
-    "Minor":344,
-    "MinorTimestamp":"0:05:44",
-    "Major":516,
-    "MajorTimestamp":"0:08:36",
+    "Minor":329,
+    "MinorTimestamp":"0:05:29",
+    "Major":493,
+    "MajorTimestamp":"0:08:13",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_759",
     "Organizations":"Eggnog"
@@ -288,10 +288,10 @@
   {
     "Region":"Interstate 294",
     "Issues":"WFE, RO",
-    "Minor":361,
-    "MinorTimestamp":"0:06:01",
-    "Major":542,
-    "MajorTimestamp":"0:09:02",
+    "Minor":360,
+    "MinorTimestamp":"0:06:00",
+    "Major":540,
+    "MajorTimestamp":"0:09:00",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_294",
     "Organizations":"Eggnog"
@@ -299,10 +299,10 @@
   {
     "Region":"Interstate 97",
     "Issues":"WFE, RO",
-    "Minor":370,
-    "MinorTimestamp":"0:06:10",
-    "Major":555,
-    "MajorTimestamp":"0:09:15",
+    "Minor":373,
+    "MinorTimestamp":"0:06:13",
+    "Major":560,
+    "MajorTimestamp":"0:09:20",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_97",
     "Organizations":"Eggnog"
@@ -310,10 +310,10 @@
   {
     "Region":"Interstate 496",
     "Issues":"WFE, RO",
-    "Minor":396,
-    "MinorTimestamp":"0:06:36",
-    "Major":594,
-    "MajorTimestamp":"0:09:54",
+    "Minor":411,
+    "MinorTimestamp":"0:06:51",
+    "Major":617,
+    "MajorTimestamp":"0:10:17",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_496",
     "Organizations":"Eggnog"
@@ -321,10 +321,10 @@
   {
     "Region":"Interstate 579",
     "Issues":"WFE, RO",
-    "Minor":436,
-    "MinorTimestamp":"0:07:16",
-    "Major":654,
-    "MajorTimestamp":"0:10:54",
+    "Minor":451,
+    "MinorTimestamp":"0:07:31",
+    "Major":677,
+    "MajorTimestamp":"0:11:17",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_579",
     "Organizations":"Eggnog"
@@ -332,10 +332,10 @@
   {
     "Region":"Interstate 83",
     "Issues":"WFE, RO",
-    "Minor":436,
-    "MinorTimestamp":"0:07:16",
-    "Major":654,
-    "MajorTimestamp":"0:10:54",
+    "Minor":451,
+    "MinorTimestamp":"0:07:31",
+    "Major":677,
+    "MajorTimestamp":"0:11:17",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_83",
     "Organizations":"Eggnog"
@@ -343,10 +343,10 @@
   {
     "Region":"Interstate 280",
     "Issues":"WFE, RO",
-    "Minor":457,
-    "MinorTimestamp":"0:07:37",
-    "Major":686,
-    "MajorTimestamp":"0:11:26",
+    "Minor":469,
+    "MinorTimestamp":"0:07:49",
+    "Major":704,
+    "MajorTimestamp":"0:11:44",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_280",
     "Organizations":"Eggnog"
@@ -354,10 +354,10 @@
   {
     "Region":"Interstate 105",
     "Issues":"WFE, RO",
-    "Minor":458,
-    "MinorTimestamp":"0:07:38",
-    "Major":687,
-    "MajorTimestamp":"0:11:27",
+    "Minor":470,
+    "MinorTimestamp":"0:07:50",
+    "Major":705,
+    "MajorTimestamp":"0:11:45",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_105",
     "Organizations":"Eggnog"
@@ -365,10 +365,10 @@
   {
     "Region":"Interstate 476",
     "Issues":"WFE, RO",
-    "Minor":475,
-    "MinorTimestamp":"0:07:55",
-    "Major":712,
-    "MajorTimestamp":"0:11:52",
+    "Minor":478,
+    "MinorTimestamp":"0:07:58",
+    "Major":716,
+    "MajorTimestamp":"0:11:56",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_476",
     "Organizations":"Eggnog"
@@ -376,10 +376,10 @@
   {
     "Region":"Interstate 516",
     "Issues":"WFE, RO",
-    "Minor":476,
-    "MinorTimestamp":"0:07:56",
-    "Major":714,
-    "MajorTimestamp":"0:11:54",
+    "Minor":479,
+    "MinorTimestamp":"0:07:59",
+    "Major":719,
+    "MajorTimestamp":"0:11:59",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_516",
     "Organizations":"Eggnog"
@@ -387,10 +387,10 @@
   {
     "Region":"Interstate 605",
     "Issues":"WFE, RO",
-    "Minor":524,
-    "MinorTimestamp":"0:08:44",
-    "Major":787,
-    "MajorTimestamp":"0:13:07",
+    "Minor":512,
+    "MinorTimestamp":"0:08:32",
+    "Major":768,
+    "MajorTimestamp":"0:12:48",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_605",
     "Organizations":"Eggnog"
@@ -398,10 +398,10 @@
   {
     "Region":"Interstate 580",
     "Issues":"WFE, RO",
-    "Minor":526,
-    "MinorTimestamp":"0:08:46",
-    "Major":789,
-    "MajorTimestamp":"0:13:09",
+    "Minor":513,
+    "MinorTimestamp":"0:08:33",
+    "Major":769,
+    "MajorTimestamp":"0:12:49",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_580",
     "Organizations":"Eggnog"
@@ -409,10 +409,10 @@
   {
     "Region":"Interstate 376",
     "Issues":"WFE, RO",
-    "Minor":578,
-    "MinorTimestamp":"0:09:38",
-    "Major":868,
-    "MajorTimestamp":"0:14:28",
+    "Minor":545,
+    "MinorTimestamp":"0:09:05",
+    "Major":818,
+    "MajorTimestamp":"0:13:38",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_376",
     "Organizations":"Eggnog"
@@ -420,10 +420,10 @@
   {
     "Region":"Interstate 990",
     "Issues":"WFE, RO",
-    "Minor":585,
-    "MinorTimestamp":"0:09:45",
-    "Major":878,
-    "MajorTimestamp":"0:14:38",
+    "Minor":550,
+    "MinorTimestamp":"0:09:10",
+    "Major":826,
+    "MajorTimestamp":"0:13:46",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_990",
     "Organizations":"Eggnog"
@@ -431,10 +431,10 @@
   {
     "Region":"Interstate 15",
     "Issues":"WFE, RO",
-    "Minor":585,
-    "MinorTimestamp":"0:09:45",
-    "Major":878,
-    "MajorTimestamp":"0:14:38",
+    "Minor":550,
+    "MinorTimestamp":"0:09:10",
+    "Major":826,
+    "MajorTimestamp":"0:13:46",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_15",
     "Organizations":"Eggnog"
@@ -442,10 +442,10 @@
   {
     "Region":"Interstate 279",
     "Issues":"WFE, RO",
-    "Minor":597,
-    "MinorTimestamp":"0:09:57",
-    "Major":895,
-    "MajorTimestamp":"0:14:55",
+    "Minor":563,
+    "MinorTimestamp":"0:09:23",
+    "Major":844,
+    "MajorTimestamp":"0:14:04",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_279",
     "Organizations":"Eggnog"
@@ -453,10 +453,10 @@
   {
     "Region":"Interstate 30",
     "Issues":"WFE, RO",
-    "Minor":599,
-    "MinorTimestamp":"0:09:59",
-    "Major":899,
-    "MajorTimestamp":"0:14:59",
+    "Minor":565,
+    "MinorTimestamp":"0:09:25",
+    "Major":847,
+    "MajorTimestamp":"0:14:07",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_30",
     "Organizations":"Eggnog"
@@ -464,10 +464,10 @@
   {
     "Region":"Interstate 785",
     "Issues":"WFE, RO",
-    "Minor":606,
-    "MinorTimestamp":"0:10:06",
-    "Major":909,
-    "MajorTimestamp":"0:15:09",
+    "Minor":569,
+    "MinorTimestamp":"0:09:29",
+    "Major":854,
+    "MajorTimestamp":"0:14:14",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_785",
     "Organizations":"Eggnog"
@@ -475,10 +475,10 @@
   {
     "Region":"Interstate 24",
     "Issues":"WFE, RO",
-    "Minor":607,
-    "MinorTimestamp":"0:10:07",
-    "Major":911,
-    "MajorTimestamp":"0:15:11",
+    "Minor":571,
+    "MinorTimestamp":"0:09:31",
+    "Major":856,
+    "MajorTimestamp":"0:14:16",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_24",
     "Organizations":"Eggnog"
@@ -486,10 +486,10 @@
   {
     "Region":"Interstate 78",
     "Issues":"WFE, RO",
-    "Minor":807,
-    "MinorTimestamp":"0:13:27",
-    "Major":1210,
-    "MajorTimestamp":"0:20:10",
+    "Minor":712,
+    "MinorTimestamp":"0:11:52",
+    "Major":1069,
+    "MajorTimestamp":"0:17:49",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_78",
     "Organizations":"Eggnog"
@@ -497,10 +497,10 @@
   {
     "Region":"Interstate 165",
     "Issues":"WFE, RO",
-    "Minor":839,
-    "MinorTimestamp":"0:13:59",
-    "Major":1259,
-    "MajorTimestamp":"0:20:59",
+    "Minor":739,
+    "MinorTimestamp":"0:12:19",
+    "Major":1108,
+    "MajorTimestamp":"0:18:28",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_165",
     "Organizations":"Eggnog"
@@ -508,10 +508,10 @@
   {
     "Region":"Interstate 8",
     "Issues":"RO",
-    "Minor":841,
-    "MinorTimestamp":"0:14:01",
-    "Major":1261,
-    "MajorTimestamp":"0:21:01",
+    "Minor":740,
+    "MinorTimestamp":"0:12:20",
+    "Major":1110,
+    "MajorTimestamp":"0:18:30",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_8",
     "Organizations":"Eggnog"
@@ -519,10 +519,10 @@
   {
     "Region":"Interstate 380",
     "Issues":"WFE, RO",
-    "Minor":843,
-    "MinorTimestamp":"0:14:03",
-    "Major":1264,
-    "MajorTimestamp":"0:21:04",
+    "Minor":742,
+    "MinorTimestamp":"0:12:22",
+    "Major":1112,
+    "MajorTimestamp":"0:18:32",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_380",
     "Organizations":"Eggnog"
@@ -530,10 +530,10 @@
   {
     "Region":"Interstate 140",
     "Issues":"WFE, RO",
-    "Minor":851,
-    "MinorTimestamp":"0:14:11",
-    "Major":1276,
-    "MajorTimestamp":"0:21:16",
+    "Minor":749,
+    "MinorTimestamp":"0:12:29",
+    "Major":1124,
+    "MajorTimestamp":"0:18:44",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_140",
     "Organizations":"Eggnog"
@@ -541,10 +541,10 @@
   {
     "Region":"Interstate 787",
     "Issues":"WFE, RO",
-    "Minor":855,
-    "MinorTimestamp":"0:14:15",
-    "Major":1282,
-    "MajorTimestamp":"0:21:22",
+    "Minor":752,
+    "MinorTimestamp":"0:12:32",
+    "Major":1128,
+    "MajorTimestamp":"0:18:48",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_787",
     "Organizations":"Eggnog"
@@ -552,10 +552,10 @@
   {
     "Region":"Interstate 26",
     "Issues":"WFE, RO",
-    "Minor":856,
-    "MinorTimestamp":"0:14:16",
-    "Major":1283,
-    "MajorTimestamp":"0:21:23",
+    "Minor":753,
+    "MinorTimestamp":"0:12:33",
+    "Major":1129,
+    "MajorTimestamp":"0:18:49",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_26",
     "Organizations":"Eggnog"
@@ -563,10 +563,10 @@
   {
     "Region":"Interstate 394",
     "Issues":"WFE, RO",
-    "Minor":870,
-    "MinorTimestamp":"0:14:30",
-    "Major":1304,
-    "MajorTimestamp":"0:21:44",
+    "Minor":763,
+    "MinorTimestamp":"0:12:43",
+    "Major":1145,
+    "MajorTimestamp":"0:19:05",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_394",
     "Organizations":"Eggnog"
@@ -574,10 +574,10 @@
   {
     "Region":"Interstate 49",
     "Issues":"WFE, RO",
-    "Minor":887,
-    "MinorTimestamp":"0:14:47",
-    "Major":1330,
-    "MajorTimestamp":"0:22:10",
+    "Minor":788,
+    "MinorTimestamp":"0:13:08",
+    "Major":1182,
+    "MajorTimestamp":"0:19:42",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_49",
     "Organizations":"Eggnog"
@@ -585,10 +585,10 @@
   {
     "Region":"Interstate 185",
     "Issues":"WFE",
-    "Minor":911,
-    "MinorTimestamp":"0:15:11",
-    "Major":1366,
-    "MajorTimestamp":"0:22:46",
+    "Minor":821,
+    "MinorTimestamp":"0:13:41",
+    "Major":1231,
+    "MajorTimestamp":"0:20:31",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_185",
     "Organizations":"Eggnog"
@@ -596,10 +596,10 @@
   {
     "Region":"Interstate 225",
     "Issues":"WFE, RO",
-    "Minor":920,
-    "MinorTimestamp":"0:15:20",
-    "Major":1380,
-    "MajorTimestamp":"0:23:00",
+    "Minor":832,
+    "MinorTimestamp":"0:13:52",
+    "Major":1248,
+    "MajorTimestamp":"0:20:48",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_225",
     "Organizations":"Eggnog"
@@ -607,10 +607,10 @@
   {
     "Region":"Interstate 345",
     "Issues":"WFE, RO",
-    "Minor":924,
-    "MinorTimestamp":"0:15:24",
-    "Major":1385,
-    "MajorTimestamp":"0:23:05",
+    "Minor":834,
+    "MinorTimestamp":"0:13:54",
+    "Major":1251,
+    "MajorTimestamp":"0:20:51",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_345",
     "Organizations":"Eggnog"
@@ -618,10 +618,10 @@
   {
     "Region":"Interstate 685",
     "Issues":"WFE, RO",
-    "Minor":935,
-    "MinorTimestamp":"0:15:35",
-    "Major":1403,
-    "MajorTimestamp":"0:23:23",
+    "Minor":845,
+    "MinorTimestamp":"0:14:05",
+    "Major":1267,
+    "MajorTimestamp":"0:21:07",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_685",
     "Organizations":"Eggnog"
@@ -629,10 +629,10 @@
   {
     "Region":"Interstate 44",
     "Issues":"WFE, RO",
-    "Minor":939,
-    "MinorTimestamp":"0:15:39",
-    "Major":1409,
-    "MajorTimestamp":"0:23:29",
+    "Minor":849,
+    "MinorTimestamp":"0:14:09",
+    "Major":1273,
+    "MajorTimestamp":"0:21:13",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_44",
     "Organizations":"Eggnog"
@@ -640,10 +640,10 @@
   {
     "Region":"Interstate 296",
     "Issues":"WFE, RO",
-    "Minor":954,
-    "MinorTimestamp":"0:15:54",
-    "Major":1431,
-    "MajorTimestamp":"0:23:51",
+    "Minor":859,
+    "MinorTimestamp":"0:14:19",
+    "Major":1288,
+    "MajorTimestamp":"0:21:28",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_296",
     "Organizations":"Eggnog"
@@ -651,10 +651,10 @@
   {
     "Region":"Interstate 910",
     "Issues":"WFE, RO",
-    "Minor":976,
-    "MinorTimestamp":"0:16:16",
-    "Major":1463,
-    "MajorTimestamp":"0:24:23",
+    "Minor":864,
+    "MinorTimestamp":"0:14:24",
+    "Major":1296,
+    "MajorTimestamp":"0:21:36",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_910",
     "Organizations":"Eggnog"
@@ -662,10 +662,10 @@
   {
     "Region":"Interstate 494",
     "Issues":"WFE, RO",
-    "Minor":1098,
-    "MinorTimestamp":"0:18:18",
-    "Major":1646,
-    "MajorTimestamp":"0:27:26",
+    "Minor":967,
+    "MinorTimestamp":"0:16:07",
+    "Major":1450,
+    "MajorTimestamp":"0:24:10",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_494",
     "Organizations":"Eggnog"
@@ -673,10 +673,10 @@
   {
     "Region":"Interstate 705",
     "Issues":"WFE, RO",
-    "Minor":1102,
-    "MinorTimestamp":"0:18:22",
-    "Major":1653,
-    "MajorTimestamp":"0:27:33",
+    "Minor":971,
+    "MinorTimestamp":"0:16:11",
+    "Major":1456,
+    "MajorTimestamp":"0:24:16",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_705",
     "Organizations":"Eggnog"
@@ -684,10 +684,10 @@
   {
     "Region":"Interstate 5",
     "Issues":"WFE, RO",
-    "Minor":1103,
-    "MinorTimestamp":"0:18:23",
-    "Major":1654,
-    "MajorTimestamp":"0:27:34",
+    "Minor":971,
+    "MinorTimestamp":"0:16:11",
+    "Major":1457,
+    "MajorTimestamp":"0:24:17",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_5",
     "Organizations":"Eggnog"
@@ -695,10 +695,10 @@
   {
     "Region":"Interstate 480",
     "Issues":"WFE, RO",
-    "Minor":1103,
-    "MinorTimestamp":"0:18:23",
-    "Major":1654,
-    "MajorTimestamp":"0:27:34",
+    "Minor":971,
+    "MinorTimestamp":"0:16:11",
+    "Major":1457,
+    "MajorTimestamp":"0:24:17",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_480",
     "Organizations":"Eggnog"
@@ -706,10 +706,10 @@
   {
     "Region":"Interstate 640",
     "Issues":"WFE",
-    "Minor":1122,
-    "MinorTimestamp":"0:18:42",
-    "Major":1684,
-    "MajorTimestamp":"0:28:04",
+    "Minor":989,
+    "MinorTimestamp":"0:16:29",
+    "Major":1484,
+    "MajorTimestamp":"0:24:44",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_640",
     "Organizations":"Eggnog"
@@ -717,10 +717,10 @@
   {
     "Region":"Interstate 276",
     "Issues":"WFE, RO",
-    "Minor":1128,
-    "MinorTimestamp":"0:18:48",
-    "Major":1692,
-    "MajorTimestamp":"0:28:12",
+    "Minor":993,
+    "MinorTimestamp":"0:16:33",
+    "Major":1490,
+    "MajorTimestamp":"0:24:50",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_276",
     "Organizations":"Eggnog"
@@ -728,10 +728,10 @@
   {
     "Region":"Interstate 81",
     "Issues":"WFE, RO",
-    "Minor":1128,
-    "MinorTimestamp":"0:18:48",
-    "Major":1692,
-    "MajorTimestamp":"0:28:12",
+    "Minor":993,
+    "MinorTimestamp":"0:16:33",
+    "Major":1490,
+    "MajorTimestamp":"0:24:50",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_81",
     "Organizations":"Eggnog"
@@ -739,10 +739,10 @@
   {
     "Region":"Interstate 890",
     "Issues":"WFE, RO",
-    "Minor":1132,
-    "MinorTimestamp":"0:18:52",
-    "Major":1698,
-    "MajorTimestamp":"0:28:18",
+    "Minor":997,
+    "MinorTimestamp":"0:16:37",
+    "Major":1495,
+    "MajorTimestamp":"0:24:55",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_890",
     "Organizations":"Eggnog"
@@ -750,10 +750,10 @@
   {
     "Region":"Interstate 75",
     "Issues":"WFE, RO",
-    "Minor":1136,
-    "MinorTimestamp":"0:18:56",
-    "Major":1704,
-    "MajorTimestamp":"0:28:24",
+    "Minor":1002,
+    "MinorTimestamp":"0:16:42",
+    "Major":1504,
+    "MajorTimestamp":"0:25:04",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_75",
     "Organizations":"Eggnog"
@@ -761,10 +761,10 @@
   {
     "Region":"Interstate 474",
     "Issues":"WFE, RO",
-    "Minor":1152,
-    "MinorTimestamp":"0:19:12",
-    "Major":1728,
-    "MajorTimestamp":"0:28:48",
+    "Minor":1014,
+    "MinorTimestamp":"0:16:54",
+    "Major":1521,
+    "MajorTimestamp":"0:25:21",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_474",
     "Organizations":"Eggnog"
@@ -772,10 +772,10 @@
   {
     "Region":"Interstate 691",
     "Issues":"WFE, RO",
-    "Minor":1156,
-    "MinorTimestamp":"0:19:16",
-    "Major":1734,
-    "MajorTimestamp":"0:28:54",
+    "Minor":1017,
+    "MinorTimestamp":"0:16:57",
+    "Major":1526,
+    "MajorTimestamp":"0:25:26",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_691",
     "Organizations":"Eggnog"
@@ -783,10 +783,10 @@
   {
     "Region":"Interstate 4",
     "Issues":"WFE, RO",
-    "Minor":1162,
-    "MinorTimestamp":"0:19:22",
-    "Major":1742,
-    "MajorTimestamp":"0:29:02",
+    "Minor":1021,
+    "MinorTimestamp":"0:17:01",
+    "Major":1531,
+    "MajorTimestamp":"0:25:31",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_4",
     "Organizations":"Eggnog"
@@ -794,10 +794,10 @@
   {
     "Region":"Interstate 481",
     "Issues":"WFE, RO",
-    "Minor":1162,
-    "MinorTimestamp":"0:19:22",
-    "Major":1743,
-    "MajorTimestamp":"0:29:03",
+    "Minor":1021,
+    "MinorTimestamp":"0:17:01",
+    "Major":1531,
+    "MajorTimestamp":"0:25:31",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_481",
     "Organizations":"Eggnog"
@@ -805,10 +805,10 @@
   {
     "Region":"Interstate 840",
     "Issues":"WFE, RO",
-    "Minor":1169,
-    "MinorTimestamp":"0:19:29",
-    "Major":1753,
-    "MajorTimestamp":"0:29:13",
+    "Minor":1029,
+    "MinorTimestamp":"0:17:09",
+    "Major":1544,
+    "MajorTimestamp":"0:25:44",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_840",
     "Organizations":"Eggnog"
@@ -816,10 +816,10 @@
   {
     "Region":"Interstate 664",
     "Issues":"WFE, RO",
-    "Minor":1169,
-    "MinorTimestamp":"0:19:29",
-    "Major":1753,
-    "MajorTimestamp":"0:29:13",
+    "Minor":1029,
+    "MinorTimestamp":"0:17:09",
+    "Major":1544,
+    "MajorTimestamp":"0:25:44",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_664",
     "Organizations":"Eggnog"
@@ -827,10 +827,10 @@
   {
     "Region":"Interstate 169",
     "Issues":"WFE, RO",
-    "Minor":1170,
-    "MinorTimestamp":"0:19:30",
-    "Major":1754,
-    "MajorTimestamp":"0:29:14",
+    "Minor":1030,
+    "MinorTimestamp":"0:17:10",
+    "Major":1545,
+    "MajorTimestamp":"0:25:45",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_169",
     "Organizations":"Eggnog"
@@ -838,10 +838,10 @@
   {
     "Region":"Interstate 865",
     "Issues":"WFE, RO",
-    "Minor":1178,
-    "MinorTimestamp":"0:19:38",
-    "Major":1767,
-    "MajorTimestamp":"0:29:27",
+    "Minor":1036,
+    "MinorTimestamp":"0:17:16",
+    "Major":1554,
+    "MajorTimestamp":"0:25:54",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_865",
     "Organizations":"Eggnog"
@@ -849,10 +849,10 @@
   {
     "Region":"Interstate 277",
     "Issues":"WFE, RO",
-    "Minor":1187,
-    "MinorTimestamp":"0:19:47",
-    "Major":1780,
-    "MajorTimestamp":"0:29:40",
+    "Minor":1042,
+    "MinorTimestamp":"0:17:22",
+    "Major":1562,
+    "MajorTimestamp":"0:26:02",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_277",
     "Organizations":"Eggnog"
@@ -860,10 +860,10 @@
   {
     "Region":"Interstate 80",
     "Issues":"WFE, RO",
-    "Minor":1187,
-    "MinorTimestamp":"0:19:47",
-    "Major":1780,
-    "MajorTimestamp":"0:29:40",
+    "Minor":1042,
+    "MinorTimestamp":"0:17:22",
+    "Major":1563,
+    "MajorTimestamp":"0:26:03",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_80",
     "Organizations":"Eggnog"
@@ -871,10 +871,10 @@
   {
     "Region":"Interstate 905",
     "Issues":"WFE, RO",
-    "Minor":1187,
-    "MinorTimestamp":"0:19:47",
-    "Major":1781,
-    "MajorTimestamp":"0:29:41",
+    "Minor":1042,
+    "MinorTimestamp":"0:17:22",
+    "Major":1564,
+    "MajorTimestamp":"0:26:04",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_905",
     "Organizations":"Eggnog"
@@ -882,10 +882,10 @@
   {
     "Region":"Interstate 530",
     "Issues":"WFE, RO",
-    "Minor":1193,
-    "MinorTimestamp":"0:19:53",
-    "Major":1790,
-    "MajorTimestamp":"0:29:50",
+    "Minor":1047,
+    "MinorTimestamp":"0:17:27",
+    "Major":1570,
+    "MajorTimestamp":"0:26:10",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_530",
     "Organizations":"Eggnog"
@@ -893,10 +893,10 @@
   {
     "Region":"Interstate 283",
     "Issues":"WFE, RO",
-    "Minor":1195,
-    "MinorTimestamp":"0:19:55",
-    "Major":1793,
-    "MajorTimestamp":"0:29:53",
+    "Minor":1049,
+    "MinorTimestamp":"0:17:29",
+    "Major":1573,
+    "MajorTimestamp":"0:26:13",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_283",
     "Organizations":"Eggnog"
@@ -904,10 +904,10 @@
   {
     "Region":"Interstate 74",
     "Issues":"WFE, RO",
-    "Minor":1195,
-    "MinorTimestamp":"0:19:55",
-    "Major":1793,
-    "MajorTimestamp":"0:29:53",
+    "Minor":1049,
+    "MinorTimestamp":"0:17:29",
+    "Major":1574,
+    "MajorTimestamp":"0:26:14",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_74",
     "Organizations":"Eggnog"
@@ -915,10 +915,10 @@
   {
     "Region":"Interstate 475",
     "Issues":"WFE, RO",
-    "Minor":1198,
-    "MinorTimestamp":"0:19:58",
-    "Major":1797,
-    "MajorTimestamp":"0:29:57",
+    "Minor":1051,
+    "MinorTimestamp":"0:17:31",
+    "Major":1576,
+    "MajorTimestamp":"0:26:16",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_475",
     "Organizations":"Eggnog"
@@ -926,10 +926,10 @@
   {
     "Region":"Interstate 515",
     "Issues":"WFE, RO",
-    "Minor":1201,
-    "MinorTimestamp":"0:20:01",
-    "Major":1801,
-    "MajorTimestamp":"0:30:01",
+    "Minor":1053,
+    "MinorTimestamp":"0:17:33",
+    "Major":1579,
+    "MajorTimestamp":"0:26:19",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_515",
     "Organizations":"Eggnog"
@@ -937,10 +937,10 @@
   {
     "Region":"Interstate 690",
     "Issues":"WFE, RO",
-    "Minor":1202,
-    "MinorTimestamp":"0:20:02",
-    "Major":1803,
-    "MajorTimestamp":"0:30:03",
+    "Minor":1053,
+    "MinorTimestamp":"0:17:33",
+    "Major":1580,
+    "MajorTimestamp":"0:26:20",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_690",
     "Organizations":"Eggnog"
@@ -948,10 +948,10 @@
   {
     "Region":"Interstate 684",
     "Issues":"WFE, RO",
-    "Minor":1205,
-    "MinorTimestamp":"0:20:05",
-    "Major":1807,
-    "MajorTimestamp":"0:30:07",
+    "Minor":1055,
+    "MinorTimestamp":"0:17:35",
+    "Major":1583,
+    "MajorTimestamp":"0:26:23",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_684",
     "Organizations":"Eggnog"
@@ -959,10 +959,10 @@
   {
     "Region":"Interstate 189",
     "Issues":"WFE, RO",
-    "Minor":1207,
-    "MinorTimestamp":"0:20:07",
-    "Major":1811,
-    "MajorTimestamp":"0:30:11",
+    "Minor":1057,
+    "MinorTimestamp":"0:17:37",
+    "Major":1586,
+    "MajorTimestamp":"0:26:26",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_189",
     "Organizations":"Eggnog"
@@ -970,10 +970,10 @@
   {
     "Region":"Interstate 45",
     "Issues":"WFE",
-    "Minor":1208,
-    "MinorTimestamp":"0:20:08",
-    "Major":1812,
-    "MajorTimestamp":"0:30:12",
+    "Minor":1058,
+    "MinorTimestamp":"0:17:38",
+    "Major":1587,
+    "MajorTimestamp":"0:26:27",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_45",
     "Organizations":"Eggnog"
@@ -981,10 +981,10 @@
   {
     "Region":"Interstate 297",
     "Issues":"WFE, RO",
-    "Minor":1224,
-    "MinorTimestamp":"0:20:24",
-    "Major":1836,
-    "MajorTimestamp":"0:30:36",
+    "Minor":1069,
+    "MinorTimestamp":"0:17:49",
+    "Major":1603,
+    "MajorTimestamp":"0:26:43",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_297",
     "Organizations":"Eggnog"
@@ -992,10 +992,10 @@
   {
     "Region":"Interstate 444",
     "Issues":"WFE, RO",
-    "Minor":1224,
-    "MinorTimestamp":"0:20:24",
-    "Major":1836,
-    "MajorTimestamp":"0:30:36",
+    "Minor":1069,
+    "MinorTimestamp":"0:17:49",
+    "Major":1604,
+    "MajorTimestamp":"0:26:44",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_444",
     "Organizations":"Eggnog"
@@ -1003,10 +1003,10 @@
   {
     "Region":"Interstate 229",
     "Issues":"WFE, RO",
-    "Minor":1226,
-    "MinorTimestamp":"0:20:26",
-    "Major":1839,
-    "MajorTimestamp":"0:30:39",
+    "Minor":1070,
+    "MinorTimestamp":"0:17:50",
+    "Major":1605,
+    "MajorTimestamp":"0:26:45",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_229",
     "Organizations":"Eggnog"
@@ -1014,10 +1014,10 @@
   {
     "Region":"Interstate 670",
     "Issues":"WFE, RO",
-    "Minor":1280,
-    "MinorTimestamp":"0:21:20",
-    "Major":1919,
-    "MajorTimestamp":"0:31:59",
+    "Minor":1114,
+    "MinorTimestamp":"0:18:34",
+    "Major":1671,
+    "MajorTimestamp":"0:27:51",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_670",
     "Organizations":"Eggnog"
@@ -1025,10 +1025,10 @@
   {
     "Region":"Interstate 495",
     "Issues":"WFE, RO",
-    "Minor":1284,
-    "MinorTimestamp":"0:21:24",
-    "Major":1925,
-    "MajorTimestamp":"0:32:05",
+    "Minor":1118,
+    "MinorTimestamp":"0:18:38",
+    "Major":1677,
+    "MajorTimestamp":"0:27:57",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_495",
     "Organizations":"Eggnog"
@@ -1036,10 +1036,10 @@
   {
     "Region":"Interstate 710",
     "Issues":"WFE, RO",
-    "Minor":1284,
-    "MinorTimestamp":"0:21:24",
-    "Major":1925,
-    "MajorTimestamp":"0:32:05",
+    "Minor":1118,
+    "MinorTimestamp":"0:18:38",
+    "Major":1677,
+    "MajorTimestamp":"0:27:57",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_710",
     "Organizations":"Eggnog"
@@ -1047,10 +1047,10 @@
   {
     "Region":"Interstate 155",
     "Issues":"WFE",
-    "Minor":1288,
-    "MinorTimestamp":"0:21:28",
-    "Major":1931,
-    "MajorTimestamp":"0:32:11",
+    "Minor":1122,
+    "MinorTimestamp":"0:18:42",
+    "Major":1683,
+    "MajorTimestamp":"0:28:03",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_155",
     "Organizations":"Eggnog"
@@ -1058,10 +1058,10 @@
   {
     "Region":"Interstate 27",
     "Issues":"WFE, RO",
-    "Minor":1288,
-    "MinorTimestamp":"0:21:28",
-    "Major":1932,
-    "MajorTimestamp":"0:32:12",
+    "Minor":1122,
+    "MinorTimestamp":"0:18:42",
+    "Major":1683,
+    "MajorTimestamp":"0:28:03",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_27",
     "Organizations":"Eggnog"
@@ -1069,10 +1069,10 @@
   {
     "Region":"Interstate 99",
     "Issues":"WFE, RO",
-    "Minor":1305,
-    "MinorTimestamp":"0:21:45",
-    "Major":1958,
-    "MajorTimestamp":"0:32:38",
+    "Minor":1141,
+    "MinorTimestamp":"0:19:01",
+    "Major":1711,
+    "MajorTimestamp":"0:28:31",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_99",
     "Organizations":"Eggnog"
@@ -1080,10 +1080,10 @@
   {
     "Region":"Interstate 395",
     "Issues":"WFE, RO",
-    "Minor":1307,
-    "MinorTimestamp":"0:21:47",
-    "Major":1961,
-    "MajorTimestamp":"0:32:41",
+    "Minor":1143,
+    "MinorTimestamp":"0:19:03",
+    "Major":1715,
+    "MajorTimestamp":"0:28:35",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_395",
     "Organizations":"Eggnog"
@@ -1091,10 +1091,10 @@
   {
     "Region":"Interstate 170",
     "Issues":"WFE, RO",
-    "Minor":1321,
-    "MinorTimestamp":"0:22:01",
-    "Major":1982,
-    "MajorTimestamp":"0:33:02",
+    "Minor":1160,
+    "MinorTimestamp":"0:19:20",
+    "Major":1739,
+    "MajorTimestamp":"0:28:59",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_170",
     "Organizations":"Eggnog"
@@ -1102,10 +1102,10 @@
   {
     "Region":"Interstate 184",
     "Issues":"WFE, RO",
-    "Minor":1333,
-    "MinorTimestamp":"0:22:13",
-    "Major":2000,
-    "MajorTimestamp":"0:33:20",
+    "Minor":1172,
+    "MinorTimestamp":"0:19:32",
+    "Major":1758,
+    "MajorTimestamp":"0:29:18",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_184",
     "Organizations":"Eggnog"
@@ -1113,10 +1113,10 @@
   {
     "Region":"Interstate 79",
     "Issues":"WFE, RO",
-    "Minor":1355,
-    "MinorTimestamp":"0:22:35",
-    "Major":2033,
-    "MajorTimestamp":"0:33:53",
+    "Minor":1188,
+    "MinorTimestamp":"0:19:48",
+    "Major":1782,
+    "MajorTimestamp":"0:29:42",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_79",
     "Organizations":"Eggnog"
@@ -1124,10 +1124,10 @@
   {
     "Region":"Interstate 190",
     "Issues":"WFE, RO",
-    "Minor":1434,
-    "MinorTimestamp":"0:23:54",
-    "Major":2151,
-    "MajorTimestamp":"0:35:51",
+    "Minor":1248,
+    "MinorTimestamp":"0:20:48",
+    "Major":1873,
+    "MajorTimestamp":"0:31:13",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_190",
     "Organizations":"Eggnog"
@@ -1135,10 +1135,10 @@
   {
     "Region":"Interstate 215",
     "Issues":"WFE, RO",
-    "Minor":1435,
-    "MinorTimestamp":"0:23:55",
-    "Major":2152,
-    "MajorTimestamp":"0:35:52",
+    "Minor":1249,
+    "MinorTimestamp":"0:20:49",
+    "Major":1874,
+    "MajorTimestamp":"0:31:14",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_215",
     "Organizations":"Eggnog"
@@ -1146,10 +1146,10 @@
   {
     "Region":"Interstate 478",
     "Issues":"WFE, RO",
-    "Minor":1437,
-    "MinorTimestamp":"0:23:57",
-    "Major":2156,
-    "MajorTimestamp":"0:35:56",
+    "Minor":1252,
+    "MinorTimestamp":"0:20:52",
+    "Major":1877,
+    "MajorTimestamp":"0:31:17",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_478",
     "Organizations":"Eggnog"
@@ -1157,10 +1157,10 @@
   {
     "Region":"Interstate 375",
     "Issues":"WFE, RO",
-    "Minor":1451,
-    "MinorTimestamp":"0:24:11",
-    "Major":2176,
-    "MajorTimestamp":"0:36:16",
+    "Minor":1264,
+    "MinorTimestamp":"0:21:04",
+    "Major":1896,
+    "MajorTimestamp":"0:31:36",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_375",
     "Organizations":"Eggnog"
@@ -1168,10 +1168,10 @@
   {
     "Region":"Interstate 381",
     "Issues":"WFE, RO",
-    "Minor":1458,
-    "MinorTimestamp":"0:24:18",
-    "Major":2187,
-    "MajorTimestamp":"0:36:27",
+    "Minor":1272,
+    "MinorTimestamp":"0:21:12",
+    "Major":1908,
+    "MajorTimestamp":"0:31:48",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_381",
     "Organizations":"Eggnog"
@@ -1179,10 +1179,10 @@
   {
     "Region":"Interstate 485",
     "Issues":"WFE, RO",
-    "Minor":1489,
-    "MinorTimestamp":"0:24:49",
-    "Major":2233,
-    "MajorTimestamp":"0:37:13",
+    "Minor":1299,
+    "MinorTimestamp":"0:21:39",
+    "Major":1948,
+    "MajorTimestamp":"0:32:28",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_485",
     "Organizations":"Eggnog"
@@ -1190,10 +1190,10 @@
   {
     "Region":"Interstate 84",
     "Issues":"WFE, RO",
-    "Minor":1538,
-    "MinorTimestamp":"0:25:38",
-    "Major":2308,
-    "MajorTimestamp":"0:38:28",
+    "Minor":1339,
+    "MinorTimestamp":"0:22:19",
+    "Major":2008,
+    "MajorTimestamp":"0:33:28",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_84",
     "Organizations":"Eggnog"
@@ -1201,10 +1201,10 @@
   {
     "Region":"Interstate 895",
     "Issues":"WFE, RO",
-    "Minor":1542,
-    "MinorTimestamp":"0:25:42",
-    "Major":2314,
-    "MajorTimestamp":"0:38:34",
+    "Minor":1342,
+    "MinorTimestamp":"0:22:22",
+    "Major":2013,
+    "MajorTimestamp":"0:33:33",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_895",
     "Organizations":"Eggnog"
@@ -1212,10 +1212,10 @@
   {
     "Region":"Interstate 359",
     "Issues":"WFE, RO",
-    "Minor":1543,
-    "MinorTimestamp":"0:25:43",
-    "Major":2315,
-    "MajorTimestamp":"0:38:35",
+    "Minor":1343,
+    "MinorTimestamp":"0:22:23",
+    "Major":2014,
+    "MajorTimestamp":"0:33:34",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_359",
     "Organizations":"Eggnog"
@@ -1223,10 +1223,10 @@
   {
     "Region":"Interstate 287",
     "Issues":"WFE, RO",
-    "Minor":1548,
-    "MinorTimestamp":"0:25:48",
-    "Major":2322,
-    "MajorTimestamp":"0:38:42",
+    "Minor":1348,
+    "MinorTimestamp":"0:22:28",
+    "Major":2022,
+    "MajorTimestamp":"0:33:42",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_287",
     "Organizations":"Eggnog"
@@ -1234,10 +1234,10 @@
   {
     "Region":"Interstate 70",
     "Issues":"WFE, RO",
-    "Minor":1549,
-    "MinorTimestamp":"0:25:49",
-    "Major":2323,
-    "MajorTimestamp":"0:38:43",
+    "Minor":1348,
+    "MinorTimestamp":"0:22:28",
+    "Major":2022,
+    "MajorTimestamp":"0:33:42",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_70",
     "Organizations":"Eggnog"
@@ -1245,10 +1245,10 @@
   {
     "Region":"Interstate 471",
     "Issues":"RO",
-    "Minor":1549,
-    "MinorTimestamp":"0:25:49",
-    "Major":2323,
-    "MajorTimestamp":"0:38:43",
+    "Minor":1349,
+    "MinorTimestamp":"0:22:29",
+    "Major":2023,
+    "MajorTimestamp":"0:33:43",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_471",
     "Organizations":"Eggnog"
@@ -1256,10 +1256,10 @@
   {
     "Region":"Interstate 55",
     "Issues":"WFE, RO",
-    "Minor":1549,
-    "MinorTimestamp":"0:25:49",
-    "Major":2323,
-    "MajorTimestamp":"0:38:43",
+    "Minor":1349,
+    "MinorTimestamp":"0:22:29",
+    "Major":2023,
+    "MajorTimestamp":"0:33:43",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_55",
     "Organizations":"Eggnog"
@@ -1267,10 +1267,10 @@
   {
     "Region":"Interstate 694",
     "Issues":"WFE, RO",
-    "Minor":1555,
-    "MinorTimestamp":"0:25:55",
-    "Major":2333,
-    "MajorTimestamp":"0:38:53",
+    "Minor":1354,
+    "MinorTimestamp":"0:22:34",
+    "Major":2031,
+    "MajorTimestamp":"0:33:51",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_694",
     "Organizations":"Eggnog"
@@ -1278,10 +1278,10 @@
   {
     "Region":"Interstate 505",
     "Issues":"RO",
-    "Minor":1565,
-    "MinorTimestamp":"0:26:05",
-    "Major":2348,
-    "MajorTimestamp":"0:39:08",
+    "Minor":1361,
+    "MinorTimestamp":"0:22:41",
+    "Major":2041,
+    "MajorTimestamp":"0:34:01",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_505",
     "Organizations":"Eggnog"
@@ -1289,10 +1289,10 @@
   {
     "Region":"Interstate 680",
     "Issues":"WFE, RO",
-    "Minor":1567,
-    "MinorTimestamp":"0:26:07",
-    "Major":2351,
-    "MajorTimestamp":"0:39:11",
+    "Minor":1361,
+    "MinorTimestamp":"0:22:41",
+    "Major":2042,
+    "MajorTimestamp":"0:34:02",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_680",
     "Organizations":"Eggnog"
@@ -1300,10 +1300,10 @@
   {
     "Region":"Interstate 41",
     "Issues":"WFE, RO",
-    "Minor":1572,
-    "MinorTimestamp":"0:26:12",
-    "Major":2358,
-    "MajorTimestamp":"0:39:18",
+    "Minor":1365,
+    "MinorTimestamp":"0:22:45",
+    "Major":2047,
+    "MajorTimestamp":"0:34:07",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_41",
     "Organizations":"Eggnog"
@@ -1311,10 +1311,10 @@
   {
     "Region":"Interstate 465",
     "Issues":"WFE, RO",
-    "Minor":1572,
-    "MinorTimestamp":"0:26:12",
-    "Major":2358,
-    "MajorTimestamp":"0:39:18",
+    "Minor":1365,
+    "MinorTimestamp":"0:22:45",
+    "Major":2048,
+    "MajorTimestamp":"0:34:08",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_465",
     "Organizations":"Eggnog"
@@ -1322,10 +1322,10 @@
   {
     "Region":"Interstate 64",
     "Issues":"WFE, RO",
-    "Minor":1578,
-    "MinorTimestamp":"0:26:18",
-    "Major":2367,
-    "MajorTimestamp":"0:39:27",
+    "Minor":1370,
+    "MinorTimestamp":"0:22:50",
+    "Major":2055,
+    "MajorTimestamp":"0:34:15",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_64",
     "Organizations":"Eggnog"
@@ -1333,10 +1333,10 @@
   {
     "Region":"Interstate 293",
     "Issues":"WFE, RO",
-    "Minor":1580,
-    "MinorTimestamp":"0:26:20",
-    "Major":2369,
-    "MajorTimestamp":"0:39:29",
+    "Minor":1370,
+    "MinorTimestamp":"0:22:50",
+    "Major":2055,
+    "MajorTimestamp":"0:34:15",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_293",
     "Organizations":"Eggnog"
@@ -1344,10 +1344,10 @@
   {
     "Region":"Interstate 440",
     "Issues":"WFE, RO",
-    "Minor":1580,
-    "MinorTimestamp":"0:26:20",
-    "Major":2370,
-    "MajorTimestamp":"0:39:30",
+    "Minor":1371,
+    "MinorTimestamp":"0:22:51",
+    "Major":2057,
+    "MajorTimestamp":"0:34:17",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_440",
     "Organizations":"Eggnog"
@@ -1355,10 +1355,10 @@
   {
     "Region":"Interstate 422",
     "Issues":"WFE",
-    "Minor":1929,
-    "MinorTimestamp":"0:32:09",
-    "Major":2893,
-    "MajorTimestamp":"0:48:13",
+    "Minor":1651,
+    "MinorTimestamp":"0:27:31",
+    "Major":2477,
+    "MajorTimestamp":"0:41:17",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_422",
     "Organizations":"Eggnog"
@@ -1366,10 +1366,10 @@
   {
     "Region":"Interstate 180",
     "Issues":"WFE, RO",
-    "Minor":1943,
-    "MinorTimestamp":"0:32:23",
-    "Major":2914,
-    "MajorTimestamp":"0:48:34",
+    "Minor":1662,
+    "MinorTimestamp":"0:27:42",
+    "Major":2493,
+    "MajorTimestamp":"0:41:33",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_180",
     "Organizations":"Eggnog"
@@ -1377,10 +1377,10 @@
   {
     "Region":"Interstate 205",
     "Issues":"WFE, RO",
-    "Minor":1945,
-    "MinorTimestamp":"0:32:25",
-    "Major":2917,
-    "MajorTimestamp":"0:48:37",
+    "Minor":1664,
+    "MinorTimestamp":"0:27:44",
+    "Major":2496,
+    "MajorTimestamp":"0:41:36",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_205",
     "Organizations":"Eggnog"
@@ -1388,10 +1388,10 @@
   {
     "Region":"Interstate 220",
     "Issues":"WFE, RO",
-    "Minor":1946,
-    "MinorTimestamp":"0:32:26",
-    "Major":2919,
-    "MajorTimestamp":"0:48:39",
+    "Minor":1666,
+    "MinorTimestamp":"0:27:46",
+    "Major":2499,
+    "MajorTimestamp":"0:41:39",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_220",
     "Organizations":"Eggnog"
@@ -1399,10 +1399,10 @@
   {
     "Region":"Interstate 69C",
     "Issues":"WFE, RO",
-    "Minor":1950,
-    "MinorTimestamp":"0:32:30",
-    "Major":2926,
-    "MajorTimestamp":"0:48:46",
+    "Minor":1669,
+    "MinorTimestamp":"0:27:49",
+    "Major":2504,
+    "MajorTimestamp":"0:41:44",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_69c",
     "Organizations":"Eggnog"
@@ -1410,10 +1410,10 @@
   {
     "Region":"Interstate 69",
     "Issues":"WFE, RO",
-    "Minor":1960,
-    "MinorTimestamp":"0:32:40",
-    "Major":2940,
-    "MajorTimestamp":"0:49:00",
+    "Minor":1675,
+    "MinorTimestamp":"0:27:55",
+    "Major":2512,
+    "MajorTimestamp":"0:41:52",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_69",
     "Organizations":"Eggnog"
@@ -1421,10 +1421,10 @@
   {
     "Region":"Interstate 587",
     "Issues":"WFE, RO",
-    "Minor":1961,
-    "MinorTimestamp":"0:32:41",
-    "Major":2942,
-    "MajorTimestamp":"0:49:02",
+    "Minor":1676,
+    "MinorTimestamp":"0:27:56",
+    "Major":2514,
+    "MajorTimestamp":"0:41:54",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_587",
     "Organizations":"Eggnog"
@@ -1432,10 +1432,10 @@
   {
     "Region":"Interstate 459",
     "Issues":"WFE, RO",
-    "Minor":1964,
-    "MinorTimestamp":"0:32:44",
-    "Major":2947,
-    "MajorTimestamp":"0:49:07",
+    "Minor":1680,
+    "MinorTimestamp":"0:28:00",
+    "Major":2520,
+    "MajorTimestamp":"0:42:00",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_459",
     "Organizations":"Eggnog"
@@ -1443,10 +1443,10 @@
   {
     "Region":"Interstate 194",
     "Issues":"WFE, RO",
-    "Minor":1979,
-    "MinorTimestamp":"0:32:59",
-    "Major":2969,
-    "MajorTimestamp":"0:49:29",
+    "Minor":1695,
+    "MinorTimestamp":"0:28:15",
+    "Major":2543,
+    "MajorTimestamp":"0:42:23",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_194",
     "Organizations":"Eggnog"
@@ -1454,10 +1454,10 @@
   {
     "Region":"Interstate 12",
     "Issues":"WFE, RO",
-    "Minor":1989,
-    "MinorTimestamp":"0:33:09",
-    "Major":2984,
-    "MajorTimestamp":"0:49:44",
+    "Minor":1705,
+    "MinorTimestamp":"0:28:25",
+    "Major":2557,
+    "MajorTimestamp":"0:42:37",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_12",
     "Organizations":"Eggnog"
@@ -1465,10 +1465,10 @@
   {
     "Region":"Interstate 385",
     "Issues":"WFE, RO",
-    "Minor":1997,
-    "MinorTimestamp":"0:33:17",
-    "Major":2995,
-    "MajorTimestamp":"0:49:55",
+    "Minor":1710,
+    "MinorTimestamp":"0:28:30",
+    "Major":2565,
+    "MajorTimestamp":"0:42:45",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_385",
     "Organizations":"Eggnog"
@@ -1476,10 +1476,10 @@
   {
     "Region":"Interstate 89",
     "Issues":"WFE, RO",
-    "Minor":2004,
-    "MinorTimestamp":"0:33:24",
-    "Major":3005,
-    "MajorTimestamp":"0:50:05",
+    "Minor":1719,
+    "MinorTimestamp":"0:28:39",
+    "Major":2578,
+    "MajorTimestamp":"0:42:58",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_89",
     "Organizations":"Eggnog"
@@ -1487,10 +1487,10 @@
   {
     "Region":"Interstate 37",
     "Issues":"WFE, RO",
-    "Minor":2007,
-    "MinorTimestamp":"0:33:27",
-    "Major":3010,
-    "MajorTimestamp":"0:50:10",
+    "Minor":1721,
+    "MinorTimestamp":"0:28:41",
+    "Major":2581,
+    "MajorTimestamp":"0:43:01",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_37",
     "Organizations":"Eggnog"
@@ -1498,10 +1498,10 @@
   {
     "Region":"Interstate 355",
     "Issues":"WFE",
-    "Minor":2009,
-    "MinorTimestamp":"0:33:29",
-    "Major":3013,
-    "MajorTimestamp":"0:50:13",
+    "Minor":1723,
+    "MinorTimestamp":"0:28:43",
+    "Major":2584,
+    "MajorTimestamp":"0:43:04",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_355",
     "Organizations":"Eggnog"
@@ -1509,10 +1509,10 @@
   {
     "Region":"Interstate 235",
     "Issues":"WFE, RO",
-    "Minor":2014,
-    "MinorTimestamp":"0:33:34",
-    "Major":3022,
-    "MajorTimestamp":"0:50:22",
+    "Minor":1727,
+    "MinorTimestamp":"0:28:47",
+    "Major":2591,
+    "MajorTimestamp":"0:43:11",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_235",
     "Organizations":"Eggnog"
@@ -1520,10 +1520,10 @@
   {
     "Region":"Interstate 210",
     "Issues":"WFE, RO",
-    "Minor":2029,
-    "MinorTimestamp":"0:33:49",
-    "Major":3043,
-    "MajorTimestamp":"0:50:43",
+    "Minor":1741,
+    "MinorTimestamp":"0:29:01",
+    "Major":2611,
+    "MajorTimestamp":"0:43:31",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_210",
     "Organizations":"Eggnog"
@@ -1531,10 +1531,10 @@
   {
     "Region":"Interstate 195",
     "Issues":"WFE, RO",
-    "Minor":2029,
-    "MinorTimestamp":"0:33:49",
-    "Major":3043,
-    "MajorTimestamp":"0:50:43",
+    "Minor":1741,
+    "MinorTimestamp":"0:29:01",
+    "Major":2611,
+    "MajorTimestamp":"0:43:31",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_195",
     "Organizations":"Eggnog"
@@ -1542,10 +1542,10 @@
   {
     "Region":"Interstate 59",
     "Issues":"WFE, RO",
-    "Minor":2031,
-    "MinorTimestamp":"0:33:51",
-    "Major":3046,
-    "MajorTimestamp":"0:50:46",
+    "Minor":1743,
+    "MinorTimestamp":"0:29:03",
+    "Major":2615,
+    "MajorTimestamp":"0:43:35",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_59",
     "Organizations":"Eggnog"
@@ -1553,10 +1553,10 @@
   {
     "Region":"Interstate 370",
     "Issues":"WFE, RO",
-    "Minor":2039,
-    "MinorTimestamp":"0:33:59",
-    "Major":3058,
-    "MajorTimestamp":"0:50:58",
+    "Minor":1748,
+    "MinorTimestamp":"0:29:08",
+    "Major":2622,
+    "MajorTimestamp":"0:43:42",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_370",
     "Organizations":"Eggnog"
@@ -1564,10 +1564,10 @@
   {
     "Region":"Interstate 384",
     "Issues":"WFE, RO",
-    "Minor":2061,
-    "MinorTimestamp":"0:34:21",
-    "Major":3091,
-    "MajorTimestamp":"0:51:31",
+    "Minor":1773,
+    "MinorTimestamp":"0:29:33",
+    "Major":2659,
+    "MajorTimestamp":"0:44:19",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_384",
     "Organizations":"Eggnog"
@@ -1575,10 +1575,10 @@
   {
     "Region":"Interstate 88",
     "Issues":"WFE, RO",
-    "Minor":2071,
-    "MinorTimestamp":"0:34:31",
-    "Major":3107,
-    "MajorTimestamp":"0:51:47",
+    "Minor":1779,
+    "MinorTimestamp":"0:29:39",
+    "Major":2669,
+    "MajorTimestamp":"0:44:29",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_88",
     "Organizations":"Eggnog"
@@ -1586,10 +1586,10 @@
   {
     "Region":"Interstate 390",
     "Issues":"WFE, RO",
-    "Minor":2107,
-    "MinorTimestamp":"0:35:07",
-    "Major":3160,
-    "MajorTimestamp":"0:52:40",
+    "Minor":1804,
+    "MinorTimestamp":"0:30:04",
+    "Major":2706,
+    "MajorTimestamp":"0:45:06",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_390",
     "Organizations":"Eggnog"
@@ -1597,10 +1597,10 @@
   {
     "Region":"Interstate 678",
     "Issues":"WFE, RO",
-    "Minor":2110,
-    "MinorTimestamp":"0:35:10",
-    "Major":3165,
-    "MajorTimestamp":"0:52:45",
+    "Minor":1806,
+    "MinorTimestamp":"0:30:06",
+    "Major":2709,
+    "MajorTimestamp":"0:45:09",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_678",
     "Organizations":"Eggnog"
@@ -1608,10 +1608,10 @@
   {
     "Region":"Interstate 175",
     "Issues":"WFE, RO",
-    "Minor":2111,
-    "MinorTimestamp":"0:35:11",
-    "Major":3167,
-    "MajorTimestamp":"0:52:47",
+    "Minor":1808,
+    "MinorTimestamp":"0:30:08",
+    "Major":2712,
+    "MajorTimestamp":"0:45:12",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_175",
     "Organizations":"Eggnog"
@@ -1619,10 +1619,10 @@
   {
     "Region":"Interstate 469",
     "Issues":"WFE, RO",
-    "Minor":2124,
-    "MinorTimestamp":"0:35:24",
-    "Major":3185,
-    "MajorTimestamp":"0:53:05",
+    "Minor":1814,
+    "MinorTimestamp":"0:30:14",
+    "Major":2721,
+    "MajorTimestamp":"0:45:21",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_469",
     "Organizations":"Eggnog"
@@ -1630,10 +1630,10 @@
   {
     "Region":"Interstate 68",
     "Issues":"WFE, RO",
-    "Minor":2146,
-    "MinorTimestamp":"0:35:46",
-    "Major":3219,
-    "MajorTimestamp":"0:53:39",
+    "Minor":1838,
+    "MinorTimestamp":"0:30:38",
+    "Major":2758,
+    "MajorTimestamp":"0:45:58",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_68",
     "Organizations":"Eggnog"
@@ -1641,10 +1641,10 @@
   {
     "Region":"Interstate 40",
     "Issues":"WFE, RO",
-    "Minor":2151,
-    "MinorTimestamp":"0:35:51",
-    "Major":3227,
-    "MajorTimestamp":"0:53:47",
+    "Minor":1846,
+    "MinorTimestamp":"0:30:46",
+    "Major":2769,
+    "MajorTimestamp":"0:46:09",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_40",
     "Organizations":"Eggnog"
@@ -1652,10 +1652,10 @@
   {
     "Region":"Interstate 464",
     "Issues":"WFE, RO",
-    "Minor":2153,
-    "MinorTimestamp":"0:35:53",
-    "Major":3229,
-    "MajorTimestamp":"0:53:49",
+    "Minor":1847,
+    "MinorTimestamp":"0:30:47",
+    "Major":2770,
+    "MajorTimestamp":"0:46:10",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_464",
     "Organizations":"Eggnog"
@@ -1663,10 +1663,10 @@
   {
     "Region":"Interstate 880",
     "Issues":"WFE, RO",
-    "Minor":2167,
-    "MinorTimestamp":"0:36:07",
-    "Major":3250,
-    "MajorTimestamp":"0:54:10",
+    "Minor":1860,
+    "MinorTimestamp":"0:31:00",
+    "Major":2790,
+    "MajorTimestamp":"0:46:30",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_880",
     "Organizations":"Eggnog"
@@ -1674,10 +1674,10 @@
   {
     "Region":"Interstate 91",
     "Issues":"WFE, RO",
-    "Minor":2173,
-    "MinorTimestamp":"0:36:13",
-    "Major":3259,
-    "MajorTimestamp":"0:54:19",
+    "Minor":1865,
+    "MinorTimestamp":"0:31:05",
+    "Major":2798,
+    "MajorTimestamp":"0:46:38",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_91",
     "Organizations":"Eggnog"
@@ -1685,10 +1685,10 @@
   {
     "Region":"Interstate 266",
     "Issues":"WFE, RO",
-    "Minor":2173,
-    "MinorTimestamp":"0:36:13",
-    "Major":3260,
-    "MajorTimestamp":"0:54:20",
+    "Minor":1866,
+    "MinorTimestamp":"0:31:06",
+    "Major":2799,
+    "MajorTimestamp":"0:46:39",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_266",
     "Organizations":"Eggnog"
@@ -1696,10 +1696,10 @@
   {
     "Region":"Interstate 675",
     "Issues":"WFE, RO",
-    "Minor":2180,
-    "MinorTimestamp":"0:36:20",
-    "Major":3269,
-    "MajorTimestamp":"0:54:29",
+    "Minor":1872,
+    "MinorTimestamp":"0:31:12",
+    "Major":2807,
+    "MajorTimestamp":"0:46:47",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_675",
     "Organizations":"Eggnog"
@@ -1707,10 +1707,10 @@
   {
     "Region":"Interstate 490",
     "Issues":"WFE, RO",
-    "Minor":2186,
-    "MinorTimestamp":"0:36:26",
-    "Major":3279,
-    "MajorTimestamp":"0:54:39",
+    "Minor":1878,
+    "MinorTimestamp":"0:31:18",
+    "Major":2817,
+    "MajorTimestamp":"0:46:57",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_490",
     "Organizations":"Eggnog"
@@ -1718,10 +1718,10 @@
   {
     "Region":"Interstate 85",
     "Issues":"WFE, RO",
-    "Minor":2214,
-    "MinorTimestamp":"0:36:54",
-    "Major":3321,
-    "MajorTimestamp":"0:55:21",
+    "Minor":1909,
+    "MinorTimestamp":"0:31:49",
+    "Major":2864,
+    "MajorTimestamp":"0:47:44",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_85",
     "Organizations":"Eggnog"
@@ -1729,10 +1729,10 @@
   {
     "Region":"Interstate 535",
     "Issues":"WFE, RO",
-    "Minor":2216,
-    "MinorTimestamp":"0:36:56",
-    "Major":3324,
-    "MajorTimestamp":"0:55:24",
+    "Minor":1912,
+    "MinorTimestamp":"0:31:52",
+    "Major":2868,
+    "MajorTimestamp":"0:47:48",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_535",
     "Organizations":"Eggnog"
@@ -1740,10 +1740,10 @@
   {
     "Region":"Interstate 894",
     "Issues":"WFE, RO",
-    "Minor":2231,
-    "MinorTimestamp":"0:37:11",
-    "Major":3346,
-    "MajorTimestamp":"0:55:46",
+    "Minor":1922,
+    "MinorTimestamp":"0:32:02",
+    "Major":2883,
+    "MajorTimestamp":"0:48:03",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_894",
     "Organizations":"Eggnog"
@@ -1751,10 +1751,10 @@
   {
     "Region":"Interstate 71",
     "Issues":"WFE, RO",
-    "Minor":2237,
-    "MinorTimestamp":"0:37:17",
-    "Major":3355,
-    "MajorTimestamp":"0:55:55",
+    "Minor":1929,
+    "MinorTimestamp":"0:32:09",
+    "Major":2893,
+    "MajorTimestamp":"0:48:13",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_71",
     "Organizations":"Eggnog"
@@ -1762,10 +1762,10 @@
   {
     "Region":"Interstate 470",
     "Issues":"WFE, RO",
-    "Minor":2238,
-    "MinorTimestamp":"0:37:18",
-    "Major":3356,
-    "MajorTimestamp":"0:55:56",
+    "Minor":1929,
+    "MinorTimestamp":"0:32:09",
+    "Major":2894,
+    "MajorTimestamp":"0:48:14",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_470",
     "Organizations":"Eggnog"
@@ -1773,10 +1773,10 @@
   {
     "Region":"Interstate 126",
     "Issues":"WFE, RO",
-    "Minor":2240,
-    "MinorTimestamp":"0:37:20",
-    "Major":3360,
-    "MajorTimestamp":"0:56:00",
+    "Minor":1931,
+    "MinorTimestamp":"0:32:11",
+    "Major":2896,
+    "MajorTimestamp":"0:48:16",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_126",
     "Organizations":"Eggnog"
@@ -1784,10 +1784,10 @@
   {
     "Region":"Interstate 695",
     "Issues":"WFE, RO",
-    "Minor":2244,
-    "MinorTimestamp":"0:37:24",
-    "Major":3365,
-    "MajorTimestamp":"0:56:05",
+    "Minor":1934,
+    "MinorTimestamp":"0:32:14",
+    "Major":2900,
+    "MajorTimestamp":"0:48:20",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_695",
     "Organizations":"Eggnog"
@@ -1795,10 +1795,10 @@
   {
     "Region":"Interstate 510",
     "Issues":"WFE, RO",
-    "Minor":2244,
-    "MinorTimestamp":"0:37:24",
-    "Major":3366,
-    "MajorTimestamp":"0:56:06",
+    "Minor":1934,
+    "MinorTimestamp":"0:32:14",
+    "Major":2901,
+    "MajorTimestamp":"0:48:21",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_510",
     "Organizations":"Eggnog"
@@ -1806,10 +1806,10 @@
   {
     "Region":"Interstate 115",
     "Issues":"WFE, RO",
-    "Minor":2384,
-    "MinorTimestamp":"0:39:44",
-    "Major":3577,
-    "MajorTimestamp":"0:59:37",
+    "Minor":2151,
+    "MinorTimestamp":"0:35:51",
+    "Major":3227,
+    "MajorTimestamp":"0:53:47",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_115",
     "Organizations":"Eggnog"
@@ -1817,10 +1817,10 @@
   {
     "Region":"Interstate 264",
     "Issues":"WFE, RO",
-    "Minor":2401,
-    "MinorTimestamp":"0:40:01",
-    "Major":3602,
-    "MajorTimestamp":"1:00:02",
+    "Minor":2169,
+    "MinorTimestamp":"0:36:09",
+    "Major":3254,
+    "MajorTimestamp":"0:54:14",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_264",
     "Organizations":"Eggnog"
@@ -1828,10 +1828,10 @@
   {
     "Region":"Interstate 93",
     "Issues":"WFE, RO",
-    "Minor":2401,
-    "MinorTimestamp":"0:40:01",
-    "Major":3602,
-    "MajorTimestamp":"1:00:02",
+    "Minor":2170,
+    "MinorTimestamp":"0:36:10",
+    "Major":3255,
+    "MajorTimestamp":"0:54:15",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_93",
     "Organizations":"Eggnog"
@@ -1839,10 +1839,10 @@
   {
     "Region":"Interstate 255",
     "Issues":"WFE, RO",
-    "Minor":2426,
-    "MinorTimestamp":"0:40:26",
-    "Major":3639,
-    "MajorTimestamp":"1:00:39",
+    "Minor":2198,
+    "MinorTimestamp":"0:36:38",
+    "Major":3296,
+    "MajorTimestamp":"0:54:56",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_255",
     "Organizations":"Eggnog"
@@ -1850,10 +1850,10 @@
   {
     "Region":"Interstate 335",
     "Issues":"WFE, RO",
-    "Minor":2429,
-    "MinorTimestamp":"0:40:29",
-    "Major":3643,
-    "MajorTimestamp":"1:00:43",
+    "Minor":2207,
+    "MinorTimestamp":"0:36:47",
+    "Major":3310,
+    "MajorTimestamp":"0:55:10",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_335",
     "Organizations":"Eggnog"
@@ -1861,10 +1861,10 @@
   {
     "Region":"Interstate 39",
     "Issues":"WFE, RO",
-    "Minor":2434,
-    "MinorTimestamp":"0:40:34",
-    "Major":3651,
-    "MajorTimestamp":"1:00:51",
+    "Minor":2214,
+    "MinorTimestamp":"0:36:54",
+    "Major":3321,
+    "MajorTimestamp":"0:55:21",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_39",
     "Organizations":"Eggnog"
@@ -1872,10 +1872,10 @@
   {
     "Region":"Interstate 310",
     "Issues":"WFE, RO",
-    "Minor":2434,
-    "MinorTimestamp":"0:40:34",
-    "Major":3652,
-    "MajorTimestamp":"1:00:52",
+    "Minor":2215,
+    "MinorTimestamp":"0:36:55",
+    "Major":3323,
+    "MajorTimestamp":"0:55:23",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_310",
     "Organizations":"Eggnog"
@@ -1883,10 +1883,10 @@
   {
     "Region":"Interstate 435",
     "Issues":"WFE, RO",
-    "Minor":2751,
-    "MinorTimestamp":"0:45:51",
-    "Major":4126,
-    "MajorTimestamp":"1:08:46",
+    "Minor":2511,
+    "MinorTimestamp":"0:41:51",
+    "Major":3767,
+    "MajorTimestamp":"1:02:47",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_435",
     "Organizations":"Eggnog"
@@ -1894,10 +1894,10 @@
   {
     "Region":"Interstate 555",
     "Issues":"WFE, RO",
-    "Minor":2757,
-    "MinorTimestamp":"0:45:57",
-    "Major":4135,
-    "MajorTimestamp":"1:08:55",
+    "Minor":2516,
+    "MinorTimestamp":"0:41:56",
+    "Major":3774,
+    "MajorTimestamp":"1:02:54",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_555",
     "Organizations":"Eggnog"
@@ -1905,10 +1905,10 @@
   {
     "Region":"Interstate 795",
     "Issues":"WFE, RO",
-    "Minor":2771,
-    "MinorTimestamp":"0:46:11",
-    "Major":4157,
-    "MajorTimestamp":"1:09:17",
+    "Minor":2527,
+    "MinorTimestamp":"0:42:07",
+    "Major":3790,
+    "MajorTimestamp":"1:03:10",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_795",
     "Organizations":"Eggnog"
@@ -1916,10 +1916,10 @@
   {
     "Region":"Interstate 410",
     "Issues":"WFE, RO",
-    "Minor":2776,
-    "MinorTimestamp":"0:46:16",
-    "Major":4163,
-    "MajorTimestamp":"1:09:23",
+    "Minor":2531,
+    "MinorTimestamp":"0:42:11",
+    "Major":3797,
+    "MajorTimestamp":"1:03:17",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_410",
     "Organizations":"Eggnog"
@@ -1927,10 +1927,10 @@
   {
     "Region":"Interstate 20",
     "Issues":"WFE, RO",
-    "Minor":2779,
-    "MinorTimestamp":"0:46:19",
-    "Major":4168,
-    "MajorTimestamp":"1:09:28",
+    "Minor":2534,
+    "MinorTimestamp":"0:42:14",
+    "Major":3801,
+    "MajorTimestamp":"1:03:21",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_20",
     "Organizations":"Eggnog"
@@ -1938,10 +1938,10 @@
   {
     "Region":"Interstate 781",
     "Issues":"WFE, RO",
-    "Minor":2780,
-    "MinorTimestamp":"0:46:20",
-    "Major":4169,
-    "MajorTimestamp":"1:09:29",
+    "Minor":2534,
+    "MinorTimestamp":"0:42:14",
+    "Major":3801,
+    "MajorTimestamp":"1:03:21",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_781",
     "Organizations":"Eggnog"
@@ -1949,10 +1949,10 @@
   {
     "Region":"Interstate 590",
     "Issues":"WFE, RO",
-    "Minor":2941,
-    "MinorTimestamp":"0:49:01",
-    "Major":4411,
-    "MajorTimestamp":"1:13:31",
+    "Minor":2699,
+    "MinorTimestamp":"0:44:59",
+    "Major":4048,
+    "MajorTimestamp":"1:07:28",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_590",
     "Organizations":"Eggnog"
@@ -1960,10 +1960,10 @@
   {
     "Region":"Interstate 780",
     "Issues":"WFE, RO",
-    "Minor":2947,
-    "MinorTimestamp":"0:49:07",
-    "Major":4421,
-    "MajorTimestamp":"1:13:41",
+    "Minor":2704,
+    "MinorTimestamp":"0:45:04",
+    "Major":4056,
+    "MajorTimestamp":"1:07:36",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_780",
     "Organizations":"Eggnog"
@@ -1971,10 +1971,10 @@
   {
     "Region":"Interstate 565",
     "Issues":"WFE, RO",
-    "Minor":2956,
-    "MinorTimestamp":"0:49:16",
-    "Major":4434,
-    "MajorTimestamp":"1:13:54",
+    "Minor":2713,
+    "MinorTimestamp":"0:45:13",
+    "Major":4070,
+    "MajorTimestamp":"1:07:50",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_565",
     "Organizations":"Eggnog"
@@ -1982,10 +1982,10 @@
   {
     "Region":"Interstate 393",
     "Issues":"WFE, RO",
-    "Minor":2962,
-    "MinorTimestamp":"0:49:22",
-    "Major":4442,
-    "MajorTimestamp":"1:14:02",
+    "Minor":2721,
+    "MinorTimestamp":"0:45:21",
+    "Major":4082,
+    "MajorTimestamp":"1:08:02",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_393",
     "Organizations":"Eggnog"
@@ -1993,10 +1993,10 @@
   {
     "Region":"Interstate 540",
     "Issues":"WFE, RO",
-    "Minor":2962,
-    "MinorTimestamp":"0:49:22",
-    "Major":4442,
-    "MajorTimestamp":"1:14:02",
+    "Minor":2722,
+    "MinorTimestamp":"0:45:22",
+    "Major":4083,
+    "MajorTimestamp":"1:08:03",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_540",
     "Organizations":"Eggnog"
@@ -2004,10 +2004,10 @@
   {
     "Region":"Interstate 176",
     "Issues":"WFE, RO",
-    "Minor":2966,
-    "MinorTimestamp":"0:49:26",
-    "Major":4449,
-    "MajorTimestamp":"1:14:09",
+    "Minor":2731,
+    "MinorTimestamp":"0:45:31",
+    "Major":4096,
+    "MajorTimestamp":"1:08:16",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_176",
     "Organizations":"Eggnog"
@@ -2015,10 +2015,10 @@
   {
     "Region":"Interstate 182",
     "Issues":"WFE, RO",
-    "Minor":2993,
-    "MinorTimestamp":"0:49:53",
-    "Major":4490,
-    "MajorTimestamp":"1:14:50",
+    "Minor":2760,
+    "MinorTimestamp":"0:46:00",
+    "Major":4139,
+    "MajorTimestamp":"1:08:59",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_182",
     "Organizations":"Eggnog"
@@ -2026,10 +2026,10 @@
   {
     "Region":"Interstate 585",
     "Issues":"RO",
-    "Minor":3032,
-    "MinorTimestamp":"0:50:32",
-    "Major":4548,
-    "MajorTimestamp":"1:15:48",
+    "Minor":2968,
+    "MinorTimestamp":"0:49:28",
+    "Major":4452,
+    "MajorTimestamp":"1:14:12",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_585",
     "Organizations":"Eggnog"
@@ -2037,10 +2037,10 @@
   {
     "Region":"Interstate 196",
     "Issues":"WFE, RO",
-    "Minor":3051,
-    "MinorTimestamp":"0:50:51",
-    "Major":4577,
-    "MajorTimestamp":"1:16:17",
+    "Minor":3004,
+    "MinorTimestamp":"0:50:04",
+    "Major":4506,
+    "MajorTimestamp":"1:15:06",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_196",
     "Organizations":"Eggnog"
@@ -2048,10 +2048,10 @@
   {
     "Region":"Interstate 35",
     "Issues":"WFE, RO",
-    "Minor":3112,
-    "MinorTimestamp":"0:51:52",
-    "Major":4668,
-    "MajorTimestamp":"1:17:48",
+    "Minor":3059,
+    "MinorTimestamp":"0:50:59",
+    "Major":4589,
+    "MajorTimestamp":"1:16:29",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_35",
     "Organizations":"Eggnog"
@@ -2059,10 +2059,10 @@
   {
     "Region":"Interstate 86",
     "Issues":"WFE, RO",
-    "Minor":3135,
-    "MinorTimestamp":"0:52:15",
-    "Major":4702,
-    "MajorTimestamp":"1:18:22",
+    "Minor":3088,
+    "MinorTimestamp":"0:51:28",
+    "Major":4632,
+    "MajorTimestamp":"1:17:12",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_86",
     "Organizations":"Eggnog"
@@ -2070,10 +2070,10 @@
   {
     "Region":"Interstate 271",
     "Issues":"WFE, RO",
-    "Minor":3136,
-    "MinorTimestamp":"0:52:16",
-    "Major":4703,
-    "MajorTimestamp":"1:18:23",
+    "Minor":3088,
+    "MinorTimestamp":"0:51:28",
+    "Major":4632,
+    "MajorTimestamp":"1:17:12",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_271",
     "Organizations":"Eggnog"
@@ -2081,10 +2081,10 @@
   {
     "Region":"Interstate 72",
     "Issues":"WFE, RO",
-    "Minor":3146,
-    "MinorTimestamp":"0:52:26",
-    "Major":4719,
-    "MajorTimestamp":"1:18:39",
+    "Minor":3100,
+    "MinorTimestamp":"0:51:40",
+    "Major":4650,
+    "MajorTimestamp":"1:17:30",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_72",
     "Organizations":"Eggnog"
@@ -2092,10 +2092,10 @@
   {
     "Region":"Interstate 285",
     "Issues":"WFE, RO",
-    "Minor":3148,
-    "MinorTimestamp":"0:52:28",
-    "Major":4721,
-    "MajorTimestamp":"1:18:41",
+    "Minor":3101,
+    "MinorTimestamp":"0:51:41",
+    "Major":4651,
+    "MajorTimestamp":"1:17:31",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_285",
     "Organizations":"Eggnog"
@@ -2103,10 +2103,10 @@
   {
     "Region":"Interstate 57",
     "Issues":"WFE, RO",
-    "Minor":3152,
-    "MinorTimestamp":"0:52:32",
-    "Major":4728,
-    "MajorTimestamp":"1:18:48",
+    "Minor":3110,
+    "MinorTimestamp":"0:51:50",
+    "Major":4665,
+    "MajorTimestamp":"1:17:45",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_57",
     "Organizations":"Eggnog"
@@ -2114,10 +2114,10 @@
   {
     "Region":"Interstate 291",
     "Issues":"WFE, RO",
-    "Minor":3268,
-    "MinorTimestamp":"0:54:28",
-    "Major":4902,
-    "MajorTimestamp":"1:21:42",
+    "Minor":3265,
+    "MinorTimestamp":"0:54:25",
+    "Major":4897,
+    "MajorTimestamp":"1:21:37",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_291",
     "Organizations":"Eggnog"
@@ -2125,10 +2125,10 @@
   {
     "Region":"Interstate 66",
     "Issues":"WFE, RO",
-    "Minor":3270,
-    "MinorTimestamp":"0:54:30",
-    "Major":4904,
-    "MajorTimestamp":"1:21:44",
+    "Minor":3271,
+    "MinorTimestamp":"0:54:31",
+    "Major":4906,
+    "MajorTimestamp":"1:21:46",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_66",
     "Organizations":"Eggnog"
@@ -2136,10 +2136,10 @@
   {
     "Region":"Interstate 676",
     "Issues":"WFE, RO",
-    "Minor":3392,
-    "MinorTimestamp":"0:56:32",
-    "Major":5089,
-    "MajorTimestamp":"1:24:49",
+    "Minor":3398,
+    "MinorTimestamp":"0:56:38",
+    "Major":5097,
+    "MajorTimestamp":"1:24:57",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_676",
     "Organizations":"Eggnog"
@@ -2147,10 +2147,10 @@
   {
     "Region":"Interstate 240",
     "Issues":"WFE, RO",
-    "Minor":3406,
-    "MinorTimestamp":"0:56:46",
-    "Major":5109,
-    "MajorTimestamp":"1:25:09",
+    "Minor":3410,
+    "MinorTimestamp":"0:56:50",
+    "Major":5114,
+    "MajorTimestamp":"1:25:14",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=interstate_240",
     "Organizations":"Eggnog"
