@@ -102,6 +102,7 @@ offices_criteria = {
     "not atlae": None,
     "chimera": None,
     "npa": "NPA",
+    "brony": None,
 }
 
 ro_criteria = [

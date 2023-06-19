@@ -286,6 +286,17 @@
     "Organizations":"Lily, Osiris"
   },
   {
+    "Region":"Datanet",
+    "Issues":"RO",
+    "Minor":2913,
+    "MinorTimestamp":"0:48:33",
+    "Major":4369,
+    "MajorTimestamp":"1:12:49",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=datanet",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Eastern American Union",
     "Issues":"WFE",
     "Minor":3014,
