@@ -220,6 +220,17 @@
     "Organizations":"Unknown"
   },
   {
+    "Region":"EuropeLiberals",
+    "Issues":"WFE",
+    "Minor":714,
+    "MinorTimestamp":"0:11:54",
+    "Major":1071,
+    "MajorTimestamp":"0:17:51",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=europeliberals",
+    "Organizations":"Unknown"
+  },
+  {
     "Region":"Honeymoon Farm",
     "Issues":"RO",
     "Minor":717,
@@ -558,6 +569,17 @@
     "MajorTimestamp":"1:16:53",
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=notas_region",
+    "Organizations":"Unknown"
+  },
+  {
+    "Region":"LGBTQIA Unity",
+    "Issues":"WFE",
+    "Minor":3243,
+    "MinorTimestamp":"0:54:03",
+    "Major":4864,
+    "MajorTimestamp":"1:21:04",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=lgbtqia_unity",
     "Organizations":"Unknown"
   }
 ]
