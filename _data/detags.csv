@@ -3,7 +3,7 @@ JetPunk,"WFE, RO, Embassies",4,0:00:04,6,0:00:06,False,https://www.nationstates.
 The Coalition of Bruhs,"WFE, RO",9,0:00:09,13,0:00:13,False,https://www.nationstates.net/region=the_coalition_of_bruhs,TBH
 Falafel,"WFE, Embassies",44,0:00:44,66,0:01:06,False,https://www.nationstates.net/region=falafel,"BoM, TBH"
 The Central European Regional Assembly,"WFE, RO, Embassies",88,0:01:28,132,0:02:12,False,https://www.nationstates.net/region=the_central_european_regional_assembly,"BoM, Osiris"
-Hakodate,Embassies,90,0:01:30,135,0:02:15,False,https://www.nationstates.net/region=hakodate,Osiris
+Hakodate,Embassies,90,0:01:30,135,0:02:15,False,https://www.nationstates.net/region=hakodate,"Osiris, TCB"
 The Centrifugal Alliance of Nations,"WFE, RO, Embassies",121,0:02:01,182,0:03:02,False,https://www.nationstates.net/region=the_centrifugal_alliance_of_nations,"BoM, Osiris"
 Cheeztopia,Embassies,130,0:02:10,194,0:03:14,False,https://www.nationstates.net/region=cheeztopia,Sparkalia
 Imperial Confederation,"WFE, RO, Embassies",193,0:03:13,289,0:04:49,False,https://www.nationstates.net/region=imperial_confederation,"BoM, Osiris"
@@ -22,8 +22,8 @@ Principes Mundi,"WFE, RO",564,0:09:24,846,0:14:06,False,https://www.nationstates
 Egglond,"WFE, RO, Embassies",610,0:10:10,915,0:15:15,True,https://www.nationstates.net/region=egglond,"BoM, Osiris"
 The Moscovian Bloc,"WFE, RO, Embassies",625,0:10:25,938,0:15:38,False,https://www.nationstates.net/region=the_moscovian_bloc,"BoM, Osiris"
 The Great States of Fascist Nudists,"WFE, RO, Embassies",640,0:10:40,960,0:16:00,False,https://www.nationstates.net/region=the_great_states_of_fascist_nudists,"BoM, Lily, Osiris, Sparkalia, TBH"
-Underground,"WFE, RO, Embassies",665,0:11:05,998,0:16:38,False,https://www.nationstates.net/region=underground,"Osiris, TBH"
-One Collective Brain Cell,Embassies,673,0:11:13,1010,0:16:50,False,https://www.nationstates.net/region=one_collective_brain_cell,Sparkalia
+Underground,"WFE, RO, Embassies",665,0:11:05,998,0:16:38,False,https://www.nationstates.net/region=underground,"Osiris, TBH, TCB"
+One Collective Brain Cell,Embassies,673,0:11:13,1010,0:16:50,False,https://www.nationstates.net/region=one_collective_brain_cell,"Sparkalia, TCB"
 Your Local Pizzeria,"WFE, RO, Embassies",686,0:11:26,1029,0:17:09,False,https://www.nationstates.net/region=your_local_pizzeria,"BoM, Osiris"
 NAAO,"WFE, Embassies",687,0:11:27,1030,0:17:10,True,https://www.nationstates.net/region=naao,Unknown
 The Isles of Callamatsia,"WFE, RO",687,0:11:27,1030,0:17:10,False,https://www.nationstates.net/region=the_isles_of_callamatsia,TBH

@@ -172,6 +172,7 @@ embassies_criteria = {
     "Agheasma": "Sparkalia",
     "The Northern Reach": "BFL",
     "JUNTA": "Junta",
+    "Leningrad Airfield": "TCB",
 }
 
 
