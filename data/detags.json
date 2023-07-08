@@ -11,6 +11,17 @@
     "Organizations":"TBH"
   },
   {
+    "Region":"Fathers Imperium",
+    "Issues":"RO",
+    "Minor":13,
+    "MinorTimestamp":"0:00:13",
+    "Major":19,
+    "MajorTimestamp":"0:00:19",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=fathers_imperium",
+    "Organizations":"TCB"
+  },
+  {
     "Region":"Salo obronil",
     "Issues":"WFE",
     "Minor":14,
@@ -361,6 +372,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=united_fascist_territory_of_waschuster",
     "Organizations":"BoM"
+  },
+  {
+    "Region":"Unified Capitalist Alliance",
+    "Issues":"WFE",
+    "Minor":337,
+    "MinorTimestamp":"0:05:37",
+    "Major":506,
+    "MajorTimestamp":"0:08:26",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=unified_capitalist_alliance",
+    "Organizations":"Osiris"
   },
   {
     "Region":"Archination",
@@ -814,6 +836,17 @@
     "Organizations":"BoM, Osiris"
   },
   {
+    "Region":"Abandoned accounts",
+    "Issues":"WFE, RO",
+    "Minor":845,
+    "MinorTimestamp":"0:14:05",
+    "Major":1268,
+    "MajorTimestamp":"0:21:08",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=abandoned_accounts",
+    "Organizations":"TCB"
+  },
+  {
     "Region":"Flamingo",
     "Issues":"WFE, RO, Embassies",
     "Minor":846,
@@ -891,6 +924,17 @@
     "Organizations":"Unknown"
   },
   {
+    "Region":"Ooftopia",
+    "Issues":"RO",
+    "Minor":883,
+    "MinorTimestamp":"0:14:43",
+    "Major":1325,
+    "MajorTimestamp":"0:22:05",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=ooftopia",
+    "Organizations":"TCB"
+  },
+  {
     "Region":"Pongulan",
     "Issues":"RO",
     "Minor":958,
@@ -955,6 +999,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=ndi",
     "Organizations":"Sparkalia, TBH, TCB"
+  },
+  {
+    "Region":"Alesya",
+    "Issues":"WFE, RO",
+    "Minor":1140,
+    "MinorTimestamp":"0:19:00",
+    "Major":1709,
+    "MajorTimestamp":"0:28:29",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=alesya",
+    "Organizations":"TCB"
   },
   {
     "Region":"The New Jinxlandian Commonwealth",
@@ -1141,7 +1196,7 @@
     "MajorTimestamp":"0:32:47",
     "NativeEmbassies":true,
     "Link":"https:\/\/www.nationstates.net\/region=mar_s",
-    "Organizations":"Sparkalia"
+    "Organizations":"Sparkalia, WZT"
   },
   {
     "Region":"The Dausu Region",
@@ -1197,6 +1252,17 @@
     "NativeEmbassies":false,
     "Link":"https:\/\/www.nationstates.net\/region=free_land",
     "Organizations":"BoM, Ijaka, Sparkalia, TBH"
+  },
+  {
+    "Region":"The Patinto Clan",
+    "Issues":"RO",
+    "Minor":1328,
+    "MinorTimestamp":"0:22:08",
+    "Major":1992,
+    "MajorTimestamp":"0:33:12",
+    "NativeEmbassies":false,
+    "Link":"https:\/\/www.nationstates.net\/region=the_patinto_clan",
+    "Organizations":"TCB"
   },
   {
     "Region":"Kyorgia puppet storage",

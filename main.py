@@ -77,6 +77,8 @@ wfe_criteria = {
     "discord.gg/z7qWg9Snzb".lower(): "Junta",
     "discord.gg/8qWbXFUMAr".lower(): "Ijaka",
     "osiris.valthost.com": None,
+    "discord.gg/k9fTy9wm".lower(): "Osiris",
+    "(trigger)": None,
 }
 
 roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
@@ -105,6 +107,7 @@ offices_criteria = {
     "chimera": None,
     "npa": "NPA",
     "brony": None,
+    "praf": "TCB",
 }
 
 ro_criteria = [
@@ -173,6 +176,7 @@ embassies_criteria = {
     "The Northern Reach": "BFL",
     "JUNTA": "Junta",
     "Leningrad Airfield": "TCB",
+    "Warzone Trinidad Corporate Office": "WZT",
 }
 
 
