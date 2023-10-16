@@ -159,6 +159,7 @@ ro_criteria = [
     f"ruby_{roman_numeral_regex}",
     "aurum_riders_\d+(rd|th|nd|st)_treasury",
     "a_crazy_person_\d+",
+    "bcc_\d+",
 ]
 
 embassies_criteria = {
@@ -177,6 +178,7 @@ embassies_criteria = {
     "JUNTA": "Junta",
     "Leningrad Airfield": "TCB",
     "Warzone Trinidad Corporate Office": "WZT",
+    "Astra": "Astoria",
 }
 
 
