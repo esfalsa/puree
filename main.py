@@ -49,7 +49,8 @@ wfe_criteria = {
     "[region]kantrias[/region]": "Kantrias",
     "[region]sparkalia[/region]": "Sparkalia",
     "[region]junta[/region]": "Junta",
-    "[region]the brothers of auralia[/region]": None,
+    "[region]the eternal order[/region]": "TEO",
+    "[region]the brothers of auralia[/region]": "TEO",
     "region=the_brotherhood_of_malice": "BoM",
     "region=the_black_hawks": "TBH",
     "region=valle_de_arena": "Osiris",
@@ -58,7 +59,8 @@ wfe_criteria = {
     "region=kantrias": "Kantrias",
     "region=sparkalia": "Sparkalia",
     "region=junta": "Junta",
-    "region=the_brothers_of_auralia": None,
+    "region=the_eternal_order": "TEO",
+    "region=the_brothers_of_auralia": "TEO",
     "lilystates.proboards.com": "Lily",
     "region=lone_wolves_united": "LWU",
     "www.forum.the-black-hawks.org": "TBH",
@@ -72,13 +74,22 @@ wfe_criteria = {
     "list=PLErS5N1ZzdNvmV-TD8VqhvfCeHcfPwq5U".lower(): "Kaiserreich",
     # Kaiserreich playlist (https://www.youtube.com/playlist?list=PLErS5N1ZzdNvmV-TD8VqhvfCeHcfPwq5U)
     "forum.thenorthpacific.org/topic/9145375": "NPA",
-    "nationstates.net/region=the_auralian_knights": None,
+    "nationstates.net/region=the_auralian_knights": "TEO",
     "nationstates.net/page=dispatch/id=1881670": "Junta",
     "discord.gg/z7qWg9Snzb".lower(): "Junta",
     "discord.gg/8qWbXFUMAr".lower(): "Ijaka",
     "osiris.valthost.com": None,
     "discord.gg/k9fTy9wm".lower(): "Osiris",
     "(trigger)": None,
+
+    # TEO tagging practices are often inconsistent and reliable signatures are hard to come by, but 
+    # they have to put their name on it somewhere. These are common phrases in TEO tags that are unlikely
+    # to occur elsewhere - but I've put them at the end so they can easily be commented out if
+    # too many false positives occur.
+    "by the eternal order": "TEO", 
+    "by the brothers of auralia": "TEO", 
+    "long live the eternal order": "TEO",
+    "long live king nephmir": "TEO",
 }
 
 roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
@@ -108,6 +119,7 @@ offices_criteria = {
     "npa": "NPA",
     "brony": None,
     "praf": "TCB",
+    "the eo": "TEO",
 }
 
 ro_criteria = [
