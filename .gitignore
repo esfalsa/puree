@@ -3,6 +3,20 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 
+regions.xml.gz
+regions.xml
+passworded.xml
+
+_data/detags.csv
+_data/practice_detags.csv
+
+data/detags.*
+data/practice_detags.*
+
+_includes/lastdump.html
+_includes/lastupdate.html
+_includes/count.html
+
 node_modules/*
 !node_modules/bootstrap/
 !node_modules/jszip/
