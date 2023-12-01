@@ -82,14 +82,15 @@ wfe_criteria = {
     "discord.gg/k9fTy9wm".lower(): "Osiris",
     "(trigger)": None,
 
-    # TEO tagging practices are often inconsistent and reliable signatures are hard to come by, but 
+    # TEO tagging practices are often inconsistent and reliable signatures are hard to come by, but
     # they have to put their name on it somewhere. These are common phrases in TEO tags that are unlikely
     # to occur elsewhere - but I've put them at the end so they can easily be commented out if
     # too many false positives occur.
-    "by the eternal order": "TEO", 
-    "by the brothers of auralia": "TEO", 
+    "by the eternal order": "TEO",
+    "by the brothers of auralia": "TEO",
     "long live the eternal order": "TEO",
     "long live king nephmir": "TEO",
+    "www.nationstates.net/page=dispatch/id=1957508": None,
 }
 
 roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
@@ -120,6 +121,7 @@ offices_criteria = {
     "brony": None,
     "praf": "TCB",
     "the eo": "TEO",
+    "the silver dragon": None,
 }
 
 ro_criteria = [
@@ -172,6 +174,7 @@ ro_criteria = [
     "aurum_riders_\d+(rd|th|nd|st)_treasury",
     "a_crazy_person_\d+",
     "bcc_\d+",
+    "chimoreian_imperial_legion_{roman_numeral_regex}",
 ]
 
 embassies_criteria = {
@@ -191,6 +194,7 @@ embassies_criteria = {
     "Leningrad Airfield": "TCB",
     "Warzone Trinidad Corporate Office": "WZT",
     "Astra": "Astoria",
+    "Lair of the Dragon": None,
 }
 
 
