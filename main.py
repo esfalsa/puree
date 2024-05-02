@@ -51,7 +51,7 @@ wfe_criteria = {
     "[region]junta[/region]": "Junta",
     "[region]the eternal order[/region]": "TEO",
     "[region]the brothers of auralia[/region]": "TEO",
-    "[region]Lair of the Dragon[/region]": "LotD",
+    "[region]lair of the dragon[/region]": "LotD",
     "region=the_brotherhood_of_malice": "BoM",
     "region=the_black_hawks": "TBH",
     "region=valle_de_arena": "Osiris",
