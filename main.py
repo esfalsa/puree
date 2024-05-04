@@ -51,6 +51,7 @@ wfe_criteria = {
     "[region]junta[/region]": "Junta",
     "[region]the eternal order[/region]": "TEO",
     "[region]the brothers of auralia[/region]": "TEO",
+    "[region]lair of the dragon[/region]": "LotD",
     "region=the_brotherhood_of_malice": "BoM",
     "region=the_black_hawks": "TBH",
     "region=valle_de_arena": "Osiris",
@@ -63,6 +64,8 @@ wfe_criteria = {
     "region=the_brothers_of_auralia": "TEO",
     "lilystates.proboards.com": "Lily",
     "region=lone_wolves_united": "LWU",
+    "region=warzone_trinidad": "WZT",
+    "region=lair_of_the_dragon": "LotD",
     "www.forum.the-black-hawks.org": "TBH",
     "forums.europeians.com/index.php?forums/office-of-naval-recruitment.59364": "ERN",
     "www.nationstates.net/page=dispatch/id=1344417": "TWP",
@@ -112,7 +115,7 @@ offices_criteria = {
     "epsa": "EPSA",
     "hellfire hawk": None,
     "kantrian overseer": "Kantrias",
-    "thaempirial army": None,
+    "thaempirial army": "THA",
     "moxxie cultist": None,
     "blanket stealer": "BFL",
     "not atlae": None,
@@ -121,7 +124,7 @@ offices_criteria = {
     "brony": None,
     "praf": "TCB",
     "the eo": "TEO",
-    "the silver dragon": None,
+    "the silver dragon": "LotD",
 }
 
 ro_criteria = [
@@ -186,7 +189,7 @@ embassies_criteria = {
     "Kingdom of Australia": "EoGB",
     "Pasridi Confederacy": "EPSA",
     "Ijaka": "Ijaka",
-    "Islarabia": None,
+    "Islarabia": "THA",
     "The Militia": None,
     "Agheasma": "Sparkalia",
     "The Northern Reach": "BFL",
@@ -194,7 +197,7 @@ embassies_criteria = {
     "Leningrad Airfield": "TCB",
     "Warzone Trinidad Corporate Office": "WZT",
     "Astra": "Astoria",
-    "Lair of the Dragon": None,
+    "Lair of the Dragon": "LotD,
 }
 
 
