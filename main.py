@@ -197,7 +197,7 @@ embassies_criteria = {
     "Leningrad Airfield": "TCB",
     "Warzone Trinidad Corporate Office": "WZT",
     "Astra": "Astoria",
-    "Lair of the Dragon": "LotD,
+    "Lair of the Dragon": "LotD",
 }
 
 
