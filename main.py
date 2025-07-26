@@ -94,6 +94,15 @@ wfe_criteria = {
     "long live the eternal order": "TEO",
     "long live king nephmir": "TEO",
     "www.nationstates.net/page=dispatch/id=1957508": None,
+
+    "https://discord.gg/W24yF2aCKs": "Trans Republican Army",
+    "[region]Trans Republican Army[/region]": "Trans Republican Army",
+    "https://www.nationstates.net/region=trans_republican_army": "Trans Republican Army",
+    "Hana Macchia": "Hana Macchia",
+    "Megacity": "Hana Macchia",
+    "Megacity of Fujishima": "Hana Macchia",
+    "Mégapole de Fujishima": "Hana Macchia",
+    "[region]Purple Pony Club[/region]": "PPC",
 }
 
 roman_numeral_regex = "m{0,4}(cm|cd|d?c{0,3})(xc|xl|l?x{0,3})(ix|iv|v?i{0,3})"
@@ -125,6 +134,11 @@ offices_criteria = {
     "praf": "TCB",
     "the eo": "TEO",
     "the silver dragon": "LotD",
+
+    "TRA": "Trans Republican Army",
+    "GLASS": "Hana Macchia",
+    "CRYSTAL": "Hana Macchia",
+    "Love Live!": "Hana Macchia",
 }
 
 ro_criteria = [
@@ -198,6 +212,9 @@ embassies_criteria = {
     "Warzone Trinidad Corporate Office": "WZT",
     "Astra": "Astoria",
     "Lair of the Dragon": "LotD",
+    "Trans Republican Army": "Trans Republican Army",
+    "Hana Macchia": "Hana Macchia",
+    "Purple Pony Club": "PPC",
 }
 
 
