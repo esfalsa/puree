@@ -1,4 +1,5 @@
-from datetime import timedelta, datetime
+from datetime import timedelta
+import datetime
 import xml.etree.ElementTree as ElementTree
 import pandas as pd
 import re
@@ -12,7 +13,7 @@ console = Console(theme=Theme({"logging.level.success": "bright_green"}))
 
 def log(message, level="info"):
     console.print(
-        f"[log.time][{datetime.now().strftime('%H:%M:%S')}][/log.time] [logging.level.{level}]{level}[/logging.level.{level}] \t{message}"
+        f"[log.time][{datetime.datetime.now().strftime('%H:%M:%S')}][/log.time] [logging.level.{level}]{level}[/logging.level.{level}] \t{message}"
     )
 
 
@@ -423,7 +424,7 @@ for region in track(region_nodes, description="Flagging regions…"):
             practice_regions.append(region_data)
 
 
-today = (datetime.utcfromtimestamp(update_start) - timedelta(1)).strftime("%d %B %Y")
+today = (datetime.datetime.fromtimestamp(update_start, datetime.UTC) - timedelta(1)).strftime("%d %B %Y")
 
 detags = pd.DataFrame.from_records(regions, index="Region")
 detags.to_csv("_data/detags.csv")
