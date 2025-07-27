@@ -215,7 +215,7 @@ embassies_criteria = {
     "Lair of the Dragon": "LotD",
     "Trans Republican Army": "Trans Republican Army",
     "Hana Macchia": "Hana Macchia",
-    "Purple Pony Club": "PPC",
+    "Swaps": "PPC",
 }
 
 
